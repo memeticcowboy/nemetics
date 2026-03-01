@@ -7,6 +7,7 @@ status: canonical
 elemental_mapping:
   earth: 0.80
   water: 0.70
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A03B_barnum_effect
 ---
 
 # Barnum Effect
@@ -20,3 +21,5 @@ elemental_mapping:
 **Diagnostic:** Does the 'insight' apply to everyone? Would you reject it if attributed to someone else?
 
 **Related:** WYSIATI, AI Personalization, Cognitive Babel
+
+**SIML Entry:** [A03B Barnum Effect](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A03B_barnum_effect) — Full elemental analysis, nemetic string, daemon correspondence
