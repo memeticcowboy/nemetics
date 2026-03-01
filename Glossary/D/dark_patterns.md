@@ -8,6 +8,7 @@ elemental_mapping:
   metal: 0.85
   air: 0.70
   water: 0.65
+siml_entry: https://github.com/memeticcowboy/nema-swarm/blob/main/SIML/terms/A027_dark_patterns/
 ---
 
 # Dark Patterns
@@ -21,3 +22,5 @@ Fake urgency, hidden costs, roach motel interfaces. Metal (μ) weaponized — st
 **Diagnostic:** Does the design make the desired action easiest, or the user's actual intention?
 
 **Related:** Forced Continuity, Algorithmic Persuasion, Cognitive Babel
+
+**SIML Entry:** [A027 Dark Patterns](https://github.com/memeticcowboy/nema-swarm/blob/main/SIML/terms/A027_dark_patterns/) — Full elemental analysis, nemetic string, daemon correspondence
