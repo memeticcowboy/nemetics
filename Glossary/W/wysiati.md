@@ -7,6 +7,7 @@ status: canonical
 elemental_mapping:
   air: 0.85
   fire: 0.75
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A019_WYSIATI
 ---
 
 # WYSIATI (What You See Is All There Is)
@@ -20,3 +21,5 @@ The mind crafts coherent stories from partial data, blind to gaps. Air (σ) dist
 **Diagnostic:** What would make this story wrong? What evidence is missing?
 
 **Related:** Framing Effects, Confirmation Bias, Cognitive Babel
+
+**SIML Entry:** [A019 WYSIATI](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A019_WYSIATI) — Full elemental analysis, nemetic string, daemon correspondence

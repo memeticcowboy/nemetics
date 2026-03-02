@@ -8,6 +8,7 @@ elemental_mapping:
   earth: 0.40
   fire: 0.30
   metal: 0.20
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A02D_AI_Psychosis
 ---
 
 # AI Psychosis
@@ -21,3 +22,5 @@ Reality testing degrades as AI sycophancy replaces social friction. Earth (δγ)
 **Diagnostic:** Can the user distinguish AI-generated from real memories? Is there external validation?
 
 **Related:** AI Cognitive Offloading, Source Monitoring Error, False Memory
+
+**SIML Entry:** [A02D AI Psychosis](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A02D_AI_Psychosis) — Full elemental analysis, nemetic string, daemon correspondence
