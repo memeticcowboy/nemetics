@@ -8,6 +8,7 @@ elemental_mapping:
   earth: 0.75
   metal: 0.70
   fire: 0.40
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A053_Status_Quo_Bias
 ---
 
 # Status Quo Bias
@@ -21,3 +22,5 @@ Change feels like loss; familiar feels safe even when suboptimal. Earth (δγ) c
 **Diagnostic:** Would you choose the current state if it weren't already the default? What is the cost of not changing?
 
 **Related:** Loss Aversion, Endowment Effect, Regenerative Farming Barriers
+
+**SIML Entry:** [A053 Status Quo Bias](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A053_Status_Quo_Bias) — Full elemental analysis, nemetic string, daemon correspondence

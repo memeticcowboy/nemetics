@@ -8,6 +8,7 @@ elemental_mapping:
   water: 0.80
   metal: 0.75
   air: 0.70
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A055_Spiral_of_Silence
 ---
 
 # Spiral of Silence
@@ -21,3 +22,5 @@ Perceived majority opinion → fear → silence → apparent consensus strengthe
 **Diagnostic:** Who is not speaking? What views are absent but plausible? Where is the dissent?
 
 **Related:** Norm Persistence, Social Identity Bias, Gamified Democracy
+
+**SIML Entry:** [A055 Spiral of Silence](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A055_Spiral_of_Silence) — Full elemental analysis, nemetic string, daemon correspondence

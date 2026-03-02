@@ -7,6 +7,7 @@ status: canonical
 elemental_mapping:
   air: 0.80
   water: 0.65
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A026_Framing_Effects
 ---
 
 # Framing Effects
@@ -20,3 +21,5 @@ elemental_mapping:
 **Diagnostic:** Would the decision change if the frame were reversed? What frame is not being shown?
 
 **Related:** WYSIATI, Anchoring, Loss Aversion
+
+**SIML Entry:** [A026 Framing Effects](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A026_Framing_Effects) — Full elemental analysis, nemetic string, daemon correspondence
