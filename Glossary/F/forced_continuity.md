@@ -7,6 +7,7 @@ status: canonical
 elemental_mapping:
   metal: 0.90
   water: 0.50
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A04A_Forced_Continuity
 ---
 
 # Forced Continuity
@@ -20,3 +21,5 @@ Dark pattern sub-type. Metal (μ) boundary weaponized — structural enforcement
 **Diagnostic:** Is exit as easy as entry? Are cancellation steps proportional to signup steps?
 
 **Related:** Dark Patterns, Status Quo Bias, Algorithmic Persuasion
+
+**SIML Entry:** [A04A Forced Continuity](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A04A_Forced_Continuity) — Full elemental analysis, nemetic string, daemon correspondence

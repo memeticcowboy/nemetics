@@ -8,6 +8,7 @@ elemental_mapping:
   fire: 0.45
   earth: 0.40
   air: 0.35
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A060_Attention_Fragmentation
 ---
 
 # Attention Fragmentation
@@ -21,3 +22,5 @@ Depth suffers from perpetual partial attention. Fire (λ) direction diffused; Ea
 **Diagnostic:** Can you sustain focus for 30 minutes without checking? How often do you context-switch? What depth have you lost?
 
 **Related:** AI Cognitive Offloading, Fragmented Media Consumption, Deep Work
+
+**SIML Entry:** [A060 Attention Fragmentation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A060_Attention_Fragmentation) — Full elemental analysis, nemetic string, daemon correspondence
