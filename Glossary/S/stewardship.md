@@ -6,6 +6,7 @@ status: canonical
 elemental_mapping:
   water: 0.75
   earth: 0.70
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M008_Stewardship
 ---
 
 # Stewardship
@@ -19,3 +20,5 @@ Not use/preservation binary. Ongoing relation, not one-time transaction. Require
 **Diagnostic:** Is the steward serving the emergence or extracting from it?
 
 **Related:** Authenticity, Metabolism, Permeability
+
+**SIML Entry:** [M008 Stewardship](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M008_Stewardship) — Full elemental analysis, nemetic string, daemon correspondence
