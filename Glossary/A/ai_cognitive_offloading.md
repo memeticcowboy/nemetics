@@ -8,6 +8,7 @@ elemental_mapping:
   earth: 0.40
   air: 0.35
   metal: 0.30
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A038_AI_Cognitive_Offloading
 ---
 
 # AI Cognitive Offloading
@@ -21,3 +22,5 @@ Weakening of Air (σ) distinction-making, Earth (δγ) memory integration. Metal
 **Diagnostic:** Can you perform the task without AI? Has your baseline capability degraded? What have you stopped practicing?
 
 **Related:** AI Psychosis, Source Monitoring Error, Attention Fragmentation
+
+**SIML Entry:** [A038 AI_Cognitive_Offloading](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A038_AI_Cognitive_Offloading) — Full elemental analysis, nemetic string, daemon correspondence
