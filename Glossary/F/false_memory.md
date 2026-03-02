@@ -8,6 +8,7 @@ elemental_mapping:
   earth: 0.70
   water: 0.65
   air: 0.50
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A05A_FalseMemory
 ---
 
 # False Memory
@@ -21,3 +22,5 @@ Not just errors — constructed experiences. Earth (δγ) integration processes 
 **Diagnostic:** Can the memory be corroborated? Does it align with timeline? Is there external evidence?
 
 **Related:** Source Monitoring Error, Absorption, AI Hallucination
+
+**SIML Entry:** [A05A FalseMemory](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A05A_FalseMemory) — Full elemental analysis, nemetic string, daemon correspondence

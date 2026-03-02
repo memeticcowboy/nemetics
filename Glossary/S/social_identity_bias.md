@@ -8,6 +8,7 @@ elemental_mapping:
   water: 0.85
   metal: 0.70
   fire: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A01C_social_identity_bias
 ---
 
 # Social Identity Bias
@@ -21,3 +22,5 @@ LLMs show 93% positive bias for "We are" vs 115% negative for "They are." Water 
 **Diagnostic:** Would the same statement be evaluated differently from ingroup vs outgroup source?
 
 **Related:** Spiral of Silence, Norm Persistence, Gamified Democracy
+
+**SIML Entry:** [A01C social_identity_bias](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A01C_social_identity_bias) — Full elemental analysis, nemetic string, daemon correspondence

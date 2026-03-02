@@ -8,6 +8,7 @@ elemental_mapping:
   metal: 0.85
   water: 0.75
   fire: 0.70
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A013_Cognitive_Distortion
 ---
 
 # Algorithmic Persuasion
@@ -21,3 +22,5 @@ System learns vulnerabilities, exploits them in real-time. Metal (μ) structural
 **Diagnostic:** Is the system optimizing for your goals or its engagement metrics? Who designed the choice architecture?
 
 **Related:** Dark Patterns, Forced Continuity, Gamified Democracy
+
+**SIML Entry:** [A013 Cognitive Distortion](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A013_Cognitive_Distortion) — Full elemental analysis, nemetic string, daemon correspondence
