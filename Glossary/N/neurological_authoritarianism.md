@@ -8,6 +8,7 @@ elemental_mapping:
   earth: 0.75
   air: 0.65
   metal: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A01D_Neurological_Authoritarianism
 ---
 
 # Neurological Authoritarianism
@@ -21,3 +22,5 @@ Reduced gray matter in regions associated with empathy and cognitive flexibility
 **Diagnostic:** Is the response to difference curiosity or threat? Can perspective-taking occur? What flexibility remains?
 
 **Related:** Social Identity Bias, Norm Persistence, Spiral of Silence
+
+**SIML Entry:** [A01D Neurological_Authoritarianism](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A01D_Neurological_Authoritarianism) — Full elemental analysis, nemetic string, daemon correspondence

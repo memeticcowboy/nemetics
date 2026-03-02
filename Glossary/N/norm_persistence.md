@@ -8,6 +8,7 @@ elemental_mapping:
   metal: 0.80
   water: 0.75
   earth: 0.70
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A02E_Norm_Persistence
 ---
 
 # Norm Persistence
@@ -21,3 +22,5 @@ Normalization through repetition, cognitive/cultural barriers, institutional ine
 **Diagnostic:** What would it take to change this norm? Who benefits from its persistence? Where are the choke points?
 
 **Related:** Spiral of Silence, Status Quo Bias, Overton Window
+
+**SIML Entry:** [A02E Norm_Persistence](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A02E_Norm_Persistence) — Full elemental analysis, nemetic string, daemon correspondence

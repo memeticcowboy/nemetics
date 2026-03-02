@@ -8,6 +8,7 @@ elemental_mapping:
   wood: 0.80
   fire: 0.70
   water: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A036_Gamified_Democracy
 ---
 
 # Gamified Democracy
@@ -21,3 +22,5 @@ Points, badges, leaderboards for voting, deliberation, engagement. Wood (β) bra
 **Diagnostic:** Would participation continue without rewards? Is the game serving democracy or engagement metrics? What values are being gamed?
 
 **Related:** Algorithmic Persuasion, Social Identity Bias, Dark Patterns
+
+**SIML Entry:** [A036 Gamified_Democracy](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A036_Gamified_Democracy) — Full elemental analysis, nemetic string, daemon correspondence
