@@ -10,6 +10,7 @@ elemental_mapping:
   wood: 0.85
   earth: 0.85
   metal: 0.85
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M010_Star_State
 ---
 
 # ✶-State (Star-State / Harmonic Collapse)
@@ -23,3 +24,5 @@ Not synthesis of thesis/antithesis. Integration that preserves difference (ε �
 **Diagnostic:** Can the state be unwound without rupture? If yes, ✶-state. If no, forced unity (pathology).
 
 **Related:** Multiplicity, Tertiary Emergence, Permeability
+
+**SIML Entry:** [M010 ✶-State (Star-State)](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M010_Star_State) — Full elemental analysis, nemetic string, daemon correspondence
