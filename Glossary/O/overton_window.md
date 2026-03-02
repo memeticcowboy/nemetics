@@ -8,6 +8,7 @@ elemental_mapping:
   metal: 0.80
   water: 0.70
   fire: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A037_Overton_Window
 ---
 
 # Overton Window
@@ -21,3 +22,5 @@ Who defines "acceptable"? How do ideas move from unthinkable to policy? Metal (Î
 **Diagnostic:** Who sets the boundaries of acceptable debate? What voices are outside the window?
 
 **Related:** Spiral of Silence, Norm Persistence, Gamified Democracy
+
+**SIML Entry:** [A037 Overton Window](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A037_Overton_Window) â€” Full elemental analysis, nemetic string, daemon correspondence

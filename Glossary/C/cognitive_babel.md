@@ -7,6 +7,7 @@ status: canonical
 elemental_mapping:
   water: 0.85
   air: 0.40
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A016_Cognitive_Babel
 ---
 
 # Cognitive Babel
@@ -20,3 +21,5 @@ Each person's "cognitive framework" becomes self-referential, untranslatable. Wa
 **Diagnostic:** Can you translate your understanding to someone with a different framework? Is there mutual intelligibility?
 
 **Related:** AI Personalization, Cognitive Dissonance, Spiral of Silence
+
+**SIML Entry:** [A016 Cognitive Babel](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A016_Cognitive_Babel) — Full elemental analysis, nemetic string, daemon correspondence

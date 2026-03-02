@@ -7,6 +7,7 @@ status: canonical
 elemental_mapping:
   air: 0.75
   earth: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A028_Source_Monitoring_Error
 ---
 
 # Source Monitoring Error
@@ -20,3 +21,5 @@ elemental_mapping:
 **Diagnostic:** Can you trace the source of this memory? Is there external corroboration?
 
 **Related:** False Memory, AI Psychosis, Absorption
+
+**SIML Entry:** [A028 Source Monitoring Error](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A028_Source_Monitoring_Error) — Full elemental analysis, nemetic string, daemon correspondence
