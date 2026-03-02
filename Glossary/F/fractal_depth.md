@@ -7,6 +7,7 @@ elemental_mapping:
   wood: 0.80
   earth: 0.70
   air: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M006_Fractal_Depth
 ---
 
 # Fractal Depth
@@ -20,3 +21,5 @@ Not vertical (higher/lower) but topological. Nested bow-ties: each ✶ becomes s
 **Diagnostic:** Does each iteration add information or merely repeat?
 
 **Related:** ✶-State, Metabolism, Tertiary Emergence
+
+**SIML Entry:** [M006 Fractal Depth](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M006_Fractal_Depth) — Full elemental analysis, nemetic string, daemon correspondence

@@ -6,6 +6,7 @@ status: canonical
 elemental_mapping:
   air: 0.90
   metal: 0.50
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M007_Distinction
 ---
 
 # Distinction
@@ -19,3 +20,5 @@ elemental_mapping:
 **Diagnostic:** Does the distinction open possibility or foreclose it?
 
 **Related:** Multiplicity, ✶-State, Permeability
+
+**SIML Entry:** [M007 Distinction](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M007_Distinction) — Full elemental analysis, nemetic string, daemon correspondence
