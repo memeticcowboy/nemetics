@@ -6,6 +6,7 @@ status: canonical
 elemental_mapping:
   earth: 0.90
   wood: 0.60
+siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M004_Metabolism
 ---
 
 # Metabolism
@@ -19,3 +20,5 @@ elemental_mapping:
 **Diagnostic:** Is there a mechanism for release, or is accumulation occurring?
 
 **Related:** Authenticity, Stewardship, Tertiary Emergence
+
+**SIML Entry:** [M004 Metabolism](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M004_Metabolism) — Full elemental analysis, nemetic string, daemon correspondence
