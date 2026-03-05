@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Nemetics{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ root_path }}style.css">
+</head>
+<body>
+  <div class="site-wrapper">
+    <header class="site-header">
+      <div class="header-inner">
+        <a href="{{ root_path }}index.html" class="site-logo">NEMETICS <span>/ field theory</span></a>
+        <nav class="site-nav">
+          <a href="{{ root_path }}blog/index.html"{% if active_section == 'blog' %} class="active"{% endif %}>Blog</a>
+          <a href="{{ root_path }}papers/index.html"{% if active_section == 'papers' %} class="active"{% endif %}>Papers</a>
+          <a href="{{ root_path }}glossary/index.html"{% if active_section == 'glossary' %} class="active"{% endif %}>Glossary</a>
+          <a href="{{ root_path }}memetic-ecology/index.html"{% if active_section == 'ecology' %} class="active"{% endif %}>Ecology</a>
+          <a href="{{ root_path }}if-prime/index.html"{% if active_section == 'if-prime' %} class="active"{% endif %}>IF-Prime</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="main-content{% if wide %} wide{% endif %}">
+      {% block breadcrumbs %}{% endblock %}
+      {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+      Nemetics &mdash; Infomorphic Field Theory &amp; Memetic Ecology &mdash; Daniel D, 2026
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Papers — Nemetics{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>Papers</h1>
+  <p class="tagline" style="color: var(--text-secondary); margin-top: 0.5em;">Research papers and formal theoretical documents.</p>
+</div>
+
+<div class="card-grid">
+  {% for paper in papers %}
+  <div class="card">
+    <h3><a href="{{ paper.url }}">{{ paper.title }}</a></h3>
+    {% if paper.excerpt %}
+    <p>{{ paper.excerpt }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} — Nemetics{% endblock %}
+
+{% block breadcrumbs %}
+{% if breadcrumbs %}
+<div class="breadcrumbs">
+  {% for crumb in breadcrumbs %}
+  {% if crumb.url %}<a href="{{ crumb.url }}">{{ crumb.label }}</a>{% else %}{{ crumb.label }}{% endif %}
+  {% if not loop.last %}<span class="sep">/</span>{% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>{{ title }}</h1>
+  {% if description %}
+  <p class="tagline" style="color: var(--text-secondary); margin-top: 0.5em;">{{ description }}</p>
+  {% endif %}
+</div>
+
+{% if readme_content %}
+<div class="section-intro">
+  <div class="article-content">
+    {{ readme_content }}
+  </div>
+</div>
+{% endif %}
+
+{% if subdirs %}
+<h2>Sections</h2>
+<div class="card-grid">
+  {% for sub in subdirs %}
+  <div class="card">
+    <h3><a href="{{ sub.url }}">{{ sub.title }}</a></h3>
+    {% if sub.description %}
+    <p>{{ sub.description }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if pages %}
+<h2>Pages</h2>
+<ul class="post-list">
+  {% for page in pages %}
+  <li class="post-list-item">
+    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+    {% if page.excerpt %}
+    <p class="post-excerpt">{{ page.excerpt }}</p>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Glossary — Nemetics{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>Glossary</h1>
+  <p class="tagline" style="color: var(--text-secondary); margin-top: 0.5em;">Canonical terms and definitions for the Nemetic framework.</p>
+</div>
+
+{% for letter, terms in grouped_terms %}
+<h2 id="{{ letter }}">{{ letter }}</h2>
+<div class="glossary-grid">
+  {% for term in terms %}
+  <div class="glossary-card">
+    <h3><a href="{{ term.url }}">{{ term.title }}</a></h3>
+    {% if term.definition %}
+    <p class="definition">{{ term.definition }}</p>
+    {% endif %}
+    {% if term.category %}
+    <span class="category-tag">{{ term.category }}</span>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
+{% endblock %}
