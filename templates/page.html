@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} — Nemetics{% endblock %}
+
+{% block breadcrumbs %}
+{% if breadcrumbs %}
+<div class="breadcrumbs">
+  {% for crumb in breadcrumbs %}
+  {% if crumb.url %}<a href="{{ crumb.url }}">{{ crumb.label }}</a>{% else %}{{ crumb.label }}{% endif %}
+  {% if not loop.last %}<span class="sep">/</span>{% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>{{ title }}</h1>
+  {% if meta %}
+  <div class="page-meta">
+    {% for item in meta %}
+    <span class="tag">{{ item }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<div class="article-content">
+  {{ content }}
+</div>
+{% endblock %}
