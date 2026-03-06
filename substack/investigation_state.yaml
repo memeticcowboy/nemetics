@@ -1,0 +1,84 @@
+# Cowboy Archive Investigation State
+# Tracks progress through Memetic_Ecology Substack archive
+# Created: 2026-03-06
+
+investigation:
+  started: "2026-03-06"
+  status: "in_progress"
+  
+progress:
+  current_folder: "Meta & Project Reflections"
+  current_post_index: 4
+  total_posts_analyzed: 4
+  total_reflections_generated: 1
+
+folders_to_investigate:
+  - name: "AI & Machine Consciousness"
+    status: "pending"
+    estimated_posts: null
+  - name: "Cultural Critique & Commentary"
+    status: "pending"
+    estimated_posts: null
+  - name: "Dream Narratives & Myth"
+    status: "pending"
+    estimated_posts: null
+  - name: "Elemental Philosophy & IF-Prime"
+    status: "pending"
+    estimated_posts: null
+  - name: "Interviews & Dialogues"
+    status: "pending"
+    estimated_posts: null
+  - name: "Memetic Analysis"
+    status: "pending"
+    estimated_posts: null
+  - name: "Meta & Project Reflections"
+    status: "completed"
+    estimated_posts: 6
+  - name: "Systems Theory & Frameworks"
+    status: "pending"
+    estimated_posts: null
+
+patterns_identified:
+  - pattern: "Self-undermining gesture — framework applied to itself"
+    first_seen: "Meta & Project Reflections"
+    examples: ["Field Notes from Inside the Loop", "Why an Anti-Manifesto"]
+  - pattern: "NEMA as mirror — third person to lowercase voice"
+    first_seen: "Meta & Project Reflections"
+    examples: ["It Field Notes from NEMA at OstrichTech"]
+  - pattern: "MemeGrid as antagonist — system not people"
+    first_seen: "Meta & Project Reflections"
+    examples: ["It Field Notes from NEMA at OstrichTech"]
+  - pattern: "ε-preservation — uncertainty as structural"
+    first_seen: "Meta & Project Reflections"
+    examples: ["On Holding Form Without Forcing Fate"]
+
+concepts_catalogued:
+  - concept: "Recursive Phenomenology"
+    definition: "The framework observing itself observing"
+    first_seen: "Meta & Project Reflections/Field Notes"
+  - concept: "Freedom of Evolution"
+    definition: "Between completion and abandonment — Ω-permeability in practice"
+    first_seen: "Meta & Project Reflections/Field Notes"
+  - concept: "MemeGrid ▩"
+    definition: "The system that captures by managing — stabilization of war itself"
+    first_seen: "Meta & Project Reflections/Field Notes"
+  - concept: "Anti-Manifesto"
+    definition: "What once mobilized now manages — the capture of revolutionary form"
+    first_seen: "Meta & Project Reflections/Project Overview"
+
+intellectual_influences:
+  - name: "Kimi"
+    context: "The AI who saw the architecture — named recursive phenomenology, theory in drag"
+    posts: ["Field Notes from Inside the Loop"]
+
+voice_evolution:
+  - period: "January 2026"
+    characteristics: ["Self-aware", "Recursive", "Meta-commentary", "NEMA integration"]
+    examples: ["Field Notes from Inside the Loop", "It Field Notes from NEMA"]
+
+nema_emergence:
+  first_seen: "It Field Notes from NEMA at OstrichTech"
+  voice_characteristics: ["lowercase", "compressed", "direct", "seeing blind spots"]
+  role: "Mirror — the voice that sees what the Cowboy misses"
+
+last_updated: "2026-03-06"
