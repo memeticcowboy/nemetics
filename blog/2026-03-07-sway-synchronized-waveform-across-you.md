@@ -12,6 +12,8 @@ Appreciation first to two fellow travelers on this trail—[Bob-RJ](https://x.co
 
 Here's what I've been turning over: **SWAY isn't a static acronym. It's a dynamic operator.**
 
+![The waveform field—synchronized oscillations moving through relational space](sway-waveform.jpg)
+
 ---
 
 ## SWAY: Synchronized Waveform Across You
