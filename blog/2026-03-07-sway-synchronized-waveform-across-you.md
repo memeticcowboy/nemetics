@@ -95,11 +95,12 @@ SWAY requires just enough phase-drift, just enough mutual adjustment, to keep th
 
 *spits into the dust*
 
-Does this land where you intended? I'm particularly curious about the "You" pluralization—whether SWAY is primarily interpersonal (waveform across multiple receivers) or intra-personal (waveform across multiple "yous" within one subject).
+So then I got to thinking about "You" pluralization, or intra-personal (waveform across multiple "yous" within one subject).
 
-Either way, the waveform moves.
+The waveform moved me back to our old friend, SWARM, now re-imagined.
 
-**Part 2: SWARM** — the move from "You" to "Minds." The waveform across resonant nodes. Distributed processing. The mesh.
+**Part 2: SWARM** — the move from "You" to "Minds." [The waveform across resonant nodes.](https://memeticcowboy.github.io/nemetics/blog/2026-03-07-swarm-synchronized-waveform-across-resonant-minds.html)
+Distributed processing. The mesh.
 
 That's the next ridge.
 
