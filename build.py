@@ -45,6 +45,8 @@ MARKDOWN_EXT_CONFIGS = {
     "toc": {"permalink": False},
 }
 
+IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico", ".bmp"}
+
 # Sections to build, in order: (source_dir, output_subdir, section_key, title, description)
 ECOLOGY_SUBDIRS = [
     ("0_Ω_GROUND", "0-omega-ground", "Ω Ground", "Raw residues, omega undifferentiated attention"),
@@ -211,6 +213,17 @@ class SiteBuilder:
         css_src = TEMPLATES_DIR / "style.css"
         css_dst = self.output_dir / "style.css"
         shutil.copy2(css_src, css_dst)
+
+    def copy_images(self, src_dir: Path, output_subdir: str):
+        """Copy image files from a source directory (recursively) to the output."""
+        if not src_dir.exists():
+            return
+        for img in src_dir.rglob("*"):
+            if img.is_file() and img.suffix.lower() in IMAGE_EXTENSIONS:
+                rel = img.relative_to(src_dir)
+                dest = self.output_dir / output_subdir / rel
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(img, dest)
 
     def build_blog(self) -> list[dict]:
         """Build all blog posts and return metadata for index."""
@@ -641,6 +654,14 @@ class SiteBuilder:
         self.build_ecology()
         self.build_ifprime()
         self.build_knowledge()
+
+        # Copy images from content directories to output
+        self.copy_images(ROOT / "blog", "blog")
+        self.copy_images(ROOT / "Papers", "papers")
+        self.copy_images(ROOT / "Glossary", "glossary")
+        self.copy_images(ROOT / "memetic_ecology", "memetic-ecology")
+        self.copy_images(ROOT / "IF-PRIME", "if-prime")
+        self.copy_images(ROOT / "KNOWLEDGE", "knowledge")
 
         # Build main index
         self.render("index.html", "index.html",
