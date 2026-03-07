@@ -12,6 +12,8 @@ A friend of the trail—[Bob-RJ](https://x.com/burkhartrj/status/202994883585888
 
 I've been staring at it. And I'll be damned if it doesn't map almost exactly onto the elemental framework we've been riding.
 
+![The Six Stations of Thought—six phases cycling around stochastic variation](six-stations-diagram.jpg)
+
 ---
 
 ## The Six Stations as Elemental Operations
