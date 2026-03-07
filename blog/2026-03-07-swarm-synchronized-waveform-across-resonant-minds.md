@@ -14,6 +14,8 @@ tags: [swarm, waveform, distributed-intelligence, elemental-framework, mesh-netw
 
 The move from "You" to "Minds" isn't scaling—it's a **phase transition**.
 
+![The mesh—multiple minds as nodes in a resonant field, waveform evolving through distributed intelligence](swarm-mesh.jpg)
+
 ---
 
 ## The Elemental Shift
