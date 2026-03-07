@@ -58,9 +58,9 @@ ECOLOGY_SUBDIRS = [
     ("8_REGIMES", "8-regimes", "Regimes", "Operators — Ω, χ, Q, Ψ, Z"),
     ("9_WORLD-STATES", "9-world-states", "World-States", "Global coordination topology"),
     ("10_INSIGHTS", "10-insights", "Insights", "Pattern recognition, synthesis"),
-    ("11_QUESTIONS", "11-questions", "Questions", "Pressing questions"),
-    ("BOW-TIE", "bow-tie", "Bow-Tie", "Compression/expansion cycle architecture"),
-    ("ELEMENTAL_DAEMONS", "elemental-daemons", "Elemental Daemons", "Seven processing regimes"),
+    ("11-BOW-TIE", "11-bow-tie", "Bow-Tie", "Compression/expansion cycle architecture"),
+    ("12-SELFMESH", "12-selfmesh", "Selfmesh", "Self-referential mesh dynamics"),
+    ("13-ELEMENTAL_DAEMONS", "13-elemental-daemons", "Elemental Daemons", "Seven processing regimes"),
 ]
 
 
@@ -261,6 +261,10 @@ class SiteBuilder:
 
         for paper_file in sorted(papers_dir.iterdir()):
             if paper_file.name.startswith("."):
+                continue
+            if paper_file.suffix.lower() not in ("", ".md", ".txt"):
+                continue
+            if not paper_file.is_file():
                 continue
             raw = paper_file.read_text(encoding="utf-8")
             front_matter, body = parse_front_matter(raw)
