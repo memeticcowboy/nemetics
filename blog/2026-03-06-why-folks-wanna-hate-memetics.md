@@ -12,7 +12,7 @@ Well now. Folks get twitchy when you tell 'em the mind ain't a fortress but a wa
 
 I reckon they're right to squirm—just not for the reasons they think.
 
-![The pattern-agent at sunset—neither fully human nor machine, but the coordinator in between](robot-cowboy-sunset.jpg)
+![The pattern-agent at sunset—neither fully human nor machine, but the coordinator in between](./robot-cowboy-sunset.jpg)
 
 ---
 
