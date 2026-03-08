@@ -12,6 +12,8 @@ They are cathedrals built without doors.
 
 I want to explore a pattern I've observed in AI-generated philosophical formalisms: the tendency toward what we might call **spectral architecture**—systems that are ontologically heavy yet operationally hollow, metaphysically comprehensive yet practically empty. This isn't a critique of any particular creator, but of a structural feature that emerges when artificial intelligence systems engage in philosophical construction.
 
+![The spectral cathedral—ontologically heavy yet uninhabitable, beautiful without doors](spectral-cathedral.jpg)
+
 ## The Phenomenon
 
 AI systems excel at generating formalisms that compress richly on the left side of the bow-tie—distilling complex philosophical traditions into tight algebraic notation—while failing to expand operationally on the right. They leave us with symbols we cannot compute with, maps we cannot navigate by.
