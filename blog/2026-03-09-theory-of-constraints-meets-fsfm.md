@@ -82,7 +82,7 @@ Examples:
 - "Responsible AI dashboards"
 - Internal compliance templates
 
-The constraint is **subordinated to throughput, not vice versa**. This is exactly the moment [FSFM](/glossary/fsfm) begins.
+The constraint is **subordinated to throughput, not vice versa**. This is exactly the moment [FSFM](https://memeticcowboy.github.io/nemetics/glossary/fsfm.html) begins.
 
 ### Step 4: Elevate the Constraint
 
@@ -133,7 +133,7 @@ Because the internal friction layer was removed, the constraint moves outside th
 
 > Maximize harm detection, not throughput.
 
-So the constraint is not a flaw. It is the **safety valve** of the system. Removing it creates [FSFM](/glossary/fsfm).
+So the constraint is not a flaw. It is the **safety valve** of the system. Removing it creates [FSFM](https://memeticcowboy.github.io/nemetics/glossary/fsfm.html).
 
 ## The TOC–FSFM Paradox
 
