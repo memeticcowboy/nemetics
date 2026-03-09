@@ -26,6 +26,18 @@ siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A01
 
 Or tighter: **"Ethics optimized for scale instead of truth."**
 
+## The Theory of Constraints Connection
+
+**FSFM occurs when the Theory of Constraints is applied to ethical governance without redefining the system goal away from throughput and toward harm interruption.**
+
+Or tighter: **"FSFM = optimizing away the constraint that keeps power visible."**
+
+In the operator sequence χ → Q → Ψ → Z, FSFM mechanizes χ and ⛨ into **bottleneck-management tools** rather than living judgment. The constraint becomes invisible until reality reintroduces it through collapse.
+
+**Ecological principle:** ε removed internally → instability exported externally
+
+[Theory of Constraints - Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+
 ## The Five-Stage Drift
 
 | Stage | Name | Description |
