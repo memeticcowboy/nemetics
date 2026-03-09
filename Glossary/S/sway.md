@@ -75,9 +75,9 @@ SWAY: emerge, plural, mutual, bidirectional, preserve.
 GRID: imposed, uniform, demanding, extractive, minimize.
 
 ## Related Terms
-- [SWARM](/glossary/swarm) (M017) — The waveform across resonant minds
-- [MemeGrid](/glossary/memegrid) (M099) — Premature pattern-lock
-- [Omega Permeability](/glossary/omega-permeability) (O001) — The ε-hole
+- [SWARM](https://memeticcowboy.github.io/nemetics/glossary/swarm.html) (M017) — The waveform across resonant minds
+- [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) (M099) — Premature pattern-lock
+- [Omega Permeability](https://memeticcowboy.github.io/nemetics/glossary/omega-permeability.html) (O001) — The ε-hole
 
 **Blog Post:** [SWAY: Synchronized Waveform Across You](https://memeticcowboy.substack.com/p/sway-synchronized-waveform-across-you)
 

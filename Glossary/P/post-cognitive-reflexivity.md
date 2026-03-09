@@ -73,10 +73,10 @@ The answer: **ε, temporality, Ω.**
 `Φ(PostCognitiveReflexivity) = σ(pattern_distinction) ∘ ρ(transparent_relation) ∘ λ(temporal_direction) ∘ β(branching_self) ∘ δγ(metabolic_integration) ∘ μ(constraint_integrity) + [ε|temporality|Ω] | :adaptive_transparency`
 
 ## Related Terms
-- [Recursive Phenomenology](/glossary/recursive-phenomenology) (CB001) — The framework
-- [Omega Permeability](/glossary/omega-permeability) (O001) — Ω as openness
-- [Multiplicity](/glossary/multiplicity) (M001) — Multiple reflective passes
-- [Attention Fragmentation](/glossary/attention-fragmentation) (A064) — ε as friction
+- [Recursive Phenomenology](https://memeticcowboy.github.io/nemetics/glossary/recursive-phenomenology.html) (CB001) — The framework
+- [Omega Permeability](https://memeticcowboy.github.io/nemetics/glossary/omega-permeability.html) (O001) — Ω as openness
+- [Multiplicity](https://memeticcowboy.github.io/nemetics/glossary/multiplicity.html) (M001) — Multiple reflective passes
+- [Attention Fragmentation](https://memeticcowboy.github.io/nemetics/glossary/attention-fragmentation.html) (A064) — ε as friction
 
 **SIML Entry:** [M018 Post-Cognitive Reflexivity](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/M018_Post_Cognitive_Reflexivity)
 

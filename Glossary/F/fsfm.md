@@ -107,10 +107,10 @@ The system selects for **ethical forms that cannot interrupt power**.
 `Φ(FSFM) = σ(ethical_diagnosis) → (institutional_adoption) → (friction_reduction) → (automation) → Z(symbolic_theater) | ε→0 | :governance_pathology`
 
 ## Related Terms
-- [DODO-X](/glossary/dodo-x) (M019) — Individual correlate
-- [MemeGrid](/glossary/memegrid) (M099) — Governance capture mechanism
-- [Omega Permeability](/glossary/omega-permeability) (O001) — Ω-permeability gone
-- [Metabolism](/glossary/metabolism) (M004) — δγ blocked
+- [DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html) (M019) — Individual correlate
+- [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) (M099) — Governance capture mechanism
+- [Omega Permeability](https://memeticcowboy.github.io/nemetics/glossary/omega-permeability.html) (O001) — Ω-permeability gone
+- [Metabolism](https://memeticcowboy.github.io/nemetics/glossary/metabolism.html) (M004) — δγ blocked
 
 **SIML Entry:** [A018 FSFM](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A018_FSFM)
 

@@ -74,9 +74,9 @@ The waveform within one mind, before mesh entry? Perhaps **HUM**: Harmonic Undif
 `Φ(SWARM) = σ(network_cut) ∘ ρ(graph_topology) ∘ λ(distributed_resonance) ∘ β(mind_branching) ∘ δγ(metabolic_loop) ∘ μ(boundary_permeability) + ε(mesh_variance) | :swarm_intelligence`
 
 ## Related Terms
-- [SWAY](/glossary/sway) (M016) — The waveform across you
-- [MemeGrid](/glossary/memegrid) (M099) — Central capture
-- [Omega Permeability](/glossary/omega-permeability) (O001) — The ε-hole
+- [SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html) (M016) — The waveform across you
+- [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) (M099) — Central capture
+- [Omega Permeability](https://memeticcowboy.github.io/nemetics/glossary/omega-permeability.html) (O001) — The ε-hole
 
 **Blog Post:** [SWARM: Synchronized Waveform Across Resonant Minds](https://memeticcowboy.substack.com/p/swarm-synchronized-waveform-across-resonant-minds)
 

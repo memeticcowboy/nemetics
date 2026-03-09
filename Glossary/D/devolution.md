@@ -90,10 +90,10 @@ Biology rejects "devolution" as a category—there is no backward evolution, onl
 > Devolution is neither political strategy nor organizational preference—it is a **thermodynamic necessity for systems operating beyond their compression capacity**. The question is never whether to devolve, but how to devolve such that the field's fertility expands rather than contracts.
 
 ## Related Terms
-- [MemeGrid](/glossary/memegrid) (M099)
-- [Omega Permeability](/glossary/omega-permeability) (O001)
-- [Metabolism](/glossary/metabolism) (M004)
-- [Triality](/glossary/triality) (M005)
+- [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) (M099)
+- [Omega Permeability](https://memeticcowboy.github.io/nemetics/glossary/omega-permeability.html) (O001)
+- [Metabolism](https://memeticcowboy.github.io/nemetics/glossary/metabolism.html) (M004)
+- [Triality](https://memeticcowboy.github.io/nemetics/glossary/triality.html) (M005)
 
 **SIML Entry:** [N002 Devolution](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/N002_Devolution)
 
