@@ -60,7 +60,7 @@ DODO-X is **MemeGrid capture at the existential substrate**—the individual cor
 - **Reopen Ω** — Maintain permeability to alternatives
 
 ## Related Terms
-- [Financial Singularity Feedback Machine (FSFM)](https://memeticcowboy.github.io/nemetics/glossary/financial-singularity-feedback-machine.html) (A012) — Institutional correlate
+- [Friction Suppression Failure Mode (FSFM)](https://memeticcowboy.github.io/nemetics/glossary/fsfm.html) (A018) — Institutional correlate
 - [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) (M099) — Premature pattern-lock
 - [Metabolism](https://memeticcowboy.github.io/nemetics/glossary/metabolism.html) (M004) — δγ cycling
 - [Freedom of Evolution](https://memeticcowboy.github.io/nemetics/glossary/freedom-of-evolution.html) (CB006) — The opposite condition
