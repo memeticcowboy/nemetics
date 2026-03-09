@@ -48,7 +48,7 @@ These processes are intentionally slow because they metabolize:
 - Power conflict
 - Harm signals
 
-In the [NEMETIC framework](/glossary/nemetic-framework), this is the **ε-layer** (productive friction).
+In the [IF-Prime framework](https://memeticcowboy.github.io/nemetics/if-prime/index.html), this is the **ε-layer** (productive friction).
 
 **Constraint = ethical friction capacity**
 
