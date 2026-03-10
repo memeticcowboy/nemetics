@@ -6,7 +6,7 @@ tags: [fsfm, theory-of-constraints, governance, optimization, ethics, bob-rj]
 
 *tips hat to a fellow traveler*
 
-First, appreciation to [Bob-RJ](https://x.com/burkhartrj/status/2031003324380532947?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ) for the spark that became this reflection. The connection between Theory of Constraints and [FSFM (Friction Suppression Failure Mode)](/glossary/fsfm) runs deeper than I had mapped. Time to ride that ridge.
+First, appreciation to [Bob-RJ](https://x.com/burkhartrj/status/2031003324380532947?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ) for the spark that became this reflection. The connection between Theory of Constraints and [FSFM (Friction Suppression Failure Mode)](https://memeticcowboy.github.io/nemetics/glossary/fsfm.html) runs deeper than I had mapped. Time to ride that ridge.
 
 ## The TOC Framework
 

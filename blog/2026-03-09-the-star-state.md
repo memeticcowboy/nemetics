@@ -146,4 +146,4 @@ The ✶-state is never permanent. It's something we keep making. Every conversat
 
 ---
 
-**Related:** [Tertiary Emergence](/glossary/tertiary-emergence) · [Multiplicity](/glossary/multiplicity) · [MemeGrid](/glossary/memegrid)
+**Related:** [Tertiary Emergence](https://memeticcowboy.github.io/nemetics/glossary/tertiary-emergence.html) · [Multiplicity](https://memeticcowboy.github.io/nemetics/glossary/multiplicity.html) · [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html)

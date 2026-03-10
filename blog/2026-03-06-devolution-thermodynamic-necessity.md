@@ -116,7 +116,7 @@ The center releases. The edge expands. The bottleneck—that's where the world g
 
 ---
 
-**Related:** [N002 Devolution (SIML Entry)](/siml/n002-devolution) | [MemeGrid (M099)](/glossary/memegrid) | [Omega Permeability (O001)](/glossary/omega-permeability)
+**Related:** [N002 Devolution (SIML Entry)](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/N002_Devolution) | [MemeGrid (M099)](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) | [Omega Permeability (O001)](https://memeticcowboy.github.io/nemetics/glossary/omega-permeability.html)
 
 **Thanks again to [Bob-RJ](https://x.com/burkhartrj/status/2029943648918335588) for the provocation.**
 

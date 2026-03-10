@@ -94,4 +94,4 @@ The trail continues.
 
 ---
 
-**Related:** [SCAMPER: The Seven Prompts](/glossary/scamper) | [Recursive Phenomenology](/glossary/recursive-phenomenology) | [IF-Prime: Constraint as Enablement](/glossary/if-prime)
+**Related:** [SCAMPER: The Seven Prompts](https://memeticcowboy.github.io/nemetics/glossary/scamper.html) | [Recursive Phenomenology](https://memeticcowboy.github.io/nemetics/glossary/recursive-phenomenology.html) | [IF-Prime: Constraint as Enablement](https://memeticcowboy.github.io/nemetics/if-prime/index.html)
