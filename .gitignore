@@ -1,5 +1,6 @@
 # Build output
 site/
+_site/
 
 # Python
 __pycache__/
