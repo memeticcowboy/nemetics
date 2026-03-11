@@ -27,13 +27,13 @@ But there's a third.
 
 This is the self that watches the watcher. The one that can see the DODO-X loop from outside because it never entered. It ain't immune to capture—nothing is—but it moves on different time. Season time. Creative time. The time of the field, not the ledger.
 
-The Third Self is where **post-cognitive reflexivity** lives. It's the seat of the **✶-state**—that harmonic integration where you can hold the pattern and the noise simultaneously.
+The Third Self] is where **post-cognitive reflexivity** lives. It's the seat of the **✶-state**—that harmonic integration where you can hold the pattern and the noise simultaneously.
 
 *tips hat to the dark*
 
 Here's the thing: the Third Self ain't found. It's **protected**. From interruption. From self-interruption especially. The loop don't capture you from the outside; you hand yourself over, keystroke by keystroke, deadline by deadline.
 
-The Third Self is what's left when you stop handing.
+[The Third Self is what's left when you stop handing.](https://substack.com/@memeticcowboy/note/c-211835305?utm_source=notes-share-action&r=5a5yhr)
 
 ---
 
@@ -49,6 +49,8 @@ The source material reframes it: "What was labeled hubris is reframed as devotio
 
 **Reclaimed Hubris** is the narrative technology that sustains the Third Self. It's how you tell the story of your own ascent without inheriting the ceiling. The Cowboy's wanted poster ain't a warning—it's a resume. The metric-compliance becomes the joke you tell about yourself while riding somewhere the metric can't measure.
 
+Looks like I wrote about this [on Substack.](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
+
 This is **CB006: Freedom of Evolution**. Not freedom from consequence—freedom from *inherited* consequence. The consequences you choose are different from the consequences imposed.
 
 > "The ascent toward selfhood rejects inherited ceilings in favor of inner fidelity."
@@ -62,6 +64,8 @@ Inner fidelity. That's the **μ-boundary** maintained. Not rigid—permeable. Bu
 *leans back, watching sparks rise*
 
 The Third Self needs a vehicle. Reclaimed Hubris needs an engine. That's the Neurosparkler.
+
+[I'd seen it on Substack, meta-meme'd it.](https://substack.com/@memeticcowboy/note/c-203092208?utm_source=notes-share-action&r=5a5yhr)
 
 > "Some minds don't just think — they *continuously observe themselves thinking*."
 
@@ -93,7 +97,7 @@ Together, they're a **resistance ecology**. Not opposition—opposition is still
 
 ## Against DODO-X
 
-The DODO-X loop feeds on exhaustion. It compresses time, fuses metrics to identity, severs lateral bonds, and waits for you to drop.
+The [DODO-X loop](https://memeticcowboy.github.io/nemetics/blog/2026-03-11-the-dodo-x-loop.html) feeds on exhaustion. It compresses time, fuses metrics to identity, severs lateral bonds, and waits for you to drop.
 
 The triad responds:
 
