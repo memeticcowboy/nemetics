@@ -10,6 +10,8 @@ tags: [dodo-x, proxy-lock-in, memetic-cowboy, exhaustion, refusal]
 
 There's a particular hoofprint I've been tracking—shows up in Silicon Valley startup pens, in academic grazing lands, in gig economy corrals. Five distinct marks, always in the same order.
 
+![The cowboy ridden by debt—metrics branded on his back, riding toward the towers](dodo-x-debt-trail.jpg)
+
 I call it the **DODO-X**.
 
 ## D — Debt
