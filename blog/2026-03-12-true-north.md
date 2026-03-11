@@ -14,6 +14,8 @@ image: ./true-north-compass.jpg
 
 "Follow it slavely, you end up walking in circles around somebody else's ore deposit."
 
+![Six-needle compass](./true-north-compass.jpg)
+
 ---
 
 ## The Six-Needle Compass
