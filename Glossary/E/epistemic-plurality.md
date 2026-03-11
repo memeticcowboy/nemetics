@@ -17,9 +17,15 @@ status: canonical
 
 # Epistemic Plurality
 
-**The capacity for multiple ways of knowing to coexist without collapse.**
+**The recognition and acceptance of multiple valid ways of knowing or acquiring knowledge, rather than relying on a single dominant methodology, theory, or epistemic framework.**
 
-An epistemology is healthy when it can draw distinctions (Air), feel experience (Water), act and revise (Fire), learn and redistribute authority (Wood), care for limits (Earth), use structure without worshipping it (Metal), and still imagine being wrong (Aether/✶).
+Also known as *epistemological pluralism*. This concept emphasizes diversity in epistemic approaches, allowing for parallel and competing theories to explain phenomena, especially in fields like philosophy, science, and social sciences. It stands in opposition to reductionism, asserting that complex realities often require a plurality of perspectives to achieve a fuller understanding, without assuming one "best" account holds a monopoly on truth. In interdisciplinary contexts, it promotes collaboration across different knowledge systems, valuing structural differences in how knowledge is formed and justified.
+
+---
+
+## NEMA Framework: The Capacity for Coexistence Without Collapse
+
+In the NEMA framework, epistemic plurality is operationalized as **world-coordination**—the capacity for multiple ways of knowing to coexist without one collapsing into another. An epistemology is healthy when it can draw distinctions (Air), feel experience (Water), act and revise (Fire), learn and redistribute authority (Wood), care for limits (Earth), use structure without worshipping it (Metal), and still imagine being wrong (Aether/✶).
 
 ## Elemental Alignment of Epistemologies
 
