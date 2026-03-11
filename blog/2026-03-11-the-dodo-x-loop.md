@@ -6,8 +6,6 @@ tags: [dodo-x, proxy-lock-in, memetic-cowboy, exhaustion, refusal]
 
 *out here on the memetic range, you learn to watch for patterns in the dust*
 
-![The wanted—the loop has a price on your head](wanted-dead-or-alive.jpg)
-
 There's a particular hoofprint I've been tracking—shows up in Silicon Valley startup pens, in academic grazing lands, in gig economy corrals. Five distinct marks, always in the same order.
 
 ![The cowboy ridden by debt—metrics branded on his back, riding toward the towers](dodo-x-debt-trail.jpg)
