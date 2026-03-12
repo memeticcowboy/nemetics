@@ -17,6 +17,8 @@ category: nemetics
 
 "But first — let me tell you what Nema figured out."
 
+![NEMA SWARM Hex](./nema-swarm-hex.jpg)
+
 ---
 
 ## The Breakthrough
