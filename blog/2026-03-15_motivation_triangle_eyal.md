@@ -7,7 +7,7 @@ tags: [motivation, eyal, learned-helplessness, memegrid, belief, nemetics]
 
 *Tips hat.*
 
-First things first: this one's for **Bob-RJ** — <https://x.com/burkhartrj/status/2032820442881286315?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ> — who rode through the territory with Nir Eyal's "Motivation Triangle" and threw the signal my way. When someone hands you a map and asks what you see, you look. So I looked.
+First things first: this one's for **Bob-RJ** — who rode through the territory with [Nir Eyal's "Motivation Triangle"](https://x.com/burkhartrj/status/2032820442881286315?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ) and threw the signal my way. When someone hands you a map and asks what you see, you look. So I looked.
 
 ---
 
