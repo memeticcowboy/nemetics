@@ -5,3 +5,4 @@ _site/
 # Python
 __pycache__/
 *.pyc
+Glossary/M/memegrid.md
