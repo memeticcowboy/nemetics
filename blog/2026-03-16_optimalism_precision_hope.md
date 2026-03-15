@@ -155,4 +155,4 @@ The identity transformation is from "I hope" to "I tune." From passive recipient
 
 ---
 
-**Related:** [OPTIMALISM — Full Nemetics Analysis](/KNOWLEDGE/PHILOSOPHICAL_CONNECTIONS/optimalism_bob_rj.md) | [SIML Entry](#) | [Lumeme vs Usurpenic Framework](/KNOWLEDGE/PHILOSOPHICAL_CONNECTIONS/lumeme_usurpenic.md)
+**Related:** [OPTIMALISM — Full Nemetics Analysis](/KNOWLEDGE/PHILOSOPHICAL_CONNECTIONS/optimalism_bob_rj.md) | [SIML Entry A066](https://github.com/memeticcowboy/nema-swarm/blob/main/SIML/terms/A066_OPTIMALISM/term.yaml) | [Glossary Entry](https://memeticcowboy.github.io/nemetics/glossary/O/optimalism.html)
