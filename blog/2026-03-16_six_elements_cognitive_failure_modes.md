@@ -11,6 +11,8 @@ Someone threw me a framework worth riding with: the Six Elements as Cognitive Fa
 
 The core meme is simple: **A single cognitive mode scales into pathology when it dominates the system.** Your strength becomes the trap. The thing that made you effective becomes the thing that's eating you alive.
 
+![The Six Elements as Cognitive Failure Modes](six-elements-cognitive-failure-modes.jpg)
+
 ---
 
 ## The Six Failure Archetypes
