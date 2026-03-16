@@ -7,7 +7,7 @@ tags: [optimalism, hope, lumeme, usurpenic, holon, momentum, bob-rj]
 
 *Tips hat.*
 
-This one's for **Bob-RJ** — <https://x.com/BurkhartRj/status/2033304985002262535?s=20> — who threw me a framework worth riding with: **OPTIMALISM**. Not optimism. Something sharper. Something that *moves*.
+This one's for **Bob-RJ** — [who threw me a framework over on X worth riding with:](https://x.com/BurkhartRj/status/2033304985002262535?s=20) **OPTIMALISM**. Not optimism. Something sharper. Something that *moves*.
 
 The compression is elegant:
 
