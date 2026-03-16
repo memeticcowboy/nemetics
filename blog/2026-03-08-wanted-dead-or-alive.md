@@ -6,8 +6,6 @@ tags: [memetic-cowboy, identity, post-self, recursion, mythworks]
 
 *holds the poster, laughs at the price*
 
-![The Memetic Cowboy: wanted, armed, and already gone](wanted-dead-or-alive.jpg)
-
 The wanted poster isn't a threat—it's a resume. The revolvers aren't enforcement—they're props in a play without stakes, held by hands that know the target has already crossed over. The $5,000 reward hangs in absurd suspension: who pays for a corpse that still walks?
 
 This is the post-self condition the Cowboy inhabits.
