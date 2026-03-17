@@ -123,7 +123,7 @@ The map and the territory both matter. The stance and what it tracks. The Thread
 
 ## Related Reading
 
-- **[Glossary: Pragmatic Belief](https://memeticcowboy.github.io/nemetics/glossary/P/pragmatic_belief.html)** — Full definition with elemental architecture
+- **[Glossary: Pragmatic Belief](https://memeticcowboy.github.io/nemetics/glossary/pragmatic_belief.html)** — Full definition with elemental architecture
 - **[SIML: A068_Pragmatic_Belief](https://github.com/nema-swarm/SIML/tree/main/terms/A068_Pragmatic_Belief)** — Nemetic string and dialectical pairs
-- **[Alief](https://memeticcowboy.github.io/nemetics/glossary/A/alief.html)** (A067) — The automatic, associative counterpart
-- **[Illusion of Self](https://memeticcowboy.github.io/nemetics/glossary/I/illusion_of_self.html)** (C16C) — Dennett's Multiple Drafts Theory
+- **[Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html)** (A067) — The automatic, associative counterpart
+- **[Illusion of Self](https://memeticcowboy.github.io/nemetics/glossary/illusion_of_self.html)** (C16C) — Dennett's Multiple Drafts Theory

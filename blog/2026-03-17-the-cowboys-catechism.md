@@ -134,7 +134,7 @@ That's the Catechism.
 
 ## Related Reading
 
-- **[Glossary: Catechism](https://memeticcowboy.github.io/nemetics/glossary/C/catechism.html)** — Full definition with elemental architecture
+- **[Glossary: Catechism](https://memeticcowboy.github.io/nemetics/glossary/catechism.html)** — Full definition with elemental architecture
 - **[SIML: CB007_Catechism](https://github.com/nema-swarm/SIML/tree/main/terms/CB007_Catechism)** — Nemetic string and five corrections
-- **[Recursive Phenomenology](https://memeticcowboy.github.io/nemetics/glossary/R/recursive_phenomenology.html)** (CB001) — Self-referential inquiry
-- **[Self-Undermining Gesture](https://memeticcowboy.github.io/nemetics/glossary/S/self_undermining_gesture.html)** (CB003) — Pattern that prevents its own sealing
+- **[Recursive Phenomenology](https://memeticcowboy.github.io/nemetics/glossary/recursive_phenomenology.html)** (CB001) — Self-referential inquiry
+- **[Self-Undermining Gesture](https://memeticcowboy.github.io/nemetics/glossary/self_undermining_gesture.html)** (CB003) — Pattern that prevents its own sealing

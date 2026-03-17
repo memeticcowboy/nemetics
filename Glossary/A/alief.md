@@ -85,11 +85,11 @@ You can't argue someone out of an alief. You have to help them live their way ou
 
 ## Related Concepts
 
-- **[Belief](https://memeticcowboy.github.io/nemetics/glossary/B/belief.html)** — The Air-native counterpart (truth-aimed, evidence-sensitive)
-- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/S/sway.html)** — Detection of implicit patterns and alief-level capture
-- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/D/dodo-x.html)** — Pathology of aliefs locked by repetition or trauma
-- **[Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/M/motivation_triangle.html)** — The explicit framework that alief shadows
-- **[Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/E/enactive_cognition.html)** — Earth-grounded alternative to representational mind
+- **[Belief](https://memeticcowboy.github.io/nemetics/glossary/belief.html)** — The Air-native counterpart (truth-aimed, evidence-sensitive)
+- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html)** — Detection of implicit patterns and alief-level capture
+- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html)** — Pathology of aliefs locked by repetition or trauma
+- **[Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/motivation_triangle.html)** — The explicit framework that alief shadows
+- **[Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive_cognition.html)** — Earth-grounded alternative to representational mind
 
 ## The Cowboy's Note
 

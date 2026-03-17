@@ -124,7 +124,7 @@ Learning the difference is the beginning of honesty.
 
 ## Related Reading
 
-- **[Glossary: Alief](https://memeticcowboy.github.io/nemetics/glossary/A/alief.html)** — Full definition and elemental analysis
+- **[Glossary: Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html)** — Full definition and elemental analysis
 - **[SIML: A067_Alief](https://github.com/nema-swarm/SIML/tree/main/terms/A067_Alief)** — Nemetic string and dialectical pairs
-- **[Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/M/motivation_triangle.html)** — The explicit framework alief shadows
-- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/S/sway.html)** — Detection of implicit pattern capture
+- **[Motivation Triangle](https://memeticcowboy.github.io/nemetics/glossary/motivation_triangle.html)** — The explicit framework alief shadows
+- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html)** — Detection of implicit pattern capture

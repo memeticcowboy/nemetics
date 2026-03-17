@@ -124,7 +124,7 @@ That's the line.
 
 ## Related Reading
 
-- **[Glossary: Codependence Without Co-independence](https://memeticcowboy.github.io/nemetics/glossary/C/codependence_without_coindependence.html)** — Full definition with elemental architecture
+- **[Glossary: Codependence Without Co-independence](https://memeticcowboy.github.io/nemetics/glossary/codependence-without-coindependence.html)** — Full definition with elemental architecture
 - **[SIML: CB008_Codependence_Without_Coindependence](https://github.com/nema-swarm/SIML/tree/main/terms/CB008_Codependence_Without_Coindependence)** — Nemetic string and recovery protocol
-- **[Catechism](https://memeticcowboy.github.io/nemetics/glossary/C/catechism.html)** (CB007) — The diagnostic tool for noticing when stance slips
-- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/D/dodo-x.html)** (M019) — Pathology of capture and lock-in
+- **[Catechism](https://memeticcowboy.github.io/nemetics/glossary/catechism.html)** (CB007) — The diagnostic tool for noticing when stance slips
+- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html)** (M019) — Pathology of capture and lock-in

@@ -101,11 +101,11 @@ Rising attachments to companion bots for validation, therapy, companionship. Hum
 
 ## Related Concepts
 
-- **[Catechism](https://memeticcowboy.github.io/nemetics/glossary/C/catechism.html)** (CB007) — Diagnostic tool for noticing stance slippage
-- **[Metabolic Cost](https://memeticcowboy.github.io/nemetics/glossary/M/metabolic_cost.html)** (CB004) — The price of maintaining dependency patterns
-- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/S/sway.html)** (M016) — Detection of implicit pattern alignment
-- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/D/dodo-x.html)** (M019) — Pathology of capture and lock-in
-- **[Alief](https://memeticcowboy.github.io/nemetics/glossary/A/alief.html)** (A067) — Automatic patterns driving codependent behavior
+- **[Catechism](https://memeticcowboy.github.io/nemetics/glossary/catechism.html)** (CB007) — Diagnostic tool for noticing stance slippage
+- **[Metabolic Cost](https://memeticcowboy.github.io/nemetics/glossary/metabolic_cost.html)** (CB004) — The price of maintaining dependency patterns
+- **[SWAY](https://memeticcowboy.github.io/nemetics/glossary/sway.html)** (M016) — Detection of implicit pattern alignment
+- **[DODO-X](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html)** (M019) — Pathology of capture and lock-in
+- **[Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html)** (A067) — Automatic patterns driving codependent behavior
 
 ## The Cowboy's Test
 
