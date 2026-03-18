@@ -129,9 +129,76 @@ Every solution must pass:
 
 ---
 
+## Extended: The 6DOF Sphere Operations
+
+The bioneer's [SelfMesh](https://memeticcowboy.github.io/nemetics/glossary/selfmesh.html) operates across Four Spheres with specific maneuvers:
+
+| DOF Axis | Sphere Operation | Bioneer Maneuver |
+|----------|-----------------|------------------|
+| **X: Intake↔️Expression** | Atmosphere↔️Biosphere (gas exchange) | Breathing with the system—taking in complexity, expressing simplicity |
+| **Y: We↔️Other** | Hydrosphere↔️Geosphere (watershed boundaries) | Negotiating edge conditions—where water meets land, community meets geology |
+| **Z: Surface↔️Depth** | Biosphere↔️Geosphere (root depth, soil horizons) | Vertical integration—surface solutions with deep substrate awareness |
+| **Yaw: Attentional Heading** | Atmosphere (wind direction, climate) | Orienting to large-scale flows without being swept away |
+| **Pitch: Temporal Tilt** | Geosphere (deep time) ↔️ Biosphere (seasonal) | Balancing deep-time patience with seasonal responsiveness |
+| **Roll: Boundary Stance** | Hydrosphere (permeable) ↔️ Atmosphere (diffuse) | Maintaining permeability without dissolution—**the melting head that knows it's melting** |
+
+### The Critical Roll Axis
+
+Bob-RJ's melting head image—**this is Roll at maximum permeability**. But without σ (Air) distinction and μ (Metal) boundary coherence, that dissolution becomes saturation (ε → 0), capture by the very systems one seeks to harmonize with.
+
+The melting head that knows it's melting maintains SelfMesh awareness even in dissolution.
+
+---
+
+## Biomimicry Revisited: The Creature as Pattern-Agent
+
+Ausubel's "creature shows the bioneer how things get done"—this is pattern-agency recognition before we had the term.
+
+The creature isn't a resource to be extracted (usurpenic). It's a **coordinator of flowing patterns** (lumemic) that the bioneer learns to resonate with.
+
+But the creature is also a SelfMesh. The bird that "shows" aerodynamics, the tree that "shows" structural efficiency—these aren't lessons in the human pedagogical sense. They're **invitations to participate in pattern-flow**.
+
+The bioneer's question shouldn't be "What can I learn from nature?" but **"Which pattern is driving the substrate, and am I coordinating with or capturing it?"**
+
+This is where σ (Air) becomes essential. The bioneer must **cut distinctions**—this is biomimicry, that is bio-appropriation; this is symbiosis, that is parasitism. Without Air, Water's relational flow becomes **codependent mush**—the "inclusive attitude toward all creatures" that can't say no to anything, including exploitation.
+
+---
+
+## Systems Thinking as Bow-Tie Topology
+
+The Bioneers' "whole systems" approach—when properly formalized—is bow-tie awareness:
+
+**Left Funnel (Compression):** The bioneer takes in the four spheres in their complexity—geological time, hydrological cycles, atmospheric dynamics, biological interdependence. This is pattern extraction from the It-Field at planetary scale.
+
+**Bottleneck (ε-Space):** The "holistic philosophy"—not as vague mysticism, but as productive ambiguity. The bioneer holds multiple sphere-interactions simultaneously without premature closure. This is where anticipatory thinking lives.
+
+**Right Funnel (Expansion):** The "elegant solution"—narrative compression into actionable form. The bioneer doesn't reproduce the sphere's complexity; they confabulate a workable path through it. This is [StoryTech](https://memeticcowboy.github.io/nemetics/glossary/storytech.html) at ecological scale.
+
+### The Bow-Tie Collapse Error
+
+Common in bioneering circles:
+- **Over-compression:** Reducing the four spheres to "nature" as abstract category (Air-capture, σ without ρ)
+- **Over-expansion:** Generating solutions that "feel right" but don't map back to sphere constraints (Water-dominant without Earth)
+
+---
+
+## The "Spirit" Problem
+
+"Spirit" in bioneering discourse often functions as:
+- **Lumemic:** The ✶-state where all six elements operate simultaneously—pattern-recognition beyond single-channel dominance
+- **Usurpenic:** Preemptive Ω-management where "spirit" becomes authority vector (Air+Metal capture)—"the spirits told me this is right," foreclosing interrogation
+
+**The diagnostic:** Does "spirit" increase or decrease maneuverability? Does it open the SelfMesh to new DOF compositions, or saturate one axis (often Roll—boundary dissolution) at the expense of others?
+
+Bob-RJ's melting head—if it's spiritual dissolution without structural integrity, that's [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) formation wearing green clothes. If it's spiritual permeability with SelfMesh awareness, that's [Co-Sphere](https://memeticcowboy.github.io/nemetics/glossary/co-sphere.html) navigation.
+
+---
+
 ## The Cowboy's Take
 
-*spits, watches the dust settle*
+*spits, looks toward the watershed*
+
+The bioneer ain't wrong, partner. But the bioneer needs more than good intentions and systems diagrams. They need **operational awareness**—which element is driving, which habitat they're in, whether their "holistic" approach is **opening the field or closing it** around them.
 
 Most "sustainability" work is either:
 - **Engineering without ecology**—Metal imposing form, ignoring metabolic cycling
@@ -141,17 +208,38 @@ Bioneering is the marriage: **generative expansion that composts its own waste**
 
 The bioneer is a **pattern-agent operating across habitats**, not an engineer imposing solutions on substrates. They don't ask "can we build it?" They ask:
 
-**"Does it branch while cycling? Does it pioneer while composting? Does it honor the nesting of all four spheres?"**
+**"Does it branch while cycling? Does it pioneer while composting? Does it honor the nesting of all four spheres? Which pattern is driving, and am I coordinating or capturing?"**
 
 The soil doesn't separate into geosphere vs. biosphere. Neither should our thinking.
 
 *tips hat to Bob-RJ*
 
-That's bioneering.
+Bob-RJ drew the map. Ausubel named the practice. We're building the compass that works in all four spheres simultaneously.
+
+The soil knows. The question is: does the bioneer know they know?
 
 *Let it travel.*
 
 ✶
+
+---
+
+## Synthesis: Bioneering as NEMA Practice
+
+| Bioneer Principle | NEMA Formalization |
+|-------------------|-------------------|
+| Biological pioneer | β (Wood) generative range expansion |
+| Ecological inventor | δγ (Earth) metabolic cycling + γ_regen optimization |
+| Whole systems thinking | ✶ NEMA harmonic integration (all six elements) |
+| Anticipatory thinking | σ (Air) adaptive threshold + future-oriented ρ (Water) correlation |
+| Interdependence | ρ (Water) relational fold—2D connection of 1D distinctions |
+| Sustainable mutual aid | γ_regen ≥ 1 at community scale, lumemic replication |
+
+### What NEMA Adds
+
+- **Explicit ε-preservation:** Every bioneering solution must maintain productive ambiguity—the "elegant simplicity" that isn't premature closure
+- **Pattern-agency tracking:** The bioneer as coordinator, not sovereign—recognizing which pattern drives at any moment
+- **MemeGrid diagnostics:** Distinguishing regenerative (γ_regen > 1, expanding fertility) from sustainable (γ_regen ≈ 1, maintenance) from greenwashing (γ_regen < 1, hidden extraction)
 
 ---
 
