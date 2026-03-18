@@ -140,7 +140,7 @@ Hauntology can **aestheticize capture**. The "eerie" becomes comfortable melanch
 
 This is Water (≈) without Fire (▲)—relational resonance without vectored purpose, feeling connected to loss instead of moving through it.
 
-![The spectral at the crossroads: dust settling in patterns that aren't quite shapes](/assets/images/hauntology-spectral.jpg)
+![The spectral at the crossroads: dust settling in patterns that aren't quite shapes](./hauntology-spectral.jpg)
 
 ### Operational Integration: Spectral Residue Detection
 
