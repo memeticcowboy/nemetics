@@ -29,6 +29,8 @@ These ain't separate phenomena, friend. They're the **same mechanism at differen
 
 The hypersigil is **hyperstition's microcosm**—a controlled experiment in reality-tunneling that, if successful, escapes into the wild as full-blown cultural hyperstition.
 
+![The bow-tie topology of hypersigil and hyperstition: two riders on the same trail](/assets/images/hypersigil-hyperstition.jpg)
+
 ## The Shared Architecture
 
 Both operate on what we now recognize as [bow-tie topology](https://memeticcowboy.github.io/nemetics/glossary/bow-tie.html):
