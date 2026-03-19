@@ -21,6 +21,7 @@ import textwrap
 import yaml
 from pathlib import Path
 
+import docx as python_docx
 import jinja2
 import markdown
 
@@ -178,6 +179,85 @@ def md_to_html(md_content: str, strip_title: bool = True) -> str:
     return md.convert(md_content)
 
 
+def docx_to_markdown(filepath: Path) -> str:
+    """Convert a .docx file to markdown text."""
+    doc = python_docx.Document(str(filepath))
+    from docx.oxml.ns import qn
+
+    def para_to_md(para):
+        if not para.text.strip():
+            return ""
+        style_name = para.style.name if para.style else "Normal"
+        prefix = {"Heading 1": "# ", "Heading 2": "## ", "Heading 3": "### ",
+                  "Heading 4": "#### "}.get(style_name, "")
+        if prefix:
+            return f"{prefix}{para.text}"
+        parts = []
+        for run in para.runs:
+            text = run.text
+            if not text:
+                continue
+            if run.bold and run.italic:
+                text = f"***{text}***"
+            elif run.bold:
+                text = f"**{text}**"
+            elif run.italic:
+                text = f"*{text}*"
+            parts.append(text)
+        return "".join(parts) if parts else para.text
+
+    def table_to_md(table):
+        rows = []
+        for row in table.rows:
+            cells = [cell.text.strip().replace("\n", " ") for cell in row.cells]
+            rows.append(cells)
+        if not rows:
+            return ""
+        lines = ["| " + " | ".join(rows[0]) + " |",
+                 "| " + " | ".join(["---"] * len(rows[0])) + " |"]
+        for row in rows[1:]:
+            lines.append("| " + " | ".join(row) + " |")
+        return "\n".join(lines)
+
+    body = doc.element.body
+    para_idx = 0
+    table_idx = 0
+    md_lines = []
+    found_heading = False
+    title_candidate = None
+
+    for child in body:
+        if child.tag == qn("w:p"):
+            para = doc.paragraphs[para_idx]
+            para_idx += 1
+            text = para.text.strip()
+            style_name = para.style.name if para.style else "Normal"
+            is_heading = style_name.startswith("Heading")
+
+            # Promote first non-empty unstyled text before any heading as the title
+            if not found_heading and not is_heading and text and title_candidate is None:
+                title_candidate = text
+                md_lines.append(f"# {text}")
+                md_lines.append("")
+                continue
+            if is_heading:
+                found_heading = True
+
+            line = para_to_md(para)
+            md_lines.append(line)
+            md_lines.append("")
+        elif child.tag == qn("w:tbl"):
+            table = doc.tables[table_idx]
+            table_idx += 1
+            md_lines.append("")
+            md_lines.append(table_to_md(table))
+            md_lines.append("")
+
+    result = "\n".join(md_lines)
+    result = re.sub(r"\n{3,}", "\n\n", result)
+    return result.strip()
+
+
 def relative_root(from_path: str) -> str:
     """Calculate relative path back to root from a given output path."""
     depth = from_path.count("/")
@@ -275,12 +355,16 @@ class SiteBuilder:
         for paper_file in sorted(papers_dir.iterdir()):
             if paper_file.name.startswith("."):
                 continue
-            if paper_file.suffix.lower() not in ("", ".md", ".txt"):
+            if paper_file.suffix.lower() not in ("", ".md", ".txt", ".docx"):
                 continue
             if not paper_file.is_file():
                 continue
-            raw = paper_file.read_text(encoding="utf-8")
-            front_matter, body = parse_front_matter(raw)
+            if paper_file.suffix.lower() == ".docx":
+                body = docx_to_markdown(paper_file)
+                front_matter = {}
+            else:
+                raw = paper_file.read_text(encoding="utf-8")
+                front_matter, body = parse_front_matter(raw)
             title = extract_title(body, paper_file.name)
             excerpt = extract_excerpt(body)
             html_content = md_to_html(body)
