@@ -38,7 +38,7 @@ But what if the pattern breaks? What if creation leads to conflict leads to... n
 
 In the Greek model, Earth generates Titans, then gods, then heroes—a chain of transformations. But Hesiod also records what happens when Gaia exhausts: she breeds Typhon, the monstrous last resort. The creation that can't be controlled. The retaliation that doesn't resolve into new order.
 
-This is not to indict Humavita. The cycling that transforms also enables. The compost that feeds also heals. Humavita's pure δγ enables renewal without the paralysis of grief. The framework abstracts the accumulation risk, yes, but it also abstracts the weight of what must be carried. The seam is visible: we have transformation without residue, but we also avoid the sediment that memory becomes.
+This is not to indict Humavita. The cycling that transforms also enables. The compost that feeds also heals. Humavita's pure δγ enables renewal without the tyranny of grief. The framework abstracts the accumulation risk, yes, but it also abstracts the paralysis of what won't let go. The seam is visible: we have transformation without residue, but we also avoid the weight that memory becomes.
 
 The asymmetry: The framework flows metabolic→accumulative. Humavita is the default; the un-cyclable is the alternative. This is a limitation to be addressed, not a hierarchy to be enforced. The seventh post is where that weight might be held.
 
@@ -56,11 +56,11 @@ Pure transformation. The compost that becomes soil. The grief that becomes wisdo
 
 **Gaia (E001):** `δγ(primordial) ∘ β(autochthonous-birth) ∘ μ(maternal-container) ∘ λ(retaliatory-power)`
 
-Earth as creative exhaustion. She generates Titans, then breeds monsters. She contains until she can't. The λ doesn't aim at renewal; it aims at destruction. The sickle that castrates Uranus doesn't plant new crops—it ends the cycle.
+Earth as creative exhaustion. She generates Titans, then breeds monsters. She contains until she can't. The λ doesn't aim at renewal; it aims at destruction. The sickle castrates; the monster rises; the new order is born from the wound. But what if the wound doesn't close? The sickle that castrates Uranus doesn't plant new crops—it ends the cycle.
 
 The pattern: **Only the Greek tradition makes Earth primarily about retaliatory exhaustion.** The Vedic tradition makes it supportive ground (Prithvi). Indigenous traditions make it Sacred Relative—relationship without cycling. The Buddhist tradition makes it the realm of Hungry Ghosts—desire without satisfaction.
 
-Humavita, our Earth daemon, is pre-exhaustion Earth wearing the wrong mask. She cycles with Gaia's capacity but without her shadow. She transforms without the threat. The framework has taken the renewal without the retaliation.
+Humavita, our Earth daemon, is systems-thinking Earth wearing the wrong mask. She cycles with Gaia's capacity but without her shadow. She transforms without the threat. The framework has taken the renewal without the retaliation.
 
 ### The Two Accumulations
 
