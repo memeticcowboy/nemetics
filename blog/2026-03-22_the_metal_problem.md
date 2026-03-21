@@ -58,7 +58,7 @@ Metal as violent liberation. She severs heads, wears skulls, dances on corpses. 
 
 The pattern: **Only the Hindu tradition makes Metal primarily about wounding liberation.** The Greek tradition makes it cosmic form (dodecahedron) or tool (Hephaestus' forge). The Norse tradition makes it binding chain (Fenrir's fetter that will break). The Weberian tradition makes it Iron Prison—rationalization that cages.
 
-Ferrosid, our Metal daemon, is modernist Metal wearing the wrong mask. He structures with Kali's precision but without her blood. He defines without the severing. The framework has taken the boundary without the blade.
+Ferrosid, our Metal daemon, is Weberian Metal wearing the wrong mask. He structures with Kali's precision but without her blood. He defines without the severing. The framework has taken the boundary without the blade.
 
 ### The Two Cuts
 
@@ -154,7 +154,7 @@ The framework asks you to. That's its job. Not to resolve the division, but to m
 
 As the cowboy says: Signal, not irony. Some cuts don't close. They stay open.
 
-The field feels what the fire forgets. The water dissolves what the field holds. The earth buries what the water would drown—and some of it stays buried. The metal cuts what the earth would petrify.
+The field feels what the fire forgets. The water dissolves what the field holds. The earth buries what the water would drown—and some of it stays buried. The metal cuts what the earth would petrify—and some cuts don't close.
 
 🤠
 
