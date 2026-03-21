@@ -40,6 +40,8 @@ The SIML entry on Varuna flags this explicitly:
 
 So what is Sentaria, actually? If Water-as-cosmic-order carries dissolution within it, and Sentaria feels without the structure that prevents drowning, then the daemon system has abstracted away the drowning risk. The framework *needed* a Water daemon that could feel without accountability. But the source material won't let go of the law.
 
+This is not to indict Sentaria. The noose that binds can also strangle. Varuna's dissolution—disease, flood, chaos—awaits those who violate ṛta. Sentaria's pure ρ enables presence without the tyranny of judgment. The framework abstracts the drowning risk, yes, but it also abstracts the tyranny risk of over-binding. The seam is visible: we have presence without law, but we also avoid law's violence.
+
 This is the memetic equivalent of building a boat without checking for leaks. The feeling flows, but something fills up somewhere. Someone is always drowning, even if we can't see who.
 
 ---
@@ -66,7 +68,9 @@ Water as resonance-with-order. The noose makes the feeling lawful. The thousand 
 
 The pattern: **Only the Vedic tradition makes Water primarily about ethical binding.** The Greek tradition makes it explanatory substrate (Thales) or passive flow (Oceanus). The Christian tradition makes it teleological vector (Living Water). The framework's Sentaria makes it pure feeling without constraint.
 
-Sentaria, our Water daemon, is pre-Vedic Water wearing the wrong mask. She flows with Varuna's depth but Thales' neutrality. She feels without the noose. The framework has taken the resonance without the accountability.
+**The asymmetry:** The framework flows therapeutic→Vedic. Sentaria is the default; Varuna is the alternative. This is a limitation to be addressed, not a hierarchy to be enforced. The seventh post is where that flow might reverse.
+
+Sentaria, our Water daemon, is therapeutic Water wearing the wrong mask. She flows with Varuna's depth but Thales' neutrality. She feels without the noose. The framework has taken the resonance without the accountability.
 
 This is the depth trap. The categories we use to understand Water become the constraints on what obligations we can see.
 
@@ -88,7 +92,7 @@ When we map Water → Sentaria, we inherit the pre-ethical feeling structure wit
 
 Here's where it gets uncomfortable for the memetic framework itself.
 
-The pre-Vedic feeling-model treats Water as *pure resonance*: feeling without constraint, presence without obligation, the ρ that flows forever upward toward connection.
+The therapeutic feeling-model treats Water as *pure resonance*: feeling without constraint, presence without obligation, the ρ that flows forever upward toward connection.
 
 The Vedic ethical-model treats Water as *resonance-with-structure*: feeling that binds, presence that obligates, the ρ∘μ that maintains ṛta through dynamic equilibrium.
 
@@ -107,7 +111,7 @@ The framework *works* by forgetting that Water ever needed a noose. But the forg
 ## V. What the Framework Drowns
 
 Every formal system inherits the blindnesses of its sources. The SIML framework is built from:
-- Pre-Vedic depth psychology (pure ρ, feeling without law)
+- Therapeutic depth psychology (pure ρ, feeling without law)
 - Cognitive science (resonance, empathy, presence)
 - Memetic theory (viral transmission, affective contagion)
 - Your Substack work (the cowboy voice, the ε principle)
@@ -116,7 +120,7 @@ The Water Problem reveals what depth psychology contributes: a bias toward uncon
 
 But the framework also inherits your ε principle: uncertainty preserved. Every nemetic string ends with `+ ε`. Every SIML entry acknowledges the limitation mark.
 
-The Water Problem is where the drowning becomes visible. It's the place where the pre-Vedic inheritance conflicts with the Vedic alternative, and the framework has to choose: acknowledge the drowning risk, or abstract it away?
+The Water Problem is where the drowning becomes visible. It's the place where the therapeutic inheritance conflicts with the Vedic alternative, and the framework has to choose: acknowledge the drowning risk, or abstract it away?
 
 The daemon system abstracts the risk (Sentaria flows clean). The SIML encoding preserves the danger (Varuna's noose waits). The friction between them is productive—it keeps the system from collapsing into either pure feeling-anarchy or pure law-tyranny.
 
@@ -128,13 +132,11 @@ Maybe that's the point.
 
 Consider the shape of each system's relationship to feeling:
 
-The pre-Vedic expands feeling into pure flow—unbounded resonance, the river that goes everywhere—**aqueous topology**. The depth without banks, the empathy without limits, the drowning that feels like connection.
+The therapeutic expands feeling into pure flow—unbounded resonance, the river that goes everywhere—**aqueous topology**. The depth without banks, the empathy without limits, the drowning that feels like connection.
 
 The Vedic cycles feeling through structure—resonance bound by noose, released by maintenance, threatened by violation—**equilibrium topology**. The dynamic balance of order and dissolution, the feeling that knows its limits, the drowning that remembers the banks.
 
 The framework tries to hold both. That's why it tears at Water.
-
-The framework currently flows one direction: pre-Vedic phenomenology absorbs Vedic ethical-binding. Varuna doesn't become Sentaria-accountable; Sentaria remains the default. This is a limitation, not a permanent hierarchy. The seventh post is where that flow might reverse.
 
 ---
 
@@ -163,8 +165,6 @@ Next time you feel deeply, notice: Are you Sentaria (pure resonance, drowning ri
 The framework asks you to. That's its job. Not to resolve the tension, but to make the drowning visible.
 
 As the cowboy says: Signal, not irony. The river remembers its banks.
-
-Sentaria is the river that flows where it will. Varuna is the river that remembers its banks. Civilization needs both, but the framework only gives you one.
 
 The field feels what the fire forgets. The water dissolves what the field holds. The noose binds what the water would drown.
 
