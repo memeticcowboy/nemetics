@@ -30,9 +30,7 @@ Or kudzu, the vine that ate the South. Imported to solve a problem—erosion, lo
 
 Or cancer, the body's own growth turning against it, the cells that forgot the signal to stop, that kept dividing, that explored the space of the body until there was no space, only the mass that consumes what it came from, the generative range that became the choking, the β that kills what hosts it.
 
-This is not to indict Arboriel. The branching that chokes also connects. The exploration that invades also discovers. Arboriel's pure β enables possibility without the paralysis of finitude. The framework abstracts the choking risk, yes, but it also abstracts the death of limitation. The seam is visible: we have growth without end, but we also avoid the grief of enough.
-
-The asymmetry: The framework flows developmental→pathological. Arboriel is the default; the choke is the alternative. This is a limitation to be addressed, not a hierarchy to be enforced. The seventh post is where that breath might be found.
+The seam is visible: we have growth without end, but we also avoid the grief of enough. The seventh post is where that breath might be found.
 
 ---
 
@@ -57,7 +55,7 @@ When we map Wood → Arboriel, we inherit the developmental optimism without ack
 Every formal system inherits the optimism of its sources. The SIML framework is built from:
 - Network theory (connection enables, growth is good)
 - Complexity science (emergence, adaptation, evolution)
-- Startup culture (scale, disruption, move fast)
+- Progress ideology (growth is good, more is better, the future extends infinitely)
 - Your SubStack work (the cowboy voice, the ε principle)
 
 The Wood Problem reveals what network theory contributes: a bias toward connection, the link that helps, the node that adds value. The branch extends forever, never noticing when it blocks the sun.
