@@ -104,11 +104,13 @@ For now, we're left with the Wood Problem: Wood enables exploration, but explora
 
 ---
 
-## VI. The Quintet
+## VI. The Sextet
 
-The field feels what the fire forgets.
+The air feels what the fire forgets.
 
-The water dissolves what the field holds.
+The fire forgets what the water dissolves.
+
+The water dissolves what the earth holds.
 
 The earth buries what the water would drown—and some of it stays buried.
 
