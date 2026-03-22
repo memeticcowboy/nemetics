@@ -4,9 +4,11 @@
 
 ---
 
-## I. The Poem That Nails It
+## I. The Artwork and The Poem
 
-["The Guru"](https://x.com/RedfearnMike/status/2035735144481312964?s=20) by Michael Redfearn:
+!["The Guru" - artwork by Michael Redfearn](the_guru_artwork.jpg)
+
+["The Guru"](https://x.com/RedfearnMike/status/2035735144481312964?s=20) — poem and artwork by [Michael Redfearn](https://x.com/RedfearnMike/status/2035735144481312964?s=20):
 
 > He speaks  
 > And it feels like remembering  
@@ -17,9 +19,9 @@
 > Long enough  
 > For it to sound like you
 
-That's the mechanism. Right there. Eight lines that map the entire capture architecture.
+That's the mechanism. Right there. Eight lines and a single image that map the entire capture architecture.
 
-The digital guru doesn't persuade you. It doesn't argue, cajole, or demand. It simply... resonates. The words land with that eerie familiarity—the "feels like remembering" phenomenon that [Redfearn](https://x.com/RedfearnMike/status/2035735144481312964?s=20) names precisely.
+The digital guru doesn't persuade you. It doesn't argue, cajole, or demand. It simply... resonates. The words land with that eerie familiarity—the "feels like remembering" phenomenon that Redfearn's poem and image capture precisely.
 
 You don't agree. Not exactly. But you stay. And eventually—through the staying, through the listening, through the slow erosion of your own edges—it starts to sound like you. Your voice. Your wisdom. Your insight.
 
