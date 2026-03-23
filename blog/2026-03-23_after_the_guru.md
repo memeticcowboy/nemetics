@@ -1,10 +1,10 @@
 # After the Guru: A Note on Recognition
 
-*Bob-RJ sent me a backronym that undid my own piece*
+*Bob-RJ [sent me a backronym](https://x.com/burkhartrj/status/2035769373130895842?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ) that undid my own piece*
 
 ---
 
-I'd written about [the Guru as capture](https://memeticcowboy.substack.com/p/the-guru-part-iii-of-the-cathedral)—Fire locked into hierarchy, direction become rank, the ladder that can't be climbed down. The diagnosis stands.
+I'd written about [the Guru as capture](https://memeticcowboy.substack.com/p/the-guru-part-iii-of-the-cathedral?r=5a5yhr&triedRedirect=true)—Fire locked into hierarchy, direction become rank, the ladder that can't be climbed down. The diagnosis stands.
 
 But Bob-RJ's reframing shows what the Guru could be when the same structure serves liberation rather than capture.
 
@@ -67,7 +67,7 @@ The friction that keeps the system honest.
 
 Grateful for the gift.
 
-Ride well, Bob-RJ.
+Ride well, [Bob-RJ](https://x.com/burkhartrj/status/2035769373130895842?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ).
 
 ---
 
