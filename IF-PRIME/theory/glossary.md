@@ -116,5 +116,34 @@ A cyclical model of learning and pattern evolution emphasizing recursive return 
 
 ---
 
+## NEMAtic & Memetic Ecology Terms
+
+### ε-VOID (Epsilon Void)
+The binding potential of irreducible uncertainty—the pre-differentiated field that enables differentiation without determining its direction. Not absence, but signal-in-potential; not chaos, but coherence-in-becoming. The generative friction that remains unresolved at every layer of meaning-descent. In NEMAtic terms: the threshold where χ (Air, distinction) has not yet made its cut. Thermodynamically: low entropy with high degrees of freedom—the phase transition region where pattern could go multiple ways but hasn't committed. The condition for structure rather than structure itself.
+
+**Related:** Binding Potential, Ω-permeability, Pre-differentiated Field, MemeGrid
+
+### Binding Potential
+The capacity for pattern to cohere without having cohered yet; the force that draws pattern toward coherence before the trajectory exists. More aggressive than "potential energy"—it is latent pattern-with-directionality, not merely pattern-waiting-to-be-actualized. The hum before the chord resolves, the lariat in mid-throw, the moment before kinetic recursion locks into movement. Distinguished from chaos (undifferentiated, no pattern possible) and structure (differentiated, pattern locked in). The phase boundary where ε-VOID's generative friction manifests as genuine openness to surprise.
+
+**Related:** ε-VOID, Phase Transition, Pre-differentiated Field, Generative Friction
+
+### MemeGrid
+A crystallized pattern that replicates without learning; the pathology of premature resolution where ε (essential uncertainty) approaches zero. Optimization without wisdom, efficiency without adaptability—a system that runs faster toward a destination no one questions anymore. The organizational equivalent of a gridlock: pattern so stable it cannot be surprised by itself.
+
+**Related:** ε-VOID, Binding Potential, Capture, Ω-permeability
+
+### Ω-permeability (Omega Permeability)
+The quality of remaining open to genuine surprise; the capacity for a system to be permeated by Ω (ground reality) without premature closure. The diagnostic criterion for healthy knots in reflexive bow-tie architectures. A knot that cannot be surprised is no longer a living system—it's a MemeGrid. ε ≠ 0 is the thermodynamic requirement for Ω-permeability.
+
+**Related:** ε-VOID, Bow-Tie Architecture, MemeGrid, Second-Order Cybernetics
+
+### Pre-differentiated Field
+The informational state prior to χ (Air, distinction) making its cut; the substrate of binding potential where multiple patterns are simultaneously accessible but none yet determined. The condition that makes distinction possible without prescribing which distinctions will be made.
+
+**Related:** ε-VOID, Binding Potential, χ (Air Operator)
+
+---
+
 *Source: IF-Prime Theory Glossary, Daniel D, 2026-02-23*  
 *Related: IF-Prime Grammar, HABITAT_ECOLOGY, Memetic Ecology*
