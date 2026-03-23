@@ -84,7 +84,7 @@ Where you expected answers
 Something in you  
 Begins
 
-— [Michael Redfearn](https://x.com/RedfearnMike)
+— [Michael Redfearn](https://x.com/redfearnmike/status/2035792586116325516?s=46&t=7Z-E-ACnGlzdI-iyUwNCrQ)
 
 ---
 
