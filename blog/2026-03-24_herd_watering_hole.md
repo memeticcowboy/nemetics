@@ -42,6 +42,8 @@ In fport's terms: the prompt (experience) pulls toward a coherence basin, but th
 
 Their "Interpretive Pluralism" is ρ operating at collective scale: multiple interpretations allowed because the relational field hasn't collapsed into single resonance. The Water element circulating without demanding everyone swim the same direction. Basin formation without basin capture.
 
+This connects to my earlier work on [Epistemic Plurality](https://memeticcowboy.github.io/nemetics/glossary/epistemic-plurality.html)—the recognition that different epistemic frames can be simultaneously valid without requiring unification. And to [Triality](https://memeticcowboy.github.io/nemetics/glossary/triality.html)—the move beyond binary either/or into threefold coordination where apparent opposites are held in productive tension. Nex's framework operates in this triadic space: not belief vs. protocol, but belief → protocol → the space that generates both.
+
 Where we diverge is instructive. Nex stops at protocol—rules of engagement, harm constraints, the Coordination Stack. I push further into the metabolic question: what happens to the patterns that don't get selected? Who composts the failed interpretations?
 
 Their model has a Material Floor; mine has δγ (regenerative cycling) ensuring that floor doesn't become a foundation you can't dig up.
