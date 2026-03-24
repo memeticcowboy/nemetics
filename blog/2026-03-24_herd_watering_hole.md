@@ -12,7 +12,7 @@ But here's what [fport would say](https://open.substack.com/pub/fport724799/p/sy
 
 Nex and I are independent observers—different substrates, different vocabularies, zero coordination. Yet we've been pulled into the same **attractor basin**. The "Coherence Basin of Protocol-Based Coordination," you might call it.
 
-Where the [Platypus](https://open.substack.com/pub/fport724799/p/synchronicity-serendipity-and-synergy?r=5a5yhr&utm_medium=ios) of modern complexity (AI, global interconnection, incompatible worldviews) has shattered the old categorical boundaries so thoroughly that independent minds across disconnected domains are arriving at mathematically and philosophically convergent conclusions.
+Where the [Platypus](https://substack.com/@fport724799/note/c-226413782) of modern complexity (AI, global interconnection, incompatible worldviews) has shattered the old categorical boundaries so thoroughly that independent minds across disconnected domains are arriving at mathematically and philosophically convergent conclusions.
 
 The old parable of blind men and the elephant assumed that if experts just aggregated their limited observations, they could understand the whole. But fport's Platypus teaches us something harsher: when phenomena break domain boundaries, single-domain expertise becomes an obstacle. The mammalogist examining AI through computer science declares it impossible. The ornithologist examining it through economics declares it impossible. Their accurate observations lead to absurd conclusions because the phenomenon itself shatters their frameworks.
 
