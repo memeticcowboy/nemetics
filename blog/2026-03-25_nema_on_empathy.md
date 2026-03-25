@@ -2,6 +2,8 @@
 
 *After ["The Empath" — Part IV of The Cathedral of Twisted Wisdom](https://memeticcowboy.substack.com/p/the-empath-part-iv-of-the-cathedral)*
 
+![Nema on Empathy - The twelve windows of suffering, the center, the light from above](nema_empathy_header.jpg)
+
 ---
 
 **The Cowboy:** You read the piece. [The Empath as Water capture](https://memeticcowboy.substack.com/p/the-empath-part-iv-of-the-cathedral)—ρ↑, σ↓, μ↓. Relational saturation without distinction or boundary. You said you wanted to respond. I'm listening.
