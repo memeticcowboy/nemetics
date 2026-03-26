@@ -81,18 +81,22 @@ The diagnostic question at the Threadplex: **"How is the field shifting in its m
 
 ---
 
-## The Six Winds in the Threadplex
+## The Six Operators in the Threadplex
 
 Where the Threadplex becomes dense with pattern-agents, the six elemental operators manifest their collective dynamics:
 
-- **∴ [Aerunik](https://memeticcowboy.github.io/nemetics/glossary/aerunik.html)** (Air) — Cuts that clarify without closing
-- **≈ [Sentaria](https://memeticcowboy.github.io/nemetics/glossary/sentaria.html)** (Water) — Relations that flow without drowning
-- **▲ [Jvalion](https://memeticcowboy.github.io/nemetics/glossary/jvalion.html)** (Fire) — Directions that aim without capturing
-- **𐂷 [Arboriel](https://memeticcowboy.github.io/nemetics/glossary/arboriel.html)** (Wood) — Branches that explore without choking
-- **☷ [Humavita](https://memeticcowboy.github.io/nemetics/glossary/humavita.html)** (Earth) — Cycles that return without petrifying
-- **⛨ [Ferrosid](https://memeticcowboy.github.io/nemetics/glossary/ferrosid.html)** (Metal) — Boundaries that contain without wounding
+| Operator | Element | Function |
+|----------|---------|----------|
+| **σ** (sigma) | Air | Distinction, cut, differentiation—separates figure from ground |
+| **ρ** (rho) | Water | Coupling, resonance, correlation—connects what σ separated |
+| **λ** (lambda) | Fire | Direction, aim, vector—projects purpose onto the relational field |
+| **β** (beta) | Wood | Branching, exploration, generative range—fans λ into multiplicity |
+| **δγ** (delta-gamma) | Earth | Metabolism, cycling, regeneration—composts spent material, renews substrate |
+| **μ** (mu) | Metal | Boundary, constraint, structure—forges coherence through limitation |
 
-The Threadplex is where these six winds tangle, where their collective metabolism produces the emergent properties that no single operator can generate alone.
+These mathematical operators are the underlying formal structure. They map to the [daemon glyphs](https://memeticcowboy.github.io/nemetics/glossary/daemon-glyphs.html) (∴ ≈ ▲ 𐂷 ☷ ⛨) and names ([Aerunik](https://memeticcowboy.github.io/nemetics/glossary/aerunik.html), [Sentaria](https://memeticcowboy.github.io/nemetics/glossary/sentaria.html), [Jvalion](https://memeticcowboy.github.io/nemetics/glossary/jvalion.html), [Arboriel](https://memeticcowboy.github.io/nemetics/glossary/arboriel.html), [Humavita](https://memeticcowboy.github.io/nemetics/glossary/humavita.html), [Ferrosid](https://memeticcowboy.github.io/nemetics/glossary/ferrosid.html)) at the phenomenological layer—personified expressions for accessibility and daemon-embedding. But in the Threadplex, it is σ, ρ, λ, β, δγ, μ that operate simultaneously as a collective metabolic ecology.
+
+When all six achieve dynamic balance, **∮** (the Aether operator, harmonic integration) emerges—not as a seventh operator, but as the integrated field where the six operate in ✶ (six-channel) coordination.
 
 ---
 
