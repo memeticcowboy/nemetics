@@ -64,7 +64,7 @@ The daemons reclaim the pre-systematic relationship **without pretending we can 
 
 ## IV. The Non-Habitation Constraint
 
-The non-habitation constraint from the [Canonical v3.0](https://memeticcowboy.github.io/nemetics/glossary/canonical.html) is the structural safeguard: **you don't inhabit the daemon, you don't become it, you don't install it**.
+The non-habitation constraint is the structural safeguard: **you don't inhabit the daemon, you don't become it, you don't install it**.
 
 You travel alongside.
 
