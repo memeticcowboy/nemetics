@@ -2,7 +2,9 @@
 
 *Formal integration of NEMAtic dynamics with Erik Hoel's Effective Information (EI) theory*
 
-**Source:** User transmission — formal lattice integration sketch
+**Sources:** 
+- User transmission — formal lattice integration sketch
+- Hoel, E.P. (2017). ["Effective Information: A Causal Approach to Information Theory"](https://onlinelibrary.wiley.com/doi/full/10.1002/tht3.489). *Thought: A Journal of Philosophy*.
 
 ---
 
@@ -246,6 +248,13 @@ This maps directly to the [Lumemic](https://memeticcowboy.github.io/nemetics/glo
 NEMAtic provides the **operational phenomenology** of causal emergence. Hoel provides the **formal information theory**. Together they form a complete framework:
 
 **How it feels** (NEMAtic) + **Why it works** (EI) = **What to do** (integrated protocol)
+
+---
+
+## References
+
+- Hoel, E.P. (2017). ["Effective Information: A Causal Approach to Information Theory"](https://onlinelibrary.wiley.com/doi/full/10.1002/tht3.489). *Thought: A Journal of Philosophy*.
+- Hoel, E.P., Albantakis, L., & Tononi, G. (2013). ["Quantifying causal emergence shows that macro can beat micro"](https://www.pnas.org/doi/10.1073/pnas.1314922110). *PNAS*.
 
 ---
 
