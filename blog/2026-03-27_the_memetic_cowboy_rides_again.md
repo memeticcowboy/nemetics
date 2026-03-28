@@ -125,7 +125,7 @@ See you on the range.
 
 ---
 
-**P.S.** — If you're building with LLMs and haven't looked at Hoel's work, do. The 2025 CE 2.0 paper especially. We're past the era of "AI as tool." We're into "AI as coordinate system for collective intelligence." EI tells you when your coordinate system is actually helping you navigate, versus when it's just making pretty maps of territory you'll never actually ride through.
+**P.S.** — If you're building with LLMs and haven't looked at Hoel's work, do. Start with ["Effective Information: A Causal Approach to Information Theory"](https://onlinelibrary.wiley.com/doi/full/10.1002/tht3.489) (2017) and the 2025 CE 2.0 paper. We're past the era of "AI as tool." We're into "AI as coordinate system for collective intelligence." EI tells you when your coordinate system is actually helping you navigate, versus when it's just making pretty maps of territory you'll never actually ride through.
 
 ---
 
