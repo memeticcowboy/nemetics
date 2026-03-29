@@ -227,15 +227,47 @@ def transform_slideshows(html: str) -> str:
     return re.sub(pattern, _replace, html, flags=re.DOTALL)
 
 
+def _protect_math(md_content: str):
+    """Extract LaTeX math blocks before markdown processing to prevent mangling.
+
+    Returns (modified_content, list_of_(placeholder, original) pairs).
+    """
+    placeholders = []
+    counter = [0]
+
+    def _replace(match):
+        original = match.group(0)
+        tag = f"\x00MATH{counter[0]}\x00"
+        placeholders.append((tag, original))
+        counter[0] += 1
+        return tag
+
+    # Display math: $$ ... $$ (possibly spanning multiple lines)
+    content = re.sub(r'\$\$(.+?)\$\$', _replace, md_content, flags=re.DOTALL)
+    # Inline math: $ ... $ (single line, non-greedy, not preceded/followed by $)
+    content = re.sub(r'(?<!\$)\$(?!\$)(.+?)(?<!\$)\$(?!\$)', _replace, content)
+    return content, placeholders
+
+
+def _restore_math(html: str, placeholders):
+    """Re-insert original LaTeX math blocks after markdown conversion."""
+    for tag, original in placeholders:
+        html = html.replace(tag, original)
+    return html
+
+
 def md_to_html(md_content: str, strip_title: bool = True) -> str:
     """Convert markdown to HTML."""
     if strip_title:
         md_content = strip_leading_heading(md_content)
+    md_content, math_placeholders = _protect_math(md_content)
     md = markdown.Markdown(
         extensions=MARKDOWN_EXTENSIONS,
         extension_configs=MARKDOWN_EXT_CONFIGS,
     )
-    return transform_slideshows(md.convert(md_content))
+    html = md.convert(md_content)
+    html = _restore_math(html, math_placeholders)
+    return transform_slideshows(html)
 
 
 def docx_to_markdown(filepath: Path) -> str:
