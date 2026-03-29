@@ -1,12 +1,4 @@
----
-title: Information-Geometric Integration: Fisher–Rao Structure of the Φ Manifold
-tags:
-  - "Memetic Ecology"
-createdAt: Sat Mar 28 2026 17:22:17 GMT-0700 (Pacific Daylight Time)
-updatedAt: Sat Mar 28 2026 17:22:35 GMT-0700 (Pacific Daylight Time)
----
-
-**Information-Geometric Integration: Fisher–Rao Structure of the Φ Manifold**
+# Information-Geometric Integration: Fisher–Rao Structure of the Φ Manifold
 
 <div class="slideshow" markdown="1">
 
