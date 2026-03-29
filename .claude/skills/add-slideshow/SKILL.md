@@ -54,11 +54,13 @@ Build the block using this exact format:
 ```
 <div class="slideshow" markdown="1">
 
-![Caption 1](./slides/<subfolder-name>/image-01.png)
-![Caption 2](./slides/<subfolder-name>/image-02.png)
+![Caption 1](<./slides/<subfolder-name>/image-01.png>)
+![Caption 2](<./slides/<subfolder-name>/image-02.png>)
 
 </div>
 ```
+
+**IMPORTANT — angle brackets around URLs:** Always wrap the image URL in angle brackets `<...>` as shown above. This is required because filenames may contain spaces, parentheses, or unicode characters that break standard markdown link syntax. The angle brackets tell the markdown parser to treat the entire enclosed string as the URL.
 
 **Caption rules:**
 - If filenames have a numeric prefix (e.g. `1_`, `2_`), use "Slide N" where N is the prefix number

@@ -120,8 +120,17 @@ def extract_excerpt(md_content: str, max_length: int = 200) -> str:
     # Skip the title line
     lines = md_content.split("\n")
     text_lines = []
+    in_slideshow = False
     for line in lines:
         stripped = line.strip()
+        # Skip slideshow blocks entirely
+        if '<div class="slideshow"' in stripped:
+            in_slideshow = True
+            continue
+        if in_slideshow:
+            if stripped == '</div>':
+                in_slideshow = False
+            continue
         # Skip headings, metadata, empty lines, code fences, separators
         if stripped.startswith("#"):
             continue
