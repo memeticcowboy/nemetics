@@ -168,6 +168,56 @@ def strip_leading_heading(md_content: str) -> str:
     return "\n".join(result).strip()
 
 
+def transform_slideshows(html: str) -> str:
+    """Transform <div class="slideshow"> blocks into full slideshow markup."""
+    pattern = r'<div class="slideshow"[^>]*>\s*(.*?)\s*</div>'
+
+    def _replace(match):
+        block = match.group(1)
+        images = re.findall(r'<img\s[^>]*?alt="([^"]*)"[^>]*?src="([^"]*)"', block)
+        if not images:
+            images = re.findall(r'<img\s[^>]*?src="([^"]*)"[^>]*?alt="([^"]*)"', block)
+            images = [(alt, src) for src, alt in images]
+        if not images:
+            return match.group(0)
+
+        count = len(images)
+        slides_html = []
+        dots_html = []
+        thumbs_html = []
+        for i, (alt, src) in enumerate(images):
+            active = ' active' if i == 0 else ''
+            slides_html.append(
+                f'<img src="{src}" alt="{alt}" class="slideshow-slide{active}" data-index="{i}">'
+            )
+            dots_html.append(
+                f'<button class="slideshow-dot{active}" data-index="{i}" aria-label="Slide {i+1}"></button>'
+            )
+            thumbs_html.append(
+                f'<button class="slideshow-thumb{active}" data-index="{i}">'
+                f'<img src="{src}" alt="{alt}">'
+                f'</button>'
+            )
+
+        caption = images[0][0] if images[0][0] else ''
+        return (
+            f'<div class="slideshow" data-slide-count="{count}">\n'
+            f'  <div class="slideshow-main">\n'
+            f'    <button class="slideshow-prev" aria-label="Previous slide">&#8249;</button>\n'
+            f'    <div class="slideshow-viewport">\n'
+            f'      {"".join(slides_html)}\n'
+            f'    </div>\n'
+            f'    <button class="slideshow-next" aria-label="Next slide">&#8250;</button>\n'
+            f'  </div>\n'
+            f'  <div class="slideshow-caption">{caption}</div>\n'
+            f'  <div class="slideshow-dots">{"".join(dots_html)}</div>\n'
+            f'  <div class="slideshow-thumbs">{"".join(thumbs_html)}</div>\n'
+            f'</div>'
+        )
+
+    return re.sub(pattern, _replace, html, flags=re.DOTALL)
+
+
 def md_to_html(md_content: str, strip_title: bool = True) -> str:
     """Convert markdown to HTML."""
     if strip_title:
@@ -176,7 +226,7 @@ def md_to_html(md_content: str, strip_title: bool = True) -> str:
         extensions=MARKDOWN_EXTENSIONS,
         extension_configs=MARKDOWN_EXT_CONFIGS,
     )
-    return md.convert(md_content)
+    return transform_slideshows(md.convert(md_content))
 
 
 def docx_to_markdown(filepath: Path) -> str:
@@ -289,10 +339,14 @@ class SiteBuilder:
         self.stats["pages"] += 1
 
     def copy_assets(self):
-        """Copy CSS to output directory."""
+        """Copy CSS and JS to output directory."""
         css_src = TEMPLATES_DIR / "style.css"
         css_dst = self.output_dir / "style.css"
         shutil.copy2(css_src, css_dst)
+        js_src = TEMPLATES_DIR / "slideshow.js"
+        if js_src.exists():
+            js_dst = self.output_dir / "slideshow.js"
+            shutil.copy2(js_src, js_dst)
 
     def copy_images(self, src_dir: Path, output_subdir: str):
         """Copy image files from a source directory (recursively) to the output."""
