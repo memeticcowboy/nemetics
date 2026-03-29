@@ -1,4 +1,4 @@
-# **Nemetic Wisdom in Memetic Ecology**
+# Nemetic Wisdom in Memetic Ecology
 
 *A Working Paper*
 
