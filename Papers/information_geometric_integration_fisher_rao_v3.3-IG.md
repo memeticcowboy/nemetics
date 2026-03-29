@@ -2,18 +2,18 @@
 
 <div class="slideshow" markdown="1">
 
-![Slide 1](./slides/information_geometric_integration/1_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold.png)
-![Slide 2](./slides/information_geometric_integration/2_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (1).png)
-![Slide 3](./slides/information_geometric_integration/3_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold.jpg)
-![Slide 4](./slides/information_geometric_integration/4_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (2).png)
-![Slide 5](./slides/information_geometric_integration/5_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (3).png)
-![Slide 6](./slides/information_geometric_integration/6_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (4).png)
-![Slide 7](./slides/information_geometric_integration/7_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (5).png)
-![Slide 8](./slides/information_geometric_integration/8_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (6).png)
-![Slide 9](./slides/information_geometric_integration/9_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (7).png)
-![Slide 10](./slides/information_geometric_integration/10_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (8).png)
-![Slide 11](./slides/information_geometric_integration/11_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (9).png)
-![Slide 12](./slides/information_geometric_integration/12_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (10).png)
+![Slide 1](<./slides/information_geometric_integration/1_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold.png>)
+![Slide 2](<./slides/information_geometric_integration/2_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (1).png>)
+![Slide 3](<./slides/information_geometric_integration/3_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold.jpg>)
+![Slide 4](<./slides/information_geometric_integration/4_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (2).png>)
+![Slide 5](<./slides/information_geometric_integration/5_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (3).png>)
+![Slide 6](<./slides/information_geometric_integration/6_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (4).png>)
+![Slide 7](<./slides/information_geometric_integration/7_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (5).png>)
+![Slide 8](<./slides/information_geometric_integration/8_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (6).png>)
+![Slide 9](<./slides/information_geometric_integration/9_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (7).png>)
+![Slide 10](<./slides/information_geometric_integration/10_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (8).png>)
+![Slide 11](<./slides/information_geometric_integration/11_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (9).png>)
+![Slide 12](<./slides/information_geometric_integration/12_Information-Geometric Integration_ Fisher–Rao Structure of the Φ Manifold (10).png>)
 
 </div>
 
