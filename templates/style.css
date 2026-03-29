@@ -906,3 +906,14 @@ hr {
     height: 32px;
   }
 }
+
+/* ═══════════════════════════════════════════════════════
+   MathJax overrides
+   ═══════════════════════════════════════════════════════ */
+
+mjx-container[jax="CHTML"][display="true"] {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  padding: 0.5em 0;
+}
