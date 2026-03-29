@@ -1,47 +1,51 @@
 ---
 name: add-slideshow
-description: Add a slideshow to a blog post. Copies slide images into the correct subdirectory under blog/slides/ and inserts the slideshow markdown block at the top of the post.
-argument-hint: <post-file> <image-source-path-or-directory>
+description: Add a slideshow to a blog post or paper. Copies slide images into the correct subdirectory under the appropriate slides/ folder and inserts the slideshow markdown block at the top of the post or paper.
+argument-hint: <post-or-paper-file> <image-source-path-or-directory>
 allowed-tools: Bash, Read, Edit, Write, Glob, Grep
 ---
 
-# Add Slideshow to Blog Post
+# Add Slideshow to Blog Post or Paper
 
-You are adding a slideshow to a blog post in the Nemetics static site. Follow these steps exactly.
+You are adding a slideshow to a blog post or paper in the Nemetics static site. Follow these steps exactly.
 
 ## Inputs
 
-- `$ARGUMENTS` contains: `<post-file> <image-source>` where:
-  - `<post-file>` is the path to the blog post markdown file (e.g. `blog/2026-03-29_slideshow-demo.md`)
-  - `<image-source>` is either a directory containing slide images, or individual image file paths (space-separated). Supported formats: `.png`, `.jpg`, `.jpeg`, `.gif`, `.svg`, `.webp`
+- `$ARGUMENTS` contains: `<target-file> <image-source>` where:
+  - `<target-file>` is the path to the markdown file (e.g. `blog/2026-03-29_slideshow-demo.md` or `Papers/my_paper.md`)
+  - `<image-source>` is either a directory containing slide images, or individual image file paths (space-separated). Supported formats: `.png`, `.jpg`, `.jpeg`, `.gif`, `.svg`, `.webp`. If omitted, use images already present in the target slides subfolder.
 
-## Step 1: Validate the target post
+## Step 1: Validate the target file
 
-1. Read the post file to confirm it exists.
-2. If it does not exist, list available posts in `blog/` and ask the user which one they meant.
+1. Read the target file to confirm it exists.
+2. Determine which content area it belongs to:
+   - If the path starts with `blog/` → **blog post**
+   - If the path starts with `Papers/` → **paper**
+   - Otherwise, ask the user to clarify.
 
 ## Step 2: Derive the slide subfolder name
 
-Extract the slug from the post filename:
-- Strip the date prefix (`YYYY-MM-DD_` or `YYYY-MM-DD-`)
-- Strip the `.md` extension
-- The remaining string is the subfolder name
+**For blog posts:**
+- Strip the date prefix (`YYYY-MM-DD_` or `YYYY-MM-DD-`) and the `.md` extension
+- Examples: `2026-03-29_slideshow-demo.md` → `slideshow-demo`
 
-Examples:
-- `2026-03-29_slideshow-demo.md` → `slideshow-demo`
-- `2026-03-06-devolution-thermodynamic-necessity.md` → `devolution-thermodynamic-necessity`
-- `2026-02-25_bateson_ecology_mind_information_nemetic_pattern.md` → `bateson_ecology_mind_information_nemetic_pattern`
+**For papers:**
+- Strip the `.md` extension and use the full filename stem as the subfolder name
+- Examples: `information_geometric_integration_fisher_rao_v3.3-IG.md` → `information_geometric_integration_fisher_rao_v3.3-IG`
+- However, if a slides subfolder already exists under `Papers/slides/` that matches key terms from the paper filename, use that existing folder name instead. Check `Papers/slides/` for existing directories and match by shared key terms.
 
-The target directory is: `blog/slides/<subfolder-name>/`
+**Target slides directory:**
+- Blog: `blog/slides/<subfolder-name>/`
+- Papers: `Papers/slides/<subfolder-name>/`
 
 ## Step 3: Copy slide images
 
-1. Create the target directory if it doesn't exist: `blog/slides/<subfolder-name>/`
+1. Create the target slides directory if it doesn't exist.
 2. Determine the image source:
-   - If `<image-source>` is a **directory**, copy all image files (`.png`, `.jpg`, `.jpeg`, `.gif`, `.svg`, `.webp`) from it into the target directory.
+   - If `<image-source>` is a **directory**, copy all image files from it into the target directory.
    - If `<image-source>` is one or more **file paths**, copy each into the target directory.
    - If images already exist in the target directory and no source is provided, use the existing images.
-3. List the images now present in the target directory, sorted alphanumerically. These are the slides.
+3. List the images now present in the target directory, sorted alphanumerically (sort numerically by leading number prefix if present, e.g. `1_`, `2_`, `10_`, `11_`). These are the slides.
 
 ## Step 4: Generate the slideshow markdown block
 
@@ -57,34 +61,45 @@ Build the block using this exact format:
 ```
 
 **Caption rules:**
-- Take the image filename, strip the extension
-- Replace hyphens (`-`) and underscores (`_`) with spaces
-- Title-case the result
-- Example: `slide-01.png` → `Slide 01`, `field-theory-overview.jpg` → `Field Theory Overview`
+- If filenames have a numeric prefix (e.g. `1_`, `2_`), use "Slide N" where N is the prefix number
+- Otherwise: strip the extension, replace hyphens and underscores with spaces, title-case the result
+- Example: `slide-01.png` → `Slide 01`, `1_some_long_name.png` → `Slide 1`
 
 **Path rules:**
-- Paths are **relative to the blog/ directory**, always starting with `./slides/`
+- Paths are **relative to the content directory** (blog/ or Papers/), always starting with `./slides/`
 - Format: `./slides/<subfolder-name>/<filename>`
+- Preserve exact filenames including unicode characters, spaces, and parentheses
 
-## Step 5: Insert the slideshow block into the post
+## Step 5: Insert the slideshow block into the file
 
-1. Read the current post content.
-2. If the post already contains `<div class="slideshow"`, warn the user that a slideshow already exists and ask whether to replace it or skip.
-3. Otherwise, insert the slideshow block **after the first `# H1` heading and its following blank line**, before the body content. If there is no H1 heading, insert at the very top.
+1. Read the current file content.
+2. If the file already contains `<div class="slideshow"`, warn the user that a slideshow already exists and ask whether to replace it or skip.
+3. Otherwise, determine insertion point:
+
+**For blog posts:**
+- Insert after the first `# H1` heading and its following blank line, before the body content.
+- If there is no H1 heading, insert at the very top.
+
+**For papers:**
+- If the file has YAML front-matter (starts with `---`), insert after the front-matter closing `---`.
+- Insert after the bold title line (e.g. `**Paper Title**`) if present.
+- Insert before the draft version line or acknowledgment section.
 
 The result should look like:
 
 ```markdown
-# Post Title
+**Paper Title**
 
 <div class="slideshow" markdown="1">
 
-![Slide 01](./slides/my-post-slug/slide-01.png)
-![Slide 02](./slides/my-post-slug/slide-02.png)
+![Slide 1](./slides/my-paper-slides/slide-01.png)
+![Slide 2](./slides/my-paper-slides/slide-02.png)
 
 </div>
 
-The rest of the post content continues here...
+*(Draft v1.0)*
+
+Rest of paper content...
 ```
 
 ## Step 6: Verify
@@ -92,7 +107,7 @@ The rest of the post content continues here...
 1. For every image path in the slideshow block, confirm the file exists on disk.
 2. If any image is missing, report which ones and stop.
 3. If all images exist, confirm success and show a summary:
-   - Post file path
+   - Target file path
    - Slide folder path
    - Number of slides
    - List of slide filenames
@@ -100,6 +115,8 @@ The rest of the post content continues here...
 ## Important notes
 
 - **Never** overwrite existing images in the slides subfolder without asking.
-- The build system (`build.py`) uses `copy_images()` with `rglob("*")` which recursively copies `blog/slides/<subfolder>/` to `site/blog/slides/<subfolder>/` automatically — no build changes are needed.
-- The `transform_slideshows()` function in `build.py` converts the `<div class="slideshow">` block into the full interactive slideshow HTML at build time.
+- The build system (`build.py`) uses `copy_images()` with `rglob("*")` which recursively copies slides to the output automatically — no build changes are needed.
+  - Blog images: `blog/` → `site/blog/` (including `blog/slides/` subdirectories)
+  - Paper images: `Papers/` → `site/papers/` (including `Papers/slides/` subdirectories)
+- The `transform_slideshows()` function in `build.py` converts the `<div class="slideshow">` block into the full interactive slideshow HTML at build time. It is called for all content (blog, papers, glossary, etc.) via `md_to_html()`.
 - After adding a slideshow, the user can rebuild with `python3 build.py` to see it on the site.
