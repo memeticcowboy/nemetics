@@ -2,27 +2,27 @@
 
 Created at 2025/08/03 10:33 AM
 
-**Mini-Memetic Profile: Purple Pill**
+### ◈ Mini-Memetic Profile
 
-**Title:**<br>*The Purple Pill – Synthesis, Moderation, and Meta-Irony in the Pill Pantheon*
+**Title:***The Purple Pill – Synthesis, Moderation, and Meta-Irony in the Pill Pantheon*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Extreme binaries (Red vs. Blue) are inadequate; truth or sanity lies in synthesis, ambiguity, or stepping outside the fight.
 - Purple Pill thinking frames ideological polarization as both exhausting and absurd, inviting meta-reflection or playful detachment.
 
 ***
 
-▲ Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - Positions the user as the *mediator*, *skeptic*, or *meta-observer*.
 - Can also appear as the *trickster* or *ironic fence-sitter*, consciously resisting total identification with any side.
 
 ***
 
-**💖 Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - Relief from binary pressure
 - Humor, irony, and meta-cognition
@@ -31,14 +31,14 @@ Created at 2025/08/03 10:33 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:** Reddit (r/PoliticalCompassMemes), Twitter/X, Discord meme servers, post-irony spaces
 - **Propagation Style:** Meta-irony, parody, self-aware commentary; often spreads as an image or caption mocking the Red/Blue divide
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - Deflects critique with humor or self-deprecation (“I’m above the fight”)
 - Frames extremists as “coping” or “brainwashed”
@@ -46,7 +46,7 @@ Created at 2025/08/03 10:33 AM
 
 ***
 
-☷ Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - Red/Blue Pill meme taxonomy (The Matrix)
 - Post-ideology and centrist meme culture
@@ -54,7 +54,7 @@ Created at 2025/08/03 10:33 AM
 
 ***
 
-✶ Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - Visuals: Purple pill 💊💜, blended Red/Blue pill memes, ambivalent Wojaks
 - Phrases:
@@ -64,5 +64,6 @@ Created at 2025/08/03 10:33 AM
 
 ***
 
-∿ Tags:**<br>#PurplePill #MetaMeme #Centrism #PostIrony #BothAnd #PillPantheon
+### ∿ Tags
 
+#PurplePill #MetaMeme #Centrism #PostIrony #BothAnd #PillPantheon

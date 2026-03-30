@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 9:27 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Nervous System Regulation” — The Bio-Justification of Boundaries and Behavior*
+**🧠 Title:***“Nervous System Regulation” — The Bio-Justification of Boundaries and Behavior*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Nervous system regulation is used as **scientific-seeming validation** for emotional boundaries, lifestyle choices, or relational disengagement.
 - Implies that behavioral choices are **biologically necessary**, not subject to interpersonal negotiation or moral critique.
@@ -19,7 +19,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Bio-Spiritual Sovereign:** Frames self-care and boundary-setting as nervous system stewardship.
 - **Informed Healer:** Wields scientific and therapeutic language to assert expertise over self-experience.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment:** Offers rational-sounding support for withdrawing or saying no.
 - **Relief:** Validates sensory overwhelm, trauma response, or emotional shutdown as normal and justified.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Therapist-influencers, somatic coaches, trauma recovery creators, polyvagal TikToks, mental health podcasts.
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Scientific Shielding:** Wraps subjective feelings in the authority of neuroscience.
 - **Medicalization of Conflict:** Disagreement becomes “activation” or “dysregulation,” ending dialogue.
@@ -58,7 +58,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#PolyvagalTheory**, **#SomaticHealing**, **#TraumaInformedCulture**
 - Closely tied to: #TherapyTok, #HealingJourney, #NervousSystemHacks, #Embodiment
@@ -67,7 +67,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Regulate before you relate.”*
 - *“My nervous system doesn’t feel safe.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-∿ **Tags:**<br>#BioBoundary #NeuroJustification #PolyvagalSpeak #SomaticLegitimacy #WindowOfTolerance #HealingBiopolitics #BodyKnowsBest #EmbodiedEthics #NervousSystemNarratives #TraumaTech
+### ∿ Tags
 
+#BioBoundary #NeuroJustification #PolyvagalSpeak #SomaticLegitimacy #WindowOfTolerance #HealingBiopolitics #BodyKnowsBest #EmbodiedEthics #NervousSystemNarratives #TraumaTech

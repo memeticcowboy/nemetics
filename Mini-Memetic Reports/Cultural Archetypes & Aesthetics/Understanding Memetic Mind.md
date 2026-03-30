@@ -2,20 +2,20 @@
 
 Created at 2025/07/30 4:15 PM
 
-### ◈ Mini-Memetic Profile: **“Memetic Mind Control”**
+### ◈ Mini-Memetic Profile
 
-**Title:**<br>*Your Thoughts Are Not Your Own*
+**Title:***Your Thoughts Are Not Your Own*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Ideas, media, and cultural narratives are engineered to manipulate collective thought and behavior.
 - The “thought-virus” is: *“Your beliefs and desires are implanted by external forces.”*
 
 ***
 
-▲ Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - Positions the user as:
     - **Awakened analyst** — Able to see the hidden programming.
@@ -24,7 +24,7 @@ Created at 2025/07/30 4:15 PM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Suspicion & paranoia** — Fear of being manipulated without awareness.
 - **Righteous anger** — At propagandists, media, or elite controllers.
@@ -33,7 +33,7 @@ Created at 2025/07/30 4:15 PM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution vectors:** Meme culture itself (meta-memes), conspiracy forums, red-pill communities, “media literacy” and culture-jamming spaces.
 - **Propagation style:**
@@ -43,7 +43,7 @@ Created at 2025/07/30 4:15 PM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Self-sealing logic:** Anyone who denies memetic influence is “already controlled.”
 - **Irony shield:** Uses humor to avoid direct refutation.
@@ -51,7 +51,7 @@ Created at 2025/07/30 4:15 PM
 
 ***
 
-☷ Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - Memetics and cultural evolution theory.
 - Red-pill and black-pill discourse.
@@ -60,7 +60,7 @@ Created at 2025/07/30 4:15 PM
 
 ***
 
-**🔑 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - “NPC,” “Brainwashed,” “Blue-Pilled.”
 - Visuals:
@@ -70,5 +70,6 @@ Created at 2025/07/30 4:15 PM
 
 ***
 
-∿ Tags:**<br>#RedPill #MindVirus #NPCMeme #InfoWar #PsyOps #CultureJamming #Brainwashing #MemeticWarfare
+### ∿ Tags
 
+#RedPill #MindVirus #NPCMeme #InfoWar #PsyOps #CultureJamming #Brainwashing #MemeticWarfare

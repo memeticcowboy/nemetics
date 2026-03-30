@@ -69,19 +69,3 @@ The meme challenges snap-judgments about veterans by reframing military service 
 ### ∿ Tags
 
 #BeyondTheUniform · #VeteranVoices · #HumanNotLabel · #DivisionKills
-
-## Resources
-- https://object.me.bot/front-img/users/send/img/1756939980647_c4zhf/08eb1f8a-44a0-4ef0-8923-45b820b819ec.png
-
-## Insight
-
-
-*  The image and its accompanying hint emphasize the idea that military service is often driven by necessity rather than pure patriotism or ideological conviction. This perspective challenges the common narrative that all veterans are motivated solely by love of country or a desire to defend certain political ideals. The quote, "It was simply because I was starving," poignantly illustrates how basic survival needs can be a primary factor in the decision to join the military for some individuals.
-
-*  The concept of "outsider-witness" suggests a critical examination of the veteran experience, moving beyond surface-level assumptions to understand the complex realities faced by service members. This aligns with the broader theme of challenging stereotypes and recognizing the diversity of motivations and experiences within the military community. The emotional triggers listed—frustration, vulnerability, curiosity, and surprise—highlight the range of feelings that can arise when engaging with these nuanced perspectives.
-
-*  The mention of "X threads, Facebook rants" as distribution vectors indicates the use of social media to disseminate alternative narratives about military service. This reflects a growing trend of individuals using online platforms to share personal stories and challenge dominant narratives, particularly in areas where traditional media may present a more limited or biased view. The hashtags #BeyondTheUniform and #HumanNotLabel further underscore the effort to promote a more humanistic and less stereotypical understanding of veterans.
-
-*  The phrase "Everything that divides does not serve humanity" suggests a broader philosophical underpinning to the meme, advocating for unity and understanding across different groups and ideologies. This aligns with the idea of moving beyond partisan divides and recognizing the shared humanity of all individuals, regardless of their background or beliefs. The meme's self-proclaimed "non-partisan" stance reinforces this message of inclusivity and bridge-building.
-
-*  The image includes the text "U.S. Army" on the uniform, grounding the message in a specific national context while simultaneously aiming for a universal appeal. This juxtaposition highlights the tension between the particular experiences of American veterans and the broader human themes of survival, struggle, and the search for truth. The image, therefore, invites viewers to consider the individual stories behind the uniform and to question the assumptions they may hold about military service.

@@ -2,15 +2,15 @@
 
 Created at 2025/07/26 8:08 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Inner Calm” — The Serenity-as-Status Meme*
+**🧠 Title:***“Inner Calm” — The Serenity-as-Status Meme*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Inner calm is framed as the **ultimate personal achievement** and emotional currency.
 - The presence of inner calm signifies **maturity, control, and enlightenment**; its absence suggests failure or emotional weakness.
@@ -19,7 +19,7 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Serene Sage:** Detached, poised, superior through restraint.
 - **Inner Pilgrim:** One on a journey to emotional balance and detachment from chaos.
@@ -28,7 +28,7 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Aspiration** (toward poise and control)
 - **Shame** (about inner turbulence or reactivity)
@@ -38,7 +38,7 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Meditation apps, minimalist wellness accounts, therapy-inflected social media, YouTube ASMR/affirmation content.
@@ -50,7 +50,7 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Stoicism-as-Shield:** Critiques reframed as emotional dysregulation or “projecting.”
 - **Moral Elevation:** The calm person is assumed to be “above it all,” criticism seen as emotional volatility.
@@ -59,7 +59,7 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#StoicTok**, **#WellnessCulture**, **#MindfulnessMovement**
 - **Minimalism-as-virtue** aesthetics
@@ -69,7 +69,7 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Protect your inner calm.”*
 - *“Don’t react, respond.”*
@@ -79,5 +79,6 @@ Created at 2025/07/26 8:08 AM
 
 ***
 
-∿ **Tags:**<br>#InnerSanctum #CalmIsCurrency #StoicGlow #SoftPower #QuietStrength #MindfulMinimalism #EmotionalSovereignty #PeaceAesthetic #PostTherapyCore
+### ∿ Tags
 
+#InnerSanctum #CalmIsCurrency #StoicGlow #SoftPower #QuietStrength #MindfulMinimalism #EmotionalSovereignty #PeaceAesthetic #PostTherapyCore

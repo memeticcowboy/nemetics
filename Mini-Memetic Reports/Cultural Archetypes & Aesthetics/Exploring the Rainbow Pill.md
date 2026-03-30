@@ -2,7 +2,7 @@
 
 Created at 2025/08/03 10:58 AM
 
-**🌈 Mini-Memetic Profile — “Rainbow Pill”**<br>*(Meta-Integration of the Entire Chromatic Pharmacology)*
+### ◈ Mini-Memetic Profile
 
 ***
 
@@ -12,7 +12,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🌐 Core Idea Unit
+### ∴ Core Idea Unit
 
 - There is no final pill; every color is a season, not a destiny.
 - The user’s task is to cycle through hues, compost each, and **tend the prism rather than worship any single spectrum**.
@@ -38,7 +38,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🚀 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - Distribution vectors
     - Alt-Twitter threads tagging prior pill debates with 🌈 emoji.
@@ -70,7 +70,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🎨 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - Visual: A prism refracting a single white beam into seven arrows that loop back into white.
 - Phrase: “I swallowed the rainbow and became the spectrum.”
@@ -82,4 +82,3 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 ### ∿ Tags
 
 #RainbowPill #ChromaticPraxis #MetaMeme #PostPill #Hopepunk #CompostCulture #PrismSteward #ColorNomad
-

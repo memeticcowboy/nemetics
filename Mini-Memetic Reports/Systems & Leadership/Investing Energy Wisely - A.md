@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:02 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Invest Your Energy Wisely” — Strategy Doctrine for the Emotional Entrepreneur*
+**🧠 Title:***“Invest Your Energy Wisely” — Strategy Doctrine for the Emotional Entrepreneur*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Encourages users to treat their **attention, emotion, and time** as **investment capital**, placing emphasis on **strategic deployment** rather than emotional spontaneity.
 - Suggests success and well-being derive not just from **self-protection**, but from **selective, goal-aligned engagement**.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Strategic Self-Optimizer:** Makes high-leverage choices for long-term gain.
 - **Emotional Portfolio Manager:** Curates where and how energy is spent based on alignment and growth.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment through clarity:** Enables disengagement from draining people/situations with conviction.
 - **Relief from obligation:** Framing energy as a resource legitimizes refusal.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Social media self-help reels, manifestation and coaching communities, wellness blogs, productivity influencers, neurodivergent planner pages.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Strategic Framing Shield:** Framing decisions as “investments” reframes emotional refusal as future-oriented, not personal rejection.
 - **Value Logic Shield:** Undercuts guilt with logic—“this doesn’t yield growth.”
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#EnergyEconomics**, **#SelfHelpFinance**, **#StrategicBoundaries**
 - Closely allied with: #ProductivityWellness, #ManifestationMindset, #BurnoutRecovery, #TimeIsCurrency
@@ -67,7 +67,7 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Be mindful of where you invest your energy—returns matter.”*
 - *“Energy is currency; spend and invest it like it matters.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 10:02 AM
 
 ***
 
-∿ **Tags:**<br>#EnergyInvestment #StrategicSelfCare #EmotionalPortfolio #EnergeticDiscernment #ROIThinking #BoundaryWisdom #MinimalistHealing #SelfHelpFinance #LifeStrategy #SovereignAttention
+### ∿ Tags
 
+#EnergyInvestment #StrategicSelfCare #EmotionalPortfolio #EnergeticDiscernment #ROIThinking #BoundaryWisdom #MinimalistHealing #SelfHelpFinance #LifeStrategy #SovereignAttention

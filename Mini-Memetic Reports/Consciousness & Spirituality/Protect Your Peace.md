@@ -2,15 +2,15 @@
 
 Created at 2025/07/26 8:06 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Protect Your Peace” — The Sacred Boundary Imperative*
+**🧠 Title:***“Protect Your Peace” — The Sacred Boundary Imperative*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - The individual’s inner peace is a **sacred, non-negotiable resource**.
 - Emotional labor and social obligations are reframed as **threats** rather than responsibilities.
@@ -19,7 +19,7 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Heroic Self-Protector:** Defender of one’s mental/emotional territory.
 - **Victim of Emotional Predators:** Presumes the presence of draining or toxic others.
@@ -28,7 +28,7 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Relief** (from social pressure)
 - **Validation** (for prioritizing self)
@@ -38,7 +38,7 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:** Instagram posts, TikTok therapy content, Pinterest boards, therapist/coach discourse.
 - **Propagation Style:**
@@ -50,7 +50,7 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Moral Framing:** Resistance to boundaries = toxic, disrespectful, or trauma-uninformed.
 - **Pathologizing Pushback:** Critiques interpreted as gaslighting, manipulation, or codependency.
@@ -59,7 +59,7 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#TherapySpeak Culture**
 - **#Self-Care Movement**
@@ -71,7 +71,7 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Protect your peace.”*
 - *“You don’t owe anyone access to you.”*
@@ -81,5 +81,6 @@ Created at 2025/07/26 8:06 AM
 
 ***
 
-∿ **Tags:**<br>#BoundaryCulture #TherapySpeak #SelfCareSovereignty #NeoSpiritual #EmotionalMinimalism #VibeProtection #ToxicFree #NoContactEthics #HealingIsRadical #SoftPower
+### ∿ Tags
 
+#BoundaryCulture #TherapySpeak #SelfCareSovereignty #NeoSpiritual #EmotionalMinimalism #VibeProtection #ToxicFree #NoContactEthics #HealingIsRadical #SoftPower

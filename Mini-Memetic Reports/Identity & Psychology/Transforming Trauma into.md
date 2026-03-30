@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:38 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Trauma-to-Teaching” — The Wounded Wisdom Conversion Script*
+**🧠 Title:***“Trauma-to-Teaching” — The Wounded Wisdom Conversion Script*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Converts personal trauma into **social value and narrative capital** by framing it as the source of **insight, authority, and service**.
 - Embeds suffering within a **teleological arc**: pain becomes meaningful *because* it can be alchemized into teaching, coaching, or mentorship.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Wounded Healer:** Gains legitimacy not despite trauma, but *through* it.
 - **Survivor-Guide:** Uses lived experience to instruct others still “in the dark.”
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Hope:** Suggests that pain has purpose and can produce power.
 - **Validation:** Frames personal suffering as a legitimate source of knowledge.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Coaching bios, TED Talks, healing retreats, spiritual influencer platforms, “about me” pages of trauma-informed practitioners.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Narrative Immunity Shield:** Critiques seen as invalidating trauma or silencing survivors.
 - **Transformation Ethic:** Remaining in pain is framed as stagnation; moving on is virtue.
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#WoundedHealer**, **#PostTraumaticGrowth**, **#ShadowWork**, **#DivineTiming**
 - Closely tied to: #EmpathTok, #HealingJourney, #SpiritualEntrepreneurship, #InnerChildWork
@@ -67,7 +67,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Turn your pain into purpose.”*
 - *“Your mess is your message.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-∿ **Tags:**<br>#TraumaToTeaching #WoundedHealerArchetype #NarrativeAlchemy #HealingAsCurrency #EmpathEntrepreneur #PainAsProof #BreakdownToBreakthrough #MessIsMessage #SpiritualCapital #CoachingAsRedemption
+### ∿ Tags
 
+#TraumaToTeaching #WoundedHealerArchetype #NarrativeAlchemy #HealingAsCurrency #EmpathEntrepreneur #PainAsProof #BreakdownToBreakthrough #MessIsMessage #SpiritualCapital #CoachingAsRedemption

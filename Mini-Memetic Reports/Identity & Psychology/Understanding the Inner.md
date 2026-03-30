@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 9:52 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Energy Is Currency” — The Foundational Metaphor of the Inner Economy*
+**🧠 Title:***“Energy Is Currency” — The Foundational Metaphor of the Inner Economy*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Constructs personal **energy** (emotional, mental, social) as a **scarce, monetizable asset**, placing it within the metaphorical structure of **economics and financial systems**.
 - Establishes the body/self as both **bank** and **investor**, with every action evaluated for **return on energetic investment (ROEI)**.
@@ -19,7 +19,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Energetic Capitalist:** Curates input/output like a portfolio—selective, strategic, ROI-focused.
 - **Self-Owned Microeconomy:** The self is an economy requiring budget-balancing, audits, and emergency reserves.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Scarcity Anxiety:** Triggers fear of overextension, exhaustion, and depletion.
 - **Agency & Control:** Reclaims autonomy over energy use, often after chronic over-giving.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Widely spread in self-help books, therapy speak, productivity culture, social media wellness content, and spiritual-financial hybrids (e.g., manifestation coaches).
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Economic Rationalism:** Critics are seen as fiscally irresponsible with emotional labor.
 - **Value Realignment Frame:** Others labeled “expensive” or “low yield” to justify emotional distancing.
@@ -58,7 +58,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **Neoliberal Selfhood:** Atomized individuals responsible for emotional capital management.
 - **Spiritual Capitalism:** Energy work + abundance logic + self-worth as market value.
@@ -68,7 +68,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Energy is your most valuable currency.”*
 - *“Audit your energy like you audit your finances.”*
@@ -78,5 +78,6 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-∿ **Tags:**<br>#InnerEconomy #EnergeticROI #SpiritualCapitalism #SelfHelpFinance #EmotionalBanking #BoundaryCapital #MicroSovereignty #BurnoutBudgeting #AuditYourCircle #EnergyScarcityFrame
+### ∿ Tags
 
+#InnerEconomy #EnergeticROI #SpiritualCapitalism #SelfHelpFinance #EmotionalBanking #BoundaryCapital #MicroSovereignty #BurnoutBudgeting #AuditYourCircle #EnergyScarcityFrame

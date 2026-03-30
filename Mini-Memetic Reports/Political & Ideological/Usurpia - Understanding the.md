@@ -2,15 +2,15 @@
 
 Created at 2025/07/31 10:36 AM
 
-◈ **Mini-Memetic Profile: “Usurpia — The Hidden Empire of Debt”**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**Title:**<br>*Usurpia: The Invisible Debt-Driven Operating System of Civilization*
+**Title:***Usurpia: The Invisible Debt-Driven Operating System of Civilization*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 > “Modern global civilization runs on a hidden, debt-based money system that inherently creates scarcity, drives endless growth, and consolidates power in the hands of private money creators.”
 
@@ -22,7 +22,9 @@ The **thought-virus** is:
 
 ***
 
-▲ Identity Play & Roles:**<br>Positions the user as:
+### ▲ Identity Play & Roles
+
+Positions the user as:
 
 - **Awakened Observer / Rebel Insider** — Someone who sees the hidden machinery of the economy.
 - **Victim of Extraction** — Framed as exploited by an invisible financial aristocracy.
@@ -30,7 +32,7 @@ The **thought-virus** is:
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Shock & Betrayal** — Realizing money is created as interest-bearing debt, benefiting private institutions.
 - **Anger / Resentment** — Toward systemic injustice and concentrated financial power.
@@ -39,7 +41,7 @@ The **thought-virus** is:
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Alternative economics forums, systemic risk analysis, crypto/blockchain communities.
@@ -52,7 +54,7 @@ The **thought-virus** is:
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Pre-dismissal of Critics:** “You only deny it because you are benefiting from or trapped in the system.”
 - **Self-Sealing Logic:** Every economic crisis or inequality event is interpreted as proof of Usurpia.
@@ -60,7 +62,7 @@ The **thought-virus** is:
 
 ***
 
-☷ Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **Critical Economics & Monetary Reform** — MMT, Positive Money, ecological economics.
 - **Anti-Usury and Anti-Elite Narratives** — Historical parallels to feudal or imperial debt traps.
@@ -69,7 +71,7 @@ The **thought-virus** is:
 
 ***
 
-**🔑 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - **Phrases:** “Debt is the master,” “The money you use is a chain,” “Exponential growth or collapse,” “Hidden empire of usury.”
 - **Visuals:**
@@ -79,7 +81,8 @@ The **thought-virus** is:
 
 ***
 
-∿ Tags:**<br>#DebtEconomy #FinancialOS #Usury #HiddenEmpire #SystemicExtraction #EconomicAwakening #MemeticRebellion
+### ∿ Tags
+
+#DebtEconomy #FinancialOS #Usury #HiddenEmpire #SystemicExtraction #EconomicAwakening #MemeticRebellion
 
 Zipcadia for more tools to understand Usurpia: https://zipcadia.gumroad.com/
-
