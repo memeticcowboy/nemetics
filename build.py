@@ -442,6 +442,51 @@ class SiteBuilder:
 
         return posts
 
+    def build_reports(self) -> list[dict]:
+        """Build all mini-memetic reports and return metadata for index."""
+        reports_dir = ROOT / "reports"
+        reports = []
+
+        if not reports_dir.exists():
+            return reports
+
+        for md_file in sorted(reports_dir.glob("*.md"), reverse=True):
+            raw = md_file.read_text(encoding="utf-8")
+            front_matter, body = parse_front_matter(raw)
+            title = extract_title(body, md_file.name)
+            date = extract_date(body, md_file.name)
+            excerpt = extract_excerpt(body)
+            html_content = md_to_html(body)
+            slug = slugify(md_file.stem)
+            output_path = f"reports/{slug}.html"
+
+            meta_tags = []
+            if date:
+                meta_tags.append(date)
+
+            breadcrumbs = [
+                {"label": "Home", "url": relative_root(output_path) + "index.html"},
+                {"label": "Reports", "url": "index.html"},
+                {"label": title, "url": None},
+            ]
+
+            self.render("page.html", output_path,
+                        title=title, content=html_content, meta=meta_tags,
+                        breadcrumbs=breadcrumbs, active_section="reports")
+
+            reports.append({
+                "title": title,
+                "date": date,
+                "excerpt": excerpt,
+                "url": f"{slug}.html",
+            })
+
+        # Build reports index
+        self.render("reports_index.html", "reports/index.html",
+                    reports=reports, active_section="reports")
+
+        return reports
+
     def build_papers(self) -> list[dict]:
         """Build all papers and return metadata for index."""
         papers_dir = ROOT / "Papers"
@@ -828,6 +873,7 @@ class SiteBuilder:
 
         # Build all sections
         posts = self.build_blog()
+        reports = self.build_reports()
         papers = self.build_papers()
         terms = self.build_glossary()
         self.build_ecology()
@@ -841,16 +887,19 @@ class SiteBuilder:
         self.copy_images(ROOT / "memetic_ecology", "memetic-ecology")
         self.copy_images(ROOT / "IF-PRIME", "if-prime")
         self.copy_images(ROOT / "KNOWLEDGE", "knowledge")
+        self.copy_images(ROOT / "reports", "reports")
 
         # Build main index
         self.render("index.html", "index.html",
                     blog_count=len(posts),
+                    report_count=len(reports),
                     paper_count=len(papers),
                     glossary_count=len(terms),
                     wide=True)
 
         print(f"\nBuild complete: {self.stats['pages']} pages generated.")
         print(f"  Blog posts:    {len(posts)}")
+        print(f"  Reports:       {len(reports)}")
         print(f"  Papers:        {len(papers)}")
         print(f"  Glossary:      {len(terms)}")
         print(f"  Output:        {self.output_dir}/")
