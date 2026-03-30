@@ -115,6 +115,24 @@ The It-Field is where **Ω has not yet differentiated**.
 
 ---
 
+## Simulation Architecture Alignment
+
+The five-layer simulation architecture (Operator Matrix → State Schema → Bow-Tie → Nesting → Ω-Reentry) respects the It-Field's canonical status by **not modeling it as a stateful object**.
+
+In the State Schema, the It-Field is not a state bundle. It enters the simulation as ω(t) — an exogenous stochastic perturbation signal with fat tails, injected at every habitat at every timestep, not owned by any agent or element. The design note is explicit: "The temptation is to give Ω structure. Resist it. Any structure on ω(t) is already χ(Ω)."
+
+This is the formal expression of the canonical constraint: the It-Field cannot be entered, operated from, or given topology. Any mathematical representation of it is already a downstream fold.
+
+Two distinct operators reference Ω without modeling it:
+
+**ω(t)** — continuous stochastic perturbation. The "continuous reseeding of difference" this document describes. Acts on trajectories within existing topology. Always running.
+
+**Ω★** — sparse, nonlocal topology deformation. The Ω-Reentry operator that can reshape basin geometry directly, bypassing habitat adjacency. Acts on the landscape itself. Rare, punctuated, non-teleological.
+
+Both are effects of Ω on differentiated structure. Neither is Ω itself. The architecture acknowledges this irreducible paradox in the Ω-Reentry spec's self-diagnostic: "By defining Ω★ as a stochastic operator with specific properties, this spec has already performed the χ-cut on the very thing that is supposed to precede all cuts."
+
+---
+
 ## Diagnostic Test
 
 **You've left the It-Field if:**
@@ -128,4 +146,5 @@ The It-Field is where **Ω has not yet differentiated**.
 
 *Source: It-Field canonical revision, Daniel D, 2026-01-15*  
 *Framework: HABITAT_ECOLOGY v1.3.1 §4.2*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Ω-Reentry Dynamics v0.2)*  
 *Status: Tightened, de-entangled from Aether, strictly pre-ecological*

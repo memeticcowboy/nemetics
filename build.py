@@ -21,6 +21,7 @@ import textwrap
 import yaml
 from pathlib import Path
 
+import docx as python_docx
 import jinja2
 import markdown
 
@@ -119,8 +120,17 @@ def extract_excerpt(md_content: str, max_length: int = 200) -> str:
     # Skip the title line
     lines = md_content.split("\n")
     text_lines = []
+    in_slideshow = False
     for line in lines:
         stripped = line.strip()
+        # Skip slideshow blocks entirely
+        if '<div class="slideshow"' in stripped:
+            in_slideshow = True
+            continue
+        if in_slideshow:
+            if stripped == '</div>':
+                in_slideshow = False
+            continue
         # Skip headings, metadata, empty lines, code fences, separators
         if stripped.startswith("#"):
             continue
@@ -167,15 +177,176 @@ def strip_leading_heading(md_content: str) -> str:
     return "\n".join(result).strip()
 
 
+def transform_slideshows(html: str) -> str:
+    """Transform <div class="slideshow"> blocks into full slideshow markup."""
+    pattern = r'<div class="slideshow"[^>]*>\s*(.*?)\s*</div>'
+
+    def _replace(match):
+        block = match.group(1)
+        images = re.findall(r'<img\s[^>]*?alt="([^"]*)"[^>]*?src="([^"]*)"', block)
+        if not images:
+            images = re.findall(r'<img\s[^>]*?src="([^"]*)"[^>]*?alt="([^"]*)"', block)
+            images = [(alt, src) for src, alt in images]
+        if not images:
+            return match.group(0)
+
+        count = len(images)
+        slides_html = []
+        dots_html = []
+        thumbs_html = []
+        for i, (alt, src) in enumerate(images):
+            active = ' active' if i == 0 else ''
+            slides_html.append(
+                f'<img src="{src}" alt="{alt}" class="slideshow-slide{active}" data-index="{i}">'
+            )
+            dots_html.append(
+                f'<button class="slideshow-dot{active}" data-index="{i}" aria-label="Slide {i+1}"></button>'
+            )
+            thumbs_html.append(
+                f'<button class="slideshow-thumb{active}" data-index="{i}">'
+                f'<img src="{src}" alt="{alt}">'
+                f'</button>'
+            )
+
+        caption = images[0][0] if images[0][0] else ''
+        return (
+            f'<div class="slideshow" data-slide-count="{count}">\n'
+            f'  <div class="slideshow-main">\n'
+            f'    <button class="slideshow-prev" aria-label="Previous slide">&#8249;</button>\n'
+            f'    <div class="slideshow-viewport">\n'
+            f'      {"".join(slides_html)}\n'
+            f'    </div>\n'
+            f'    <button class="slideshow-next" aria-label="Next slide">&#8250;</button>\n'
+            f'  </div>\n'
+            f'  <div class="slideshow-caption">{caption}</div>\n'
+            f'  <div class="slideshow-dots">{"".join(dots_html)}</div>\n'
+            f'  <div class="slideshow-thumbs">{"".join(thumbs_html)}</div>\n'
+            f'</div>'
+        )
+
+    return re.sub(pattern, _replace, html, flags=re.DOTALL)
+
+
+def _protect_math(md_content: str):
+    """Extract LaTeX math blocks before markdown processing to prevent mangling.
+
+    Returns (modified_content, list_of_(placeholder, original) pairs).
+    """
+    placeholders = []
+    counter = [0]
+
+    def _replace(match):
+        original = match.group(0)
+        tag = f"\x00MATH{counter[0]}\x00"
+        placeholders.append((tag, original))
+        counter[0] += 1
+        return tag
+
+    # Display math: $$ ... $$ (possibly spanning multiple lines)
+    content = re.sub(r'\$\$(.+?)\$\$', _replace, md_content, flags=re.DOTALL)
+    # Inline math: $ ... $ (single line, non-greedy, not preceded/followed by $)
+    content = re.sub(r'(?<!\$)\$(?!\$)(.+?)(?<!\$)\$(?!\$)', _replace, content)
+    return content, placeholders
+
+
+def _restore_math(html: str, placeholders):
+    """Re-insert original LaTeX math blocks after markdown conversion."""
+    for tag, original in placeholders:
+        html = html.replace(tag, original)
+    return html
+
+
 def md_to_html(md_content: str, strip_title: bool = True) -> str:
     """Convert markdown to HTML."""
     if strip_title:
         md_content = strip_leading_heading(md_content)
+    md_content, math_placeholders = _protect_math(md_content)
     md = markdown.Markdown(
         extensions=MARKDOWN_EXTENSIONS,
         extension_configs=MARKDOWN_EXT_CONFIGS,
     )
-    return md.convert(md_content)
+    html = md.convert(md_content)
+    html = _restore_math(html, math_placeholders)
+    return transform_slideshows(html)
+
+
+def docx_to_markdown(filepath: Path) -> str:
+    """Convert a .docx file to markdown text."""
+    doc = python_docx.Document(str(filepath))
+    from docx.oxml.ns import qn
+
+    def para_to_md(para):
+        if not para.text.strip():
+            return ""
+        style_name = para.style.name if para.style else "Normal"
+        prefix = {"Heading 1": "# ", "Heading 2": "## ", "Heading 3": "### ",
+                  "Heading 4": "#### "}.get(style_name, "")
+        if prefix:
+            return f"{prefix}{para.text}"
+        parts = []
+        for run in para.runs:
+            text = run.text
+            if not text:
+                continue
+            if run.bold and run.italic:
+                text = f"***{text}***"
+            elif run.bold:
+                text = f"**{text}**"
+            elif run.italic:
+                text = f"*{text}*"
+            parts.append(text)
+        return "".join(parts) if parts else para.text
+
+    def table_to_md(table):
+        rows = []
+        for row in table.rows:
+            cells = [cell.text.strip().replace("\n", " ") for cell in row.cells]
+            rows.append(cells)
+        if not rows:
+            return ""
+        lines = ["| " + " | ".join(rows[0]) + " |",
+                 "| " + " | ".join(["---"] * len(rows[0])) + " |"]
+        for row in rows[1:]:
+            lines.append("| " + " | ".join(row) + " |")
+        return "\n".join(lines)
+
+    body = doc.element.body
+    para_idx = 0
+    table_idx = 0
+    md_lines = []
+    found_heading = False
+    title_candidate = None
+
+    for child in body:
+        if child.tag == qn("w:p"):
+            para = doc.paragraphs[para_idx]
+            para_idx += 1
+            text = para.text.strip()
+            style_name = para.style.name if para.style else "Normal"
+            is_heading = style_name.startswith("Heading")
+
+            # Promote first non-empty unstyled text before any heading as the title
+            if not found_heading and not is_heading and text and title_candidate is None:
+                title_candidate = text
+                md_lines.append(f"# {text}")
+                md_lines.append("")
+                continue
+            if is_heading:
+                found_heading = True
+
+            line = para_to_md(para)
+            md_lines.append(line)
+            md_lines.append("")
+        elif child.tag == qn("w:tbl"):
+            table = doc.tables[table_idx]
+            table_idx += 1
+            md_lines.append("")
+            md_lines.append(table_to_md(table))
+            md_lines.append("")
+
+    result = "\n".join(md_lines)
+    result = re.sub(r"\n{3,}", "\n\n", result)
+    return result.strip()
 
 
 def relative_root(from_path: str) -> str:
@@ -209,10 +380,14 @@ class SiteBuilder:
         self.stats["pages"] += 1
 
     def copy_assets(self):
-        """Copy CSS to output directory."""
+        """Copy CSS and JS to output directory."""
         css_src = TEMPLATES_DIR / "style.css"
         css_dst = self.output_dir / "style.css"
         shutil.copy2(css_src, css_dst)
+        js_src = TEMPLATES_DIR / "slideshow.js"
+        if js_src.exists():
+            js_dst = self.output_dir / "slideshow.js"
+            shutil.copy2(js_src, js_dst)
 
     def copy_images(self, src_dir: Path, output_subdir: str):
         """Copy image files from a source directory (recursively) to the output."""
@@ -275,12 +450,16 @@ class SiteBuilder:
         for paper_file in sorted(papers_dir.iterdir()):
             if paper_file.name.startswith("."):
                 continue
-            if paper_file.suffix.lower() not in ("", ".md", ".txt"):
+            if paper_file.suffix.lower() not in ("", ".md", ".txt", ".docx"):
                 continue
             if not paper_file.is_file():
                 continue
-            raw = paper_file.read_text(encoding="utf-8")
-            front_matter, body = parse_front_matter(raw)
+            if paper_file.suffix.lower() == ".docx":
+                body = docx_to_markdown(paper_file)
+                front_matter = {}
+            else:
+                raw = paper_file.read_text(encoding="utf-8")
+                front_matter, body = parse_front_matter(raw)
             title = extract_title(body, paper_file.name)
             excerpt = extract_excerpt(body)
             html_content = md_to_html(body)
