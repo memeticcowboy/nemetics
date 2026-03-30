@@ -400,6 +400,22 @@ class SiteBuilder:
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(img, dest)
 
+    def copy_report_images(self):
+        """Copy images from Mini-Memetic Reports subdirs to slugified output paths."""
+        reports_dir = ROOT / "Mini-Memetic Reports"
+        if not reports_dir.exists():
+            return
+        for cat_dir in reports_dir.iterdir():
+            if not cat_dir.is_dir() or cat_dir.name.startswith("."):
+                continue
+            cat_slug = slugify(cat_dir.name)
+            for img in cat_dir.rglob("*"):
+                if img.is_file() and img.suffix.lower() in IMAGE_EXTENSIONS:
+                    rel = img.relative_to(cat_dir)
+                    dest = self.output_dir / "reports" / cat_slug / rel
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copy2(img, dest)
+
     def build_blog(self) -> list[dict]:
         """Build all blog posts and return metadata for index."""
         blog_dir = ROOT / "blog"
@@ -444,48 +460,74 @@ class SiteBuilder:
 
     def build_reports(self) -> list[dict]:
         """Build all mini-memetic reports and return metadata for index."""
-        reports_dir = ROOT / "reports"
-        reports = []
+        reports_dir = ROOT / "Mini-Memetic Reports"
+        categories = []
 
         if not reports_dir.exists():
-            return reports
+            return []
 
-        for md_file in sorted(reports_dir.glob("*.md"), reverse=True):
-            raw = md_file.read_text(encoding="utf-8")
-            front_matter, body = parse_front_matter(raw)
-            title = extract_title(body, md_file.name)
-            date = extract_date(body, md_file.name)
-            excerpt = extract_excerpt(body)
-            html_content = md_to_html(body)
-            slug = slugify(md_file.stem)
-            output_path = f"reports/{slug}.html"
+        total = 0
+        for cat_dir in sorted(reports_dir.iterdir()):
+            if not cat_dir.is_dir() or cat_dir.name.startswith("."):
+                continue
 
-            meta_tags = []
-            if date:
-                meta_tags.append(date)
+            cat_name = cat_dir.name
+            cat_slug = slugify(cat_name)
+            cat_reports = []
 
-            breadcrumbs = [
-                {"label": "Home", "url": relative_root(output_path) + "index.html"},
-                {"label": "Reports", "url": "index.html"},
-                {"label": title, "url": None},
-            ]
+            for md_file in sorted(cat_dir.glob("*.md")):
+                raw = md_file.read_text(encoding="utf-8")
+                front_matter, body = parse_front_matter(raw)
+                title = extract_title(body, md_file.name)
+                date = extract_date(body, md_file.name)
+                excerpt = extract_excerpt(body)
+                html_content = md_to_html(body)
+                slug = slugify(md_file.stem)
+                output_path = f"reports/{cat_slug}/{slug}.html"
 
-            self.render("page.html", output_path,
-                        title=title, content=html_content, meta=meta_tags,
-                        breadcrumbs=breadcrumbs, active_section="reports")
+                meta_tags = [cat_name]
+                if date:
+                    meta_tags.append(date)
 
-            reports.append({
-                "title": title,
-                "date": date,
-                "excerpt": excerpt,
-                "url": f"{slug}.html",
-            })
+                breadcrumbs = [
+                    {"label": "Home", "url": relative_root(output_path) + "index.html"},
+                    {"label": "Reports", "url": relative_root(output_path) + "reports/index.html"},
+                    {"label": cat_name, "url": "../index.html"},
+                    {"label": title, "url": None},
+                ]
 
-        # Build reports index
+                self.render("page.html", output_path,
+                            title=title, content=html_content, meta=meta_tags,
+                            breadcrumbs=breadcrumbs, active_section="reports")
+
+                cat_reports.append({
+                    "title": title,
+                    "date": date,
+                    "excerpt": excerpt,
+                    "url": f"{slug}.html",
+                })
+
+            if cat_reports:
+                # Build category index
+                self.render("reports_category.html",
+                            f"reports/{cat_slug}/index.html",
+                            category=cat_name, reports=cat_reports,
+                            active_section="reports")
+
+                categories.append({
+                    "name": cat_name,
+                    "slug": cat_slug,
+                    "count": len(cat_reports),
+                    "url": f"{cat_slug}/index.html",
+                })
+                total += len(cat_reports)
+
+        # Build main reports index
         self.render("reports_index.html", "reports/index.html",
-                    reports=reports, active_section="reports")
+                    categories=categories, report_total=total,
+                    active_section="reports")
 
-        return reports
+        return categories
 
     def build_papers(self) -> list[dict]:
         """Build all papers and return metadata for index."""
@@ -873,7 +915,7 @@ class SiteBuilder:
 
         # Build all sections
         posts = self.build_blog()
-        reports = self.build_reports()
+        report_cats = self.build_reports()
         papers = self.build_papers()
         terms = self.build_glossary()
         self.build_ecology()
@@ -887,19 +929,19 @@ class SiteBuilder:
         self.copy_images(ROOT / "memetic_ecology", "memetic-ecology")
         self.copy_images(ROOT / "IF-PRIME", "if-prime")
         self.copy_images(ROOT / "KNOWLEDGE", "knowledge")
-        self.copy_images(ROOT / "reports", "reports")
+        self.copy_report_images()
 
         # Build main index
         self.render("index.html", "index.html",
                     blog_count=len(posts),
-                    report_count=len(reports),
+                    report_count=sum(c["count"] for c in report_cats),
                     paper_count=len(papers),
                     glossary_count=len(terms),
                     wide=True)
 
         print(f"\nBuild complete: {self.stats['pages']} pages generated.")
         print(f"  Blog posts:    {len(posts)}")
-        print(f"  Reports:       {len(reports)}")
+        print(f"  Reports:       {sum(c['count'] for c in report_cats)} in {len(report_cats)} categories")
         print(f"  Papers:        {len(papers)}")
         print(f"  Glossary:      {len(terms)}")
         print(f"  Output:        {self.output_dir}/")

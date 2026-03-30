@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}{{ category }} — Mini-Memetic Reports{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1>{{ category }}</h1>
+  <p class="tagline" style="color: var(--text-secondary); margin-top: 0.5em;">{{ reports|length }} mini-memetic profiles</p>
+</div>
+
+<ul class="post-list">
+  {% for report in reports %}
+  <li class="post-list-item">
+    {% if report.date %}<span class="post-date">{{ report.date }}</span>{% endif %}
+    <h3><a href="{{ report.url }}">{{ report.title }}</a></h3>
+    {% if report.excerpt %}
+    <p class="post-excerpt">{{ report.excerpt }}</p>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}
