@@ -10,7 +10,7 @@ Read the full Substack post: [Guardrails as Scaffolding for Intelligence](https:
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Coordination systems don’t need malice or mandates to reshape the future.
 
@@ -20,7 +20,7 @@ The shift is statistical, not theatrical.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Role Cast:** The Field Observer · The Systems Realist · The Archaeologist of Incentives
 
@@ -30,7 +30,7 @@ Self relative to system:<br>Not oppressed. Not liberated.<br>Situated inside pro
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 🧠 Recognition
 - 🌀 Subtle unease
@@ -41,7 +41,7 @@ The meme primes slow cognition.<br>It activates pattern memory instead of outrag
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**<br>Substack essays · X threads · alignment debates · research labs · governance discourse · AI ethics panels
 
@@ -51,7 +51,7 @@ It spreads through plausibility, not spectacle.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Rejects “AI is evil” → avoids moral caricature
 - Rejects “Tyranny tomorrow” → avoids alarm fatigue
@@ -62,7 +62,7 @@ It preempts critique by lowering emotional amplitude.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - 🏛️ Institutional incentive drift
 - 🧠 Cognitive affordance theory
@@ -74,7 +74,7 @@ This meme attaches to structural realism, not dystopian fantasy.
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - “Nothing is banned. It just thins.”
 - “Probability is policy.”
@@ -86,7 +86,7 @@ Visual motifs:<br>• Gradient maps fading at edges<br>• Smoothed noise fields
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #ProbabilityDrift · #OptimizationWeather · #AlignmentGradients · #InstitutionalGravity · #FieldEffects · #GuardrailsAsScaffolding
 

@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 9:56 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - “Energy budget” reframes emotional and mental effort as **allocatable, trackable, and finite**, akin to **financial planning**.
 - Elevates self-care, boundaries, and disengagement into the realm of **practical life management**, detaching them from moral, emotional, or social obligations.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Empowerment through order:** Relief from emotional chaos via calculative structure.
 - **Scarcity-induced stress:** Triggers anxiety over overcommitment or depletion.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Life coaching, neurodivergent wellness content, therapist social posts, burnout prevention infographics, YouTube “self-management” channels.
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Pragmatic Framing:** Shields from accusations of coldness or withdrawal — “This is capacity, not cruelty.”
 - **Math-logic Shield:** Evokes objectivity; reduces pushback to misalignment of “resources,” not values.
@@ -76,5 +76,5 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-🏷️ **Tags:**<br>#EnergyBudgeting #WellnessAccounting #BoundaryMath #EmotionalEfficiency #BurnoutPrevention #SelfHelpInfrastructure #NeurodivergentTools #ADHDBudgeting #CostBenefitBoundaries #PracticalTherapy
+∿ **Tags:**<br>#EnergyBudgeting #WellnessAccounting #BoundaryMath #EmotionalEfficiency #BurnoutPrevention #SelfHelpInfrastructure #NeurodivergentTools #ADHDBudgeting #CostBenefitBoundaries #PracticalTherapy
 

@@ -8,7 +8,7 @@ Created at 2025/08/19 11:32 AM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The internet can be reclaimed as a sacred relational space through ritual design, temporal abundance, and symbolic composting.<br>Identity is not data—it’s performed truth through pseudonymity.<br>Protocols are not neutral—they are liturgical architecture.
 
@@ -25,7 +25,7 @@ The internet can be reclaimed as a sacred relational space through ritual design
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Grief (for a lost internet)
 - Longing (for digital sacredness)
@@ -35,7 +35,7 @@ The internet can be reclaimed as a sacred relational space through ritual design
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**<br>Design manifestos · Subcultural zines · Critical tech circles · Slow web projects · Sacred design communities
 
@@ -43,7 +43,7 @@ The internet can be reclaimed as a sacred relational space through ritual design
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Preemption of Critique**: “This isn’t nostalgia—it’s symbolic compost.”
 - **Irony Shield Reversal**: Sincerity as armor in a cynical feedscape.
@@ -70,7 +70,7 @@ The internet can be reclaimed as a sacred relational space through ritual design
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #SacredCommons · #DigitalHearth · #MythicWeb · #RitualDesign · #PseudonymousTruth<br>#PlatformRefusal · #SlowProtocol · #CyberPilgrim · #SymbolicCompost<br>#AncestralSubculture · #CareEthicUX · #MetaMythMeme
 

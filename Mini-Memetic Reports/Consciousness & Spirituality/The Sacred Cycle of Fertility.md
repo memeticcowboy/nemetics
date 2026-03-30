@@ -4,47 +4,47 @@
 
 Created at 2025/11/06 1:09 PM
 
-**🧩 Mini-Memetic Profile: “Fertility Through Rot”**
+**◈ Mini-Memetic Profile: “Fertility Through Rot”**
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Decay is not the end—it’s the womb. What we call rot is nature’s recursion protocol, composting death into new sacred forms. Fertility arises through feedback loops of dissolution, where beauty seeps from breakdown.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Role:** The Compost Mystic · The Decay Alchemist · The Regenerative Mourner<br>They find holiness in decomposition, reframing disgust as devotion and rot as revelation. The self becomes soil — porous, participating in the endless recycling of being.
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 😖 Disgust → 🌿 Awe → 🌀 Ecstatic acceptance<br>The meme transforms revulsion into reverence, guiding the viewer through the alchemy of rot into renewal.
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:** Body-horror eco-art, fungal speculative fiction, mushroompunk collectives, regenerative design circles, ritual performance videos.<br>**Propagation Style:** Mythic realism meets bio-aesthetic decay; poetic and visceral — half sermon, half spore release.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 • *Irony immunity:* too organic to parody; disgust filters the unserious.<br>• *Semantic inversion:* purity becomes pathology, filth becomes fertility.<br>• *Moral reframing:* decay as sacred cycle — beyond guilt, beyond cleansing.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 🌱 Biocentric post-humanism · 🧫 Fungal intelligence · 🪦 Sacred ecology · 💀 Death positivism · ♻️ Anti-purity ethic
 
 ***
 
-### 🧠 Sticky Symbols / Quotes
+### ✶ Sticky Symbols / Quotes
 
 > “Even rot remembers rhythm.”<br>“Fertility is feedback with a heartbeat.”<br>“The pink rose growing from the skull’s mouth.”
 
@@ -52,7 +52,7 @@ Visual anchors: glowing compost mounds, fungal halos, swamp birthing lights, Hum
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #FertilityThroughRot · #SacredDecay · #MycelialWisdom · #EcoGothic · #CompostSpirituality · #AntiPurity · #BioAesthetic · #RegenerativeMyth
 

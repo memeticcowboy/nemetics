@@ -8,13 +8,13 @@ Created at 2025/12/09 10:42 AM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 Communion only opens when all participants share the same wound.<br>Spirit-recovery requires symmetric cost: the pain is the password.
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 **User Role:**<br>The Initiate-Through-Pain — one who understands that transformation demands a bodily toll.
 
@@ -22,7 +22,7 @@ Communion only opens when all participants share the same wound.<br>Spirit-recov
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - Communal pain as solidarity
 - Revulsion as initiation
@@ -31,7 +31,7 @@ Communion only opens when all participants share the same wound.<br>Spirit-recov
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Vectors:**<br>Ritual diagrams · synchronized-movement memes · speculative anthropology threads · community-healing discourse
 
@@ -39,7 +39,7 @@ Communion only opens when all participants share the same wound.<br>Spirit-recov
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - Frames itself as “symbolic,” shielding from accusations of extremity
 - Moral reciprocity logic (“everyone pays the same cost”)
@@ -47,7 +47,7 @@ Communion only opens when all participants share the same wound.<br>Spirit-recov
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Reciprocal sacrifice theory
 - Collective trauma transmutation
@@ -56,7 +56,7 @@ Communion only opens when all participants share the same wound.<br>Spirit-recov
 
 ***
 
-## **🧠 Sticky Symbols / Quotes**
+## ✶ Sticky Symbols / Quotes**
 
 - “The wound is the key.”
 - Molten-metal vomit steaming in cold air
@@ -66,7 +66,7 @@ Communion only opens when all participants share the same wound.<br>Spirit-recov
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #RitualProtocol #SymmetricCost · Liminal-Systems
 

@@ -8,31 +8,31 @@ Created at 2025/11/14 9:17 AM
 
 **If Anyone Builds It, Everyone Dies**<br>*(Doom Absolutism)*
 
-### 🧠 **Core Idea Unit:**
+### ∴ **Core Idea Unit:**
 
 A maximalist civilizational warning: **superintelligence is an extinction trigger by default.**<br>It collapses uncertainty into inevitability and turns timeline speculation into moral clarity.<br>The shift it provokes: **from probabilistic caution to categorical prohibition.**
 
-### 🎭 **Identity Play & Roles:**
+### ▲ **Identity Play & Roles:**
 
 Positions the user as the **sentinel at the edge of the fireline** — the one who sees the final horizon while others debate models.<br>Also casts pro-AI actors as inadvertent existential gamblers.<br>Identity vector: **the last rational voice before irreversible catastrophe.**
 
-### 💥 **Emotional Triggers:**
+### ≈ **Emotional Triggers:**
 
 🔥 Existential dread<br>⚡ Polarizing urgency<br>🚨 Moral alarm<br>🌑 Apocalyptic seriousness<br>💥 Intensity that overrides nuance, demanding a stance<br>This meme doesn’t persuade — it **overwhelms**.
 
-### 📡 **Spread Mechanics:**
+### 𐂷 **Spread Mechanics:**
 
 **Distribution Vectors:** Alignment forums · doom-p(doom) Twitter · philosophy podcasts · congressional testimonies · mainstream op-eds · “AI vs. nuclear weapons” discourse.
 
 **Propagation Style:**<br>Absolute statements · ultimatum logic · high-contrast visuals · apocalyptic metaphors · meme-supernova virality.
 
-### 🛡️ **Defense Reflexes:**
+### ⛨ **Defense Reflexes:**
 
 - Treats empirical uncertainty as justification for maximal caution (precautionary principle inversion).
 - Immune to refutation because any counterargument can be framed as naive, reckless, or captured by incentives.
 - Uses inevitability to preempt compromise: *“Even a small chance of extinction demands absolute guardrails.”*
 
-### 🧬 **Memeplex Anchor Points:**
+### ☷ **Memeplex Anchor Points:**
 
 - **Precautionary principle ethics**
 - **Nuclear-era dread analogies** (Oppenheimer, Manhattan Project regret cycles)
@@ -41,13 +41,13 @@ Positions the user as the **sentinel at the edge of the fireline** — the one w
 - **Coordination-failure game theory** (“ANYONE builds → EVERYONE dies”)
 - **Anti-accelerationist maximalism**
 
-### 🧠 **Sticky Symbols / Quotes:**
+### ✶ **Sticky Symbols / Quotes:**
 
 **Symbols:**<br>• Burning horizon with algorithmic smoke<br>• Lone figure staring into collapse<br>• Red-black gradients<br>• Broken circuitry drifting like embers<br>• Silhouetted warning glyphs
 
 **Sticky Phrases:**<br>• “If anyone builds it, everyone dies.”<br>• “No second chances.”<br>• “Extinction is not a rounding error.”<br>• “You can’t uninvent superintelligence.”<br>• “Precaution isn’t pessimism — it’s survival.”
 
-### 🏷️ **Tags:**
+### ∿ **Tags:**
 
 #DoomAbsolutism · #FireThreshold · #ExtinctionFrame · #PrecautionaryPrinciple · #SupernovaMeme
 

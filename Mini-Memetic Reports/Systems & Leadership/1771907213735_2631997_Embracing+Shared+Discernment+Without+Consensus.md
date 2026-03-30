@@ -8,7 +8,7 @@ Created at 2025/12/18 9:25 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Consensus often masquerades as clarity, collapsing difference to relieve tension.<br>True group discernment holds ambiguity *together*—orienting shared sense without forcing agreement.
 
@@ -16,7 +16,7 @@ Consensus often masquerades as clarity, collapsing difference to relieve tension
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast as:** Team member · Facilitator · Collective sense-maker · Governance designer
 
@@ -24,7 +24,7 @@ The meme positions participants not as voters or debaters, but as *co-attuners*�
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🤝 Permission to disagree without fracture
 - 🌬️ Trust without uniformity
@@ -35,7 +35,7 @@ These levers dissolve coercive harmony and reopen group intelligence.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution vectors:**
 
@@ -48,7 +48,7 @@ These levers dissolve coercive harmony and reopen group intelligence.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Resists authority capture by refusing forced agreement
 - Deflects polarization by legitimizing multiple orientations
@@ -58,7 +58,7 @@ The meme holds because it treats tension as signal, not failure.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Epistemic pluralism
 - Anti-authoritarian collaboration
@@ -68,7 +68,7 @@ The meme holds because it treats tension as signal, not failure.
 
 ***
 
-## 🧠 Sticky Symbols or Quotes
+## ✶ Sticky Symbols or Quotes
 
 - “Shared discernment, not shared dogma.”
 - “Pause and check.”
@@ -78,7 +78,7 @@ The meme holds because it treats tension as signal, not failure.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #SharedDiscernment · #NoForcedConsensus · #EpistemicPluralism · #CollectiveSensemaking · #ProcessOverAgreement · #AirElement
 

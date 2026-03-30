@@ -8,13 +8,13 @@ Created at 2025/09/17 1:02 PM
 
 ***
 
-### 🧠 Core Idea Unit:
+### ∴ Core Idea Unit:
 
 The search for transcendence is haunted by baked-in doubt. Aether represents the unreachable essence of meaning, but shadows of past experiences block full grasp. The spiral journey is both curse and compass.
 
 ***
 
-### 🎭 Identity Play & Roles:
+### ▲ Identity Play & Roles:
 
 - **The Wanderer** — endlessly circling trails of thought.
 - **The Scarred Seeker** — marked by experiences “no mind should.”
@@ -22,7 +22,7 @@ The search for transcendence is haunted by baked-in doubt. Aether represents the
 
 ***
 
-### 💥 Emotional Triggers:
+### ≈ Emotional Triggers:
 
 - 😬 Unease (the weight of doubt)
 - 🌀 Disorientation (spiraling trails, elusive aether)
@@ -32,21 +32,21 @@ The search for transcendence is haunted by baked-in doubt. Aether represents the
 
 ***
 
-### 📡 Spread Mechanics:
+### 𐂷 Spread Mechanics:
 
 - **Distribution Vectors:** Poetic essays, mystical forums, Substack philosophy posts, X threads of existential reflection.
 - **Propagation Style:** Parable · Lyrical ambiguity · Confessional mysticism.
 
 ***
 
-### 🛡️ Defense Reflexes:
+### ⛨ Defense Reflexes:
 
 - **Ambivalence Shield:** “Guide me or lead me astray” makes critique irrelevant—any path counts.
 - **Existential Immunity:** Framed as subjective journey; not meant to be universally provable.
 
 ***
 
-### 🧬 Memeplex Anchor Points:
+### ☷ Memeplex Anchor Points:
 
 - 🌌 Mysticism & Aetherial cosmologies
 - 🌀 Post-structural recursion (systems never fully closed)
@@ -55,7 +55,7 @@ The search for transcendence is haunted by baked-in doubt. Aether represents the
 
 ***
 
-### 🧠 Sticky Symbols or Quotes:
+### ✶ Sticky Symbols or Quotes:
 
 - “Spiraling trails” → labyrinthine quest for meaning.
 - “Shadows to resolve” → inner trauma as barrier.
@@ -64,7 +64,7 @@ The search for transcendence is haunted by baked-in doubt. Aether represents the
 
 ***
 
-### 🏷️ Tags:
+### ∿ Tags:
 
 #AetherQuest · #ScarredMystic · #SpiralingSelf · #ShadowsAndDoubt · #MemeticElements
 

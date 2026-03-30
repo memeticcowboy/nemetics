@@ -8,7 +8,7 @@ Created at 2026/01/02 3:50 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Attention is reframed as a protective ritual: *to notice is to be safe; to ignore is to risk misfortune*.<br>The meme exploits low-cost superstition to convert passive scrolling into symbolic participation.
 
@@ -16,7 +16,7 @@ Attention is reframed as a protective ritual: *to notice is to be safe; to ignor
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Role Cast:** Playful Superstition-Aware Participant
 - **Implied Self-Positioning:**<br>*I’m savvy enough to know this is fake — but wise enough not to tempt fate.*
@@ -25,7 +25,7 @@ The viewer is not coerced as a fool, but invited as a knowing co-conspirator.
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 😬 Light anxiety (“what if?”)
 - 😄 Humor / irony buffer
@@ -36,7 +36,7 @@ Emotionally cheap, socially safe, psychologically sticky.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 - **Distribution Vectors:**<br>X (Twitter) replies, quote-tweets, image reposts, comment rituals
 - **Propagation Style:**<br>Irony-shielded superstition · chain-letter logic · ritualized acknowledgment
@@ -44,7 +44,7 @@ Emotionally cheap, socially safe, psychologically sticky.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Irony Shield:** “Relax, it’s a joke”
 - **Plausible Deniability:** No explicit demand, only implication
@@ -54,7 +54,7 @@ Critique collapses because participation is framed as playful, not belief-based.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - New-Year ritual psychology
 - Chain-letter folklore
@@ -64,7 +64,7 @@ Critique collapses because participation is framed as playful, not belief-based.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Cowboy costume (absurd authority)
 - Wide-eyed innocence
@@ -74,7 +74,7 @@ Critique collapses because participation is framed as playful, not belief-based.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #RitualMeme · #PlayfulSuperstition · #AttentionTax · #ChainLetter2_0 · #NewYearWard
 

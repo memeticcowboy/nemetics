@@ -8,15 +8,15 @@ Created at 2025/12/28 4:00 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Aspiration is framed as danger. Desire triggers warning; warning anticipates punishment; punishment enforces obedience. The narrative converts ambition into a liability.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Would-Be Flier<br>The subject is positioned as reckless the moment they seek altitude, learning to equate safety with smallness.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Fear of ambition
 - Shame around desire
@@ -25,7 +25,7 @@ Aspiration is framed as danger. Desire triggers warning; warning anticipates pun
 
 These emotions train pre-emptive self-limitation.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -36,23 +36,23 @@ These emotions train pre-emptive self-limitation.
 
 **Propagation Style:**<br>Didactic storytelling, retrospective moralization (“this is why you don’t…”).
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Moral inevitability (“the fall was deserved”)
 - False care framing (“we’re protecting you”)
 - Appeal to ancient wisdom
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Scarcity cosmology
 - Amplitude suppression
 - Moralized limits
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 Wax wings · sun as threat · “fly neither too high nor too low” · fall · punishment
 
-🏷️ **Tags:** #FallNarrative · #ControlMyth · #FearOfAscent · #ObedienceEngine
+∿ **Tags:** #FallNarrative · #ControlMyth · #FearOfAscent · #ObedienceEngine
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766966428606_c4zhf/a7601d6a-fd18-40fe-a0da-cdec299e2689.png

@@ -8,13 +8,13 @@ Created at 2025/12/24 4:54 PM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 The meme encodes a generative refusal: **begin things that do not want to resolve**.<br>The thought-virus dissolves outcome-orientation itself—growth persists not by clarity or correctness, but by *sideways continuation after meaning fails to seal*.
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 **Tempted role:** *The Coherent Builder / Purposeful Maker*<br>**Actual role offered:** *The Sloppy Gardener*
 
@@ -22,7 +22,7 @@ The user is positioned as someone who **starts for the wrong reason and keeps go
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - 🌱 **Gentle curiosity** — “What happens if I don’t justify this?”
 - 😅 **Embarrassment** — origin stories that don’t age well
@@ -33,7 +33,7 @@ Emotion is quiet, sustaining, and unheroic.
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -53,7 +53,7 @@ Nothing is broadcast; growth happens because **no one stopped it**.
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - **Non-exemplarity:** cannot be cited or taught without killing it
 - **Origin embarrassment:** beginnings resist mythologizing
@@ -64,7 +64,7 @@ Critique fails because there is no clean object to critique.
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Anti-teleological creation
 - Process philosophy
@@ -74,7 +74,7 @@ Critique fails because there is no clean object to critique.
 
 ***
 
-## **🧠 Sticky Symbols or Quotes** *(Low-signal, living)*
+## ✶ Sticky Symbols or Quotes** *(Low-signal, living)*
 
 - “Start things that don’t care how they end.”
 - “Non-exemplarity.”
@@ -85,7 +85,7 @@ Recall is weak; **continuation is the carrier**.
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #SideGrowth<br>#NonExemplary<br>#WoodLogic<br>#InefficientAlive<br>#AntiOptimization<br>#LivingProcesses
 

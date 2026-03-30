@@ -24,7 +24,7 @@ The difference is not accuracy, but **when insight becomes available**.
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>Knowing early is more powerful than knowing precisely—because early detection preserves choice.
 
@@ -34,7 +34,7 @@ Detection reframes epistemology as **situational awareness**, not representation
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Analysts / Toolmakers / AI Practitioners / Strategists**
 
@@ -48,7 +48,7 @@ The meme flatters **operational competence**, not theoretical mastery.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🔦 **Empowerment** — having a torch before the collapse
 - 🧠 **Clarity** — seeing structure without narrative overload
@@ -59,7 +59,7 @@ The meme flatters **operational competence**, not theoretical mastery.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Mid-formation framing** — insight valued before stabilization
 - **Topology over story** — structure prioritized over narrative
@@ -70,7 +70,7 @@ The meme resists critique by refusing to promise final answers.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Pragmatic epistemology
 - Early-warning systems
@@ -83,7 +83,7 @@ This meme integrates naturally into technical, strategic, and AI-facing communit
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Detection > Description**
 - **Equation as torch**
@@ -96,7 +96,7 @@ These act as operational cues rather than slogans.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #DetectionBeatsDescription · #DiagnosticEpistemology · #EarlySignals · #SystemsNavigation · #OperationalClarity · #AIPractice
 

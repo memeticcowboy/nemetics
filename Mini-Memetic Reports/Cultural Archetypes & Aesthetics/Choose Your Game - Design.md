@@ -6,33 +6,33 @@ Created at 2025/10/29 10:52 AM
 
 **🎮 Mini-Memetic Profile: “Choose Your Game”**<br>*(Meme 2 in the “Life is a Game” Meta-Memeplex)*<br>*[Meme 3: Grind, Level Up](https://second.me/memory/3WRLA2MY3SU7VR8Q)*
 ***
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 You’re already playing a game — the only question is *whose*.<br>Freedom begins when you select the rule-set yourself.<br>The meme encodes self-authorship as salvation: choose your narrative, or remain an NPC in someone else’s questline.
 ***
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 - **Performer:** The Conscious Player / Narrative Designer
 - **Shadow Role:** The Scripted Worker / Accidental NPC
 - **Repositioning:** From rule-follower → to world-builder; from “life happening to me” → “I design the arena.”
 ***
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 🌈 Autonomy & Creative Freedom<br>😬 Fear of Regret / Wasted Life<br>🔥 Rebellion against conformity<br>🌀 Existential curiosity disguised as career advice
 ***
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 **Distribution Vectors:** TikTok life-coach rants · Instagram carousels · Reddit r/selfimprovement · X motivational threads.<br>**Propagation Style:** Calm-rebellious tone · Gamified self-help · Aesthetic minimalism · Second-person imperative (“Choose wisely”).
 ***
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 Irony shield (“it’s just metaphor”), moral inversion (“choosing = responsibility”), and anti-institutional framing that reframes critique as control.
 ***
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 🎨 Lifestyle Design / Solopreneur culture<br>🧩 Existential Individualism<br>💻 Post-work digital nomadism<br>📚 Self-authorship as moral duty
 ***
-### 🧠 **Sticky Symbols / Quotes**
+### ✶ **Sticky Symbols / Quotes**
 - “Choose your game before someone loads you into theirs.”
 - “Pick one you’re happy spending your life playing.”
 - “Make sure you’re playing the one you want.”
 - “You’re not an NPC.”
 ***
-### 🏷️ **Tags**
+### ∿ **Tags**
 #LifeIsAGame · #ChooseYourGame · #SelfDesign · #NarrativeFreedom · #NPCTheory · #AutonomyLoop
 
 ## Resources

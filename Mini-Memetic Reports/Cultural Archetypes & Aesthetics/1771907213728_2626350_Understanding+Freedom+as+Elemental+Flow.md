@@ -8,7 +8,7 @@ Created at 2025/12/14 7:59 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Freedoms are not traits you possess, identities you claim, or tools you wield. **They are functions of flow** — elemental operations that move *through* people, teams, cultures, and systems when conditions are coherent.
 
@@ -18,7 +18,7 @@ Freedoms are not traits you possess, identities you claim, or tools you wield. *
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ Freedoms are not traits you possess, identities you claim, or tools you wield. *
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 😌 **Relief from Identity Fixation** — no need to *be* freedom
 - ⚙️ **Empowerment Without Ego** — function over self-image
@@ -41,7 +41,7 @@ This meme dissolves status anxiety by relocating freedom into **process competen
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme dissolves status anxiety by relocating freedom into **process competen
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Essentialism Shield:** No fixed identities required
 - **Anti-Libertarian Reduction:** Freedom not reduced to permission
@@ -68,7 +68,7 @@ Critique must explain **how static freedoms outperform functional ones** in real
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Process ontology
 - Systems-first ethics
@@ -78,7 +78,7 @@ Critique must explain **how static freedoms outperform functional ones** in real
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - 🌬️ **“Each freedom is not owned. It flows.”**
 - 🔁 *Elemental functions*
@@ -88,7 +88,7 @@ Critique must explain **how static freedoms outperform functional ones** in real
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #FreedomAsFunction · #ElementalFlow · #ProcessOntology · #SystemsFirst · #FieldTuning · #PostIdentity
 

@@ -8,7 +8,7 @@ Created at 2025/12/22 4:34 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Memes are not inherently dangerous as cultural artifacts.<br>They become **engineered entities** once systems can simulate reception, measure response, and optimize replication through feedback.
 
@@ -16,7 +16,7 @@ Memes are not inherently dangerous as cultural artifacts.<br>They become **engin
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 This meme forces an uncomfortable role reallocation:
 
@@ -28,7 +28,7 @@ The self is repositioned as a **measurable surface**—a mirror whose reactions 
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - ⚡ **Desecration shock** — something sacred feels violated
 - 😐 **Cynical clarity** — the mechanism snaps into focus
@@ -38,7 +38,7 @@ The affective turn is sharp: reverence collapses into diagnosis.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution vectors**
 
@@ -56,7 +56,7 @@ This meme spreads among people who’ve already sensed the hollowing.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Intent defense:** “But they meant well”
 - **Utility justification:** “It still helps people”
@@ -66,7 +66,7 @@ These reflexes protect participation while dulling accountability.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Critical memetics
 - Attention economy critique
@@ -78,7 +78,7 @@ This meme binds folklore, marketing, and simulation into a single failure mode.
 
 ***
 
-### 🧠 **Sticky Symbols & Quotes**
+### ✶ **Sticky Symbols & Quotes**
 
 - **“Folklore becomes engineering.”**
 - **“Prayer becomes product.”**
@@ -92,7 +92,7 @@ Symbolic metaphors:
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #MemeticCapture · #MirrorsNotWindows · #AntiCommodification · #FolkloreEngineering · #MeaningExtraction · #CriticalMemetics
 

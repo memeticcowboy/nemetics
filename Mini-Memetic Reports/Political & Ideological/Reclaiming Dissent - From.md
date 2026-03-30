@@ -4,31 +4,31 @@
 
 Created at 2025/10/18 9:14 AM
 
-### 🧩 Mini-Memetic Profile: **“The Death of Protest”**
+### ◈ Mini-Memetic Profile: **“The Death of Protest”**
 
 ***
 
-🧠 **Core Idea Unit:**<br>“Protest” has decayed into performance — a ritual of visibility without leverage. The meme exposes how activism has been aestheticized, serving algorithms and optics rather than altering power. True revolt begins with linguistic and psychic sabotage.
+∴ **Core Idea Unit:**<br>“Protest” has decayed into performance — a ritual of visibility without leverage. The meme exposes how activism has been aestheticized, serving algorithms and optics rather than altering power. True revolt begins with linguistic and psychic sabotage.
 
 ***
 
-🎭 **Identity Play & Roles:**<br>**Role:** The Disillusioned Dissident / Language Saboteur<br>The meme invites the viewer to step off the stage — to stop performing dissent for spectators and instead destroy the script itself. It repositions the self from *citizen-spectator* to *agent of semantic insurrection*.
+▲ **Identity Play & Roles:**<br>**Role:** The Disillusioned Dissident / Language Saboteur<br>The meme invites the viewer to step off the stage — to stop performing dissent for spectators and instead destroy the script itself. It repositions the self from *citizen-spectator* to *agent of semantic insurrection*.
 
 ***
 
-💥 **Emotional Triggers:**<br>😡 Outrage — at the commodification of rebellion<br>😢 Grief — for the lost potency of collective action<br>🔥 Defiance — reclaiming language and failure as weapons
+≈ **Emotional Triggers:**<br>😡 Outrage — at the commodification of rebellion<br>😢 Grief — for the lost potency of collective action<br>🔥 Defiance — reclaiming language and failure as weapons
 
 ***
 
-📡 **Spread Mechanics:**<br>**Distribution Vectors:** X threads, Substack essays, video essays, conceptual art posts, academic memes.<br>**Propagation Style:** Semiotic nihilism, poetic aphorism, haunting typography. Often paired with archival protest footage over glitch noise or grayscale minimalism.
+𐂷 **Spread Mechanics:**<br>**Distribution Vectors:** X threads, Substack essays, video essays, conceptual art posts, academic memes.<br>**Propagation Style:** Semiotic nihilism, poetic aphorism, haunting typography. Often paired with archival protest footage over glitch noise or grayscale minimalism.
 
 ***
 
-🛡️ **Defense Reflexes:**<br>**Irony Shield:** “It’s just critique, not cynicism.”<br>**Counter-narrative Preemption:** By calling protest a *zombie-word*, it immunizes itself from moral guilt — the author already admits complicity.<br>**Aesthetic Sabotage:** Language itself is weaponized, making it hard to co-opt.
+⛨ **Defense Reflexes:**<br>**Irony Shield:** “It’s just critique, not cynicism.”<br>**Counter-narrative Preemption:** By calling protest a *zombie-word*, it immunizes itself from moral guilt — the author already admits complicity.<br>**Aesthetic Sabotage:** Language itself is weaponized, making it hard to co-opt.
 
 ***
 
-🧬 **Memeplex Anchor Points:**<br>📉 Post-activism discourse · ⚙️ Hyperreality critique · 💀 Semiocapitalism · 🧠 Baudrillardian simulation · 🔥 Situationist détournement · 🕳️ Media ecology collapse
+☷ **Memeplex Anchor Points:**<br>📉 Post-activism discourse · ⚙️ Hyperreality critique · 💀 Semiocapitalism · 🧠 Baudrillardian simulation · 🔥 Situationist détournement · 🕳️ Media ecology collapse
 
 ***
 
@@ -41,7 +41,7 @@ Created at 2025/10/18 9:14 AM
 
 ***
 
-🏷️ **Tags:**<br>#PostActivism · #SemioticSabotage · #AestheticResistance · #MediaEcology · #LanguageStrike · #ZombieWords · #HyperrealityCritique · #MemeticCowboy
+∿ **Tags:**<br>#PostActivism · #SemioticSabotage · #AestheticResistance · #MediaEcology · #LanguageStrike · #ZombieWords · #HyperrealityCritique · #MemeticCowboy
 
 ***
 

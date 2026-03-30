@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:31 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - “Somatic boundary” reframes personal limits not as abstract decisions or verbal assertions, but as **physical, internal, body-based signals**.
 - Emphasizes **felt experience over cognitive reasoning**, grounding boundaries in visceral intuition.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Empowerment Through Sensation:** Validates instinctive discomfort—especially for trauma survivors.
 - **Safety-Seeking:** Appeals to those disillusioned with abstract or ignored verbal boundaries.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Somatic therapy influencers, trauma-informed wellness circles, nervous system education posts, embodiment coaches, yoga therapy reels.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Felt Authority Shield:** Somatic truth supersedes debate—“My body said no.”
 - **Anti-Gaslighting Frame:** Provides defense against relational invalidation or overexposure.
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-🏷️ **Tags:**<br>#SomaticBoundary #EmbodiedConsent #TraumaWiseBoundaries #FeltSense #BodyKnowsBest #NervousSystemWisdom #EmbodimentEthics #SensorialSovereignty #PolyvagalPractices #HealingInTheBody
+∿ **Tags:**<br>#SomaticBoundary #EmbodiedConsent #TraumaWiseBoundaries #FeltSense #BodyKnowsBest #NervousSystemWisdom #EmbodimentEthics #SensorialSovereignty #PolyvagalPractices #HealingInTheBody
 

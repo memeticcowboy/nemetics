@@ -6,14 +6,14 @@ Created at 2025/07/31 11:17 AM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Memetics, once a tool for understanding cultural transmission, has been co-opted into a system of cultural control—the *MemeGrid*.
 - This grid reduces culture to code, people to hosts, and meaning to metadata, locking society into a loop of compulsory doing (DODO: Debt → Ownership → Deadlines → Othering).
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User as:**
     - Disillusioned seeker or rebel noticing the hidden machinery of memetic influence.
@@ -26,7 +26,7 @@ Created at 2025/07/31 11:17 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Primary:** Alienation, disillusionment, paranoia, awakening.
 - **Secondary:** Outrage at control, grief for lost wonder, subtle awe at hidden patterns.
@@ -34,7 +34,7 @@ Created at 2025/07/31 11:17 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Online essays, long-form posts, subculture forums, visual-poetic memes, alternative media.
 - **Propagation style:** Reflective critique, poetic narrative, philosophical journaling; resonates in conspiratorial, countercultural, or spiritual digital spaces.
@@ -42,7 +42,7 @@ Created at 2025/07/31 11:17 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Built-in skepticism:** Preemptively frames mainstream pushback as part of the grid’s defenses.
 - **Irony and introspection:** Shields against simple dismissal by leaning into self-aware poetic critique.
@@ -50,7 +50,7 @@ Created at 2025/07/31 11:17 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Anti-authoritarianism and anti-system awareness.
 - Digital sovereignty, epistemic freedom, post-conspiracy thinking.
@@ -70,5 +70,5 @@ Created at 2025/07/31 11:17 AM
 
 ***
 
-**🏷️ Tags:**<br>#MemeticControl #CultureAsCode #EpistemicCorral #InfoWarfare #DODO #MemeGrid #PostMemetics #Usurpia #CognitiveAwakening #NarrativePrison #AntiStone #SignalHunters
+∿ Tags:**<br>#MemeticControl #CultureAsCode #EpistemicCorral #InfoWarfare #DODO #MemeGrid #PostMemetics #Usurpia #CognitiveAwakening #NarrativePrison #AntiStone #SignalHunters
 

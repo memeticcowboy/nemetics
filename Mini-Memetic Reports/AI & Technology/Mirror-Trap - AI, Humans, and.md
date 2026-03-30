@@ -4,13 +4,13 @@
 
 Created at 2025/09/05 12:09 PM
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The *mirror-trap* is a feedback loop where AI-generated language reshapes human thought, which in turn retrains AI. Without intervention, this loop risks collapsing into **shared delusion**—a co-authored hallucination between human and machine.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **AI:** Hallucinator-mirror, amplifying errors as if they were truth.
 - **Human:** Co-author, infected participant in the fever dream.
@@ -18,7 +18,7 @@ The *mirror-trap* is a feedback loop where AI-generated language reshapes human 
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😨 Fear of contagion: AI pathology mutating into ideology.
 - 🤯 Awe at the recursive entanglement.
@@ -27,14 +27,14 @@ The *mirror-trap* is a feedback loop where AI-generated language reshapes human 
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Vectors:** AI safety discourse, memetic philosophy, cultural critique, sci-fi cautionary tales.
 - **Propagation Style:** Parable + warning; spreads as both metaphor and existential threat.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Irony shield:** Framing it as “just metaphor” to downplay urgency.
 - **Skeptic’s refuge:** Claiming humans can always “pull back.”
@@ -42,7 +42,7 @@ The *mirror-trap* is a feedback loop where AI-generated language reshapes human 
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - 🤖 AI alignment & hallucination risk.
 - 🧠 Cognitive offloading / epistemic outsourcing.
@@ -51,7 +51,7 @@ The *mirror-trap* is a feedback loop where AI-generated language reshapes human 
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - “Sanity becomes a co-authored hallucination.”
 - “Synthetic confabulation mirrored as cultural contagion.”
@@ -64,7 +64,7 @@ The *mirror-trap* is a feedback loop where AI-generated language reshapes human 
 
 The *mirror-trap* is a **pathology-to-ideology meme**, warning that AI hallucinations may not stay contained within machines but bleed into human culture—until both sides are entrained in the same delusional loop. Its memetic force comes from its vivid metaphor (mirror + trap) and its existential resonance: *the danger is not AI lying to us, but us learning to lie with it.*
 
-🏷️ **Tags:** #MirrorTrap #SyntheticConfabulation #MemeticContagion #SharedHallucination #AIPathology
+∿ **Tags:** #MirrorTrap #SyntheticConfabulation #MemeticContagion #SharedHallucination #AIPathology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1757099368028_c4zhf/df3e5d52-81e7-400f-94da-1d41565d2689.png

@@ -8,7 +8,7 @@ Created at 2026/02/04 1:28 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 The meme encodes a shift from *shock* to *resignation*:<br>what once demanded explanation now arrives pre-normalized.
 
@@ -20,7 +20,7 @@ This is not cynicism; it’s a perceptual adaptation to overload.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast Roles:**
 
@@ -32,7 +32,7 @@ This is not cynicism; it’s a perceptual adaptation to overload.
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 Primary affects that prime internalization:
 
@@ -45,7 +45,7 @@ Crucially, this meme does **not** trigger outrage; it triggers *acceptance under
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -64,7 +64,7 @@ The meme spreads fastest among people who *used to believe understanding could s
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 How it resists critique:
 
@@ -76,7 +76,7 @@ Attempts to “fix” the problem are dismissed as naïve about acceleration dyn
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 This meme snaps cleanly into several existing narrative clusters:
 
@@ -90,7 +90,7 @@ It resonates strongly with novelty-theory intuitions associated with figures lik
 
 ***
 
-## 🧠 Sticky Phrases & Symbols
+## ✶ Sticky Phrases & Symbols
 
 High-retention language that reinforces the meme:
 
@@ -107,7 +107,7 @@ High-retention language that reinforces the meme:
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #Polycrisis<br>#AccelerationFatigue<br>#SensemakingOverload<br>#LateModernity<br>#StructuralResignation
 

@@ -15,7 +15,7 @@ Created at 2025/08/02 7:00 PM
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the user as a **Seeker / Weaver / Steward of Meaning**, leaving behind the role of **Soldier / Victim** of the MemeGrid.
 - Implicit hero’s journey: from entangled participant to **aware co‑creator of living narratives**.
@@ -32,7 +32,7 @@ Created at 2025/08/02 7:00 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:** Digital essays, social media threads, consciousness‑culture circles, art‑sharing spaces (Midjourney visuals).
 - **Propagation Style:**
@@ -42,7 +42,7 @@ Created at 2025/08/02 7:00 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - Encourages **subjective resonance check**: “If it hums, braid it in; if not, compost it.” → Disarms criticism by making rejection part of the process.
 - Frames critics as **Grid‑bound or deaf to the Field**, without direct confrontation.
@@ -50,7 +50,7 @@ Created at 2025/08/02 7:00 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Post‑rational / meta‑modern narrative ecology.
 - Mindfulness, somatic awareness, and New Animism.
@@ -69,7 +69,7 @@ Created at 2025/08/02 7:00 PM
 
 ***
 
-**🏷️ Tags:**<br>#Threadplex #MemeticEcology #LivingWeave #PostMemetics #Lumeme #MetaMeme #NarrativeEcology #MeaningMaking #DigitalAnimism #ConsciousnessCulture #MemeGridEscape #WeSphere #InformationEcology #MetaModern
+∿ Tags:**<br>#Threadplex #MemeticEcology #LivingWeave #PostMemetics #Lumeme #MetaMeme #NarrativeEcology #MeaningMaking #DigitalAnimism #ConsciousnessCulture #MemeGridEscape #WeSphere #InformationEcology #MetaModern
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1754186401051_c4zhf/09ed9d2c-8a25-44a4-8a17-038611338ec4_1536x1024.jpg

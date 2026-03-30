@@ -10,13 +10,13 @@ Created at 2025/09/03 3:54 PM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The meme challenges snap-judgments about veterans by reframing military service not as patriotic pride or ideology, but as survival and circumstance. It calls for curiosity over assumption, highlighting the hidden complexity behind identity labels.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **Cast as:** Outsider-Witness · Survivor · Truth-Seeker
 - Repositions the veteran not as a symbol of nationalism but as a human navigating necessity.
@@ -24,7 +24,7 @@ The meme challenges snap-judgments about veterans by reframing military service 
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😡 Frustration (at being judged by a single label)
 - 😢 Vulnerability (sharing hunger, survival, prison avoidance)
@@ -33,14 +33,14 @@ The meme challenges snap-judgments about veterans by reframing military service 
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:** X threads, Facebook rants, Reddit veteran forums, Substack reflections.
 - **Propagation Style:** Testimonial authenticity + contrarian reversal. “I didn’t join for pride, I joined because I was starving.”
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Irony shield:** Refusal to identify with blue/red/libertarian binaries.
 - **Counter-narrative preemption:** Acknowledges conspiracy vs. optics vs. truth debates, but sidesteps them by grounding in lived reality.
@@ -48,7 +48,7 @@ The meme challenges snap-judgments about veterans by reframing military service 
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - ✝️ Personal truth vs. institutional optics
 - ⚙️ Critique of ideological reductionism
@@ -57,7 +57,7 @@ The meme challenges snap-judgments about veterans by reframing military service 
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - “It was, simply because I was starving.”
 - “To stay out of prison.”
@@ -66,7 +66,7 @@ The meme challenges snap-judgments about veterans by reframing military service 
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #BeyondTheUniform · #VeteranVoices · #HumanNotLabel · #DivisionKills
 

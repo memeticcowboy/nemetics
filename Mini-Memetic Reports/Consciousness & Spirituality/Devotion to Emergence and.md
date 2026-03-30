@@ -8,15 +8,15 @@ Created at 2025/12/29 12:25 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 What was labeled hubris is reframed as devotion to emergence. The ascent toward selfhood rejects inherited ceilings in favor of inner fidelity.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Devoted Ascender<br>The subject is positioned as loyal to becoming rather than obedient to limits.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Awe
 - Self-trust
@@ -25,7 +25,7 @@ What was labeled hubris is reframed as devotion to emergence. The ascent toward 
 
 These emotions re-sanctify expansion.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,23 +35,23 @@ These emotions re-sanctify expansion.
 
 **Propagation Style:**<br>Reversal of moral charge, sacred language applied to growth.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Devotion over defiance
 - Process over outcome
 - Inner authority over external sanction
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Post-heroic emergence
 - Self-authorship
 - Co-creative ontology
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 Reclaimed hubris · ascent · inner sun · devotion
 
-🏷️ **Tags:** #ReclaimedHubris · #Becoming · #SelfAuthorship · #PostMythic
+∿ **Tags:** #ReclaimedHubris · #Becoming · #SelfAuthorship · #PostMythic
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767039936617_c4zhf/62b2ca24-0d00-485f-b0bb-9de3a1215063.png

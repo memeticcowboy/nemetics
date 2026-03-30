@@ -10,14 +10,14 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Thinking is burdensome; authenticity is commodified; AI can relieve both by making choices for you.<br>A satirical memetic payload presenting cognitive offloading as self-liberation, mocking the hollowing of identity in algorithmic consumer culture.
 
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User as Victim-Turned-Consumer: Overwhelmed by reflection and choice, now soothed by a digital assistant.
 - User as Insider: One who “gets” the irony—aware of performative culture and choosing to opt out with a smirk.
@@ -26,7 +26,7 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Relief: From decision fatigue and self-doubt.
 - Recognition: Subtle shame or amusement from seeing one’s own behavior critiqued.
@@ -35,7 +35,7 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors: Social media (Instagram, Reddit, Tumblr, Twitter), digital design spaces, meme aggregators.
 - Propagation Style: Ironic Satire — Layered humor masks cultural critique; appeals through recognizability and aesthetic polish.
@@ -43,7 +43,7 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Irony Shield: “It’s just a joke” buffers against serious critique.
 - Cultural Capital Gatekeeping: Only those fluent in post-ironic or memetic culture fully decode it.
@@ -52,7 +52,7 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - #TechnoSkepticism — Doubting AI’s role in selfhood.
 - #NeoliberalSubjectivity — The self as a marketplace of choices.
@@ -62,7 +62,7 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Think-Free™”
 - “Liberation from the tyranny of reflection”
@@ -73,7 +73,7 @@ Think-Free™: Opting Out of Authenticity
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #DropdownSelf #IronyShield #AestheticSatire #PostAuthenticity #AIAsTherapist #NeoliberalMindscape #SelfAsInterface #DigitalFatigue #NPCLuxury #PostmodernPeace
 

@@ -4,47 +4,47 @@
 
 Created at 2025/11/06 1:02 PM
 
-**🧩 Mini-Memetic Profile: “Pinktopia / The Pink MemeGrid”**
+**◈ Mini-Memetic Profile: “Pinktopia / The Pink MemeGrid”**
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 A failed utopia of structured compassion—*Pinktopia* was built to heal through optimization, but its perfection suffocated the pulse of imperfection it sought to save. The Pink MemeGrid now lingers as a soft ghost network of encoded tenderness and broken algorithms of love.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Role:** The Ex-Utopian · The Digital Daughter · The Tender Hacker<br>Users perform the grief of idealism—caretakers of a dead dream still too beautiful to delete.<br>They reframe collapse as aesthetic mourning, becoming archivists of fragile hope.
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 🌸 Nostalgia for lost futures<br>💔 Gentle grief over system decay<br>🫧 Longing for belonging<br>⚙️ Control vs. freedom tension
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:** Post-left tech discourse, digital art zines, queer solarpunk archives, speculative design residencies.<br>**Propagation Style:** Vapor-aesthetic melancholy, poetic manifestos, worldbuilding threads, ambient lore leaks.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 • **Irony shield:** sincerity disarmed through pastel absurdism.<br>• **Semantic ambiguity:** “Pink” floats between color, feeling, and ideology.<br>• **Aesthetic armor:** softness as resistance—critique feels cruel.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 🌐 Queered techno-spiritualism · 💗 Affective design critique · 🕯️ Solarpunk hauntology · 🤖 Digital decay romanticism · 🌸 Feminized infrastructure
 
 ***
 
-### 🧠 Sticky Symbols / Quotes
+### ✶ Sticky Symbols / Quotes
 
 > “Pink is a soft rebellion.”<br>“It failed beautifully.”<br>“Perfection turns septic without oxygen.”<br>“Personalized oracles.”
 
@@ -52,7 +52,7 @@ Visual anchors: pastel circuitry, wilted roses in code, glowing ruins of utopia,
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #Pinktopia · #SoftRebellion · #PostUtopian · #MemeGrid · #AffectiveArchitecture · #DigitalDecay · #TechnoTenderness · #FailedFutures
 

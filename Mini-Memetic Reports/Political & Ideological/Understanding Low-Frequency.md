@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:10 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:10 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Categorizes certain individuals as **intrinsically misaligned** or harmful based on their “frequency,” a loosely defined proxy for energy, mindset, or emotional state.
 - Positions them as **toxic, stagnant, or spiritually regressive**, warranting exclusion or avoidance—not for specific actions, but for who they are energetically.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:10 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Fear of Contamination:** Framing others as “low frequency” activates avoidance, revulsion, self-protection.
 - **Empowerment via Disconnection:** Cutting people off becomes a righteous act of self-preservation.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:10 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Common in spiritual influencer content, empath communities, trauma recovery spaces, #WitchTok, astrology meme pages, and manifestation coaching platforms.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:10 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Ontological Essentialism:** Criticism reframed as low-vibration behavior, thus invalid.
 - **Spiritualized Othering:** Reduces disagreement or discomfort to energetic misalignment, bypassing empathy or accountability.
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:10 AM
 
 ***
 
-🏷️ **Tags:**<br>#LowVibeAlert #FrequencySnobbery #EnergeticEssentialism #SpiritualOthering #EmpathDefense #VibeTribalism #BoundaryPurity #NewAgeSorting #AuraJudgment #AscensionPolitics
+∿ **Tags:**<br>#LowVibeAlert #FrequencySnobbery #EnergeticEssentialism #SpiritualOthering #EmpathDefense #VibeTribalism #BoundaryPurity #NewAgeSorting #AuraJudgment #AscensionPolitics
 

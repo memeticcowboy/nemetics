@@ -8,15 +8,15 @@ Created at 2025/12/28 1:32 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Growth is impossible without crossing inherited limits. Evolution occurs through rupture, not permission.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Threshold-Crosser<br>The subject is invited into becoming by stepping beyond sanctioned boundaries.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - ⚡ Thrill of becoming
 - 😮‍💨 Relief from suppression
@@ -25,7 +25,7 @@ Growth is impossible without crossing inherited limits. Evolution occurs through
 
 These emotions reframe risk as necessity.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,26 +35,26 @@ These emotions reframe risk as necessity.
 
 **Propagation Style:**<br>Breakthrough narratives, liminal language, forward momentum.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Framing rupture as regeneration, not destruction
 - Emphasizing process over heroism
 - Anti-moralism (“not wrong—early”)
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Evolutionary ontology
 - Post-heroic becoming
 - Regenerative systems theory
 
-### 🧠 Sticky Phrases / Symbols
+### ✶ Sticky Phrases / Symbols
 
 - Rupture
 - Emergence
 - Threshold
 - Amplitude
 
-🏷️ **Tags:** #Emergence · #Transgression · #Regeneration · #Becoming
+∿ **Tags:** #Emergence · #Transgression · #Regeneration · #Becoming
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766957499157_c4zhf/b3fe50f4-54ec-4220-a88d-ffac709a7913.png

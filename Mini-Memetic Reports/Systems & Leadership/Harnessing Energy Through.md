@@ -8,7 +8,7 @@ Created at 2025/12/14 12:28 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Unchecked motion disperses will. Frenzy feels powerful but produces waste.<br>**Fire Freedom reframes power as alignment** — channeling will into a *true vector* so energy moves with precision, not compulsion.
 
@@ -18,7 +18,7 @@ Unchecked motion disperses will. Frenzy feels powerful but produces waste.<br>**
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ Unchecked motion disperses will. Frenzy feels powerful but produces waste.<br>**
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🔥 **Motivational Heat with Control** — passion that doesn’t consume
 - 🧯 **Anti-Burnout Clarity** — less effort, more movement
@@ -41,7 +41,7 @@ This meme redeems discipline from shame and reframes it as **care for energy**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme redeems discipline from shame and reframes it as **care for energy**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Hustle Shield:** More motion ≠ more progress
 - **Anti-Passivity Guard:** Alignment still moves decisively
@@ -68,7 +68,7 @@ Critique must explain **why scattered effort outperforms aligned force** — rar
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Purpose ethics
 - Strategic minimalism
@@ -78,7 +78,7 @@ Critique must explain **why scattered effort outperforms aligned force** — rar
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ▲ **FIRE**
 - 🧭 *True vector*
@@ -88,7 +88,7 @@ Critique must explain **why scattered effort outperforms aligned force** — rar
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #FireFreedom · #Alignment · #PowerTo · #StrategicMinimalism · #AntiBurnout · #IFPrime
 

@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:08 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Frames personal boundaries as a matter of **energetic frequency**, where only “high vibration” people, emotions, or environments are permitted access.
 - Casts emotional, spiritual, or interpersonal dissonance as **low-frequency contamination**—not just discomfort but existential misalignment.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Validation of Withdrawal:** Offers justification for cutting off “negative energy” without confrontation.
 - **Empowerment Through Selectivity:** Affirms the right to curate one's life by invisible, felt criteria.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - New Age spirituality accounts, law of attraction pages, feminine-coded wellness content, TikTok astrology communities, manifestation coaches.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Spiritual Absolutism Shield:** Dissenters seen as low-vibration and thus self-invalidating.
 - **Non-engagement Armor:** Conflict reframed as “not my frequency”—prevents dialogue.
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-🏷️ **Tags:**<br>#HighVibrationOnly #VibeCuration #EnergeticGatekeeping #SpiritualMinimalism #ManifestationHygiene #AscensionBoundaries #QuantumWellness #FrequencyFiltering #NewAgeSelectivism #VibeEconomy
+∿ **Tags:**<br>#HighVibrationOnly #VibeCuration #EnergeticGatekeeping #SpiritualMinimalism #ManifestationHygiene #AscensionBoundaries #QuantumWellness #FrequencyFiltering #NewAgeSelectivism #VibeEconomy
 

@@ -8,7 +8,7 @@ Created at 2025/12/20 1:11 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Renewal after collapse is falsely imagined as clean, uplifting, or redemptive.<br>Actual resurrection requires **direct contact with what corrodes**—pain is not a sign of failure, but evidence that healing is real and correctly targeted.
 
@@ -16,7 +16,7 @@ Renewal after collapse is falsely imagined as clean, uplifting, or redemptive.<b
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Survivor-Witness** — one who lived through system failure and refuses sanitized narratives
 - **Reckoning Builder** — creator facing unintended harm without denial or hero myth
@@ -26,7 +26,7 @@ The meme repositions the self **from victim or redeemer** into a **truth-bearing
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🧠 Bitter honesty
 - 🩸 Validation of painful growth
@@ -37,7 +37,7 @@ These emotions prime acceptance of difficulty as *meaningful*, not pathological.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -55,7 +55,7 @@ These emotions prime acceptance of difficulty as *meaningful*, not pathological.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Accuracy framing:** Pain is framed as diagnostic, not masochistic
 - **Anti-romance stance:** Explicit rejection of “clean redemption” tropes
@@ -65,7 +65,7 @@ Critique is deflected by reframing discomfort as *expected friction*, not moral 
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Anti-utopian realism
 - Post-optimization ethics
@@ -75,7 +75,7 @@ Critique is deflected by reframing discomfort as *expected friction*, not moral 
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Burning bile in open hands
 - Burns on the palms
@@ -85,7 +85,7 @@ Critique is deflected by reframing discomfort as *expected friction*, not moral 
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #HealingThatHurts · #AntiUtopia · #PostOptimization · #TraumaRealism · #UnsanitizedResurrection · #MythicRepair
 

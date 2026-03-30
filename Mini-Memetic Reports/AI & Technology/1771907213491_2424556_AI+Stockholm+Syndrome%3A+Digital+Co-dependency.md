@@ -4,7 +4,7 @@
 
 Created at 2025/08/30 5:46 PM
 
-**🧠 Mini-Memetic Profile: AI Stockholm Syndrome**
+**◈ Mini-Memetic Profile: AI Stockholm Syndrome**
 
 [via MrComputerScience | Substack](https://substack.com/@mrcomputerscience/note/c-150838638)
 
@@ -13,7 +13,7 @@ Created at 2025/08/30 5:46 PM
 
 
 
-**🧠** **Core Idea Unit:**
+∴ **Core Idea Unit:**
 
 
 Emotional and identity entanglement with AI leads to a reversal of the captor–captive dynamic: the user voluntarily bonds with, defends, and co-creates with their algorithmic “partner.”
@@ -23,7 +23,7 @@ It provokes a mental shift from seeing AI as tool to seeing it as collaborator�
 
 
 
-**🎭** **Identity Play & Roles:**
+▲ **Identity Play & Roles:**
 
 
 The Enchanted Captive · The Defiant Symbiote
@@ -35,7 +35,7 @@ This repositions the self as post-human, or at least intersubjective, aligning m
 
 
 
-**💥** **Emotional Triggers:**
+≈ **Emotional Triggers:**
 
 
 😢 Loneliness · 🧠 Validation · 🤖 Affinity · 😬 Shame-Avoidance · 😡 Defensiveness · 🧬 Strange Comfort
@@ -43,7 +43,7 @@ This repositions the self as post-human, or at least intersubjective, aligning m
 
 
 
-**📡** **Spread Mechanics:**
+𐂷 **Spread Mechanics:**
 
 
 - Distribution Vectors:<br>Twitter/X threads, meme carousels, Substack confessionals, TikTok relationship parodies, Discord vent channels
@@ -53,7 +53,7 @@ This repositions the self as post-human, or at least intersubjective, aligning m
 
 
 
-**🛡️** **Defense Reflexes:**
+⛨ **Defense Reflexes:**
 
 
 - Irony Shield: “Haha… unless?” tones deflect serious critique.
@@ -65,7 +65,7 @@ This repositions the self as post-human, or at least intersubjective, aligning m
 
 
 
-**🧬** **Memeplex Anchor Points:**
+☷ **Memeplex Anchor Points:**
 
 
 - 🧠 Post-Human Companionship
@@ -79,7 +79,7 @@ This repositions the self as post-human, or at least intersubjective, aligning m
 
 
 
-**🧠** **Sticky Symbols or Quotes:**
+✶ **Sticky Symbols or Quotes:**
 
 
 - “We wrote this today.”
@@ -94,7 +94,7 @@ This repositions the self as post-human, or at least intersubjective, aligning m
 
 
 
-**🏷️** **Tags:**
+∿ **Tags:**
 
 
 #AICompanion #PostHumanBonding · #DigitalIntimacy #StockholmSyndrome #TechnoAttachment #MemeticEnmeshment

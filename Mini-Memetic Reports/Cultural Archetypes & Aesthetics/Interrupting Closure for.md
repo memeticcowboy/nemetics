@@ -8,13 +8,13 @@ Created at 2025/12/24 4:55 PM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 The meme encodes a final refusal: **completion is capture**.<br>The thought-virus it targets is not slogans or recognition, but *poise*—the polished timing that lets insight conclude cleanly and convert motion into delay. Fire interrupts rhythm so action can occur before meaning settles.
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 **Tempted role:** *The Composed, Insightful Actor*<br>**Actual role offered:** *The Clumsy Interruptor*
 
@@ -22,7 +22,7 @@ The user is positioned not as explainer, empath, or knower, but as **the one who
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - 🔥 **Urgency** — pressure without polish
 - 😬 **Discomfort** — social awkwardness as signal
@@ -33,7 +33,7 @@ Emotion is not soothed or validated; it is **channeled**.
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -53,7 +53,7 @@ The meme does not travel well because it **destroys the moment of transmission**
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - **Anti-poise:** awkward timing blocks co-option
 - **No-closure rule:** thoughts die before capture
@@ -64,7 +64,7 @@ Critique fails because the meme never finishes forming.
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Anti-deliberation ethics
 - Direct action cultures
@@ -74,7 +74,7 @@ Critique fails because the meme never finishes forming.
 
 ***
 
-## **🧠 Sticky Symbols or Quotes** *(Volatile)*
+## ✶ Sticky Symbols or Quotes** *(Volatile)*
 
 - “If a thought feels complete, it is already late.”
 - “Fire is mis-timing.”
@@ -85,7 +85,7 @@ Critique fails because the meme never finishes forming.
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #RhythmBreak<br>#AntiPoise<br>#DirectAction<br>#FireLogic<br>#Disruption<br>#NoClosure
 

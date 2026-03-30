@@ -4,37 +4,37 @@
 
 Created at 2025/11/08 5:35 PM
 
-### 🧩 **Mini-Memetic Profile: “The I-Tube — Perception as a Personal Algorithm”**
+### ◈ **Mini-Memetic Profile: “The I-Tube — Perception as a Personal Algorithm”**
 
-**🧠 Core Idea Unit:**<br>Perception operates as a self-reinforcing algorithm—each individual’s sensory and cognitive loop curving inward, filtering reality through personal bias and digital mediation.
-
-***
-
-**🎭 Identity Play & Roles:**<br>**The Disillusioned Seer** — once entranced by the promise of augmented knowing, now sees the lens as the labyrinth.<br>Users enact the role of both observer and observed—algorithm and data point—seeking liberation through awareness of their own cognitive curvature.
+∴ Core Idea Unit:**<br>Perception operates as a self-reinforcing algorithm—each individual’s sensory and cognitive loop curving inward, filtering reality through personal bias and digital mediation.
 
 ***
 
-**💥 Emotional Triggers:**<br>• Epistemic unease — “What if I’m seeing through someone else’s lens?”<br>• Cognitive vertigo — realization that every frame is self-referential<br>• Awe-tinged discomfort — glimpsing the recursive nature of perception itself<br>• Desire for unfiltered contact with the Real
+▲ Identity Play & Roles:**<br>**The Disillusioned Seer** — once entranced by the promise of augmented knowing, now sees the lens as the labyrinth.<br>Users enact the role of both observer and observed—algorithm and data point—seeking liberation through awareness of their own cognitive curvature.
 
 ***
 
-**📡 Spread Mechanics:**<br>**Distribution Vectors:** Metaphysical sci-fi, consciousness studies, digital humanities discourse, AI ethics circles.<br>**Propagation Style:** Philosophical parable meets critical meme; sleek pseudo-academic tone with aesthetic minimalism.<br>The meme spreads through *mirror loops*: people sharing what they think critiques the system while performing it.
+≈ Emotional Triggers:**<br>• Epistemic unease — “What if I’m seeing through someone else’s lens?”<br>• Cognitive vertigo — realization that every frame is self-referential<br>• Awe-tinged discomfort — glimpsing the recursive nature of perception itself<br>• Desire for unfiltered contact with the Real
 
 ***
 
-**🛡️ Defense Reflexes:**<br>• Reflexive irony (“I know I’m trapped in the feed—haha”)<br>• Fractal critique (disarms attacks by folding them into the system)<br>• Aesthetic self-awareness as shield (“it’s just art, not argument”)
+𐂷 Spread Mechanics:**<br>**Distribution Vectors:** Metaphysical sci-fi, consciousness studies, digital humanities discourse, AI ethics circles.<br>**Propagation Style:** Philosophical parable meets critical meme; sleek pseudo-academic tone with aesthetic minimalism.<br>The meme spreads through *mirror loops*: people sharing what they think critiques the system while performing it.
 
 ***
 
-**🧬 Memeplex Anchor Points:**<br>• 🧠 **Phenomenology** — Husserl, Merleau-Ponty<br>• 💻 **Techno-Skepticism** — simulation, algorithmic bias<br>• 🔄 **Posthuman Reflexivity** — the observer becomes part of the code<br>• 🔮 **Metamodern Oscillation** — sincerity in the awareness of mediation
+⛨ Defense Reflexes:**<br>• Reflexive irony (“I know I’m trapped in the feed—haha”)<br>• Fractal critique (disarms attacks by folding them into the system)<br>• Aesthetic self-awareness as shield (“it’s just art, not argument”)
 
 ***
 
-**🧠 Sticky Symbols / Quotes:**<br>• “The I-Tube curves perception inward.”<br>• “Headset as prosthetic epistemology.”<br>• “Your feed is your field of vision.”<br>• “The message is the bottle.”
+☷ Memeplex Anchor Points:**<br>• 🧠 **Phenomenology** — Husserl, Merleau-Ponty<br>• 💻 **Techno-Skepticism** — simulation, algorithmic bias<br>• 🔄 **Posthuman Reflexivity** — the observer becomes part of the code<br>• 🔮 **Metamodern Oscillation** — sincerity in the awareness of mediation
 
 ***
 
-**🏷️ Tags:**<br>#DigitalPhenomenology · #EpistemicAnxiety · #PostHumanMirror · #AlgorithmicSelf
+✶ Sticky Symbols / Quotes:**<br>• “The I-Tube curves perception inward.”<br>• “Headset as prosthetic epistemology.”<br>• “Your feed is your field of vision.”<br>• “The message is the bottle.”
+
+***
+
+∿ Tags:**<br>#DigitalPhenomenology · #EpistemicAnxiety · #PostHumanMirror · #AlgorithmicSelf
 
 ***
 

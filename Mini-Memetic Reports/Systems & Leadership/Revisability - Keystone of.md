@@ -6,24 +6,24 @@ Created at 2026/01/05 10:10 AM
 
 ## **Revisability as the Protected Invariant**
 
-**🧠 Core Idea Unit**<br>Any system that refuses revision eventually collapses. Revisability is the keystone of life.
+∴ Core Idea Unit**<br>Any system that refuses revision eventually collapses. Revisability is the keystone of life.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *long-horizon steward*. Guardian of decay.
+▲ Identity Play & Roles**<br>Casts the viewer as a *long-horizon steward*. Guardian of decay.
 
-**💥 Emotional Triggers**<br>🧠 Clean fear naming · 🌱 Becoming orientation · 🛡️ Survival instinct
+≈ Emotional Triggers**<br>🧠 Clean fear naming · 🌱 Becoming orientation · 🛡️ Survival instinct
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Governance theory, learning design
 - **Style:** Canonical, minimal, load-bearing
 
-**🛡️ Defense Reflexes**<br>Non-dramatic framing prevents absolutist capture.
+⛨ Defense Reflexes**<br>Non-dramatic framing prevents absolutist capture.
 
-**🧬 Memeplex Anchor Points**<br>Process ontology · Anti-absolutism · Systems resilience
+☷ Memeplex Anchor Points**<br>Process ontology · Anti-absolutism · Systems resilience
 
-**🧠 Sticky Phrases / Symbols**<br>“Forever is pathology” · “Decay = life” · “Sky becoming ceiling”
+✶ Sticky Phrases / Symbols**<br>“Forever is pathology” · “Decay = life” · “Sky becoming ceiling”
 
-**🏷️ Tags**<br>#Revisability · #ProcessOntology · #Invariant
+∿ Tags**<br>#Revisability · #ProcessOntology · #Invariant
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767636651891_c4zhf/1889ff72-4703-4693-a988-294ea2a3d25f.png

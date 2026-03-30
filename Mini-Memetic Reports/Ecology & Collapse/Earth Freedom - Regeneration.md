@@ -8,7 +8,7 @@ Created at 2025/12/14 1:28 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 When systems collapse, they are treated as failures to hide or waste to discard.<br>**Earth Freedom reframes collapse as feedstock** — strain becomes provision when tended with care, allowing continuity through regeneration rather than denial.
 
@@ -18,7 +18,7 @@ When systems collapse, they are treated as failures to hide or waste to discard.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ When systems collapse, they are treated as failures to hide or waste to discard.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌾 **Safety** — reliable ground beneath uncertainty
 - 🕰️ **Long-Horizon Trust** — patience that compounds
@@ -41,7 +41,7 @@ This meme stabilizes fear by **normalizing care as strength**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme stabilizes fear by **normalizing care as strength**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Sentimentality Shield:** Care is operational, not soft
 - **Anti-Martyrdom Guard:** Regeneration ≠ self-erasure
@@ -68,7 +68,7 @@ Critique must explain **how extractive efficiency outperforms regenerative care 
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Care ethics
 - Commons stewardship
@@ -78,7 +78,7 @@ Critique must explain **how extractive efficiency outperforms regenerative care 
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ☷ **EARTH**
 - 🌱 *Loam*
@@ -88,7 +88,7 @@ Critique must explain **how extractive efficiency outperforms regenerative care 
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #EarthFreedom · #Regeneration · #PowerFor · #CareEthics · #Commons · #IFPrime
 

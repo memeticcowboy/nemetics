@@ -8,11 +8,11 @@ Created at 2025/08/17 5:57 PM
 
 ***
 
-**🧠 Core Idea Unit:**<br>Identity is not a fixed “I am” but a fluid, relational unfolding. Shifting language from egoic selfhood to elemental processes (“It finds / feels / forms / fends”) dissolves possessive identity and opens awareness to shared becoming.
+∴ Core Idea Unit:**<br>Identity is not a fixed “I am” but a fluid, relational unfolding. Shifting language from egoic selfhood to elemental processes (“It finds / feels / forms / fends”) dissolves possessive identity and opens awareness to shared becoming.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User:** The Attuned Seer — one who speaks from field-awareness rather than ego.
 - **Audience:** The Bound Ego — still trapped in “I am” declarations.
@@ -20,7 +20,7 @@ Created at 2025/08/17 5:57 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - 🤯 Awe at seeing identity as constructed grammar.
 - 🌀 Disorientation from losing “I am” anchors.
@@ -29,14 +29,14 @@ Created at 2025/08/17 5:57 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Philosophy forums, spiritual discourse, systems-thinking circles, X/Twitter thought-threads, language hack communities.
 - **Propagation style:** Aphorism, parable, linguistic demonstration (“Not ‘I am sad’ but ‘It feels sadness in this field’”).
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Irony shield:** “It just finds its way into words.”
 - **Semantic ambiguity:** Shifts blame from self → field.
@@ -44,7 +44,7 @@ Created at 2025/08/17 5:57 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - 🕉️ Buddhist anattā (non-self)
 - 🌊 Taoist wu wei (flow, non-forcing)
@@ -53,7 +53,7 @@ Created at 2025/08/17 5:57 PM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “It finds, it feels, it forms, it fends.”
 - “Not I am — It becomes.”
@@ -62,7 +62,7 @@ Created at 2025/08/17 5:57 PM
 
 ***
 
-**🏷️ Tags:**<br>#NonSelfGrammar · #FieldAwareness · #EgoDissolve · #ProcessOntology · #LanguageHack
+∿ Tags:**<br>#NonSelfGrammar · #FieldAwareness · #EgoDissolve · #ProcessOntology · #LanguageHack
 
 [Learn More](https://app.me.bot/public/HECAFYSR0WFRVV2O)
 

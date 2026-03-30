@@ -4,19 +4,19 @@
 
 Created at 2025/12/09 9:51 AM
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 Identity is not the body but the **resonance** that once filled it.<br>A form can return without its spirit; appearance can masquerade as presence.<br>The meme provokes the shift: *discern structure from soul.*
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 **User Role:** The Discernment-Bearer — one who senses the mismatch between what *looks right* and what *feels true.*<br>**Shadow Role:** The Denier — clinging to form out of fear that essence is gone.<br>**Outgroup:** Systems and leaders that persist as hollow vessels: animated but no longer inhabited by their originating purpose.
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - **Uncanny Bereavement:** mourning someone still standing in front of you.
 - **Dissonance:** the emotional ache of recognizing a beloved pattern without its animating core.
@@ -25,7 +25,7 @@ Identity is not the body but the **resonance** that once filled it.<br>A form ca
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**
 
@@ -42,7 +42,7 @@ Identity is not the body but the **resonance** that once filled it.<br>A form ca
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - **Ambiguity Shield:** You can’t pin down “what’s missing,” because the meme *is* about the unnameable absence.
 - **Reversal Defense:** Critique only reinforces the core claim — if you think the vessel is fine, that *is exactly* the blindness being illustrated.
@@ -50,7 +50,7 @@ Identity is not the body but the **resonance** that once filled it.<br>A form ca
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 - Archetypes: *The Shell*, *The Doppelgänger*, *The False King*, *The Animus Without Anima*
 - AI Ethics: occupancy vs. alignment; simulacra vs. spirit
@@ -60,7 +60,7 @@ Identity is not the body but the **resonance** that once filled it.<br>A form ca
 
 ***
 
-### **🧠 Sticky Symbols or Quotes**
+### ✶ Sticky Symbols or Quotes**
 
 - “The smile returned. The soul didn’t.”
 - “A vessel can stand upright without a resident.”
@@ -72,7 +72,7 @@ Identity is not the body but the **resonance** that once filled it.<br>A form ca
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #HollowAuthority #ShellWithoutSoul #FalseResurrection #MythicDissonance #AlignmentVsOccupancy #UncannyProtector #ResonanceOverForm
 

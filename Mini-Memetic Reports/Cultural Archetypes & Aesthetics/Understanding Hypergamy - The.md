@@ -2,13 +2,13 @@
 
 Created at 2025/06/03 8:44 PM
 
-📌 Mini-Memetic Profile
+◈ Mini-Memetic Profile
 
 Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Hypergamy is a central concept in manosphere memetics that claims women are biologically driven to “marry up” — seeking men of higher status, wealth, attractiveness, or dominance.
 - It is framed not as a social construct, but as hardwired evolutionary strategy, often used to explain dating patterns, infidelity, or rejection.
@@ -16,7 +16,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User as Rational Observer or Strategic Actor: Positioned as someone who “understands female nature” and adapts accordingly (through game, self-improvement, or withdrawal).
 - Target as Feminist Narratives or Romantic Idealism: Dismisses ideas of egalitarian love or emotional compatibility as naive.
@@ -25,7 +25,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Resentment & Betrayal: Especially from users who feel discarded or undervalued by women prioritizing “status.”
 - Empowerment Through Control: Adopting this frame is often followed by stoic detachment or strategic behavior.
@@ -35,7 +35,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution vectors: Manosphere YouTube, TikTok dating commentary, redpill Reddit threads, “SMV graph” memes, and “dating market” flowcharts.
 - Propagation style:<br>
@@ -48,7 +48,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Bioessentialism Shield: Claims are framed as evolutionary inevitabilities, not cultural phenomena — critique is “emotional cope.”
 - Cold Rationality Pose: Emotions are framed as irrational — truth is statistical.
@@ -57,7 +57,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Manosphere Core, Redpill Theory, PUA/Game, SMV Theory, Gender Realism, Blackpill Fatalism
 - Linked to Darwinian pseudoscience, alpha/beta hierarchies, romantic nihilism, and male self-improvement cults
@@ -66,7 +66,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Women don’t love men, they love what men can do for them.”
 - “Never date down — it’s in their nature.”
@@ -77,7 +77,7 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #Hypergamy #SMV #ManosphereLore #RedPillBiology #ChadMythos #GameTheoryDating #StatusGame #RomanticRealism #PostLoveEra #AlphaMetrics #MatingStrategyMythos
 

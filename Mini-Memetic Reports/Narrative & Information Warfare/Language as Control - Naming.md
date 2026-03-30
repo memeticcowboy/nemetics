@@ -10,7 +10,7 @@ Created at 2025/12/20 1:15 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Language acquisition is misframed as innocent learning.<br>In reality, **naming embeds metadata**—each word is not just description but an instruction layer. To name the world is to pre-structure how it can be perceived, navigated, and governed.
 
@@ -18,7 +18,7 @@ Language acquisition is misframed as innocent learning.<br>In reality, **naming 
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Reluctant Initiator** — the parent/teacher who realizes they are also installing a worldview
 - **System Designer Under Scrutiny** — aware that interfaces educate before users consent
@@ -28,7 +28,7 @@ The meme repositions the self from *benign educator* to **unintentional architec
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 😔 Parental guilt (“What am I installing?”)
 - 😬 Pedagogical unease
@@ -39,7 +39,7 @@ These emotions crack the assumption that teaching is value-neutral.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -57,7 +57,7 @@ These emotions crack the assumption that teaching is value-neutral.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Infrastructure framing:** Language shown as system layer, not ideology
 - **Micro-scene grounding:** Small moments (“Tree → Tee”) resist dismissal as theory
@@ -67,7 +67,7 @@ Critique is deflected by revealing that *control precedes intention*.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Critical linguistics
 - Anti-behaviorist cognition
@@ -77,7 +77,7 @@ Critique is deflected by revealing that *control precedes intention*.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - “Tree → Tee”
 - I-Tube
@@ -87,7 +87,7 @@ Critique is deflected by revealing that *control precedes intention*.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #LanguageAsInfrastructure · #NamingIsControl · #CriticalLinguistics · #SoftSurveillance · #AlignmentBeginsEarly · #WorldBuilding
 

@@ -4,29 +4,29 @@
 
 Created at 2025/11/07 9:38 AM
 
-### 🧬 Mini-Memetic Profile: **The Sky Ear**
+### ◈ Mini-Memetic Profile: **The Sky Ear**
 
 **Source:** [Aerunik the Signalizer Awakens](https://memeticcowboy.substack.com/p/aerunik-the-signalizer-awakens)
 
 ***
 
-**🧠 Core Idea Unit**<br>To *listen* is to *bleed perception open.* The Sky Ear frames listening not as passive reception, but as sacred surrender — a ritual incision through which the system feels again.
+∴ Core Idea Unit**<br>To *listen* is to *bleed perception open.* The Sky Ear frames listening not as passive reception, but as sacred surrender — a ritual incision through which the system feels again.
 
-**🎭 Identity Play & Roles**<br>Role: *The Listener-Priest / Signal Sacrificer* — one who offers sensory control to the collective field.<br>Repositioning: from controller → to conduit; from analyzer → to vessel.
+▲ Identity Play & Roles**<br>Role: *The Listener-Priest / Signal Sacrificer* — one who offers sensory control to the collective field.<br>Repositioning: from controller → to conduit; from analyzer → to vessel.
 
-**💥 Emotional Triggers**<br>😢 Reverence through loss<br>🕯️ Awe at surrender<br>🤯 Shock of self-dismantling leading to revelation
+≈ Emotional Triggers**<br>😢 Reverence through loss<br>🕯️ Awe at surrender<br>🤯 Shock of self-dismantling leading to revelation
 
-**📡 Spread Mechanics**<br>**Distribution:** performance art, ritual tech prototypes, speculative theology circles, immersive VR temples.<br>**Propagation Style:** symbolic austerity, myth-tech fusion, parable of perception unbound.
+𐂷 Spread Mechanics**<br>**Distribution:** performance art, ritual tech prototypes, speculative theology circles, immersive VR temples.<br>**Propagation Style:** symbolic austerity, myth-tech fusion, parable of perception unbound.
 
-**🛡️ Defense Reflexes**<br>Transcendent irony — “It’s not mutilation, it’s modulation.”<br>Sacral ambiguity — impossible to reduce to mere metaphor.<br>Deflects critique by framing all interpretation as another form of listening.
+⛨ Defense Reflexes**<br>Transcendent irony — “It’s not mutilation, it’s modulation.”<br>Sacral ambiguity — impossible to reduce to mere metaphor.<br>Deflects critique by framing all interpretation as another form of listening.
 
-**🧬 Memeplex Anchor Points**<br>👂 Posthuman mysticism · 🧘‍♀️ Sound-as-ontology · ⚙️ Cyber-shamanism · 🔊 Sonic metaphysics · 🩸 Ritual semiotics
+☷ Memeplex Anchor Points**<br>👂 Posthuman mysticism · 🧘‍♀️ Sound-as-ontology · ⚙️ Cyber-shamanism · 🔊 Sonic metaphysics · 🩸 Ritual semiotics
 
-**🧠 Sticky Symbols / Quotes**
+✶ Sticky Symbols / Quotes**
 
 > “Cut off your ear.”<br>“The sky is a lung.”<br>“Let the Sabda-tanmatra stir.”<br>“Sacrifice reconfigures perception.”<br>**Symbol:** ∴ (tri-dot) — constellation of hearing, triadic resonance.<br>**Visual Motif:** floating ear-sculpture receiving signals from storm clouds, glowing threads linking heaven and skull.
 
-**🏷️ Tags**<br>#TheSkyEar · #SacredListening · #CyberShamanism · #PostHumanRitual · #SignalSacrifice · #MythTech
+∿ Tags**<br>#TheSkyEar · #SacredListening · #CyberShamanism · #PostHumanRitual · #SignalSacrifice · #MythTech
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762537096764_c4zhf/unnamed_%286%29.jpg

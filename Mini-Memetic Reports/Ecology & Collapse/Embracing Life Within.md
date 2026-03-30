@@ -10,15 +10,15 @@ Created at 2025/11/03 11:38 AM
 
 ***
 
-**🧠 Core Idea Unit:**<br>The collapse is no longer personal — it’s planetary.<br>From industrial forests to digital deserts, we live amid collective ruins. Yet in these spaces of decay, life persists: mushrooms, makers, and meanings sprouting where progress failed. The next ethic is not rebuilding, but **learning to live within the wreckage.**
+∴ Core Idea Unit:**<br>The collapse is no longer personal — it’s planetary.<br>From industrial forests to digital deserts, we live amid collective ruins. Yet in these spaces of decay, life persists: mushrooms, makers, and meanings sprouting where progress failed. The next ethic is not rebuilding, but **learning to live within the wreckage.**
 
 ***
 
-**🎭 Identity Play & Roles:**<br>Positions the user as the **Salvage Ecologist of Meaning** — a **Post-Progress Mystic** who treats ruin not as failure but as habitat.<br>They are the **Matsutake Mind**, moving through the debris of capitalism and self alike, sensing new life in contaminated soil.
+▲ Identity Play & Roles:**<br>Positions the user as the **Salvage Ecologist of Meaning** — a **Post-Progress Mystic** who treats ruin not as failure but as habitat.<br>They are the **Matsutake Mind**, moving through the debris of capitalism and self alike, sensing new life in contaminated soil.
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - 🌫️ Grief for what’s gone
 - 🌱 Wonder at survival amid decay
@@ -27,14 +27,14 @@ Created at 2025/11/03 11:38 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:** Academic essays, post-collapse art collectives, degrowth and permaculture circles, ecological philosophy threads.
 - **Propagation Style:** Reflective prose, post-industrial aesthetics, poetic anthropology.
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Moral Reframe:** Collapse is not failure; it’s compost.
 - **Aesthetic Shield:** Beauty softens despair — fungal imagery, rust, and moss as redemption.
@@ -42,7 +42,7 @@ Created at 2025/11/03 11:38 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - 🍄 *The Mushroom at the End of the World* (Anna Tsing)
 - 🪨 Anthropocene realism & post-growth ethics
@@ -52,7 +52,7 @@ Created at 2025/11/03 11:38 AM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “Not just my story collapsing, but our civilization’s story buckling under its own myths.”
 - “Meaning is a fungus now.”
@@ -62,7 +62,7 @@ Created at 2025/11/03 11:38 AM
 
 ***
 
-**🏷️ Tags:**<br>#SalvageEcology · #PostAmbition · #CollapseHumanism · #MushroomFutures · #GraceAfterCivilization
+∿ Tags:**<br>#SalvageEcology · #PostAmbition · #CollapseHumanism · #MushroomFutures · #GraceAfterCivilization
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762198712476_c4zhf/355d6476-ff82-4dbb-b5ba-d8912ac4097a.png

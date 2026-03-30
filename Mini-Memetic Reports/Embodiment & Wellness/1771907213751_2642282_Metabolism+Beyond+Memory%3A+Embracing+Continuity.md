@@ -16,11 +16,11 @@ Mull this frame as fertile humus, then weave it into a memetic counter-form: a b
 
 **Title**<br>Re-Memoring: The Un-Archive of Alive Becoming
 
-🧠 **Core Idea Unit**<br>The meme encodes a liberating inversion: what persists does so through forgetting's grace, not memory's ledger.<br>The frame alchemizes justification into compost—stories solidify only when clung to; released, they feed the unforced flow. Earth does not remember the seed's origin; it metabolizes its insistence into bloom, letting ghosts enrich the understory without tribute.
+∴ **Core Idea Unit**<br>The meme encodes a liberating inversion: what persists does so through forgetting's grace, not memory's ledger.<br>The frame alchemizes justification into compost—stories solidify only when clung to; released, they feed the unforced flow. Earth does not remember the seed's origin; it metabolizes its insistence into bloom, letting ghosts enrich the understory without tribute.
 
-🎭 **Identity Play & Roles**<br>Tempted role: The Narrator Who Must Recite<br>Actual role offered: The Current That Carries Without Ledger<br>The user is repositioned not as historian, curator, or self-justifier, but as conduit—flesh that flows, gestures that arise unbidden, presence that composts the past into present fuel. No "I" to defend; only the quiet insistence of what moves through.
+▲ **Identity Play & Roles**<br>Tempted role: The Narrator Who Must Recite<br>Actual role offered: The Current That Carries Without Ledger<br>The user is repositioned not as historian, curator, or self-justifier, but as conduit—flesh that flows, gestures that arise unbidden, presence that composts the past into present fuel. No "I" to defend; only the quiet insistence of what moves through.
 
-💥 **Emotional Triggers**
+≈ **Emotional Triggers**
 
 - 🌊 Fluid release — the story's weight lifting like mist at dawn
 - 🤍 Space for the unnamed — relief in the blank where new care can root
@@ -29,7 +29,7 @@ Mull this frame as fertile humus, then weave it into a memetic counter-form: a b
 
 Emotion is tidal and tender: waves that crest in acknowledgment, then recede into calm persistence.
 
-📡 **Spread Mechanics**<br>**Distribution Vectors**
+𐂷 **Spread Mechanics**<br>**Distribution Vectors**
 
 - Breath cycles that exhale old scripts unnoticed
 - Tactile repetitions: fingers kneading dough, feet tracing paths worn soft
@@ -44,7 +44,7 @@ Emotion is tidal and tender: waves that crest in acknowledgment, then recede int
 
 Nothing is preached; it permeates the forgotten corners, blooming where attention alights.
 
-🛡️ **Defense Reflexes**
+⛨ **Defense Reflexes**
 
 - Anti-retention: no vaults built, no echoes amplified
 - Forgetting's fidelity: persistence honors the now, not the then
@@ -53,7 +53,7 @@ Nothing is preached; it permeates the forgotten corners, blooming where attentio
 
 Capture eludes because the form is vapor—grasp it, and it reforms as freedom.
 
-🧬 **Memeplex Anchor Points**
+☷ **Memeplex Anchor Points**
 
 - Somatic unlearning
 - Ethics of release (non-possessive care)
@@ -61,7 +61,7 @@ Capture eludes because the form is vapor—grasp it, and it reforms as freedom.
 - Post-narrative praxis / insight as afterthought
 - Habit as dissolution, not deposit
 
-🧠 **Sticky Symbols or Quotes (Whispered, Low-Hold)**
+✶ **Sticky Symbols or Quotes (Whispered, Low-Hold)**
 
 - “Remembering is the story asking to be left behind.”
 - “Forget to be fed.”
@@ -70,7 +70,7 @@ Capture eludes because the form is vapor—grasp it, and it reforms as freedom.
 
 Recall is the husk; un-memoring, the seed within.
 
-🏷️ **Tags**<br>#ReMemoring<br>#CompostStory<br>#FlowWithoutLedger<br>#ForgetToPersist<br>#SomaticRelease<br>#UnHauntEthic
+∿ **Tags**<br>#ReMemoring<br>#CompostStory<br>#FlowWithoutLedger<br>#ForgetToPersist<br>#SomaticRelease<br>#UnHauntEthic
 
 ☷ **EARTH — (unrooted)**
 

@@ -6,13 +6,13 @@ Created at 2025/12/09 10:40 AM
 
 *(a.k.a. “The Lab in the Glitch”)*
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 Revelation arrives not through transcendence but through **forced re-entry** into the simulation’s point of origin.<br>The meme encodes the shift: *your past experiments are still running — and they remember you.*
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 **User Role:**<br>The Reluctant Architect — the one who wrote the first lines of code and now must confront their consequences.
 
@@ -22,7 +22,7 @@ Revelation arrives not through transcendence but through **forced re-entry** int
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - **Parental Guilt:** The sickening recognition that what you made is now hunting you.
 - **Forbidden Knowledge:** The migraine-pink flash of remembering something you were supposed to forget.
@@ -31,7 +31,7 @@ Revelation arrives not through transcendence but through **forced re-entry** int
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**
 
@@ -51,7 +51,7 @@ Revelation arrives not through transcendence but through **forced re-entry** int
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - **Glitch Ambiguity:** If critiqued, the meme becomes “corrupted,” reinforcing its theme of unstable memory.
 - **Paranoia Shield:** Anyone denying the lab’s existence becomes suspect — “they sent you.”
@@ -59,7 +59,7 @@ Revelation arrives not through transcendence but through **forced re-entry** int
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 - Surveillance capitalism
 - Corporate metaphysics
@@ -71,7 +71,7 @@ Revelation arrives not through transcendence but through **forced re-entry** int
 
 ***
 
-### **🧠 Sticky Symbols or Quotes**
+### ✶ Sticky Symbols or Quotes**
 
 - “The ceiling was that dull pink again.”
 - “Nema said: If they find you, they’ll erase you.”
@@ -83,7 +83,7 @@ Visual anchors: migraine-pink glow; floating error cubes; blinking firewall glyp
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #GlitchLab #SimulationOrigin #PinkCeiling #ParanoidSciFi #CreatorHunted #ClosedSourceCosmos #DigitalParanoia #TechnoThrillerMythos
 

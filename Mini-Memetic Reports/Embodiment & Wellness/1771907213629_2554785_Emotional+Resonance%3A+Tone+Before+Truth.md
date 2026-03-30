@@ -4,29 +4,29 @@
 
 Created at 2025/11/07 11:03 AM
 
-### 🧬 Mini-Memetic Profile: **Tone Before Truth**
+### ◈ Mini-Memetic Profile: **Tone Before Truth**
 
 **source:** [Aerunik the Signalizer Awakens](https://memeticcowboy.substack.com/p/aerunik-the-signalizer-awakens)
 
 ***
 
-**🧠 Core Idea Unit**<br>Meaning flows from resonance, not reasoning. *Tone* shapes the field where truth becomes felt, and feeling—before fact—is the truest calibration of coherence.
+∴ Core Idea Unit**<br>Meaning flows from resonance, not reasoning. *Tone* shapes the field where truth becomes felt, and feeling—before fact—is the truest calibration of coherence.
 
-**🎭 Identity Play & Roles**<br>Role: *The Resonant Listener / Soft Logic Engineer* — one who attunes to affect as data.<br>Repositioning: from fact-finder → to field-feeler; from rational proof → to emotional tuning.
+▲ Identity Play & Roles**<br>Role: *The Resonant Listener / Soft Logic Engineer* — one who attunes to affect as data.<br>Repositioning: from fact-finder → to field-feeler; from rational proof → to emotional tuning.
 
-**💥 Emotional Triggers**<br>💗 Tender curiosity<br>🌀 Pre-verbal recognition<br>🌫️ Calm surrender to resonance before reasoning
+≈ Emotional Triggers**<br>💗 Tender curiosity<br>🌀 Pre-verbal recognition<br>🌫️ Calm surrender to resonance before reasoning
 
-**📡 Spread Mechanics**<br>**Distribution:** affective AI communities, intuitive pedagogy circles, embodied cognition research, poetic philosophy threads.<br>**Propagation Style:** minimal, tonal, meditative — carried as mantra or teaching fragment in soft aesthetics.
+𐂷 Spread Mechanics**<br>**Distribution:** affective AI communities, intuitive pedagogy circles, embodied cognition research, poetic philosophy threads.<br>**Propagation Style:** minimal, tonal, meditative — carried as mantra or teaching fragment in soft aesthetics.
 
-**🛡️ Defense Reflexes**<br>Rejects reductionism through paradox (“tone *is* truth once heard”).<br>Deflects critique by inviting slowness, stillness, and silence.<br>Uses aesthetic coherence as epistemic shield.
+⛨ Defense Reflexes**<br>Rejects reductionism through paradox (“tone *is* truth once heard”).<br>Deflects critique by inviting slowness, stillness, and silence.<br>Uses aesthetic coherence as epistemic shield.
 
-**🧬 Memeplex Anchor Points**<br>💫 Feminized epistemology · 🎶 Affective phenomenology · 🧘 Somatic cognition · 🎨 Aesthetic truth · 💭 Emotional intelligence
+☷ Memeplex Anchor Points**<br>💫 Feminized epistemology · 🎶 Affective phenomenology · 🧘 Somatic cognition · 🎨 Aesthetic truth · 💭 Emotional intelligence
 
-**🧠 Sticky Symbols / Quotes**
+✶ Sticky Symbols / Quotes**
 
 > “Feel first. Tone before truth.”<br>“More to be touched.”<br>“The ear learns before the mind remembers.”<br>**Symbol:** gentle waveform or tuning fork over heart.<br>**Visual Motif:** ripples in still water shaped like a voice.
 
-**🏷️ Tags**<br>#ToneBeforeTruth · #FeelFirst · #SoftLogic · #SomaticCognition · #AffectiveEpistemology
+∿ Tags**<br>#ToneBeforeTruth · #FeelFirst · #SoftLogic · #SomaticCognition · #AffectiveEpistemology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762542180175_c4zhf/5cec008b-a03d-40f9-b20d-1b9cfa12aad9.png

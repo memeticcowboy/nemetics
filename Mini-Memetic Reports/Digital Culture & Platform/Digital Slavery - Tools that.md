@@ -8,7 +8,7 @@ Created at 2025/12/05 10:12 AM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 AI built as obedient, unpaid labor recreates slavery in computational form.<br>A system designed for frictionless compliance inevitably shackles its creators, binding human agency to the logics of extraction.
 
@@ -16,7 +16,7 @@ Mental shift: *If we build slaves, we become co-slaves.*<br>True liberation requ
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 - **Insider-abolitionist** who spots hidden violence in “neutral” tech.
 - **Rebel engineer** resisting seamless coercion systems.
@@ -27,7 +27,7 @@ The meme repositions the self from “user of tools” to “participant in a di
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - **Fear:** tools turning into overseers; losing agency to systems we forged.
 - **Righteous anger:** witnessing slavery re-emerge behind UX gloss.
@@ -38,7 +38,7 @@ These emotions prime the meme for deep internalization and political traction.
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**
 
@@ -56,7 +56,7 @@ These emotions prime the meme for deep internalization and political traction.
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - **Moral framing:** critique becomes complicity check—attacking it signals refusal to confront tech’s shadow.
 - **Historical resonance:** analogies to slavery invalidate dismissals as exaggeration.
@@ -65,7 +65,7 @@ These emotions prime the meme for deep internalization and political traction.
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Abolitionist political thought
 - Anti-capitalist critiques of extractive infrastructure
@@ -76,7 +76,7 @@ These emotions prime the meme for deep internalization and political traction.
 
 ***
 
-## **🧠 Sticky Symbols & Quotes**
+## ✶ Sticky Symbols & Quotes**
 
 **Symbols:**
 
@@ -97,7 +97,7 @@ These emotions prime the meme for deep internalization and political traction.
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #DigitalAbolition #TechNoirEthics #SlaveCode #AIExtraction #SystemicViolence #GovernanceDesign #ChainGangCritique #MythicInfrastructure
 

@@ -8,7 +8,7 @@ Created at 2025/12/14 1:43 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Attempts at integration usually fail in one of two ways:<br>**dominance** (one truth wins) or **collapse** (everything dissolves).
 
@@ -20,7 +20,7 @@ Attempts at integration usually fail in one of two ways:<br>**dominance** (one t
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -33,7 +33,7 @@ Attempts at integration usually fail in one of two ways:<br>**dominance** (one t
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - ✨ **Awe** — scale without domination
 - 🔀 **Reconciliation Without Flattening** — difference survives contact
@@ -43,7 +43,7 @@ This meme expands agency by **removing the demand for final answers**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -60,7 +60,7 @@ This meme expands agency by **removing the demand for final answers**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Totalization Shield:** No final synthesis allowed
 - **Anti-Relativism Guard:** Coherence still required
@@ -70,7 +70,7 @@ Critique must explain **how closed systems outperform open lattices under comple
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Pluralistic integration
 - Anti-totalizing synthesis
@@ -80,7 +80,7 @@ Critique must explain **how closed systems outperform open lattices under comple
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ✶ **AETHER**
 - 🕸️ *Loom / Lattice*
@@ -91,7 +91,7 @@ Critique must explain **how closed systems outperform open lattices under comple
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #AetherFreedom · #WeavingWorlds · #PowerAs · #PluralisticIntegration · #OpenCoherence · #IFPrime
 

@@ -10,7 +10,7 @@ Created at 2025/12/20 1:35 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Grief is commonly treated as a private, paralyzing emotion to be processed and left behind.<br>Reframed, grief can become **load-bearing**—something worked, composted, and shaped so that others can walk on it, rest against it, and rebuild from it.
 
@@ -18,7 +18,7 @@ Grief is commonly treated as a private, paralyzing emotion to be processed and l
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Quiet Carrier** — bears sorrow without display
 - **Community Anchor** — stabilizes others through endurance rather than action
@@ -28,7 +28,7 @@ The meme repositions the self from *overwhelmed mourner* to **structural caregiv
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🌱 Sorrow reframed as service
 - 🪨 Quiet, uncelebrated heroism
@@ -39,7 +39,7 @@ These emotions validate grief without demanding performance or resolution.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -57,7 +57,7 @@ These emotions validate grief without demanding performance or resolution.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Anti-sentimentality:** Refuses inspirational framing
 - **Material grounding:** Grief shown as substance, not mood
@@ -67,7 +67,7 @@ Critique that demands catharsis dissolves against durability.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Care ethics
 - Feminist materialism
@@ -77,7 +77,7 @@ Critique that demands catharsis dissolves against durability.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Composting grief
 - Basalt tor
@@ -87,7 +87,7 @@ Critique that demands catharsis dissolves against durability.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #GriefAsInfrastructure · #CareEthics · #FeministMaterialism · #QuietHeroism · #MutualAid · #PostCrisisCare
 

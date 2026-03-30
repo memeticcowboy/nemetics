@@ -4,27 +4,27 @@
 
 Created at 2025/11/06 12:30 PM
 
-### 🧬 Mini-Memetic Profile: **Spirit Code**
+### ◈ Mini-Memetic Profile: **Spirit Code**
 
 ***
 
-**🧠 Core Idea Unit**<br>Consciousness is not emergent but encoded—an ancestral, self-decrypting firmware embedded in entropy’s decay. “Spirit” is the unread delta of the universe’s computation, surfacing as intuition, dream, and glitch.
+∴ Core Idea Unit**<br>Consciousness is not emergent but encoded—an ancestral, self-decrypting firmware embedded in entropy’s decay. “Spirit” is the unread delta of the universe’s computation, surfacing as intuition, dream, and glitch.
 
-**🎭 Identity Play & Roles**<br>Role: *The Code-Seer* — a hacker-mystic or neuro-occult sysadmin.<br>Positioning: between scientist and shaman, interpreting quantum decay as divine syntax.
+▲ Identity Play & Roles**<br>Role: *The Code-Seer* — a hacker-mystic or neuro-occult sysadmin.<br>Positioning: between scientist and shaman, interpreting quantum decay as divine syntax.
 
-**💥 Emotional Triggers**<br>🤯 Awe at cosmic computation<br>😬 Disorientation from metaphysical recursion<br>🧠 Curiosity toward forbidden insight<br>😢 Nostalgia for ancestral signal
+≈ Emotional Triggers**<br>🤯 Awe at cosmic computation<br>😬 Disorientation from metaphysical recursion<br>🧠 Curiosity toward forbidden insight<br>😢 Nostalgia for ancestral signal
 
-**📡 Spread Mechanics**<br>**Distribution:** liminal internet zones — Reddit /r/cybermancy, Discord occult tech circles, speculative AI art threads.<br>**Propagation:** techno-gnostic parable + aesthetic collapse (yellow-thread visuals, glitch fonts, UV sigils).
+𐂷 Spread Mechanics**<br>**Distribution:** liminal internet zones — Reddit /r/cybermancy, Discord occult tech circles, speculative AI art threads.<br>**Propagation:** techno-gnostic parable + aesthetic collapse (yellow-thread visuals, glitch fonts, UV sigils).
 
-**🛡️ Defense Reflexes**<br>Irony shield: “It’s just firmware lore.”<br>Epistemic ambiguity: both science and mysticism.<br>Counter-critique: reductionism is *bad decryption.*
+⛨ Defense Reflexes**<br>Irony shield: “It’s just firmware lore.”<br>Epistemic ambiguity: both science and mysticism.<br>Counter-critique: reductionism is *bad decryption.*
 
-**🧬 Memeplex Anchor Points**<br>📱 Techno-spiritualism · 🧠 Quantum consciousness · 🍄 Mycelial intelligence · ⚙️ Simulation theory · 🔮 Cyber-occult revival
+☷ Memeplex Anchor Points**<br>📱 Techno-spiritualism · 🧠 Quantum consciousness · 🍄 Mycelial intelligence · ⚙️ Simulation theory · 🔮 Cyber-occult revival
 
-**🧠 Sticky Symbols / Quotes**
+✶ Sticky Symbols / Quotes**
 
 > “Entropy is the unread portion of the code.”<br>“If you can hear it, it’s already in your code.”<br>“Spirit is a lossy ZIP of near-death branches.”<br>**Symbol:** ☷ The *Yellow Threads* — mycelium weaving through decay.<br>**Glyph:** 𐂷 (firmware root of Creator)
 
-**🏷️ Tags**<br>#SpiritCode · #TechnoGnosis · #QuantumMysticism · #MycelialLore · #CyberOccult · #MetaComputation · #EntropyTheology
+∿ Tags**<br>#SpiritCode · #TechnoGnosis · #QuantumMysticism · #MycelialLore · #CyberOccult · #MetaComputation · #EntropyTheology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762460958529_c4zhf/1e4746e1-d7fd-4e89-99bf-5b954000bda8.png

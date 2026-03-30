@@ -6,7 +6,7 @@ Created at 2026/02/04 1:15 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Claim under test:** Memes do not require humans to evolve—only a sufficiently expressive substrate.
 
@@ -16,7 +16,7 @@ Created at 2026/02/04 1:15 PM
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast Roles:**
 
@@ -28,7 +28,7 @@ Created at 2026/02/04 1:15 PM
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🧠 **Scientific Intrigue** – real experiment, falsifiable outcomes
 - 🚫 **Forbidden Experiment Vibe** – “should we even be doing this?”
@@ -39,7 +39,7 @@ These emotions prime acceptance by framing the idea as *inevitable curiosity*, n
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -52,7 +52,7 @@ These emotions prime acceptance by framing the idea as *inevitable curiosity*, n
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Empirical Deferral:** “Run the experiment.”
 - **Non-Anthropomorphic Framing:** avoids claims of consciousness or personhood
@@ -63,7 +63,7 @@ Critique is absorbed by turning it into a variable.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Computational evolution & artificial life
 - Cultural evolution theory
@@ -75,7 +75,7 @@ This meme docks cleanly with **AI-as-ecosystem**, not AI-as-agent narratives.
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - *“Culture in a dish.”*
 - *“Sealed memetic environment.”*
@@ -89,7 +89,7 @@ Visual shorthand:
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #CultureInADish #MemeticIsolationism · Artificial Evolution · PostAnthropocentrism · AI Ecology
 

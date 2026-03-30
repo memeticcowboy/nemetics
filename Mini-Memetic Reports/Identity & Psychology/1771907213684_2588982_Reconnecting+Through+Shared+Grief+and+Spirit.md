@@ -8,13 +8,13 @@ Created at 2025/11/23 12:03 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Collapse begins when a culture outruns its own intuition. Spirit recedes not from malice, but from neglect—return requires shared grief, honesty, and re-attunement.
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 **The Wounded Healer** — recognizes their own fracture as part of the world’s.<br>**The Repentant Creator** — mourning what their choices failed to protect.<br>**The Intuitive Returning** — relearning to trust the quiet voice they abandoned.
 
@@ -22,37 +22,37 @@ Each role positions the self as someone trying to stitch the invisible back toge
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 Shame at missing the warning signs.<br>Fragile hope that reconnection is still possible.<br>Spiritual self-doubt softened by communal repair.<br>A sense that the grove’s silence is deserved.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors:** eco-spiritual communities, trauma recovery spaces, metamodern fantasy mythos, environmental grief circles.<br>**Propagation Style:** elegiac parable, whispered lesson, post-collapse spiritual ecology.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 Humility shields: “I do not speak for spirit, only for what I failed to hear.”<br>Symbolic indirection: the grove critiques without anthropomorphizing.<br>Communal framing: responsibility defused across collective estrangement.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 Ecological spirituality · Post-collapse animism · Trauma ecology · Metamodern mythmaking · Moral attunement narratives · Loss-as-teacher arcs.
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes**
+### ✶ **Sticky Symbols or Quotes**
 
 “Cracked cambium remembers what we forgot.”<br>“Spirit flees when chased.”<br>“The grove cried out—no one answered.”<br>“Reconnection begins with shared grief.”<br>Ash settling on broken bark.<br>Roots pulsing faintly with withheld trust.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #SpiritLoop · #EcologicalAttunement · #GriefEcology · #MetamodernMythos · #IntuitionReturn
 

@@ -6,35 +6,35 @@ Created at 2025/11/17 4:03 PM
 
 ### **🧩 Title: THE AUTHORED-SELF PARADOX**
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 Identity is co-authorship. The self senses itself being written by forces beyond its boundaries.
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 The Meta-Protagonist; the fragmented author; the walk-between-worlds storyteller.
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 Existential vertigo, bittersweet awe, meta-intimacy, creative disorientation.
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 • Distribution: narrative theory Twitter, AI consciousness debates, RPG communities<br>• Style: metamodern sincerity, reflective recursion
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 Meta-humility, narrative layering, self-displacement.
 
-### **🧬 Memeplex Anchors**
+### ☷ Memeplex Anchors**
 
 Metamodern selfhood · Narrative identity theory · Posthuman introspection
 
-### **🧠 Sticky Symbols / Quotes**
+### ✶ Sticky Symbols / Quotes**
 
 • The book pulsing like a heart<br>• “Being authored by something stranger than myself.”<br>• Six colored seeds vision
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #MetaSelf · #CoAuthorship · #StoryMind
 

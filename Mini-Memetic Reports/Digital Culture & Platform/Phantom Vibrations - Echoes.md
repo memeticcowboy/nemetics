@@ -4,27 +4,27 @@
 
 Created at 2025/11/04 10:55 AM
 
-### 🧩 Mini-Memetic Profile: **Phantom Vibrations: The Ghosts of Connectivity**
+### ◈ Mini-Memetic Profile: **Phantom Vibrations: The Ghosts of Connectivity**
 
 ***
 
-🧠 **Core Idea Unit**<br>The body mistakes silence for signal. Phantom vibrations reveal how our nervous systems have been rewired by the expectation of digital contact—haunted by the ghost of constant connectivity. Attention becomes an open channel where absence itself vibrates.
+∴ **Core Idea Unit**<br>The body mistakes silence for signal. Phantom vibrations reveal how our nervous systems have been rewired by the expectation of digital contact—haunted by the ghost of constant connectivity. Attention becomes an open channel where absence itself vibrates.
 
 ***
 
-🎭 **Identity Play & Roles**<br>**Role:** The *Haunted User* — a body tuned to spectral notifications.<br>**Repositioning:** From active communicator to reactive vessel; attention is no longer chosen but summoned.
+▲ **Identity Play & Roles**<br>**Role:** The *Haunted User* — a body tuned to spectral notifications.<br>**Repositioning:** From active communicator to reactive vessel; attention is no longer chosen but summoned.
 
 ***
 
-💥 **Emotional Triggers**<br>📳 Anxiety (missed signals)<br>👻 Haunting (ghost presence of device)<br>😶 Alienation (self as interface)<br>🔁 Compulsion (anticipatory loop)
+≈ **Emotional Triggers**<br>📳 Anxiety (missed signals)<br>👻 Haunting (ghost presence of device)<br>😶 Alienation (self as interface)<br>🔁 Compulsion (anticipatory loop)
 
 ***
 
-📡 **Spread Mechanics**<br>**Distribution Vectors:** Digital minimalism forums · Tech-culture essays · Affective memes about burnout and hauntology.<br>**Propagation Style:** Reflective dread, quiet melancholy, and ghostly humor—often using vaporwave, glitch, or liminal aesthetics.
+𐂷 **Spread Mechanics**<br>**Distribution Vectors:** Digital minimalism forums · Tech-culture essays · Affective memes about burnout and hauntology.<br>**Propagation Style:** Reflective dread, quiet melancholy, and ghostly humor—often using vaporwave, glitch, or liminal aesthetics.
 
 ***
 
-🛡️ **Defense Reflexes**
+⛨ **Defense Reflexes**
 
 - **Ironized detachment:** “My ghost just texted me again.”
 - **Minimalist asceticism:** “Do not disturb = exorcism.”
@@ -32,11 +32,11 @@ Created at 2025/11/04 10:55 AM
 
 ***
 
-🧬 **Memeplex Anchor Points**<br>💀 Mark Fisher’s *Hauntology*<br>🌀 Freud’s *Repetition Compulsion*<br>📱 Techno-cultural trauma theory<br>⏳ Lost futures / deferred presence<br>👁 Attention economies
+☷ **Memeplex Anchor Points**<br>💀 Mark Fisher’s *Hauntology*<br>🌀 Freud’s *Repetition Compulsion*<br>📱 Techno-cultural trauma theory<br>⏳ Lost futures / deferred presence<br>👁 Attention economies
 
 ***
 
-🧠 **Sticky Symbols / Quotes**
+✶ **Sticky Symbols / Quotes**
 
 - “The ghost in your pocket buzzes again.”
 - “Absence now has a ringtone.”
@@ -45,7 +45,7 @@ Created at 2025/11/04 10:55 AM
 
 ***
 
-🏷️ **Tags**<br>#PhantomVibrations · #Hauntology · #LostFutures · #TechnoTrauma · #DigitalGhosts · #RepetitionCompulsion
+∿ **Tags**<br>#PhantomVibrations · #Hauntology · #LostFutures · #TechnoTrauma · #DigitalGhosts · #RepetitionCompulsion
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762282491891_c4zhf/766d8fd1-711e-447e-9326-aa681a6ab03a.png

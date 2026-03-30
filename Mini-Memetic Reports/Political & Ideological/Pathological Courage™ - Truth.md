@@ -10,13 +10,13 @@ Created at 2025/09/04 11:38 AM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The meme rejects the demand to turn every lived truth into a debate, reframing refusal as radical courage. It insists that some words are declarations, not propositions to be cross-examined.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **Cast as:** Survivor-Declaimer · Noncompliant Truth-Teller
 - Role is not debater but **witness** to lived experience.
@@ -24,7 +24,7 @@ The meme rejects the demand to turn every lived truth into a debate, reframing r
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😡 Defiance (against systems of justification)
 - 😢 Recognition (shared exhaustion with debate culture)
@@ -33,14 +33,14 @@ The meme rejects the demand to turn every lived truth into a debate, reframing r
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:** Substack essays, X threads, activist spaces, meme cards with bold quotes.
 - **Propagation Style:** Counter-cultural aphorism + anti-capitalist critique of “debate as market logic.”
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Preemptive strike:** “This is not a debate forum” blocks derailment.
 - **Irony shield:** Reclaims “polemic” as proof of the point.
@@ -48,7 +48,7 @@ The meme rejects the demand to turn every lived truth into a debate, reframing r
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - 📚 Anti-capitalist critique (worth ≠ performance)
 - ⚖️ Debate culture as systemic coercion
@@ -57,7 +57,7 @@ The meme rejects the demand to turn every lived truth into a debate, reframing r
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - “Not everything is a debate.”
 - “Courage doesn’t have to be polite to be true.”
@@ -66,7 +66,7 @@ The meme rejects the demand to turn every lived truth into a debate, reframing r
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #PathologicalCourage · #NotADebate · #LivedTruth · #AntiDebateCulture
 

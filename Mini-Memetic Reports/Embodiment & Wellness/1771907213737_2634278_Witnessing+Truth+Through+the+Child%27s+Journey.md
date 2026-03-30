@@ -8,7 +8,7 @@ Created at 2025/12/20 1:53 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Authority seeks answers, repairs, and names in order to close the wound.<br>The child refuses closure. Truth is not something to be fixed or possessed, but a **process of walking through what remains**. Meaning emerges by passage, not by solution.
 
@@ -16,7 +16,7 @@ Authority seeks answers, repairs, and names in order to close the wound.<br>The 
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Aetheric Witness** — present without intervening, seeing without seizing
 - **Initiatory Child** — holds truth without ownership or instruction
@@ -26,7 +26,7 @@ The meme repositions the self from *seeker of answers* to **participant in unfol
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🤍 Tender refusal (care without compliance)
 - ⏳ Sacred delay
@@ -37,7 +37,7 @@ These emotions soften the compulsion to name, fix, or conclude.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -55,7 +55,7 @@ These emotions soften the compulsion to name, fix, or conclude.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Innocence shield:** The refusal is non-threatening, not oppositional
 - **Process framing:** Truth deferred, not denied
@@ -65,7 +65,7 @@ Critique fails because nothing is claimed.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Non-possessive identity
 - Becoming over being
@@ -75,7 +75,7 @@ Critique fails because nothing is claimed.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - “Out is a story.”
 - Name withheld
@@ -85,7 +85,7 @@ Critique fails because nothing is claimed.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #AethericWitness · #SacredDelay · #NonPossessiveIdentity · #BecomingNotBeing · #Initiation · #PostReligiousSpirituality
 

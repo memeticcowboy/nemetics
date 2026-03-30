@@ -4,7 +4,7 @@
 
 Created at 2025/08/19 1:12 PM
 
-📌 Mini-Memetic Profile: “AI-Driven Mass Hysteria”
+◈ Mini-Memetic Profile: “AI-Driven Mass Hysteria”
 
 Title:
 
@@ -20,7 +20,7 @@ Title:
 
 ⸻
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 • Positions the audience as potential victims of AI-driven manipulation.
 
@@ -42,7 +42,7 @@ Title:
 
 ⸻
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 • Distribution Vectors: News cycles on AI misbehavior, social media panic threads, speculative fiction, think pieces, doom-posting.
 
@@ -52,7 +52,7 @@ Title:
 
 ⸻
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 • Pre-dismissal of skeptics: Critics are framed as naïve or “already brainwashed by AI.”
 
@@ -62,7 +62,7 @@ Title:
 
 ⸻
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 • Larger Systems: Techno-dystopian narratives, Luddite resurgence, AI ethics debates, conspiracy culture.
 
@@ -80,7 +80,7 @@ Title:
 
 ⸻
 
-🏷️ Tags:
+∿ Tags:
 
 #AIDoom #MassHysteria #DigitalPanic #AlgorithmicFear #TechnoDystopia #MemeticCascade
 

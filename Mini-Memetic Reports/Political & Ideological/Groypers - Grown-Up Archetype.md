@@ -14,34 +14,34 @@ The “Grown-Up”  — Sellouts, Boomers, and Coomers
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 “Growing up” is framed not as maturity but as surrender—selling out ideals, embracing hypocrisy, or decaying into indulgence. To Groypers, adulthood equals betrayal of purity.
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Role Cast: The Enemy Within (Sellout, Boomer, Coomer)
 - Positioning: Defines maturity as domestication by the system, in contrast to youth’s uncompromised rebellion.
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - 😡 Rage at betrayal by elders (“Boomer theft”)
 - 😬 Disdain for hypocrisy and weakness
 - 🤪 Irony and mockery as weapons
 - 😢 Nostalgia for lost vitality and purity
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors: Discord radicalization, YouTube ambushes, X/Twitter culture-war threads
 - Propagation Style: Meme irony, trolling mainstream conservatives, generational blame narratives
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Purity Shield: “We refuse to surrender like you did.”
 - Generational Frame: Boomer hypocrisy invalidates critiques of youth “immaturity.”
 - Irony Cloak: Coomer jokes and Neverland memes neutralize accusations of unseriousness.
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - 🔫 America First nationalism
 - 👴 Boomer betrayal & hypocrisy
@@ -49,14 +49,14 @@ The “Grown-Up”  — Sellouts, Boomers, and Coomers
 - 🍆 “Coomer” decay archetype
 - 🧒 Neverland vs. Adulthood mythic split
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Grow up = Surrender.”
 - “Boomers got rich, left us scraps.”
 - “Coomer decay.”
 - “Guardians of uncompromised youth.”
 
-🏷️ Tags:
+∿ Tags:
 
 #NeverlandNationalism · #BoomerBetrayal · #CoomerDecay · #YouthVsSystem
 

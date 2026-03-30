@@ -14,14 +14,14 @@ Title:
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Illness can be performed as identity online, gaining attention, community, and authenticity — regardless of medical legitimacy.
 
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Victim/Hero: The supposed patient bravely sharing struggles.
 - Insider: Community members validating each other’s “symptoms.”
@@ -32,7 +32,7 @@ Title:
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Empathy for sufferers.
 - Fascination with dramatic, visible symptoms.
@@ -42,7 +42,7 @@ Title:
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution vectors: TikTok shorts, hashtags (#DIDAlters, #TouretteTikTok), confession-style videos, support forums.
 - Propagation style: Emotional confession → awareness framing → algorithmic amplification → backlash exposés.
@@ -50,7 +50,7 @@ Title:
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - “Don’t gatekeep disorders” (preemptive dismissal of skepticism).
 - Framing as “raising awareness” shields against critique.
@@ -59,7 +59,7 @@ Title:
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Mental health awareness movements.
 - Confessional authenticity culture.
@@ -69,7 +69,7 @@ Title:
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “TikTok tics”
 - “DID alters”
@@ -79,7 +79,7 @@ Title:
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #MunchausenByInternet #TikTokTics #PerformativeIllness #MentalHealthMemeplex #AuthenticityEconomy #ConfessionalCulture
 

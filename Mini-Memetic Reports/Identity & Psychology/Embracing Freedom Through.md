@@ -8,7 +8,7 @@ Created at 2026/01/14 8:45 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Freedom is not seized through protest but **released through impermanence**. *The Quiet Exit* reframes disengagement—being overlooked, misunderstood, or slowly erased by the system—not as failure, but as a dignified liberation that requires no confrontation.
 
@@ -16,14 +16,14 @@ Freedom is not seized through protest but **released through impermanence**. *Th
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 - **Cast Role:** *The Ethical Withdrawer*
 - **Repositioning:** The self steps out of heroic struggle and into quiet agency—no rebellion, no plea for recognition, just deliberate non-participation.
 
 ***
 
-## 💥 Emotional Triggers / Cognitive Levers
+## ≈ Emotional Triggers / Cognitive Levers
 
 🕊️ Peace after exhaustion<br>😌 Subtle defiance without spectacle<br>🧍 Dignity through restraint
 
@@ -67,7 +67,7 @@ Lifestyle essays · resignation narratives · anti-hustle media<br>Substack conf
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Against critique:** “I didn’t quit—I just stopped performing.”
 - **Against co-option:** refusal to moralize or organize
@@ -81,7 +81,7 @@ Quiet quitters · minimalists · principled non-participants · burnout survivor
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #TheQuietExit · #EthicalWithdrawal · #AntiHustle · #NegativeScale · #ExitOverVoice
 

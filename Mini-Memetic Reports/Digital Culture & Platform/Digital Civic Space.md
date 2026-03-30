@@ -10,13 +10,13 @@ Digital Civic Space, Not Battlespace
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 Reject the militarization metaphor of “information war” by reframing social media as a civic commons—not a combat zone. This meme swaps war metaphors for ecological and democratic ones to protect civilian norms and reclaim digital agency.
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Role: Digital Citizen
 - Archetype: Civic Steward or Park Ranger of the Infoscape
@@ -26,7 +26,7 @@ Reject the militarization metaphor of “information war” by reframing social 
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - 🧘‍♂️ Relief – Escape from paranoia of total war narrative
 - 🧠 Civic clarity – Return to democratic accountability
@@ -36,7 +36,7 @@ Reject the militarization metaphor of “information war” by reframing social 
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors: Policy threads, civic tech networks, info-environmentalist circles, journalism platforms
 - Propagation Style:<br>
@@ -49,7 +49,7 @@ Reject the militarization metaphor of “information war” by reframing social 
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - 🛡️ Moral framing: Defends speech as democratic right, not battlefield liability
 - 🔄 Metaphor shift: Turns combat talk into pollution talk—less panic, more public health
@@ -59,7 +59,7 @@ Reject the militarization metaphor of “information war” by reframing social 
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - 🏛️ Democratic theory
 - 🌍 Environmental regulation
@@ -71,7 +71,7 @@ Reject the militarization metaphor of “information war” by reframing social 
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “No covert ops in the civic square.”
 - “Platforms are parks, not forward operating bases.”
@@ -80,7 +80,7 @@ Reject the militarization metaphor of “information war” by reframing social 
 - Visuals: face masks, park signs, pollution maps, EULA in public squares.
 
 
-🏷️ Tags:
+∿ Tags:
 
 #CivicCommons · #InfoEcology · #DeMilitarizeDiscourse · #MediaLiteracy · #DemocracyByDesign
 

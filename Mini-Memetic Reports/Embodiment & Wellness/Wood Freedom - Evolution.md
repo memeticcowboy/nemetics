@@ -8,7 +8,7 @@ Created at 2025/12/14 12:47 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 When habits harden, vitality drains and systems stagnate.<br>**Wood Freedom reframes evolution as regeneration** — the capacity to compost spent forms into new architectures, letting necessity become the engine of novelty.
 
@@ -18,7 +18,7 @@ When habits harden, vitality drains and systems stagnate.<br>**Wood Freedom refr
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ When habits harden, vitality drains and systems stagnate.<br>**Wood Freedom refr
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌱 **Hope After Burnout** — decay as nutrient, not verdict
 - 🪵 **Permission to Change Form** — continuity without rigidity
@@ -41,7 +41,7 @@ This meme restores momentum by **sanctifying change**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme restores momentum by **sanctifying change**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Perfectionism Shield:** Growth requires imperfection
 - **Anti-Churn Guard:** Evolution ≠ random pivoting
@@ -68,7 +68,7 @@ Critique must explain **how rigid optimization outperforms adaptive regeneration
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Emergence doctrine
 - Regenerative design
@@ -78,7 +78,7 @@ Critique must explain **how rigid optimization outperforms adaptive regeneration
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - 𐂷 **WOOD**
 - 🌳 *Branching paths*
@@ -88,7 +88,7 @@ Critique must explain **how rigid optimization outperforms adaptive regeneration
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #WoodFreedom · #Evolution · #PowerFrom · #RegenerativeInnovation · #Emergence · #IFPrime
 

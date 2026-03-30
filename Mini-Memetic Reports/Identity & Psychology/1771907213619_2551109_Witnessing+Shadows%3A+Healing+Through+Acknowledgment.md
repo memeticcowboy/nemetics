@@ -8,15 +8,15 @@ Created at 2025/11/03 9:40 AM
 
 ***
 
-**🧠 Core Idea Unit:**<br>The shadow is not an enemy to be exorcised but a memory to be metabolized. The fragments we repress continue to move beneath us, asking not for destruction but for acknowledgment. Healing comes through witnessing, not erasure.
+∴ Core Idea Unit:**<br>The shadow is not an enemy to be exorcised but a memory to be metabolized. The fragments we repress continue to move beneath us, asking not for destruction but for acknowledgment. Healing comes through witnessing, not erasure.
 
 ***
 
-**🎭 Identity Play & Roles:**<br>Positions the user as the **Shadow Witness** — a **Keeper of Forgotten Selves** who descends into the depths of memory to retrieve the exiled parts. They are not destroyers of darkness but its archivists, binding their wounds into wisdom.
+▲ Identity Play & Roles:**<br>Positions the user as the **Shadow Witness** — a **Keeper of Forgotten Selves** who descends into the depths of memory to retrieve the exiled parts. They are not destroyers of darkness but its archivists, binding their wounds into wisdom.
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - 😔 Shame and grief transmuted into acceptance
 - 🫧 Nostalgia for lost innocence or forgotten selves
@@ -25,14 +25,14 @@ Created at 2025/11/03 9:40 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:** Trauma-informed workshops, mythopoetic podcasts, shadow work communities, art therapy collectives.
 - **Propagation Style:** Lyrical reflection, dream imagery, confessional storytelling, sacred melancholy.
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Moral Framing:** Integration over purity — shadows are teachers.
 - **Irony Shield:** Uses poetic gravitas; self-awareness deflects moral critique.
@@ -40,7 +40,7 @@ Created at 2025/11/03 9:40 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - 🕯️ Jungian archetypal psychology
 - 🌑 Somatic trauma theory
@@ -50,7 +50,7 @@ Created at 2025/11/03 9:40 AM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “Pieces of me that never got digested.”
 - “The shadows didn’t haunt out of cruelty.”
@@ -60,7 +60,7 @@ Created at 2025/11/03 9:40 AM
 
 ***
 
-**🏷️ Tags:**<br>#ShadowWork · #DepthHumanism · #TraumaIntegration · #MemoryEcology · #InnerAlchemy
+∿ Tags:**<br>#ShadowWork · #DepthHumanism · #TraumaIntegration · #MemoryEcology · #InnerAlchemy
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762191597674_c4zhf/c0f6d3ac-36fa-4faf-9813-5764f0077311.png

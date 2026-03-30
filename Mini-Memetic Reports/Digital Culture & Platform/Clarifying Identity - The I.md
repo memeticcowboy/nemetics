@@ -6,24 +6,24 @@ Created at 2026/01/05 10:45 AM
 
 ## **The I-Tube / My-Stream Split**
 
-**🧠 Core Idea Unit**<br>Confusion arises when pre-conceptual sensation is mistaken for narratable identity. Separating stream from story restores clarity.
+∴ Core Idea Unit**<br>Confusion arises when pre-conceptual sensation is mistaken for narratable identity. Separating stream from story restores clarity.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *systems literate self-observer*. Repositions introspection as architecture, not confession.
+▲ Identity Play & Roles**<br>Casts the viewer as a *systems literate self-observer*. Repositions introspection as architecture, not confession.
 
-**💥 Emotional Triggers**<br>💡 Cognitive clarity · 😌 Self-blame relief · 🧠 Insight satisfaction
+≈ Emotional Triggers**<br>💡 Cognitive clarity · 😌 Self-blame relief · 🧠 Insight satisfaction
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Long-form essays, diagrams, AI prompt cultures
 - **Style:** Structural metaphor, clean separation, explanatory calm
 
-**🛡️ Defense Reflexes**<br>Avoids spiritualization by staying mechanical and descriptive.
+⛨ Defense Reflexes**<br>Avoids spiritualization by staying mechanical and descriptive.
 
-**🧬 Memeplex Anchor Points**<br>Phenomenology · Process selfhood · Cybernetic introspection
+☷ Memeplex Anchor Points**<br>Phenomenology · Process selfhood · Cybernetic introspection
 
-**🧠 Sticky Phrases / Symbols**<br>“My-Stream” · “I-Tube” · “Weather entering the tube”
+✶ Sticky Phrases / Symbols**<br>“My-Stream” · “I-Tube” · “Weather entering the tube”
 
-**🏷️ Tags**<br>#MyStream · #ITube · #ProcessSelf
+∿ Tags**<br>#MyStream · #ITube · #ProcessSelf
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767638733110_c4zhf/333ee5b2-dc98-4947-9fee-9290481671ae.png

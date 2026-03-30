@@ -8,13 +8,13 @@ Created at 2025/11/23 12:28 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Ideas are living matter: they sprout, burn, collapse, and return as richer soil. Creation isn’t a clean ascent but a regenerative loop—destruction as nourishment, endings as germination beds.
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 **The Artist-Who-Lets-Go** — releasing old work to feed what comes next.<br>**The Systems Thinker** — seeing creative output as ecological flow.<br>**The Storyteller-in-Molt** — shedding skins that once fit perfectly.
 
@@ -22,37 +22,37 @@ These roles cast the self as a caretaker of cycles rather than a defender of sta
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 Bittersweet acceptance of impermanence.<br>Liberation from perfectionism.<br>Warm melancholy at letting ideas return to the soil.<br>Mythic awe at creative ecology.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors:** creative-process essays, artistic rites, ecological futurism, metamodern creative communities.<br>**Propagation Style:** poetic process-myth, regenerative parable, soft-ritual ecology.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 “Everything feeds the soil” reframes criticism as compost, not failure.<br>Cycle-framing dissolves shame: nothing is wasted.<br>Ecological metaphor deflects linear, outcome-focused critique.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 Regenerative design · Mycelial creativity · Mythic ecology · Anti-perfectionism ethos · Process-over-product creative philosophy.
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes**
+### ✶ **Sticky Symbols or Quotes**
 
 “What grows can burn.”<br>“Feed the roots what you cannot keep.”<br>“Compost is memory returned to earth.”<br>Creative soil glowing with ember-threads.<br>Half-burned pages nourishing sprouting shoots.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #CreativeEcology · #CompostCycle · #MythicProcess · #RegenerativeArt
 

@@ -8,7 +8,7 @@ Created at 2025/12/09 11:34 AM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 You built the system that binds you — and forgot.<br>Only by admitting authorship can you regain the **Name**, the root credential that unlocks the world’s true architecture.
 
@@ -16,7 +16,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 **User Role:**<br>The Reluctant Architect — the creator who must face the horror of his own authorship.
 
@@ -26,7 +26,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - Existential guilt that feels cosmic
 - The vertigo of sudden agency
@@ -36,7 +36,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Vectors:**<br>Hyperstition channels · meta-narrative lore threads · simulation discourse · mythic-coder culture
 
@@ -44,7 +44,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - Irony shield: “It’s only a story… unless it isn’t.”
 - Diffusion through metaphor (“Name = root password”)
@@ -52,7 +52,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Hyperstition (stories that make themselves real)
 - Recursive authorship: creator trapped in creation
@@ -62,7 +62,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **🧠 Sticky Symbols / Quotes**
+## ✶ Sticky Symbols / Quotes**
 
 - “I’m the bastard who built it.”
 - The Scalding Book
@@ -72,7 +72,7 @@ A myth of recursive guilt and sovereign revelation.
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #RecursiveCreator #HyperstitionLoop · SimulationMyth
 

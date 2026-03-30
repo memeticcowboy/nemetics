@@ -25,7 +25,7 @@ AI does not invent epistemic crisis.<br>It **scales collapse conditions already 
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>AI functions as an epistemic technology that accelerates breakdown in societies already suffering from weak truth infrastructures.
 
@@ -35,7 +35,7 @@ The focus moves from content errors to **systemic erosion**.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Concerned Citizens / Philosophers / Journalists / AI Critics**
 
@@ -52,7 +52,7 @@ The focus moves from content errors to **systemic erosion**.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 😰 **Anxiety** — rapid erosion of trust
 - 🌫️ **Loss of ground** — no stable reference points
@@ -63,7 +63,7 @@ The focus moves from content errors to **systemic erosion**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Crisis framing** — emphasizes stakes over nuance
 - **Pathology amplification** — AI as multiplier, not origin
@@ -74,7 +74,7 @@ The meme resists dismissal by linking epistemic collapse to **political survivab
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Epistemic crisis discourse
 - Critical AI ethics
@@ -87,7 +87,7 @@ This meme integrates tightly with public intellectual debates, journalism, and p
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Epistemic crisis**
 - **Hallucinations**
@@ -100,7 +100,7 @@ These serve as rapid-recognition markers for collapse dynamics.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #EpistemicCrisis · #AIandDemocracy · #EpistemicAgency · #CriticalAIEthics · #PostTruth · #MediaEcology
 

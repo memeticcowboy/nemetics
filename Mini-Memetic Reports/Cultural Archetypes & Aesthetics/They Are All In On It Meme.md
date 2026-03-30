@@ -8,13 +8,13 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - **Essential Belief:** All major societal dysfunctions stem from a coordinated elite conspiracy. The only path forward is rejecting divisive group identities and forming incorruptible, high-trust collectives to rebuild civilization.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User Role(s):**
     - *Awakened Rebel* (against systemic corruption)
@@ -24,7 +24,7 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**💣 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Primary Emotions Activated:**
     - *Outrage* (at betrayal and manipulation)
@@ -34,7 +34,7 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Substack articles, Telegram groups, alt-social media (X/Twitter, Rumble)
@@ -47,7 +47,7 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Rebuttal Resistance Mechanisms:**
     - *Preemptive invalidation of dissent* (“If they weren’t all in on it, X would’ve happened”)
@@ -57,7 +57,7 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **Connected Ideological Clusters:**
     - Alt-conspiracism ([Deep State,](https://memeticcowboy.substack.com/p/nemas-egregore-analysis-the-veiled) Great Reset, Controlled Opposition)
@@ -68,7 +68,7 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**🧷 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “**THEY ARE ALL IN ON IT**” (core incantation)
 - “**We solve problems better as one big label – WE ARE ONE**”
@@ -78,7 +78,7 @@ Created at 2025/07/07 1:43 PM
 
 ***
 
-**🏷️ Tags:**<br>#ConspiraCore #NarrativeCollapse #HighTrustRebuild #TheyAreAllInOnIt #PostInstitutionalism #InfoDoomToRegen #AltUnity #SystemicAwakening #DigitalDecentralism #FalseFlagEpistemology
+∿ Tags:**<br>#ConspiraCore #NarrativeCollapse #HighTrustRebuild #TheyAreAllInOnIt #PostInstitutionalism #InfoDoomToRegen #AltUnity #SystemicAwakening #DigitalDecentralism #FalseFlagEpistemology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1751920997270_c4zhf/they_are_all_in_on_it.png

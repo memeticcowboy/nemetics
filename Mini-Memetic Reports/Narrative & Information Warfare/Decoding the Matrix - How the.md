@@ -9,12 +9,12 @@ Created at 2025/06/24 5:45 AM
 **Title**: “It’s a Psyop”: The Default Conspiracy Lens
 
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - The essential “thought-virus” is: “Nothing is what it seems — all narratives are manipulations.”
 - It encodes a radical skepticism toward mainstream information, encouraging users to interpret events as covert attempts to influence or control them.
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the user as:<br>
     - Rebel (resisting mass mind control)
@@ -22,14 +22,14 @@ Created at 2025/06/24 5:45 AM
     - Cynic (mocking believers in surface narratives)
     - Prophet (warning others of hidden agendas)
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - Distrust (of media, authority, consensus)
 - Superiority (knowledge of hidden truth)
 - Paranoia (who’s behind the curtain?)
 - Amusement/Irony (in meme form)
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - Distribution Vectors: X (Twitter), Reddit, TikTok, Instagram reels, Substack, YouTube shorts
 - Propagation Style:<br>
@@ -38,14 +38,14 @@ Created at 2025/06/24 5:45 AM
     - Shock/Alarmism (pairing with disturbing imagery or headlines)
     - Recursive Humor (calling other memes “psyops”)
 
-**🛡️ Defense Reflexes**:
+⛨ Defense Reflexes**:
 
 - Critic Pre-dismissal: “You fell for the psyop.”
 - Irony Shields: Delivered jokingly, but believed by some.
 - Moral Framing: Framed as “protecting your mind” or “seeking truth.”
 - Infinite Regression: Disproof becomes more proof (“They want you to think it’s not a psyop.”)
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Alt-media ecosystems
 - Conspiracy culture (QAnon-adjacent, but broader)
@@ -53,13 +53,13 @@ Created at 2025/06/24 5:45 AM
 - Militant libertarianism & right-populism
 - Hyperrealist aesthetics and Gen Z irony culture
 
-**🧠 Sticky Symbols or Quotes**:
+✶ Sticky Symbols or Quotes**:
 
 - “It’s a psyop”
 - “Wake up”
 - “They want you distracted”
 
-**🏷️ Tags**:
+∿ Tags**:
 
 #PsyopMeme #InfoWarfare #ConspiraCore #MetaIronic #NarrativeSkeptic #DigitalInsider #RedPillAesthetic #HyperrealMeme #Doomposting #MediaParanoia
 

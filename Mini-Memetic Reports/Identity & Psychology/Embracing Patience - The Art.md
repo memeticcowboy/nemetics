@@ -8,7 +8,7 @@ Created at 2025/12/18 6:37 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Premature coherence is not clarity—it’s compression.<br>Learning to *wait well* preserves epistemic freedom by allowing meaning to arrive without hardening into domination.
 
@@ -16,7 +16,7 @@ Premature coherence is not clarity—it’s compression.<br>Learning to *wait we
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast as:** Seeker · Facilitator · Sense-maker · Post-ideological thinker
 
@@ -24,7 +24,7 @@ The meme positions the self not as a knower who must decide, but as a steward of
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 - 😌 Relief from the pressure to conclude
 - 🧠 Calm authority rooted in patience
@@ -35,7 +35,7 @@ These emotions lower defensive urgency, creating a receptive state where the mem
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution vectors:**
 
@@ -48,7 +48,7 @@ These emotions lower defensive urgency, creating a receptive state where the mem
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Deflects critique by refusing haste: “It’s not time yet.”
 - Semantic ambiguity protects against dogmatization.
@@ -58,7 +58,7 @@ Criticism often slides off because the meme never claims closure.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Anti-dogmatic epistemology
 - Sense-making and facilitation theory
@@ -68,7 +68,7 @@ Criticism often slides off because the meme never claims closure.
 
 ***
 
-## 🧠 Sticky Symbols or Quotes
+## ✶ Sticky Symbols or Quotes
 
 - “Wait well.”
 - “Before belief.”
@@ -78,7 +78,7 @@ Criticism often slides off because the meme never claims closure.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #EpistemicPatience · #BeforeBelief · #AntiDogma · #Sensemaking · #SlowClarity · #AttentionEthics
 

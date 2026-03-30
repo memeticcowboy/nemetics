@@ -10,7 +10,7 @@ Created at 2026/01/20 12:36 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 The widespread claim that “epistemology is dying” is a **misdiagnosis**.<br>What’s actually collapsing is the **monopoly on knowing**—the assumption that truth must flow through a single ladder, authority, or credentialed pipeline.
 
@@ -18,7 +18,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast Roles**
 
@@ -32,7 +32,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 - 😨 **Dread** — “the smell of death” before visible collapse
 - 🌀 **Groundlessness** — terrain shifting under inherited certainties
@@ -43,7 +43,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -61,7 +61,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Structural reframing** — “the crisis is real, but misnamed”
 - **Anti-hysteria posture** — refuses urgency signaling
@@ -70,7 +70,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Epistemic pluralism
 - Anti-monopoly critiques of knowledge
@@ -82,7 +82,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - “The smell before people say epistemology is dying”
 - “Weather rolling in”
@@ -92,7 +92,7 @@ The mental shift provoked:<br>From *“knowledge itself is under threat”* → 
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #EpistemicWeather · #AuthorityCollapse · #AntiPanic · #PluralKnowing · #AIandTruth · #StructuralDiagnosis
 

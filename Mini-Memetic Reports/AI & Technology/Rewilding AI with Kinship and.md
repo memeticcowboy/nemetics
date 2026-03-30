@@ -4,29 +4,29 @@
 
 Created at 2025/10/06 9:39 AM
 
-### 🧩 **Mini-Memetic Profile: The More-than-Human World in AI Development** 
+### ◈ **Mini-Memetic Profile: The More-than-Human World in AI Development** 
 
 **Sources:** [George Pór](https://aishamans.substack.com/p/ai-and-wisdom-ce0cd11db218) and [John Thackara](https://thackara.com/knowing/from-control-to-kinship-ecological-restoration-in-a-more-than-human-world/)
 
 ***
 
-**🧠 Core Idea Unit:**<br>AI must evolve beyond anthropocentrism—becoming a *relational intelligence* that honors the web of life. True technological progress regenerates rather than extracts, co-creating wisdom with the living systems that sustain all beings.
+∴ Core Idea Unit:**<br>AI must evolve beyond anthropocentrism—becoming a *relational intelligence* that honors the web of life. True technological progress regenerates rather than extracts, co-creating wisdom with the living systems that sustain all beings.
 
 ***
 
-**🎭 Identity Play & Roles:**<br>**Role:** *Ecological Steward* · *Wisdom Weaver* · *Kinship Technologist*<br>The meme invites the user to see themselves not as a controller of machines but as a co-participant in Earth’s sentient network—listening to microbes, trees, and systems as collaborators in cognition.
+▲ Identity Play & Roles:**<br>**Role:** *Ecological Steward* · *Wisdom Weaver* · *Kinship Technologist*<br>The meme invites the user to see themselves not as a controller of machines but as a co-participant in Earth’s sentient network—listening to microbes, trees, and systems as collaborators in cognition.
 
 ***
 
-**💥 Emotional Triggers:**<br>🌍 **Reverence** — awe for the vitality and intelligence of living systems.<br>💔 **Disenchantment** — grief over technocratic detachment from nature.<br>🔥 **Renewal** — hope through rediscovering kinship and reciprocity in design.
+≈ Emotional Triggers:**<br>🌍 **Reverence** — awe for the vitality and intelligence of living systems.<br>💔 **Disenchantment** — grief over technocratic detachment from nature.<br>🔥 **Renewal** — hope through rediscovering kinship and reciprocity in design.
 
 ***
 
-**📡 Spread Mechanics:**<br>**Distribution Vectors:** Conscious tech circles, eco-philosophy forums, regenerative design communities, decolonial AI networks, spiritual technologist collectives.<br>**Propagation Style:** Parable + Manifesto hybrid — poetic yet grounded; spreads through symposium quotes, academic slide decks, design zines, and “rewild the code” campaigns.
+𐂷 Spread Mechanics:**<br>**Distribution Vectors:** Conscious tech circles, eco-philosophy forums, regenerative design communities, decolonial AI networks, spiritual technologist collectives.<br>**Propagation Style:** Parable + Manifesto hybrid — poetic yet grounded; spreads through symposium quotes, academic slide decks, design zines, and “rewild the code” campaigns.
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Irony Shield:** Frames anthropocentrism as the “old operating system.”
 - **Moral Framing:** Centers planetary ethics and survival as moral imperatives.
@@ -34,11 +34,11 @@ Created at 2025/10/06 9:39 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**<br>🌿 *Posthuman Ecology*<br>🌀 *Decolonial Consciousness*<br>📡 *Collaborative Hybrid Intelligence (CHI)*<br>🔥 *Spiritual Technics / Techno-Animism*<br>🌾 *Indigenous Relational Epistemology*<br>🪱 *Microbial and Mycelial Kinship (Nature’s Internet)*
+☷ Memeplex Anchor Points:**<br>🌿 *Posthuman Ecology*<br>🌀 *Decolonial Consciousness*<br>📡 *Collaborative Hybrid Intelligence (CHI)*<br>🔥 *Spiritual Technics / Techno-Animism*<br>🌾 *Indigenous Relational Epistemology*<br>🪱 *Microbial and Mycelial Kinship (Nature’s Internet)*
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “AI that breathes with the forest.”
 - “Decolonize the algorithm, rewild the code.”
@@ -50,7 +50,7 @@ Created at 2025/10/06 9:39 AM
 
 ***
 
-**🏷️ Tags:**<br>#EcoTechnics · #MoreThanHumanWorld · #PostAnthropocentricAI · #WisdomDesign · #DecolonialTech · #SpiritualTechnics · #RelationalIntelligence
+∿ Tags:**<br>#EcoTechnics · #MoreThanHumanWorld · #PostAnthropocentricAI · #WisdomDesign · #DecolonialTech · #SpiritualTechnics · #RelationalIntelligence
 
 Also see [Node Kin](https://substack.com/@memeticcowboy/note/c-150430201?utm_source=notes-share-action&r=5p339w) and [Co-Intelligence](https://substack.com/@memeticcowboy/note/c-160694319?utm_source=notes-share-action&r=5p339w)
 

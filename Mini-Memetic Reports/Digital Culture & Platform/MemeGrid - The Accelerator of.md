@@ -6,24 +6,24 @@ Created at 2026/01/05 10:19 AM
 
 ## **MemeGrid as Latency-Destroying Machine**
 
-**🧠 Core Idea Unit**<br>Outrage is structural. Systems that erase latency intensify rivalry regardless of intent.
+∴ Core Idea Unit**<br>Outrage is structural. Systems that erase latency intensify rivalry regardless of intent.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *systems reader*, not a moral combatant.
+▲ Identity Play & Roles**<br>Casts the viewer as a *systems reader*, not a moral combatant.
 
-**💥 Emotional Triggers**<br>😮‍💨 Blame relief · 🧠 Structural insight · 😵 Tech fatigue named
+≈ Emotional Triggers**<br>😮‍💨 Blame relief · 🧠 Structural insight · 😵 Tech fatigue named
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Media theory, AI ethics, long-form critique
 - **Style:** Diagnostic, de-personalized
 
-**🛡️ Defense Reflexes**<br>Sidesteps villain narratives by centering machinery.
+⛨ Defense Reflexes**<br>Sidesteps villain narratives by centering machinery.
 
-**🧬 Memeplex Anchor Points**<br>Media ecology · Girardian dynamics · Platform critique
+☷ Memeplex Anchor Points**<br>Media ecology · Girardian dynamics · Platform critique
 
-**🧠 Sticky Phrases / Symbols**<br>“Latency collapse” · “Feeds eliminate distance” · “Mirroring”
+✶ Sticky Phrases / Symbols**<br>“Latency collapse” · “Feeds eliminate distance” · “Mirroring”
 
-**🏷️ Tags**<br>#MemeGrid · #Latency · #MediaEcology
+∿ Tags**<br>#MemeGrid · #Latency · #MediaEcology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767637165200_c4zhf/e130025e-36fd-4001-8fac-ceab3ffcadca.png

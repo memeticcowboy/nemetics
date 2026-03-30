@@ -10,7 +10,7 @@ Created at 2025/12/28 9:35 PM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Control systems endure by disguising themselves as necessities. What feels like safety or normalcy is often engineered dependency; freedom becomes perceptible only at the moment of attempted exit—when breathing suddenly fails.
 
@@ -18,7 +18,7 @@ Control systems endure by disguising themselves as necessities. What feels like 
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Breather Inside the System
 
@@ -30,7 +30,7 @@ Control systems endure by disguising themselves as necessities. What feels like 
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😌 **Safety illusion** — “At least I can breathe here.”
 - 😨 **Exit panic** — anxiety spikes when separation is attempted.
@@ -40,7 +40,7 @@ These emotions prime acceptance before critique can form.
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -57,7 +57,7 @@ These emotions prime acceptance before critique can form.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Naturalization:** “This is just reality.”
 - **Risk inversion:** Exit framed as reckless or immature.
@@ -67,7 +67,7 @@ Critique is deflected by redefining control as care.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Anti-coercion theory
 - Critiques of normalization and soft power
@@ -76,7 +76,7 @@ Critique is deflected by redefining control as care.
 
 ***
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 - *“You don’t notice the cage until the air changes.”*
 - *“If leaving feels like suffocation, ask who controls the oxygen.”*
@@ -84,7 +84,7 @@ Critique is deflected by redefining control as care.
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #OxygenControl · #InvisibleRestraints · #NormalizedPower · #SoftCoercion · #ExitPanic · #MemeticEcology
 

@@ -10,7 +10,7 @@ Created at 2025/12/28 5:25 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 After transcendence, identity dissolves and function remains.<br>The Steward of the Open Sky converts personal amplitude into **environmental degrees of freedom**, cutting skylights in systems so others can breathe, move, and exceed on their own terms.
 
@@ -20,7 +20,7 @@ Agency does not arise from uninterrupted will, but from **degrees of freedom dis
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast role:** The Steward, not the Hero
 
@@ -40,7 +40,7 @@ The Steward does not rule the sky.<br>They **keep it open**.
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 - Quiet responsibility
 - Generativity without applause
@@ -52,7 +52,7 @@ The emotional register is **post-narcissistic** and **post-punitive**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 ### Distribution Vectors
 
@@ -71,7 +71,7 @@ This meme spreads **slowly but durably**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Service over spectacle
 - Distributed credit
@@ -82,7 +82,7 @@ The archetype resists capture because it **refuses reward loops**.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Open-Sky Authorship
 - Co-Sphere recognition (not audience applause)
@@ -92,7 +92,7 @@ The archetype resists capture because it **refuses reward loops**.
 
 ***
 
-## 🧠 Sticky Symbols / Phrases
+## ✶ Sticky Symbols / Phrases
 
 - *Steward of the Open Sky*
 - *Cut skylights, don’t rule the sky*
@@ -162,7 +162,7 @@ The Steward holds the opening long enough for others to learn to fly **without b
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #StewardOfTheOpenSky · #OpenSkyAuthorship · #PostHeroicHubris · #WorldWeaving · #DegreesOfFreedom · #NoPrematureRescue
 

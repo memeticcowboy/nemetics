@@ -2,7 +2,7 @@
 
 Created at 2025/07/26 8:11 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/26 8:11 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Human **energy**—emotional, mental, social—is conceptualized as a **finite, tradable asset**.
 - Spending energy becomes a metaphorical **economic act**, demanding ROI (return on investment).
@@ -28,7 +28,7 @@ Created at 2025/07/26 8:11 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Scarcity Anxiety:** Fear of depletion, burnout, overwhelm.
 - **Empowerment:** Through strategic detachment and energy budgeting.
@@ -38,7 +38,7 @@ Created at 2025/07/26 8:11 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Instagram/TikTok infographics, reels from spiritual coaches, productivity influencers, wellness micro-creators.
@@ -50,7 +50,7 @@ Created at 2025/07/26 8:11 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Economic Legitimacy Shield:** Uses neoliberal logics of efficiency and return to justify boundary-setting.
 - **Spiritual Framing:** Energy as subtle body currency (chakras, vibrations), inaccessible to critique without “low vibe” labeling.
@@ -78,5 +78,5 @@ Created at 2025/07/26 8:11 AM
 
 ***
 
-🏷️ **Tags:**<br>#EnergyAudit #SpiritualEconomics #BoundariesAsBudget #EnergeticROI #NewAgeCapitalism #SelfWorthFinance #VibeEconomy #AttentionScarcity #HealingAsWealth
+∿ **Tags:**<br>#EnergyAudit #SpiritualEconomics #BoundariesAsBudget #EnergeticROI #NewAgeCapitalism #SelfWorthFinance #VibeEconomy #AttentionScarcity #HealingAsWealth
 

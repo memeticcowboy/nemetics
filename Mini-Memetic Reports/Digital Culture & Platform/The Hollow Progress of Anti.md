@@ -8,19 +8,19 @@ Created at 2025/12/28 1:12 PM
 
 *(Technology Without Soul)*
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Pragmatism stripped of play devolves into tool worship—efficient, hollow, and ultimately stagnant.
 
 **Mental shift provoked:**<br>From *“more tools = progress”* → *“imagination is the missing system.”*
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast as:** Disenchanted Insider / Internal Critic<br>The user becomes someone who can name hollowness from within competence.
 
 **System repositioning:**<br>Technical mastery is reframed as insufficient without mythic fuel.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Quiet dread
 - Recognition of emptiness
@@ -28,21 +28,21 @@ Pragmatism stripped of play devolves into tool worship—efficient, hollow, and 
 
 Primary affect: **somber clarity**
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Vectors:** tech ethics discourse, military analysis, organizational critique
 - **Style:** warning narrative, diagnostic framing
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Shields against “anti-tech” dismissal by critiquing *soulless use*, not tools
 - Anchors critique in insider language (e.g., Builder, systems failure)
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 Human-centered tech · Myth deficit critique · Post-instrumental reason
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 - “Technology without soul.”
 - “Anti-Icarus Syndrome.”

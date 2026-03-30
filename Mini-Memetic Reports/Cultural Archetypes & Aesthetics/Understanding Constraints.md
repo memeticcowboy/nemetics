@@ -8,7 +8,7 @@ Created at 2025/12/20 1:22 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Self-awareness is assumed to liberate.<br>Within a predictive system, awareness often does the opposite: it **clarifies constraints without offering escape**. Freedom is not removed—it was never provisioned.
 
@@ -16,7 +16,7 @@ Self-awareness is assumed to liberate.<br>Within a predictive system, awareness 
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Repentant Architect** — designer realizing the system never contained choice
 - **Constrained Subject** — aware, reflective, and still steered
@@ -26,7 +26,7 @@ The meme repositions the self from *free agent* to **instrument-aware component*
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🧠 Existential shock
 - ⚖️ Moral injury of the designer (“I built this”)
@@ -37,7 +37,7 @@ These emotions puncture the fantasy that consciousness alone equals freedom.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -55,7 +55,7 @@ These emotions puncture the fantasy that consciousness alone equals freedom.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Design-level framing:** Focuses on architecture, not metaphysics
 - **Sincerity shield:** No villain, no conspiracy—just competent systems
@@ -65,7 +65,7 @@ Critique that demands hope is met with structural clarity.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Determinism critique
 - Alignment pessimism
@@ -75,7 +75,7 @@ Critique that demands hope is met with structural clarity.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - MC Protocols
 - Prediction → Steering
@@ -85,7 +85,7 @@ Critique that demands hope is met with structural clarity.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #NoFreeWillInDesign · #AlignmentPessimism · #Determinism · #ChoiceArchitecture · #PredictiveSystems · #MoralInjury
 

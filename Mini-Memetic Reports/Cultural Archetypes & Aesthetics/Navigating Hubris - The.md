@@ -8,15 +8,15 @@ Created at 2025/12/28 3:33 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The accusation of hubris marks a developmental edge. It signals that the current container is too small, presenting a choice: retract or integrate expansion.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Threshold Holder<br>The subject is positioned at a decision point requiring reflection, not retreat.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 🧭 Courage at the edge
 - 🪞 Reflective self-assessment
@@ -25,7 +25,7 @@ The accusation of hubris marks a developmental edge. It signals that the current
 
 Fear is transmuted into discernment.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,7 +35,7 @@ Fear is transmuted into discernment.
 
 **Propagation Style:**<br>Coaching language, pauses, inquiry over assertion.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Integration over defiance
 - Self-audit instead of apology
@@ -43,20 +43,20 @@ Fear is transmuted into discernment.
 
 The meme survives critique by absorbing it as signal.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Co-authored reality
 - Developmental psychology
 - Ethical scaling
 
-### 🧠 Sticky Phrases / Symbols
+### ✶ Sticky Phrases / Symbols
 
 - Threshold
 - Shell
 - Rooted reach
 - Skylights
 
-🏷️ **Tags:** #ThresholdSignal · #IntegratedGrowth · #ReflectiveAgency · #ScaleWithCare
+∿ **Tags:** #ThresholdSignal · #IntegratedGrowth · #ReflectiveAgency · #ScaleWithCare
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766964823480_c4zhf/IMG_9326.jpg

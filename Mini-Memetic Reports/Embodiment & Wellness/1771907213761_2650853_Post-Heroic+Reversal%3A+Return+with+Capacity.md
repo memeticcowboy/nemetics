@@ -8,19 +8,19 @@ Created at 2025/12/28 8:59 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The true return of the journey is not dominance or enlightenment, but shared capacity—others can now act.
 
 **Mental shift provoked:**<br>From *hero as savior* → *hero as facilitator.*
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast as:** Translator / Capacity-Bearer<br>The user becomes someone who returns *lighter*, not larger.
 
 **System repositioning:**<br>Mythic status is detached from superiority and attached to service.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Meaning without ego
 - Belonging through contribution
@@ -28,21 +28,21 @@ The true return of the journey is not dominance or enlightenment, but shared cap
 
 Primary affect: **quiet purpose**
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Vectors:** leadership training, myth studies, social innovation
 - **Style:** mythic remix, ethical reframing
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Neutralizes cynicism by preserving mythic depth
 - Avoids moral grandstanding by centering others’ agency
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 Collective uplift · Anti-domination myth · Post-ego leadership
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 - “Return with capacity.”
 - “Skylight perspective.”

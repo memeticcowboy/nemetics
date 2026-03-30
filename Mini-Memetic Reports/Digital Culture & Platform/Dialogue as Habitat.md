@@ -6,24 +6,24 @@ Created at 2026/01/05 10:23 AM
 
 ## **Dialogue as Habitat Maintenance**
 
-**🧠 Core Idea Unit**<br>Dialogue is not persuasion—it is ventilation. Restoring distance prevents escalation.
+∴ Core Idea Unit**<br>Dialogue is not persuasion—it is ventilation. Restoring distance prevents escalation.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *habitat maintainer*, not a debater.
+▲ Identity Play & Roles**<br>Casts the viewer as a *habitat maintainer*, not a debater.
 
-**💥 Emotional Triggers**<br>😮‍💨 De-escalation relief · 🧠 Recognition of traps · 🤝 Quiet trust
+≈ Emotional Triggers**<br>😮‍💨 De-escalation relief · 🧠 Recognition of traps · 🤝 Quiet trust
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Mediation spaces, organizational learning
 - **Style:** Sober, non-performative, ecological
 
-**🛡️ Defense Reflexes**<br>Rejects “winning” frames; resists broadcast incentives.
+⛨ Defense Reflexes**<br>Rejects “winning” frames; resists broadcast incentives.
 
-**🧬 Memeplex Anchor Points**<br>Relational ethics · Conflict ecology · Anti-rhetoric
+☷ Memeplex Anchor Points**<br>Relational ethics · Conflict ecology · Anti-rhetoric
 
-**🧠 Sticky Phrases / Symbols**<br>“Ventilation vs violence” · “Lag” · “Distance”
+✶ Sticky Phrases / Symbols**<br>“Ventilation vs violence” · “Lag” · “Distance”
 
-**🏷️ Tags**<br>#Dialogue · #HabitatMaintenance · #AntiDebate
+∿ Tags**<br>#Dialogue · #HabitatMaintenance · #AntiDebate
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767637383108_c4zhf/425e2aa1-d626-4eed-8bc6-6701a5dc6f68.png

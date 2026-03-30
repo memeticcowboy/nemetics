@@ -8,14 +8,14 @@ Created at 2025/08/03 10:29 AM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Safety and stability come from accepting the official narrative and ignoring disruptive truths.
 - It’s easier—and perhaps preferable—to remain within the illusion than to face harsh realities.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the user as the *content citizen*, *obedient participant*, or *blissful sleeper*.
 - Frames them as *protected insider* in the mainstream narrative, or sometimes as an *unaware NPC* (from the Red/Black Pill perspective).
@@ -30,14 +30,14 @@ Created at 2025/08/03 10:29 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:** Mainstream media, pop culture narratives, algorithmic feeds, casual social media
 - **Propagation Style:** Implicit reinforcement via entertainment, lifestyle content, and official stories; rarely self-declared except ironically (“I took the Blue Pill”).
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - Dismisses alternative narratives as *conspiracy*, *cynicism*, or *overthinking*.
 - Leans on authority and social proof to reinforce belief in the “normal world.”
@@ -45,7 +45,7 @@ Created at 2025/08/03 10:29 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Mass media narratives, government trust, consumerist lifestyle promotion
 - Neo-liberal or status quo ideologies
@@ -53,7 +53,7 @@ Created at 2025/08/03 10:29 AM
 
 ***
 
-**🎯 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - Visuals: Blue pill 💊🔵, TV screens, soft beds, VR goggles, smiling Wojaks
 - Phrases: “Just enjoy life,” “Stay asleep,” “Ignorance is bliss”
@@ -61,5 +61,5 @@ Created at 2025/08/03 10:29 AM
 
 ***
 
-**🏷️ Tags:**<br>#BluePill #StatusQuo #IgnoranceIsBliss #NPCMeme #ComfortCore #SystemLoyalist
+∿ Tags:**<br>#BluePill #StatusQuo #IgnoranceIsBliss #NPCMeme #ComfortCore #SystemLoyalist
 

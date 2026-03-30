@@ -8,7 +8,7 @@ Created at 2026/01/14 8:04 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Militarism doesn’t win primarily by argument, but by **tone**. “Seriousness” becomes a status credential that frames permanent war-readiness as maturity, while imagination, diplomacy, and moral grief are filtered out as naïve or unserious.
 
@@ -16,7 +16,7 @@ Militarism doesn’t win primarily by argument, but by **tone**. “Seriousness�
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 - **Cast Roles:**
     - *The Adult in the Room* (policy elites, pundits, senior officials)
@@ -25,7 +25,7 @@ Militarism doesn’t win primarily by argument, but by **tone**. “Seriousness�
 
 ***
 
-## 💥 Emotional Triggers / Cognitive Levers
+## ≈ Emotional Triggers / Cognitive Levers
 
 😨 Fear (of adversaries *and* reputational exile)<br>🧑‍💼 Maturity signaling (“hard truths”)<br>🤐 Conformity pressure (avoid being coded activist / idealist)
 
@@ -44,7 +44,7 @@ These emotions normalize escalation by making dissent socially costly.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - **“Competitive threat environment”** — installs war-readiness as ontological baseline
 - **“Ontological deterrence”** — force projection as identity hygiene
@@ -70,7 +70,7 @@ A) Think tank → media echo loops<br>B) “Independent expert” pundit pipelin
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Critique deflection:** “This is just realism.”
 - **Moral inversion:** restraint reframed as irresponsibility
@@ -100,7 +100,7 @@ Policy critics · peace advocates · cultural theorists · journalists seeking o
 
 ***
 
-## 🧠 Sticky Phrases / Symbols
+## ✶ Sticky Phrases / Symbols
 
 - “Adults know the world is dangerous.”
 - “Competitive threat environment.”
@@ -109,7 +109,7 @@ Policy critics · peace advocates · cultural theorists · journalists seeking o
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #PerpetualWar · #SeriousnessMeme · #ThreatInflation · #MilitarizedTone · #OntologicalDeterrence
 

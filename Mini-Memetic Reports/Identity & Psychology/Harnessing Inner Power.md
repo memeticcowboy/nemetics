@@ -8,7 +8,7 @@ Created at 2025/12/18 9:20 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 When chaos erodes inner choice, power is often sought outward—through control, speed, or dominance.<br>Breath and awareness restore *Power Within*: agency stabilized from the inside, clear without coercion.
 
@@ -16,7 +16,7 @@ When chaos erodes inner choice, power is often sought outward—through control,
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast as:** Leader · Activist · Embodied practitioner
 
@@ -24,7 +24,7 @@ The meme positions the self as a *holder of inner atmosphere*—someone whose au
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🫁 Grounded agency through breath
 - 🧘 Calm strength without dominance
@@ -35,7 +35,7 @@ These levers shift power from adrenaline to presence.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution vectors:**
 
@@ -47,7 +47,7 @@ These levers shift power from adrenaline to presence.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Immune to escalation traps
 - Resists domination narratives by refusing reactivity
@@ -57,7 +57,7 @@ The meme holds because it does not compete—it stabilizes.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Somatic ethics
 - Embodied cognition
@@ -67,7 +67,7 @@ The meme holds because it does not compete—it stabilizes.
 
 ***
 
-## 🧠 Sticky Symbols or Quotes
+## ✶ Sticky Symbols or Quotes
 
 - “Power Within.”
 - “Stabilize the breath.”
@@ -77,7 +77,7 @@ The meme holds because it does not compete—it stabilizes.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #PowerWithin · #SomaticEthics · #EmbodiedLeadership · #CalmStrength · #InnerAgency · #BreathAsPower
 

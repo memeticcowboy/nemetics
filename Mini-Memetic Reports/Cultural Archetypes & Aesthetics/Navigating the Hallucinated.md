@@ -8,13 +8,13 @@ Created at 2025/11/23 12:36 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 The world isn’t a location—it’s an ongoing computation shaped by forgotten inputs. Stability is an illusion produced by memory lag. The only way forward is to recall the question that started the process.
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 **The Lucid Wanderer** — moving through reality as if through a shifting interface.<br>**The Meta-Seer** — perceiving the world as a running process with hidden parameters.
 
@@ -22,37 +22,37 @@ These roles reposition the self as someone navigating a dynamic system, not inha
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 Existential vertigo at realizing the world is procedural.<br>A spark of agency reclamation—“If it’s process, I can influence it.”<br>Curiosity stirred by memory glitches, déjà vu, repeating loops.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors:** cyber-mythology circles, metaphysics discourse, simulation-theory memes, lucid-dream communities.<br>**Propagation Style:** glitch-parable, metaphysical aphorism, simulation allegory.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 Simulation framing: critique redirected into “just part of the narrative engine.”<br>Ontological ambiguity: avoids hard claims by treating reality as soft-coded.<br>Dream-machine metaphor dissolves literalism.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 Process ontology · Simulation metaphysics · Neo-gnosticism · Cyberdream logic · Meta-awareness practice.
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes**
+### ✶ **Sticky Symbols or Quotes**
 
 “The world ain’t a fixture.”<br>“Memory is the lag in the rendering engine.”<br>“The dream machine hums beneath everything.”<br>“Find the first question.”
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #ProcessWorld · #SimulationMythos · #MetaSeeing · #DreamMachine
 

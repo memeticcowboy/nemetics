@@ -4,18 +4,18 @@
 
 Created at 2025/06/05 9:24 AM
 
-📌 **Mini-Memetic Profile**<br>**Title:** *Dark MAGA — The Vengeful Aesthetic of Post-Democratic Populism*
+◈ **Mini-Memetic Profile**<br>**Title:** *Dark MAGA — The Vengeful Aesthetic of Post-Democratic Populism*
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - *Dark MAGA* frames Donald Trump not as a hopeful populist but as a **punished strongman** returning with vengeance. It replaces optimism with *authoritarian swagger*, advocating a mythic purge of “traitors” and systemic corruption.
 - The core belief: **Only ruthless power can restore a collapsing nation.**
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User as Wrathful Avenger or Shadow Patriot:** Feels betrayed by institutions and softened conservatism, now embraces the role of a *mythic revenger*.
 - **Target as Liberal Democracy & GOP Weakness:** Both framed as cowardly or compromised.
@@ -23,7 +23,7 @@ Created at 2025/06/05 9:24 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Outrage & Revenge Fantasy:** Toward elites, the media, and perceived traitors.
 - **Pride in Rebellion:** Relishing outsider status and symbolic power.
@@ -32,7 +32,7 @@ Created at 2025/06/05 9:24 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** X (formerly Twitter), Telegram, TikTok, Reddit, right-wing meme circles
 - **Propagation style:**
@@ -43,7 +43,7 @@ Created at 2025/06/05 9:24 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Irony Shield:** Criticism dismissed as humorless — “it’s just a meme, bro”
 - **Moral Reversal:** Ruthlessness framed as necessary virtue
@@ -52,7 +52,7 @@ Created at 2025/06/05 9:24 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **MAGA 2.0 / Post-MAGA populism**
 - **Right-wing Accelerationism**
@@ -63,7 +63,7 @@ Created at 2025/06/05 9:24 AM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - Trump with laser eyes (often blue or red)
 - “You turned your back on him. He never will.”
@@ -73,7 +73,7 @@ Created at 2025/06/05 9:24 AM
 
 ***
 
-🏷️ **Tags:**<br>#DarkMAGA #PunishedTrump #PostMAGA #VengefulPopulism #DoomerRight #LaserEyesLeader #AuthoritarianAesthetic #SymbolicRevenge #PostSatire #TradFuturism #MemeMilitia #ClownWorldAccelerant
+∿ **Tags:**<br>#DarkMAGA #PunishedTrump #PostMAGA #VengefulPopulism #DoomerRight #LaserEyesLeader #AuthoritarianAesthetic #SymbolicRevenge #PostSatire #TradFuturism #MemeMilitia #ClownWorldAccelerant
 
 ![image.png](https://object.me.bot/front-img/note/attachments/img/1749140880499/image.png)
 

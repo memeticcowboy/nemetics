@@ -4,20 +4,20 @@
 
 Created at 2025/06/30 11:50 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 **Title:**<br>*From ME to WE — The Collective Wellbeing Reframe*
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - The essential belief: *Individualism is inadequate; true prosperity comes from re-centering community and collective wellbeing.*
 - Frame: *Moving from separation to belonging is both necessary and morally superior.*
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User as:**
     - The *Rejoiner* (one who leaves isolation for connection)
@@ -35,7 +35,7 @@ Created at 2025/06/30 11:50 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:**
     - Social media (hashtags, shareable slogans)
@@ -48,7 +48,7 @@ Created at 2025/06/30 11:50 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Moral framing:** Critique implies selfishness or regression.
 - **Binary logic:** You are either stuck in "ME" or evolving to "WE."
@@ -56,7 +56,7 @@ Created at 2025/06/30 11:50 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Post-growth economics
 - Care economy and regenerative movements
@@ -74,7 +74,7 @@ Created at 2025/06/30 11:50 AM
 
 ***
 
-🏷️ **Tags:**<br>#CollectiveEconomy #FromMEtoWE #RegenerativeNarrative #BelongingMeme #PostGrowth
+∿ **Tags:**<br>#CollectiveEconomy #FromMEtoWE #RegenerativeNarrative #BelongingMeme #PostGrowth
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1751309340223_c4zhf/dc25974f-3ffd-4dc7-99ca-407454f8caf0.png

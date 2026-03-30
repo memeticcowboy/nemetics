@@ -4,11 +4,11 @@
 
 Created at 2025/08/22 12:43 PM
 
-📌 **Mini-Memetic Profile**<br>**Title:** *Ahegao as Viral Symbol in AI-Generated Eroticism Marketing*
+◈ **Mini-Memetic Profile**<br>**Title:** *Ahegao as Viral Symbol in AI-Generated Eroticism Marketing*
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - **Pleasure-as-Performance**: The meme encodes the idea that extreme emotional or physical reaction (often erotic) is not just a private experience but a performative, replicable aesthetic—now digitally generatable.
 - It plays on **hyperreality**: exaggerated, stylized emotion is more meme-worthy (and thus more *real*) than authentic expression.
@@ -16,7 +16,7 @@ Created at 2025/08/22 12:43 PM
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User as Edgelord Technician**: Someone who is in-the-know, comfortable navigating fringe, NSFW, and ironic internet culture.
 - **Viewer as Voyeur or Artist**: Positioned as both consumer and potential co-creator of hyperreal aesthetic content.
@@ -24,7 +24,7 @@ Created at 2025/08/22 12:43 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Arousal** (sexual and aesthetic)
 - **Amusement** (via absurdity/irony)
@@ -33,7 +33,7 @@ Created at 2025/08/22 12:43 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - TikTok, Instagram, Reddit, Twitter/X, meme forums, Discord communities
@@ -45,7 +45,7 @@ Created at 2025/08/22 12:43 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Irony shield**: "It’s just a joke, bro" or "It’s art, not porn" makes critique difficult.
 - **Subcultural framing**: Dismissal of criticism as “normie” misunderstanding of niche or artistic context.
@@ -53,7 +53,7 @@ Created at 2025/08/22 12:43 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **#DegenerateArt / #EroGuro**: Erotic-grotesque tradition
 - **#AIArt / #AIGeneratedContent**: Techno-aestheticism
@@ -71,7 +71,7 @@ Created at 2025/08/22 12:43 PM
 
 ***
 
-🏷️ **Tags:**<br>#Ahegao #AIErotica #PostIrony #SyntheticArousal #WeebCulture #ShockMeme #Hyperreality #AIArtMeme #MemeticSexuality #InternetEdgelord
+∿ **Tags:**<br>#Ahegao #AIErotica #PostIrony #SyntheticArousal #WeebCulture #ShockMeme #Hyperreality #AIArtMeme #MemeticSexuality #InternetEdgelord
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1755891811517_c4zhf/Screenshot_2025-08-22_124140.png

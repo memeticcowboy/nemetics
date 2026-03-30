@@ -2,13 +2,13 @@
 
 Created at 2025/07/31 10:18 AM
 
-### 🧩 Mini-Memetic Profile: **“Narrative Inoculation”**
+### ◈ Mini-Memetic Profile: **“Narrative Inoculation”**
 
 **Title:**<br>*Immunity Against Story-Based Manipulation*
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Exposure to weakened or pre-framed versions of manipulative narratives can “immunize” individuals against future persuasion.
 - The “thought-virus” is: *“You can defend your mind by anticipating and pre-defusing narrative attacks.”*
@@ -16,7 +16,7 @@ Created at 2025/07/31 10:18 AM
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the user as:
     - **Prepared skeptic** — Already resistant to propaganda or narrative traps.
@@ -25,7 +25,7 @@ Created at 2025/07/31 10:18 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Relief & security** — Feeling shielded from manipulation.
 - **Confidence & mastery** — Ability to identify and neutralize narrative attacks.
@@ -34,7 +34,7 @@ Created at 2025/07/31 10:18 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Media literacy campaigns, academic discussions on persuasion, intelligence and counter-psyops contexts, sensemaking podcasts.
 - **Propagation style:**
@@ -44,7 +44,7 @@ Created at 2025/07/31 10:18 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Preemptive skepticism:** Engenders doubt toward new information before it can persuade.
 - **Immunity narrative:** Critics are framed as “already infected” or “failing to inoculate.”
@@ -52,7 +52,7 @@ Created at 2025/07/31 10:18 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Psychological defense and cognitive security discourses.
 - Media literacy and anti-propaganda initiatives.
@@ -71,5 +71,5 @@ Created at 2025/07/31 10:18 AM
 
 ***
 
-**🏷️ Tags:**<br>#InfoImmune #MemeticVaccine #CognitiveSecurity #NarrativeDefense #MediaLiteracy #AntiPropaganda #Sensemaking
+∿ Tags:**<br>#InfoImmune #MemeticVaccine #CognitiveSecurity #NarrativeDefense #MediaLiteracy #AntiPropaganda #Sensemaking
 

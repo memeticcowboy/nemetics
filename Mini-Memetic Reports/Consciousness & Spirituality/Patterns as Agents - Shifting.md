@@ -8,7 +8,7 @@ Created at 2025/12/13 2:47 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Agency does not belong to organisms, brains, or selves.<br>**It belongs to patterns that persist, adapt, and pursue viability across changing substrates.**
 
@@ -16,7 +16,7 @@ Agency does not belong to organisms, brains, or selves.<br>**It belongs to patte
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -29,7 +29,7 @@ Agency does not belong to organisms, brains, or selves.<br>**It belongs to patte
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🤯 **Ontological Shock** — core assumptions about agency collapse
 - 😨✨ **Awe + Existential Dread** — meaning persists, but not where expected
@@ -39,7 +39,7 @@ This primes deep internalization by destabilizing identity *without* negating ri
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -56,7 +56,7 @@ This primes deep internalization by destabilizing identity *without* negating ri
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Empirical Shielding:** Anchored in repeatable experiments, not metaphor
 - **Frame Preemption:** Replaces “consciousness” debates with persistence metrics
@@ -66,7 +66,7 @@ Critique requires disproving experiments, not dismissing philosophy.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Post-Dawkins memetics
 - Michael Levin–style bioelectric morphogenesis
@@ -76,7 +76,7 @@ Critique requires disproving experiments, not dismissing philosophy.
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - 🐛➡️🦋 *Caterpillar → butterfly memory persistence*
 - ⚡ *Bioelectric memory fields*
@@ -86,7 +86,7 @@ Critique requires disproving experiments, not dismissing philosophy.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #PatternAgency · #PostHumanScience · #OntologicalShock · #AntiReductionism · #MemeticEcology · #SubstrateIndependence
 

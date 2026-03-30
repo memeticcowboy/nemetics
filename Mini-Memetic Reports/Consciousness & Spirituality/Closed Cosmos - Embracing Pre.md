@@ -8,15 +8,15 @@ Created at 2025/12/28 1:35 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The universe is already complete. Roles are pre-assigned. Any deviation is not exploration but violation.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Subject-in-Place<br>The individual is positioned as a node in a finished order, valued for compliance, not emergence.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😔 Fatalism
 - 🙏 Reverence for limits
@@ -25,7 +25,7 @@ The universe is already complete. Roles are pre-assigned. Any deviation is not e
 
 These emotions stabilize submission as virtue.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,7 +35,7 @@ These emotions stabilize submission as virtue.
 
 **Propagation Style:**<br>Authoritative narration, inevitability framing, tragic exemplars.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Naturalization (“this is the order of things”)
 - Sacralization of hierarchy
@@ -43,20 +43,20 @@ These emotions stabilize submission as virtue.
 
 Questioning is framed as sacrilege or immaturity.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Theological determinism
 - Zero-sum status allocation
 - Fate-bound ontology
 
-### 🧠 Sticky Phrases / Symbols
+### ✶ Sticky Phrases / Symbols
 
 - Fate
 - One’s station
 - Divine hierarchy
 - Greek tragedy
 
-🏷️ **Tags:** #ClosedCosmos · #RoleLock · #Determinism · #OrderMyth
+∿ **Tags:** #ClosedCosmos · #RoleLock · #Determinism · #OrderMyth
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766957750387_c4zhf/5b2dd959-ffe2-4d62-8583-cdca2a92fdfd.png

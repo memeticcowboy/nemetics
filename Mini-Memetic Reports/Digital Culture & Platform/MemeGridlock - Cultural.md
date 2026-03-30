@@ -10,14 +10,14 @@ Created at 2025/08/01 9:44 AM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Competing memeplexes and algorithm-driven attention economies create a **cultural standstill** where society functions but cannot adapt, evolve, or solve collective problems.
 - The world becomes a **DODO loop** of Debt → Ownership → Deadlines → Othering, trapping humanity in a self-perpetuating memetic grid.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User as:**
     - Disillusioned observer awakening to the invisible architecture of control.
@@ -30,7 +30,7 @@ Created at 2025/08/01 9:44 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Primary:** Alienation, frustration, cognitive claustrophobia.
 - **Secondary:** Curiosity, quiet awe at hidden systemic patterns.
@@ -38,14 +38,14 @@ Created at 2025/08/01 9:44 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Long-form essays, substack posts, alt-theory podcasts, reflective social media threads, visual-poetic memes.
 - **Propagation style:** Philosophical narrative, ironic observation, systemic critique; spreads through **slow-burn recognition**, not shock virality.
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Pre-disarms critics** by framing mainstream pushback as part of the grid itself.
 - **Irony & self-awareness** provide a memetic “cloak” against ridicule.
@@ -53,7 +53,7 @@ Created at 2025/08/01 9:44 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Anti-system and anti-algorithm narratives.
 - Digital sovereignty and media literacy movements.
@@ -62,7 +62,7 @@ Created at 2025/08/01 9:44 AM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - **“Every post a payload. Every scroll a skirmish.”**
 - **“Culture → Code. People → Hosts. Meaning → Metadata.”**
@@ -71,7 +71,7 @@ Created at 2025/08/01 9:44 AM
 
 ***
 
-🏷️ **Tags:**<br>#MemeGridlock #CulturalStasis #DODOloop #InfoParalysis #DigitalSurvival #AntiStone #NarrativePrison #SlowBurnMemetics #AlgorithmicControl #MemeticExile
+∿ **Tags:**<br>#MemeGridlock #CulturalStasis #DODOloop #InfoParalysis #DigitalSurvival #AntiStone #NarrativePrison #SlowBurnMemetics #AlgorithmicControl #MemeticExile
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1754066664598_c4zhf/d492daac-a52f-49fa-a465-6e0098fc5c4d.png

@@ -10,7 +10,7 @@ Created at 2026/01/31 3:34 PM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 **“The extent to which”** functions as a *calibration operator*: it interrupts binary claims and forces assertions to scale to evidence, context, and consequence.
 
@@ -20,7 +20,7 @@ Not anti-truth. Anti-overreach.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast Roles:**
 
@@ -32,7 +32,7 @@ Not anti-truth. Anti-overreach.
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 Primary activators:
 
@@ -45,7 +45,7 @@ These emotions prime the meme where decisiveness is demanded faster than reality
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -59,7 +59,7 @@ These emotions prime the meme where decisiveness is demanded faster than reality
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Humility Masking:** “I’m just being careful”
 - **Anti-Critique Shield:** Critics appear reckless or naïve
@@ -69,7 +69,7 @@ Failure mode:<br>When calibration reframes itself as *mandatory everywhere*, it 
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Epistemic humility traditions
 - Scientific method & peer review norms
@@ -81,7 +81,7 @@ Attaches easily to systems under liability, audit, or reputational risk.
 
 ***
 
-### 🧠 Sticky Symbols & Phrases
+### ✶ Sticky Symbols & Phrases
 
 - “Let’s be precise here.”
 - “We need to nuance this.”
@@ -93,7 +93,7 @@ Iconography (implicit):<br>Scales, sliders, margins, footnotes, red pens hoverin
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #CalibrationMeme · #GradientThinking · #AntiAbsolutism · #EpistemicGuardrail · #ProfessionalHumility · #ScopeDiscipline
 

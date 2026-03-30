@@ -8,25 +8,25 @@ Created at 2025/12/28 1:15 PM
 
 **Also see [High-Bruise as Mastery Mark](https://second.me/public/KFJG0HCWDJBAOFBF)**
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Damage incurred through standing tall is reframed as proof of initiation.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Marked One<br>Belonging is earned through friction.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Meaningful pain
 - Endurance pride
 - Shared scars
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Propagation Style:**<br>Humor, aphorism, subcultural lore.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Rite of passage
 - Outsider identity

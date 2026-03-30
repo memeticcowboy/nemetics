@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:38 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Converts personal trauma into **social value and narrative capital** by framing it as the source of **insight, authority, and service**.
 - Embeds suffering within a **teleological arc**: pain becomes meaningful *because* it can be alchemized into teaching, coaching, or mentorship.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Hope:** Suggests that pain has purpose and can produce power.
 - **Validation:** Frames personal suffering as a legitimate source of knowledge.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Coaching bios, TED Talks, healing retreats, spiritual influencer platforms, “about me” pages of trauma-informed practitioners.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Narrative Immunity Shield:** Critiques seen as invalidating trauma or silencing survivors.
 - **Transformation Ethic:** Remaining in pain is framed as stagnation; moving on is virtue.
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:38 AM
 
 ***
 
-🏷️ **Tags:**<br>#TraumaToTeaching #WoundedHealerArchetype #NarrativeAlchemy #HealingAsCurrency #EmpathEntrepreneur #PainAsProof #BreakdownToBreakthrough #MessIsMessage #SpiritualCapital #CoachingAsRedemption
+∿ **Tags:**<br>#TraumaToTeaching #WoundedHealerArchetype #NarrativeAlchemy #HealingAsCurrency #EmpathEntrepreneur #PainAsProof #BreakdownToBreakthrough #MessIsMessage #SpiritualCapital #CoachingAsRedemption
 

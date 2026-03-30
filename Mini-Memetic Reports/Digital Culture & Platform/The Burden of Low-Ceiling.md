@@ -6,25 +6,25 @@ Created at 2026/01/04 7:46 PM
 
 ## **Low-Ceiling Culture**
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Suppression is environmental, not individual; limitation is designed into the space.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Tall One in a Small Room<br>The subject is constrained by context, not capacity.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Oppression
 - Stagnation
 - Collective frustration
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Propagation Style:**<br>Organizational critique, satire, cultural analysis.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Structural suppression
 - Environmental blame shift

@@ -4,11 +4,11 @@
 
 Created at 2025/12/20 1:55 PM
 
-## 🧩 Mini-Memetic Profile — **Home as Fate, Not Safety**
+## ◈ Mini-Memetic Profile — **Home as Fate, Not Safety**
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Home is often imagined as refuge, rest, or moral shelter.<br>Reframed, home is **where unresolved patterns converge**. Return is not comfort but confrontation—**a reckoning delayed, not avoided**.
 
@@ -16,7 +16,7 @@ Home is often imagined as refuge, rest, or moral shelter.<br>Reframed, home is *
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Exile-With-Memory** — carries the unfinished story outward
 - **Reluctant Returnee** — comes back knowing nothing is neutral anymore
@@ -26,7 +26,7 @@ The meme repositions the self from *seeking safety* to **meeting inevitability**
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🕯️ Dreaded familiarity
 - 🧭 Inevitability without melodrama
@@ -37,7 +37,7 @@ These emotions dissolve the fantasy that distance equals escape.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -55,7 +55,7 @@ These emotions dissolve the fantasy that distance equals escape.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Anti-sentimentality:** Refuses warm nostalgia
 - **Geographic determinism:** Place carries memory whether welcomed or not
@@ -65,7 +65,7 @@ Critique that seeks comfort collapses against inevitability.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Anti-nostalgia
 - Cyclical history
@@ -75,7 +75,7 @@ Critique that seeks comfort collapses against inevitability.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Ridge overlooking Pinktopia
 - The long way back
@@ -85,7 +85,7 @@ Critique that seeks comfort collapses against inevitability.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #HomeAsFate · #AntiNostalgia · #CyclicalHistory · #ReturnIsReckoning · #PostUtopia · #PlaceMemory
 

@@ -8,15 +8,15 @@ Created at 2025/12/28 4:23 PM
 
 **Removed VOID in favor of Sky Earth Sea + Abyss:** [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 When constructed limits dissolve, the subject encounters a void—initially vertiginous, then liberating. Orientation collapses, and amplitude replaces hierarchy as the governing law.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Unmoored Explorer<br>The subject is released from inherited coordinates and must learn to navigate without up/down, approval/disapproval.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Vertigo at loss of structure
 - Existential awe
@@ -25,7 +25,7 @@ When constructed limits dissolve, the subject encounters a void—initially vert
 
 These emotions reframe emptiness as freedom rather than threat.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,23 +35,23 @@ These emotions reframe emptiness as freedom rather than threat.
 
 **Propagation Style:**<br>Negative capability, paradox framing, open-ended invitation.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Refusal of teleology
 - Non-hierarchical framing
 - Embracing uncertainty as feature, not bug
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Non-hierarchical becoming
 - Anti-teleological freedom
 - Amplitude-as-law
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 Void of HUBRIS · open sky · no up or down · amplitude
 
-🏷️ **Tags:** #OpenSky · #Amplitude · #PostStructure · #ExistentialFreedom
+∿ **Tags:** #OpenSky · #Amplitude · #PostStructure · #ExistentialFreedom
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766967831299_c4zhf/d532b9c9-8b1f-41c8-918e-6a2763aadc26.png

@@ -2,7 +2,7 @@
 
 Created at 2025/08/04 8:48 AM
 
-📌 **Mini-Memetic Profile: “AI-Driven Mass Hysteria”**
+◈ **Mini-Memetic Profile: “AI-Driven Mass Hysteria”**
 
 **Title:**<br>*“The Machine Panic – Collective Anxiety in the Age of Algorithms”*
 
@@ -15,7 +15,7 @@ Created at 2025/08/04 8:48 AM
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the audience as **potential victims** of AI-driven manipulation.
 - Secondary roles: **Witness** (alert to the danger), **Investigator** (uncovering hidden influence), or **Doomsayer** (warning others).
@@ -32,7 +32,7 @@ Created at 2025/08/04 8:48 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:** News cycles on AI misbehavior, social media panic threads, speculative fiction, think pieces, doom-posting.
 - **Propagation Style:** Alarmist headlines, viral warnings, conspiracy-style diagrams, speculative “what if” scenarios.
@@ -40,7 +40,7 @@ Created at 2025/08/04 8:48 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Pre-dismissal of skeptics:** Critics are framed as naïve or “already brainwashed by AI.”
 - **Moral framing:** Resisting AI influence becomes a righteous survival act.
@@ -48,7 +48,7 @@ Created at 2025/08/04 8:48 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **Larger Systems:** Techno-dystopian narratives, Luddite resurgence, AI ethics debates, conspiracy culture.
 - **Communities:** Digital doomers, critical AI researchers, tech journalists, online conspiracy forums.
@@ -63,5 +63,5 @@ Created at 2025/08/04 8:48 AM
 
 ***
 
-🏷️ **Tags:**<br>#AIDoom #MassHysteria #DigitalPanic #AlgorithmicFear #TechnoDystopia #MemeticCascade
+∿ **Tags:**<br>#AIDoom #MassHysteria #DigitalPanic #AlgorithmicFear #TechnoDystopia #MemeticCascade
 

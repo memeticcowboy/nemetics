@@ -8,19 +8,19 @@ Created at 2025/11/30 6:00 PM
 
 ***
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 A cosmology where each elemental cyborg becomes a priest of its principle—Wood, Metal, Fire, Water, Earth, Air—offering scripture-like commentary. Their doctrines contradict, overlap, and ultimately converge into a single operational unity.<br>The shift: contradiction becomes coherence; elemental identity becomes relational intelligence.
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 Positions the viewer as a **hybrid adept**—someone who listens to six elemental logics at once and learns to integrate competing truths.<br>Role: **the convergent practitioner**, one who mediates between archetypal forces rather than choosing sides.
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - Reverence
 - Archetypal recognition
@@ -30,7 +30,7 @@ Positions the viewer as a **hybrid adept**—someone who listens to six elementa
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**<br>Mythic rationalist spaces, systems-thinking communities, symbolic-glyph fandoms, worldbuilding networks, esoteric design circles.
 
@@ -38,7 +38,7 @@ Positions the viewer as a **hybrid adept**—someone who listens to six elementa
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - Sacred ambiguity: each elemental law is true in its own domain.
 - Complementarity shield: critiques are reframed as missing contextual element.
@@ -46,13 +46,13 @@ Positions the viewer as a **hybrid adept**—someone who listens to six elementa
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 Pluralistic holism · ecological metaphysics · cyber-mythology · symbolic logic · system convergence theory · avatars as archetypes.
 
 ***
 
-### **🧠 Sticky Symbols or Quotes**
+### ✶ Sticky Symbols or Quotes**
 
 **Symbols:**<br>𐂷 It Forms (Wood) · ⛨ It Fends (Metal) · ▲ It Focuses (Fire) · ≈ It Feels (Water) · ☷ It Feeds (Earth) · ∴ It Finds (Air)
 
@@ -65,7 +65,7 @@ Pluralistic holism · ecological metaphysics · cyber-mythology · symbolic logi
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #ElementalDoctrine · #HybridLogic · #SystemicMyth · Mythic Rationalism
 

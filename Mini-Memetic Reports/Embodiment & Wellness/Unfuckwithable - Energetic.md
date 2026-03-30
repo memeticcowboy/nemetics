@@ -9,7 +9,7 @@ Title: Unfuckwithable: The Aura-Warrior’s Mantra of Energetic Sovereignty
 
 
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 
 True power comes from inner vibrational clarity; when you’re fully rooted and self-resonant, nothing external can destabilize you.
@@ -23,7 +23,7 @@ True power comes from inner vibrational clarity; when you’re fully rooted and 
 
 
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 
 - Hero-Sage Hybrid: The user is cast as a grounded mystic or energy warrior holding an invisible line against distortion.
@@ -34,7 +34,7 @@ True power comes from inner vibrational clarity; when you’re fully rooted and 
 
 
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 
 - 🔒 Safety
@@ -49,7 +49,7 @@ Emotionally constructed to soothe anxiety while stimulating agency—a high-comp
 
 
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 
 - Distribution Vectors:<br>
@@ -68,7 +68,7 @@ Emotionally constructed to soothe anxiety while stimulating agency—a high-comp
 
 
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 
 - Reframe of Criticism: Dissonant feedback is “reflected neutrally”—critics are energetically misaligned.
@@ -79,7 +79,7 @@ Emotionally constructed to soothe anxiety while stimulating agency—a high-comp
 
 
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 
 - 🧘‍♀️ New Age Spirituality
@@ -94,7 +94,7 @@ Tightly knitted into the modern wellness-spiritual content ecology.
 
 
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 
 - 🔮 “Unfuckwithable” (taboo + mantra = viral potential)
@@ -105,7 +105,7 @@ Tightly knitted into the modern wellness-spiritual content ecology.
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #EnergeticSovereignty #VibeWarrior #SacredNo #WitchTok #TraumaAlchemy #NewAgeArmor #SomaticMagic #SelfResonance #MysticMemes #VibrationalBoundary
 

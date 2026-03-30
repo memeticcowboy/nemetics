@@ -8,7 +8,7 @@ Created at 2025/12/14 11:21 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 The “self” is usually treated as a noun — an owner of powers, traits, and intentions.<br>This creates grasping, identity-lock, and brittle agency.
 
@@ -18,7 +18,7 @@ The “self” is usually treated as a noun — an owner of powers, traits, and 
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ The “self” is usually treated as a noun — an owner of powers, traits, and 
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌬️ **Ego-Softening** — relief from self-maintenance
 - 🧩 **Paradox-Friendly Agency** — acting without grasping
@@ -41,7 +41,7 @@ This meme lowers defensive load while preserving agency.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme lowers defensive load while preserving agency.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Passivity Shield:** Yielding ≠ surrender
 - **Anti-Ego-Erasure Guard:** Orientation still acts
@@ -68,7 +68,7 @@ Critique must show how **noun-selves outperform orientation-selves** under compl
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Non-dual functional selfhood
 - Field-based agency
@@ -78,7 +78,7 @@ Critique must show how **noun-selves outperform orientation-selves** under compl
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - 🔁 **YOU = Yielding Orientation to the Unfolding**
 - 🧭 *Not a noun*
@@ -88,7 +88,7 @@ Critique must show how **noun-selves outperform orientation-selves** under compl
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #YieldingOrientation · #PostEgo · #FieldAgency · #CoSPHERE · #ProcessSelf · #HarmonicNode
 

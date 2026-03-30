@@ -2,20 +2,20 @@
 
 Created at 2025/07/31 10:22 AM
 
-### 🧩 Mini-Memetic Profile: **“Epistemic Hygiene”**
+### ◈ Mini-Memetic Profile: **“Epistemic Hygiene”**
 
 **Title:**<br>*Keeping Your Mind Clean from Bad Information*
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Just as physical hygiene prevents disease, **mental hygiene** prevents contamination by false, biased, or low-quality information.
 - The “thought-virus” is: *“If you don’t actively clean and maintain your knowledge ecosystem, your thinking will be infected.”*
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the user as:
     - **Careful curator** — Cleans and maintains their belief system.
@@ -24,7 +24,7 @@ Created at 2025/07/31 10:22 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Disgust/aversion** — Toward “dirty” or polluted information.
 - **Pride** — In maintaining high standards of sensemaking.
@@ -33,7 +33,7 @@ Created at 2025/07/31 10:22 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Rationalist/Effective Altruism communities, sensemaking forums, academic circles, media literacy programs.
 - **Propagation style:**
@@ -43,7 +43,7 @@ Created at 2025/07/31 10:22 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Contamination avoidance:** Rejects information from “dirty” sources preemptively.
 - **Peer signaling:** Sharing hygiene practices signals epistemic virtue.
@@ -51,7 +51,7 @@ Created at 2025/07/31 10:22 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - Rationalism, critical thinking, and media literacy movements.
 - Public health metaphors for social contagion and information disorder.
@@ -70,5 +70,5 @@ Created at 2025/07/31 10:22 AM
 
 ***
 
-**🏷️ Tags:**<br>#EpistemicHygiene #CognitiveCleanliness #Sensemaking #InfoSanitation #CriticalThinking #RationalistMeme
+∿ Tags:**<br>#EpistemicHygiene #CognitiveCleanliness #Sensemaking #InfoSanitation #CriticalThinking #RationalistMeme
 

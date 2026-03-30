@@ -22,7 +22,7 @@ Movement continues—not toward utopia, but toward **range**.
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>Epistemic freedom is preserved not by winning arguments, but by refusing to seal the exits.
 
@@ -32,7 +32,7 @@ The meme frames openness as an **active condition**, not indecision.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Readers / Explorers / Participants**
 
@@ -49,7 +49,7 @@ The meme frames openness as an **active condition**, not indecision.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌅 **Hope without utopia** — possibility without fantasy
 - 🌬️ **Openness** — air moving through the system
@@ -60,7 +60,7 @@ The meme frames openness as an **active condition**, not indecision.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-verdict framing** — no final claims to attack
 - **Tool-first posture** — insight without authority
@@ -71,7 +71,7 @@ The meme resists capture by offering **nothing to overthrow**.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Open epistemology
 - Participatory sensemaking
@@ -84,7 +84,7 @@ This meme integrates naturally with open frameworks, exploratory tools, and cult
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **The unlatched gate**
 - **No crowns**
@@ -97,7 +97,7 @@ These function as invitations rather than slogans.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #OpenEpistemology · #NoFinalAnswer · #UnlatchedGate · #ParticipatoryKnowledge · #RangeNotRule · #AntiFinality
 

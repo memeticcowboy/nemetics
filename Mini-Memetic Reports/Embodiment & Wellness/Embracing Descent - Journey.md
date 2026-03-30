@@ -8,15 +8,15 @@ Created at 2025/12/28 4:29 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Descent is reinterpreted as return rather than death. What appears as loss becomes re-entry into a generative, pre-differentiated field from which rebirth emerges.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Returning Initiate<br>The subject is permitted to surrender without self-erasure, trusting cyclic renewal.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Safety in surrender
 - Relief from catastrophic framing
@@ -25,7 +25,7 @@ Descent is reinterpreted as return rather than death. What appears as loss becom
 
 These emotions soften resistance to necessary dissolution.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,23 +35,23 @@ These emotions soften resistance to necessary dissolution.
 
 **Propagation Style:**<br>Maternal metaphors, cyclic storytelling, reassurance through recurrence.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Reframing death as phase
 - Emphasizing continuity beneath form
 - Valuing return over ascent
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Regenerative cosmology
 - Death–rebirth cycles
 - Depth over height
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 Sea · womb · primordial potential · re-emergence
 
-🏷️ **Tags:** #SeaAsWomb · #Regeneration · #CyclicBecoming · #SafeDescent
+∿ **Tags:** #SeaAsWomb · #Regeneration · #CyclicBecoming · #SafeDescent
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766968181173_c4zhf/86d607de-50e6-4048-a4b5-6ff8be72a4c1.png

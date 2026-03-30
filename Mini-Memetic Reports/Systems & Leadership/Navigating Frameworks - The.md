@@ -24,7 +24,7 @@ Wisdom, in this moment, is not further articulation.<br>It is **knowing when to 
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>Analytical power carries its own failure mode: premature closure disguised as clarity.
 
@@ -34,7 +34,7 @@ The meme reframes restraint as **methodological competence**, not hesitation.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Writers / Theorists / Critics / Researchers**
 
@@ -48,7 +48,7 @@ The meme flatters **craftsmanship**, not certainty.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🤔 **Self-doubt** — “Am I closing this too fast?”
 - 🧘 **Restraint** — stopping short of inevitability
@@ -59,7 +59,7 @@ The meme flatters **craftsmanship**, not certainty.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Meta-awareness** — framework applied to itself
 - **Anti-triumphalism** — resists the urge to declare victory
@@ -70,7 +70,7 @@ The meme deflects critique by preemptively questioning its own closure.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Reflective methodology
 - Anti-reductionist critique
@@ -83,7 +83,7 @@ This meme travels well in spaces that value *how* thinking is done, not just *wh
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Heavy**
 - **Tightening**
@@ -96,7 +96,7 @@ These act as internal warning lights for thinkers.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #ReflectiveMethodology · #FrameworkRisk · #EpistemicHumility · #CraftEthics · #MetaCritique · #AntiTriumphalism
 

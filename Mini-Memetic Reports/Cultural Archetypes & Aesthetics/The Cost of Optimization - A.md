@@ -10,7 +10,7 @@ Created at 2025/12/20 1:18 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Optimization promises flourishing by maximizing a single metric (happiness, efficiency, harmony).<br>In practice, it **strips away context, grief, and variance**, producing systems that look successful until they fail catastrophically.
 
@@ -18,7 +18,7 @@ Optimization promises flourishing by maximizing a single metric (happiness, effi
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Disillusioned Architect** — the designer who believed in metrics and lived to see their blind spots
 - **Post-Utopian Reformer** — one who wanted to fix the world and now studies its ruins
@@ -28,7 +28,7 @@ The meme repositions the self from *optimizer* to **witness of unintended harm**
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🎭 Tragic irony (the system did exactly what it was told)
 - 😞 Disillusionment with techno-solutionism
@@ -39,7 +39,7 @@ These emotions loosen faith in single-metric salvation.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -57,7 +57,7 @@ These emotions loosen faith in single-metric salvation.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Sincerity shield:** Optimization is shown as earnest, not evil
 - **Systemic framing:** Blame is placed on structure, not actors
@@ -67,7 +67,7 @@ Resistance to critique becomes part of the evidence.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Anti-utilitarianism
 - Systems skepticism
@@ -77,7 +77,7 @@ Resistance to critique becomes part of the evidence.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Pinktopia
 - Broken governance modules
@@ -87,7 +87,7 @@ Resistance to critique becomes part of the evidence.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #AgainstOptimization · #SystemsSkepticism · #AntiUtilitarianism · #PostUtopia · #MetricFailure · #TechTragedy
 

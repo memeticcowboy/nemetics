@@ -2,13 +2,13 @@
 
 Created at 2025/07/30 4:28 PM
 
-### 🧩 Mini-Memetic Profile: **“Narrative Warfare Technology”**
+### ◈ Mini-Memetic Profile: **“Narrative Warfare Technology”**
 
 **Title:**<br>*Weaponizing Stories to Win Minds*
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Narratives are now active weapons in social, political, and psychological conflict.
 - The “thought-virus” is: *“Stories and information streams are engineered to manipulate collective reality.”*
@@ -16,7 +16,7 @@ Created at 2025/07/30 4:28 PM
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - Positions the user as:
     - **Strategic observer** — Able to see the “invisible battlefield” of stories.
@@ -25,7 +25,7 @@ Created at 2025/07/30 4:28 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Paranoia & vigilance** — Realization of constant psychological influence.
 - **Empowerment** — Understanding narrative as a lever of modern power.
@@ -34,7 +34,7 @@ Created at 2025/07/30 4:28 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Long-form podcasts, strategic foresight forums, intellectual YouTube channels (Lex Fridman, Rebel Wisdom, Portal).
 - **Propagation style:**
@@ -44,7 +44,7 @@ Created at 2025/07/30 4:28 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Critic disarmament:** Frames skepticism as naïve — “If you don’t see it, you’re already captured by it.”
 - **Epistemic humility shield:** Suggests suspension of certainty, making refutation slippery.
@@ -52,7 +52,7 @@ Created at 2025/07/30 4:28 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **War on Sensemaking** (Daniel Schmachtenberger, Rebel Wisdom).
 - **Information warfare** and **psyops** discourse.
@@ -71,5 +71,5 @@ Created at 2025/07/30 4:28 PM
 
 ***
 
-**🏷️ Tags:**<br>#InfoWar #MemeticWarfare #NarrativeOps #Sensemaking #PsyOps #CognitiveSecurity #InformationCommons #SystemsThinking
+∿ Tags:**<br>#InfoWar #MemeticWarfare #NarrativeOps #Sensemaking #PsyOps #CognitiveSecurity #InformationCommons #SystemsThinking
 

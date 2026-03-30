@@ -24,7 +24,7 @@ The alternative—rare and fragile—is the **Co-SPHERE**:<br>coordination that 
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>Most cultural failures occur not at the level of ideas, but at the moment those ideas harden into infrastructure.
 
@@ -34,7 +34,7 @@ The meme teaches that **scale without humility converts coordination into confin
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Target Roles**
 
@@ -49,7 +49,7 @@ The meme flatters responsibility, not ambition.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - ⚠️ **Caution** — awareness of irreversible thresholds
 - ⚖️ **Responsibility** — binding affects others at scale
@@ -60,7 +60,7 @@ The meme flatters responsibility, not ambition.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Threshold framing** — focuses critique on transition points, not beliefs
 - **Infrastructure lens** — examines what becomes hard to undo
@@ -71,7 +71,7 @@ The meme resists capture by refusing to argue about values and instead interroga
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Coordination theory
 - Institutional ossification
@@ -84,7 +84,7 @@ This meme integrates directly into AI alignment, platform governance, and organi
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Coordination threshold**
 - **Forgetting provisionality**
@@ -97,7 +97,7 @@ These function as warning labels at moments of scale.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #CoordinationThreshold · #Provisionality · #MemeGrid · #CoSPHERE · #GovernanceDesign · #AntiOssification
 

@@ -8,14 +8,14 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Human beings, by nature and history, are psychologically and spiritually inclined to reject autonomy and prefer subjugation under divinely sanctioned kings.
 
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User as Observer of Harsh Truths: Perceives themselves as someone awakened to timeless realities of human governance.
 - Others as Deluded Moderns: Casts democratic advocates as naïve or spiritually blind.
@@ -24,7 +24,7 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Nostalgia – for order, divine kingship, and sacred governance.
 - Awe – at perceived timeless wisdom encoded in scripture.
@@ -34,7 +34,7 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors:<br>
     - Twitter/X threads, reactionary YouTube videos, trad-Catholic blogs, spiritual podcasts.
@@ -47,7 +47,7 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Scriptural Legitimacy Shield: “It’s in the Bible, therefore it’s eternal.”
 - Moral Framing: Critics are framed as rebellious or arrogant against divine order.
@@ -56,7 +56,7 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Theonomy and Christian Traditionalism
 - Monarchist Revivalism / Neo-Feudal Thought
@@ -66,7 +66,7 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Men always clamor to be ruled by kings.”
 - Scriptural reference: 1 Samuel 8: “They have not rejected you, but they have rejected me as their king.”
@@ -75,7 +75,7 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #TradCore #Theonomic #PostLiberal #ScripturalFatalism #MonarchistMeme #DivineOrder #AntiDemocracy #SubmissionPsychology #CrownOverChaos #ReturnToHierarchy
 

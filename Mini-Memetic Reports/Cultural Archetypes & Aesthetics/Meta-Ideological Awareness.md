@@ -4,29 +4,29 @@
 
 Created at 2025/09/01 3:31 PM
 
-**🧠 Core Idea Unit**<br>Ideologies are self-replicating codes evolved for transmissibility, not truth. MIA equips users to see them as tools rather than absolutes—riding with, not being ridden by, ideological systems.
+∴ Core Idea Unit**<br>Ideologies are self-replicating codes evolved for transmissibility, not truth. MIA equips users to see them as tools rather than absolutes—riding with, not being ridden by, ideological systems.
 
 Based on [Memetic Cowboy Substack post](https://memeticcowboy.substack.com/p/the-memetic-nature-of-ideology-and)
 
-**🎭 Identity Play & Roles**
+▲ Identity Play & Roles**
 
 - The Rider: fluid navigator of ideological terrains.
 - The Meta-Cognitive Insider: above the herd, aware of the map-making process.
 - The Enlightened Few: those who grasp belief as construction, not destiny.
 
-**💥 Emotional Triggers**
+≈ Emotional Triggers**
 
 - Pride in autonomy & discernment.
 - Curiosity at seeing ideology’s inner mechanics.
 - Empowerment through cognitive sovereignty.
 - Skepticism toward rigid dogma.
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Twitter/X, Reddit, activist discourse, academia, philosophy pods.
 - **Style:** Reflective, ironic, sometimes poetic. Uses conceptual hooks & meta-commentary as shareable “memetic literacy tools.”
 
-**🛡️ Defense Reflexes**
+⛨ Defense Reflexes**
 
 - Pre-frames ideology as *tool not truth* → deflects charges of cynicism.
 - Irony shield + meta-awareness → hard to pin down.
@@ -47,7 +47,7 @@ Based on [Memetic Cowboy Substack post](https://memeticcowboy.substack.com/p/the
 - “Maps float; trails walk.”
 - Herds, riders, reins, and floating maps as recurring metaphors.
 
-**🏷️ Tags**<br>#MetaIdeologicalAwareness #MemeticLiteracy #CognitiveFreedom #IntellectualSovereignty #AntiDogma #SystemsThinking #RideTheIdeology
+∿ Tags**<br>#MetaIdeologicalAwareness #MemeticLiteracy #CognitiveFreedom #IntellectualSovereignty #AntiDogma #SystemsThinking #RideTheIdeology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1756765860897_c4zhf/368358bb-2a48-4c48-a7a3-af2a4b8800b4.png

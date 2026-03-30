@@ -10,13 +10,13 @@ Created at 2025/09/29 10:13 PM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Art cannot exist in isolation; whether intentional or not, it reflects, reinforces, critiques, or distracts from the power structures and cultural forces of its time. Neutrality is itself political.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **Believers**: Cast as Seers or Activists, uncovering the hidden political charge in every artwork.
 - **Critics**: Cast as Defenders of “pure art,” resisting reduction to ideology.
@@ -24,7 +24,7 @@ Art cannot exist in isolation; whether intentional or not, it reflects, reinforc
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😡 Outrage (when someone claims art is “apolitical”)
 - 🤯 Awe (recognition of unseen systemic influence)
@@ -33,14 +33,14 @@ Art cannot exist in isolation; whether intentional or not, it reflects, reinforc
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors**: Academic essays, X/Twitter debates, cultural criticism, activist zines, pop culture commentary.
 - **Propagation Style**: Declarative aphorism, polemical defense, ironic backlash, parable through media examples.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Irony Shield**: “Even saying art is neutral proves the point.”
 - **Counter-narrative preemption**: Frames claims of “apolitical” as privilege or complicity.
@@ -48,7 +48,7 @@ Art cannot exist in isolation; whether intentional or not, it reflects, reinforc
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - ✊ Activist art & protest movements
 - 📚 Marxist, feminist, and postcolonial critique
@@ -58,7 +58,7 @@ Art cannot exist in isolation; whether intentional or not, it reflects, reinforc
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - “Neutrality is complicity.”
 - “The personal is political.”
@@ -67,7 +67,7 @@ Art cannot exist in isolation; whether intentional or not, it reflects, reinforc
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #ArtIsPolitical #CultureWars #ActivistAesthetics #CriticalTheory #PopCultureDebates #NeutralityIsComplicity
 

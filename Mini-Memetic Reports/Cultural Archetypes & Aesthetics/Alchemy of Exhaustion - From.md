@@ -4,23 +4,23 @@
 
 Created at 2025/10/24 2:18 PM
 
-**🧩 Mini-Memetic Profile: “Holy Burnout and Arboriel"**
+**◈ Mini-Memetic Profile: “Holy Burnout and Arboriel"**
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The meme depicts the Creator’s shadow—*Holy Burnout*—meeting *Arboriel*, the slow intelligence of restoration. Their dialogue alchemizes exhaustion into ecology, showing that creation without grounding becomes spectacle, while creation with roots becomes renewal.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Holy Burnout** — *The Firebrand Architect*: visionary scorched by unmet resonance; burns for belief.<br>**Arboriel** — *The Slow Weaver*: patient ecosystem builder; turns ash into soil.<br>**User Identity:** The exhausted genius reclaiming rhythm through integration, shifting from *lone visionary* → *mycelial artisan*.
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 🔥 Exhaustion and disillusionment<br>🌫️ Grief for wasted potential<br>🌿 Relief through re-rooting<br>💧 Awe in slowness and belonging<br>💫 Reverence for emergence over achievement
 
@@ -28,25 +28,25 @@ Emotional arc: *Frenzy → Collapse → Compost → Communion → Becoming.*
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:** Longform poetic essays, creator forums, burnout recovery spaces, eco-spiritual networks.<br>**Propagation Style:** Dialogic parable · Alchemical myth · Pastoral posthumanism.<br>**Tone:** Sacred tenderness meeting post-creative despair.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 🌒 *Irony dissolved by humility* — confession as cure.<br>🪞 *Ecological metaphor* — transforms personal burnout into cosmic cycle.<br>🪶 *Ritual syntax* — offers healing through participation, not prescription.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 🌱 Ecopsychology · 🌳 Posthuman creative ethics · 🔥 Metamodern sincerity · 🌀 Systems regeneration · 💠 Mythic craft praxis<br>Affirms *Power With* through rhythm, care, and entanglement.
 
 ***
 
-### 🧠 Sticky Symbols / Quotes
+### ✶ Sticky Symbols / Quotes
 
 > “You mistook visibility for resonance.”<br>“They didn’t need your fireworks. They needed your forest.”<br>“Let your ash become soil.”<br>“Craft not for applause, but for compost.”<br>“Every rejection becomes ritual.”
 
@@ -54,7 +54,7 @@ Emotional arc: *Frenzy → Collapse → Compost → Communion → Becoming.*
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #CreatorShadow · #BurnoutAlchemy · #EcoMetamorphosis · #RootedResonance · #MythicRegeneration
 

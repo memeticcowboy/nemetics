@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 9:52 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Constructs personal **energy** (emotional, mental, social) as a **scarce, monetizable asset**, placing it within the metaphorical structure of **economics and financial systems**.
 - Establishes the body/self as both **bank** and **investor**, with every action evaluated for **return on energetic investment (ROEI)**.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Scarcity Anxiety:** Triggers fear of overextension, exhaustion, and depletion.
 - **Agency & Control:** Reclaims autonomy over energy use, often after chronic over-giving.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Widely spread in self-help books, therapy speak, productivity culture, social media wellness content, and spiritual-financial hybrids (e.g., manifestation coaches).
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Economic Rationalism:** Critics are seen as fiscally irresponsible with emotional labor.
 - **Value Realignment Frame:** Others labeled “expensive” or “low yield” to justify emotional distancing.
@@ -78,5 +78,5 @@ Created at 2025/07/28 9:52 AM
 
 ***
 
-🏷️ **Tags:**<br>#InnerEconomy #EnergeticROI #SpiritualCapitalism #SelfHelpFinance #EmotionalBanking #BoundaryCapital #MicroSovereignty #BurnoutBudgeting #AuditYourCircle #EnergyScarcityFrame
+∿ **Tags:**<br>#InnerEconomy #EnergeticROI #SpiritualCapitalism #SelfHelpFinance #EmotionalBanking #BoundaryCapital #MicroSovereignty #BurnoutBudgeting #AuditYourCircle #EnergyScarcityFrame
 

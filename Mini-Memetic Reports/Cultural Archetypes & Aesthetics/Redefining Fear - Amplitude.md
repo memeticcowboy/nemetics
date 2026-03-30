@@ -8,25 +8,25 @@ Created at 2025/12/28 4:34 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Inhibition is reframed as fear of scale rather than moral deficiency.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Under-Expressed<br>The subject is large but compressed.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Anxiety
 - Suppression
 - Containment pressure
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Propagation Style:**<br>Coaching language, somatic insight, diagnostic reframing.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Emotional regulation
 - Leadership suppression

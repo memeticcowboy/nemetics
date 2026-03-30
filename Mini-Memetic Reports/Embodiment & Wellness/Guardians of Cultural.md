@@ -8,7 +8,7 @@ Created at 2025/12/19 8:45 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Memes are not neutral carriers of meaning—they are *early stone*.<br>They harden signal too soon, stiffening stories before discernment has done its work.<br>Without care, culture loses breath; with discernment, it stays permeable.
 
@@ -16,7 +16,7 @@ Memes are not neutral carriers of meaning—they are *early stone*.<br>They hard
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast as:** Cultural steward · Educator · Media critic
 
@@ -24,7 +24,7 @@ The meme positions the self as a *keeper of cultural breath*—someone attentive
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - ⚠️ Alertness to subtle manipulation
 - 🧠 Responsibility for what gets repeated
@@ -35,7 +35,7 @@ These levers shift engagement from consumption to stewardship.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution vectors:**
 
@@ -48,7 +48,7 @@ These levers shift engagement from consumption to stewardship.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Resists virality by questioning speed
 - Deflects accusation of “overthinking” by reframing harm as *premature certainty*
@@ -58,7 +58,7 @@ The meme protects itself by prioritizing cultural health over reach.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Memetic ecology
 - Cultural evolution ethics
@@ -68,7 +68,7 @@ The meme protects itself by prioritizing cultural health over reach.
 
 ***
 
-## 🧠 Sticky Symbols or Quotes
+## ✶ Sticky Symbols or Quotes
 
 - “Memes are early stone.”
 - “Story before it stiffens.”
@@ -78,7 +78,7 @@ The meme protects itself by prioritizing cultural health over reach.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #MemeticEcology · #EarlyStone · #CulturalHealth · #AntiManipulation · #DiscernmentBeforeSpread · #BreathableCulture
 

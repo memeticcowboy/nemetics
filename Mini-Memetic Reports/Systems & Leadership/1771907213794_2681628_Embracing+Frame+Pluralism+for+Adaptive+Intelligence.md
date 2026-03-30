@@ -10,7 +10,7 @@ Created at 2026/01/16 2:49 PM
 
 ***
 
-## 🧠 **Core Idea Unit**
+## ∴ **Core Idea Unit**
 
 Reality cannot be captured by a single interpretive frame without distortion.<br>Holding multiple, even contradictory frames simultaneously is not confusion—it is adaptive intelligence.
 
@@ -18,7 +18,7 @@ Reality cannot be captured by a single interpretive frame without distortion.<br
 
 ***
 
-## 🎭 **Identity Play & Roles**
+## ▲ **Identity Play & Roles**
 
 **Cast Role:** *Frame Juggler / Sense-Switcher / Epistemic Trickster*
 
@@ -32,7 +32,7 @@ The meme positions the user as someone who:
 
 ***
 
-## 💥 **Emotional Triggers**
+## ≈ **Emotional Triggers**
 
 - 🧠 Curiosity (what else could be true at once?)
 - 🌀 Cognitive vertigo (contradictions held without resolution)
@@ -43,7 +43,7 @@ These emotions reward flexibility and weaken the drive toward dogma.
 
 ***
 
-## 📡 **Spread Mechanics**
+## 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -61,7 +61,7 @@ These emotions reward flexibility and weaken the drive toward dogma.
 
 ***
 
-## 🛡️ **Defense Reflexes**
+## ⛨ **Defense Reflexes**
 
 - **Anti-dogma shield:** Any critique is reframed as “that’s one lens”
 - **Irony buffer:** Prevents capture by moral outrage
@@ -71,7 +71,7 @@ This makes the meme resilient—but also hard to falsify.
 
 ***
 
-## 🧬 **Memeplex Anchor Points**
+## ☷ **Memeplex Anchor Points**
 
 - Memetics & cultural evolution
 - Post-rationality / epistemic volition
@@ -83,7 +83,7 @@ Frame Pluralism thrives where reality feels overdetermined and single stories ke
 
 ***
 
-## 🧠 **Sticky Symbols / Phrases**
+## ✶ **Sticky Symbols / Phrases**
 
 - “All models are wrong, but many are useful”
 - “That’s a lens, not reality”
@@ -95,7 +95,7 @@ These phrases normalize non-closure while signaling sophistication.
 
 ***
 
-## 🏷️ **Tags**
+## ∿ **Tags**
 
 #FramePluralism · #MetaCognition · #MemeticFluency · #PostRationality · #EpistemicAgency · #CowboyEnergy
 

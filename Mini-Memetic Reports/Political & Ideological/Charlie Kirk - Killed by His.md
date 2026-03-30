@@ -4,7 +4,7 @@
 
 Created at 2025/09/12 3:12 PM
 
-## 🧠 Core Idea Unit:
+## ∴ Core Idea Unit:
 
 A memetic engineer cannot escape the feedback loops they seed. Charlie Kirk’s words—engineered to provoke and polarize—outlived him, returning as weapons, sacraments, and rituals within rival We-Spheres. His fate illustrates how memes reverse ownership, and how the MemeGrid turns every utterance into hyperstitional fuel.
 
@@ -12,7 +12,7 @@ The deeper truth: *the memes we deploy begin to deploy us*.
 
 ***
 
-## 🎭 Identity Play & Roles:
+## ▲ Identity Play & Roles:
 
 - **Primary Role**: The Doomed Engineer / Prophet-Loop
 - **Alternate Roles**:
@@ -24,7 +24,7 @@ This meme recasts the “engineer” not as a sovereign creator, but as a **thre
 
 ***
 
-## 💥 Emotional Triggers:
+## ≈ Emotional Triggers:
 
 - 🫣 Irony / Dark Humor (“Killed by his own memes”)
 - 😢 Tragedy / Prophecy fulfilled
@@ -35,7 +35,7 @@ This meme recasts the “engineer” not as a sovereign creator, but as a **thre
 
 ***
 
-## 📡 Spread Mechanics:
+## 𐂷 Spread Mechanics:
 
 - **Distribution Vectors**:
     - Substack essays, X threads, TikTok reels, meme quote reposts, political podcast clips
@@ -47,7 +47,7 @@ This meme recasts the “engineer” not as a sovereign creator, but as a **thre
 
 ***
 
-## 🛡️ Defense Reflexes:
+## ⛨ Defense Reflexes:
 
 - **Mirror Immunity**: The meme implicates the viewer ("You are like Kirk") to defuse easy critique.
 - **Double-Bind Shield**: Any dunk, defense, or silence becomes fuel for the egregore.
@@ -55,7 +55,7 @@ This meme recasts the “engineer” not as a sovereign creator, but as a **thre
 
 ***
 
-## 🧬 Memeplex Anchor Points:
+## ☷ Memeplex Anchor Points:
 
 - 🌀 **Hyperstition** (belief into becoming)
 - 🔥 **Discourse Collapse**
@@ -67,7 +67,7 @@ This meme recasts the “engineer” not as a sovereign creator, but as a **thre
 
 ***
 
-## 🧠 Sticky Symbols or Quotes:
+## ✶ Sticky Symbols or Quotes:
 
 > “The memes you saddle may one day ride you instead.”<br>“He became indebted, owned, and finally consumed by the very weave he spun.”<br>“When the discourse stops, the violence starts.”<br>“Killed by his own memes.”<br>“Meme owns you.”<br>“Egregore doesn’t pick sides.”
 
@@ -80,7 +80,7 @@ This meme recasts the “engineer” not as a sovereign creator, but as a **thre
 
 ***
 
-## 🏷️ Tags:
+## ∿ Tags:
 
 #MemeticMartyr · #OuroborosOfMoloch · #KilledByHisOwnMemes · #WeSphereWarfare · #MemeGrid · #HyperstitionalFeedback · #EgregoreTrap
 

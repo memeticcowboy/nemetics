@@ -10,7 +10,7 @@ Created at 2025/12/16 11:18 AM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Narrative is no longer symbolic output—it is becoming **executable environment**.<br>AI-generated “world seeds” can now grow into spatially coherent, explorable, and testable worlds that bridge imagination, simulation, and embodied intelligence. Story becomes infrastructure.
 
@@ -18,7 +18,7 @@ Narrative is no longer symbolic output—it is becoming **executable environment
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **World-Seeder / Worldsmith**: You are no longer a consumer or narrator, but a cultivator of environments.
 - **Embodied Systems Thinker**: Your ideas are judged not by coherence alone, but by whether they *hold up when inhabited*.
@@ -28,7 +28,7 @@ The self is repositioned from author → **ecological initiator**.
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🤯 **Awe** — “This is bigger than games.”
 - 🧠 **Curiosity** — What happens when ideas must survive physics?
@@ -39,7 +39,7 @@ These emotions prime adoption by making imagination feel consequential.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -56,7 +56,7 @@ These emotions prime adoption by making imagination feel consequential.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Utility Shield**: “This isn’t just art or games—it’s for robotics and science.”
 - **Scientific Legitimacy**: Grounded in spatial intelligence and real-world modeling.
@@ -66,7 +66,7 @@ Critics dismissing it as “just another metaverse” are pre-empted.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - 🧠 **Embodied cognition**
 - 🤖 **Robotics + simulation learning**
@@ -79,7 +79,7 @@ This meme nests cleanly into post-LLM trajectories: models that *act*, not just 
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - “World seeds”
 - “Executable imagination”
@@ -92,7 +92,7 @@ These phrases collapse distance between fiction and function.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #WorldSeeds<br>#EmbodiedNarrative<br>#SpatialIntelligence<br>#ExecutableImagination<br>#PostTextAI<br>#SimulationAsStory<br>#CreativeInfrastructure
 

@@ -4,13 +4,13 @@
 
 Created at 2025/09/17 6:35 PM
 
-## 🧠 Core Idea Unit:
+## ∴ Core Idea Unit:
 
 Closure Culture is the memetic logic that turns discourse into dogma, turning living ambiguity into fixed scripts. It thrives on certainty, ritualizing speech as judgment and exile. Rather than tending the wild range of meaning, it fences it off—declaring some feelings, questions, or stories untouchable, and branding deviation as desecration.
 
 ***
 
-## 🎭 Identity Play & Roles:
+## ▲ Identity Play & Roles:
 
 - **The Gatekeeper** (enforcer of boundaries)
 - **The Outlaw** (those branded for deviation)
@@ -21,20 +21,20 @@ Repositions self relative to the system as either *belonging through conformity*
 
 ***
 
-## 💥 Emotional Triggers:
+## ≈ Emotional Triggers:
 
 😡 Outrage · 😬 Shame · 🧠 Certainty · 🤯 Fear of exile · 🧎 Relief in belonging
 
 ***
 
-## 📡 Spread Mechanics:
+## 𐂷 Spread Mechanics:
 
 - **Distribution Vectors:** Hashtags, loyalty tests, boycotts, outrage cascades, cancellation rituals.
 - **Propagation Style:** Moral compression, performative purity, script repetition, aesthetic of justice.
 
 ***
 
-## 🛡️ Defense Reflexes:
+## ⛨ Defense Reflexes:
 
 - **Irony Shields:** “It’s just accountability.”
 - **Moral Framing:** Any critique becomes proof of guilt.
@@ -42,7 +42,7 @@ Repositions self relative to the system as either *belonging through conformity*
 
 ***
 
-## 🧬 Memeplex Anchor Points:
+## ☷ Memeplex Anchor Points:
 
 - 📱 Digital tribalism & call-out culture
 - ✝️ Religious heresy trials / witch hunts
@@ -51,7 +51,7 @@ Repositions self relative to the system as either *belonging through conformity*
 
 ***
 
-## 🧠 Sticky Symbols or Quotes:
+## ✶ Sticky Symbols or Quotes:
 
 - “That’s not your lane.”
 - “Do better.”
@@ -61,7 +61,7 @@ Repositions self relative to the system as either *belonging through conformity*
 
 ***
 
-## 🏷️ Tags:
+## ∿ Tags:
 
 #ClosureCulture · #CancelWars · #ScriptedSpeech · #MoralCompression · #ExileLogic · #PurityTheater
 

@@ -12,7 +12,7 @@ I reckon you'll enjoy [Tiffany Lauren Jones' speech](https://www.youtube.com/wat
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 The meme encodes a lament disguised as satire: a world where attention has become both currency and identity collapses inward, turning every signal into self-reference.
 
@@ -20,7 +20,7 @@ The meme encodes a lament disguised as satire: a world where attention has becom
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast Role:** The Self-Aware Narcissist / Exhausted Performer<br>The viewer is positioned as someone who *knows* the game is broken yet keeps playing it.
 
@@ -28,7 +28,7 @@ The meme encodes a lament disguised as satire: a world where attention has becom
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 - 😮‍💨 Fatigue (attention without nourishment)
 - 😬 Shame (recognition of self-centering)
@@ -39,7 +39,7 @@ These emotions lower defenses by replacing accusation with recognition.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -52,7 +52,7 @@ These emotions lower defenses by replacing accusation with recognition.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Irony Shield:** “I’m joking, obviously” neutralizes critique
 - **Self-Incrimination as Immunity:** Owning the flaw preempts attack
@@ -60,7 +60,7 @@ These emotions lower defenses by replacing accusation with recognition.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Attention economy critique
 - Platform capitalism
@@ -70,7 +70,7 @@ These emotions lower defenses by replacing accusation with recognition.
 
 ***
 
-## 🧠 Sticky Symbols / Phrases
+## ✶ Sticky Symbols / Phrases
 
 - “Me, but aware”
 - “Broadcasting my burnout”
@@ -79,7 +79,7 @@ These emotions lower defenses by replacing accusation with recognition.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #AttentionEconomy · #MetaNarcissism · #PerformativeSelf · #IronyLoop · #SignalFatigue
 

@@ -24,7 +24,7 @@ TRIality manifests as a **refusal to freeze insight into identity or ground**, a
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>TRIality cannot be secured by definition; it only persists through lived movement.
 
@@ -34,7 +34,7 @@ The meme relocates TRIality from concept to **conduct**.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Apprentices / Next-Generation Thinkers / Co-Creators**
 
@@ -51,7 +51,7 @@ The meme relocates TRIality from concept to **conduct**.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌱 **Admiration** — for those who move without freezing
 - 🕊️ **Generational humility** — learning as inheritance, not conquest
@@ -62,7 +62,7 @@ The meme relocates TRIality from concept to **conduct**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-definition stance** — refuses final formulations
 - **Embodied transmission** — emphasizes example over explanation
@@ -73,7 +73,7 @@ The meme resists capture by making possession impossible.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Practice-over-theory traditions
 - Apprenticeship and lineage learning
@@ -86,7 +86,7 @@ This meme travels best through **stories, mentorship, and lived examples**, not 
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Movement**
 - **Weaving vs mapping**
@@ -99,7 +99,7 @@ These act as reminders of posture, not propositions.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #TRIality · #LivedPractice · #AntiOwnership · #EpistemicGrace · #Apprenticeship · #MovementOverDefinition
 

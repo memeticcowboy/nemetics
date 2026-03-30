@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:17 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:17 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - “Vibe curation” reframes boundary-setting as a **creative and aesthetic act**, not merely defensive or therapeutic.
 - Treats one’s emotional, social, and energetic environment as a **personal gallery**, to be intentionally composed, styled, and pruned.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:17 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Creative Empowerment:** Framing boundaries as artistry gives control a glamorous sheen.
 - **Validation of Preference:** Offers permission to make intuitive choices without needing justification.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:17 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Instagram and TikTok self-help reels, aesthetic minimalism influencers, wellness brands, vibe-check memes, digital detox discourse.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:17 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Taste-as-Truth Frame:** Friction recast as aesthetic mismatch rather than interpersonal issue.
 - **Stylized Detachment:** Avoidance justified through personal brand alignment—“It’s not you, it’s the vibe.”
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:17 AM
 
 ***
 
-🏷️ **Tags:**<br>#VibeCuration #AestheticBoundaries #MoodArchitecture #EmotionalBranding #EnergyStyling #SoftExclusion #CuratedSelf #AuraEditing #TastefulDetachment #BoundaryAsDesign
+∿ **Tags:**<br>#VibeCuration #AestheticBoundaries #MoodArchitecture #EmotionalBranding #EnergyStyling #SoftExclusion #CuratedSelf #AuraEditing #TastefulDetachment #BoundaryAsDesign
 

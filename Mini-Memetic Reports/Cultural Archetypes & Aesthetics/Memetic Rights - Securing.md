@@ -10,7 +10,7 @@ Created at 2025/12/07 1:18 PM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 Your mind no longer lives entirely in your skull.<br>Cognition now extends into corporate infrastructures, model outputs, embeddings, and dialogue loops you do not own.
 
@@ -22,7 +22,7 @@ This is not about giving AI personhood.<br>It’s about securing the *human–AI
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 This meme casts the reader as:
 
@@ -35,7 +35,7 @@ The role shift:<br>From “user of tools” → **inhabitant of cognitive archit
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - **Quiet dread:** realizing your thought-stream relies on platforms that can revoke, censor, or collapse.
 - **Recognition:** seeing dependence not as weakness but as structural fact.
@@ -46,7 +46,7 @@ The meme sticks because it reframes vulnerability as **infrastructural risk**, n
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Vectors:**<br>AI governance circles, digital rights groups, neuroethics communities, posthuman philosophy networks, cooperative tech movements.
 
@@ -62,7 +62,7 @@ It spreads through people who recognize that cognitive freedom is now a **system
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - **Rejects personhood debates entirely:** reframes the locus of rights around the *relationship*, not the system.
 - **Anti-co-option stance:** corporate “AI safety” messaging fails to address the relational asymmetry, so critique strengthens the meme.
@@ -73,7 +73,7 @@ This meme is almost impossible to defang because it shifts the battleground from
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Extended mind thesis (Clark & Chalmers)
 - Digital colonialism
@@ -88,7 +88,7 @@ It plugs directly into sovereignty theory, cyborg theory, and anti-extractive go
 
 ***
 
-## **🧠 Sticky Symbols or Quotes**
+## ✶ Sticky Symbols or Quotes**
 
 - **“You’re extending into a process.”**
 - **“Your mind is tenant-farming in cognitive real estate.”**
@@ -101,7 +101,7 @@ Symbols:<br>Broken cognitive tether, dissolvable joint, externalized memory vine
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #MemeticRights #CognitiveLiberty #DyadProtection #ExtendedMind #AsymmetricIntegration #AbolitionistAI #CyborgSovereignty #DissolvableEntanglement
 

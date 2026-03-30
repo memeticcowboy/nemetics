@@ -10,13 +10,13 @@ Created at 2025/12/03 12:38 PM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 A stance that treats spirituality as the art of holding contradiction without collapsing into cynicism or certainty.<br>It reframes the quest for truth as **navigation of paradox**, not escape from it.<br>The “thought-virus”: *doubt and devotion can coexist without canceling each other.*
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 Positions the user as **The Paradox-Holder** — someone who:
 
@@ -29,7 +29,7 @@ Archetypes: **wise fool, reflective activist, ambiguity navigator, playful mysti
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - Wry humility
 - Soft curiosity
@@ -42,7 +42,7 @@ These states loosen rigid belief structures while preventing nihilistic collapse
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**
 
@@ -57,7 +57,7 @@ These states loosen rigid belief structures while preventing nihilistic collapse
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - **Paradox Shield:** critique dissolves because opposites are pre-admitted
 - **Self-irony:** “I might be wrong—probably am”
@@ -67,7 +67,7 @@ These states loosen rigid belief structures while preventing nihilistic collapse
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Advaita Vedanta / Nondualism
 - Sharon Welch’s “spirituality of irony”
@@ -79,7 +79,7 @@ These states loosen rigid belief structures while preventing nihilistic collapse
 
 ***
 
-## **🧠 Sticky Symbols or Quotes**
+## ✶ Sticky Symbols or Quotes**
 
 **Phrases:**
 
@@ -92,7 +92,7 @@ These states loosen rigid belief structures while preventing nihilistic collapse
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 **#IronicSpiritualism #ParadoxPractice · #PostDogmaticMysticism**
 

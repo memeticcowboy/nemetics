@@ -8,7 +8,7 @@ Created at 2025/12/14 11:06 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Power is routinely collapsed into **dominance**, which forces freedom into a false binary: resistance or compliance.<br>In reality, **power has distinct modalities** — directional energies with different rhythms, risks, and ethical profiles.
 
@@ -18,7 +18,7 @@ Power is routinely collapsed into **dominance**, which forces freedom into a fal
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ Power is routinely collapsed into **dominance**, which forces freedom into a fal
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🧠 **Nuance as Liberation** — complexity relieves false moral binaries
 - 🔍 **Diagnostic Satisfaction** — *“ah, that’s the failure mode”*
@@ -41,7 +41,7 @@ This meme reduces conflict by **replacing accusation with diagnosis**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme reduces conflict by **replacing accusation with diagnosis**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Authoritarian Shield:** Rejects dominance as default mode
 - **Anti-Power-Naïveté Guard:** Acknowledges power is unavoidable
@@ -68,7 +68,7 @@ Critique must argue that **undifferentiated power performs better than modal pow
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Post-dominance power theory
 - [Pieter de Beer–style modality frameworks](https://second.me/public/CVDYFVREAER5SHJ8)
@@ -78,7 +78,7 @@ Critique must argue that **undifferentiated power performs better than modal pow
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ⚡ **Directional energy**
 - 🧭 *Modalities of power*
@@ -88,7 +88,7 @@ Critique must argue that **undifferentiated power performs better than modal pow
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #PowerModalities · #DirectionalEnergy · #PostDominance · #RelationalGovernance · #EthicalLeadership · #SystemsDiagnosis
 

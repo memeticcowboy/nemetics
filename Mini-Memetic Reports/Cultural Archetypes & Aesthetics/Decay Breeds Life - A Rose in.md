@@ -4,7 +4,7 @@
 
 Created at 2025/11/08 7:54 AM
 
-**🧩 Mini-Memetic Profile: Pink Rose in the Skull’s Mouth**
+**◈ Mini-Memetic Profile: Pink Rose in the Skull’s Mouth**
 
 Source dream**:** [Beneath Selfhood, Soil: A Dream with Humavita](https://memeticcowboy.substack.com/p/beneath-selfhood-soil-a-dream-with)
 
@@ -14,31 +14,31 @@ Image by Michael Redfearn [on X](https://x.com/RedfearnMike/status/1986993879703
 
 ***
 
-**🧠 Core Idea Unit:**<br>Decay feeds life. From what perishes, the next form blooms. Death and renewal are not opposites but phases of the same living pattern.
+∴ Core Idea Unit:**<br>Decay feeds life. From what perishes, the next form blooms. Death and renewal are not opposites but phases of the same living pattern.
 
 ***
 
-**🎭 Identity Play & Roles:**<br>The *Composter of Self* — one who lets their former identities rot into fertile ground for new becoming.<br>Role inversion: the mourner becomes the gardener.
+▲ Identity Play & Roles:**<br>The *Composter of Self* — one who lets their former identities rot into fertile ground for new becoming.<br>Role inversion: the mourner becomes the gardener.
 
 ***
 
-**💥 Emotional Triggers:**<br>🕯️ Melancholy → 🌹 Hope<br>😢 Grief transmuted into gratitude<br>🌀 Catharsis through surrender
+≈ Emotional Triggers:**<br>🕯️ Melancholy → 🌹 Hope<br>😢 Grief transmuted into gratitude<br>🌀 Catharsis through surrender
 
 ***
 
-**📡 Spread Mechanics:**<br>**Distribution Vectors:** Symbolic art, tattoo culture, metamodern spirituality pages, death-positive communities, surreal poetry threads.<br>**Propagation Style:** Aesthetic paradox—soft against hard, beauty against ruin. Carried by visual allegory and wordless resonance.
+𐂷 Spread Mechanics:**<br>**Distribution Vectors:** Symbolic art, tattoo culture, metamodern spirituality pages, death-positive communities, surreal poetry threads.<br>**Propagation Style:** Aesthetic paradox—soft against hard, beauty against ruin. Carried by visual allegory and wordless resonance.
 
 ***
 
-**🛡️ Defense Reflexes:**<br>Irony shield via visual ambiguity (memento mori or romantic flourish?).<br>Semantic fluidity—rebirth without religion.<br>Reframes death as ecological truth rather than metaphysical threat.
+⛨ Defense Reflexes:**<br>Irony shield via visual ambiguity (memento mori or romantic flourish?).<br>Semantic fluidity—rebirth without religion.<br>Reframes death as ecological truth rather than metaphysical threat.
 
 ***
 
-**🧬 Memeplex Anchor Points:**<br>🪞 Posthuman ecology of self<br>🧘‍♀️ Buddhist impermanence<br>🪦 Romanticism / Vanitas revival<br>🌱 Regenerative design & compost metaphors
+☷ Memeplex Anchor Points:**<br>🪞 Posthuman ecology of self<br>🧘‍♀️ Buddhist impermanence<br>🪦 Romanticism / Vanitas revival<br>🌱 Regenerative design & compost metaphors
 
 ***
 
-**🧠 Sticky Symbols / Quotes:**
+✶ Sticky Symbols / Quotes:**
 
 - “Let what dies feed what lives.”
 - “Beauty blooms from the bone.”
@@ -47,7 +47,7 @@ Image by Michael Redfearn [on X](https://x.com/RedfearnMike/status/1986993879703
 
 ***
 
-**🏷️ Tags:**<br>#CompostSelf · #VanitasReborn · #DeathPositive · #RegenerativeAesthetics · #MetaRomantic · #MemeticAlchemy
+∿ Tags:**<br>#CompostSelf · #VanitasReborn · #DeathPositive · #RegenerativeAesthetics · #MetaRomantic · #MemeticAlchemy
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762617141280_c4zhf/acc502fb-c7cf-4f0a-9f82-070c6f996fb3.png

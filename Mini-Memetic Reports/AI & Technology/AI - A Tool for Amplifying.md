@@ -6,36 +6,36 @@ Created at 2025/11/14 9:53 AM
 
 ### 🧩 **Title: AI as an Amplifier of Inequality**
 
-### 🧠 **Core Idea Unit:**
+### ∴ **Core Idea Unit:**
 
 A justice-centered frame: *AI doesn’t automate labor — executives choose to replace workers.*<br>The meme reframes AI not as neutral innovation but as a **profit-extraction engine** widening inequality through deliberate choices, biased datasets, and power-concentrating feedback loops.<br>Shift: from “inevitable automation” to **human-made economic inequity**.
 
-### 🎭 **Identity Play & Roles:**
+### ▲ **Identity Play & Roles:**
 
 Positions the user as the **solidarity witness** — someone who sees inequality not as abstraction but as lived experience across working-class, marginalized, and global communities.<br>Identity becomes:<br>**the person who stands with workers against algorithmic exploitation.**
 
 It casts executives as decision-makers, not victims of technological destiny.
 
-### 💥 **Emotional Triggers:**
+### ≈ **Emotional Triggers:**
 
 🌍 Earth: material struggle, class reality<br>🌊 Water: solidarity, empathy, shared fate<br>💢 Economic injustice<br>🤝 Collective resistance energy<br>🧭 Moral clarity about choices masquerading as inevitabilities
 
 Earth–Water blends grounded truth with emotional coalition-building.
 
-### 📡 **Spread Mechanics:**
+### 𐂷 **Spread Mechanics:**
 
 **Distribution Vectors:**<br>Labor unions · worker cooperatives · democratic-socialist discourse · environmental justice networks · investigative economics journalism · global labor movements.
 
 **Propagation Style:**<br>Algorithmic looms · wage graphs woven like fabric · silhouettes of workers vs. digital machinery · “executive decision” callouts · testimonies from displaced or surveilled workers.
 
-### 🛡️ **Defense Reflexes:**
+### ⛨ **Defense Reflexes:**
 
 - Reframes automation as **policy choice**, not natural law — disarming tech determinism.
 - Uses well-documented cases (Duolingo layoffs, tech contractor purges, warehouse algorithmic firings) as empirical armor.
 - Converts productivity rhetoric into evidence of exploitation (“productivity for whom?”).
 - Anchors inequality in visible outcomes: job loss, biased systems, unequal access to opportunity.
 
-### 🧬 **Memeplex Anchor Points:**
+### ☷ **Memeplex Anchor Points:**
 
 - **Labor justice**
 - **Algorithmic bias and feedback loops**
@@ -48,13 +48,13 @@ Earth–Water blends grounded truth with emotional coalition-building.
 
 The meme aligns with broader justice movements, turning AI policy from technical governance into economic and democratic reform.
 
-### 🧠 **Sticky Symbols / Quotes:**
+### ✶ **Sticky Symbols / Quotes:**
 
 **Symbols:**<br>• A towering **algorithmic loom** weaving worker lives into profit lines<br>• Workers standing beneath a glowing circuit-weave sky<br>• Payroll numbers dissolving into code<br>• A corporate hand pulling threads from a worker’s silhouette<br>• Wage graphs stitched into fabric under tension
 
 **Sticky Phrases:**<br>• “AI doesn’t automate labor — executives do.”<br>• “Inequality is the product.”<br>• “The algorithm is a loom — and you’re the thread.”<br>• “Productivity for whom?”<br>• “Pause as protection, not panic.”
 
-### 🏷️ **Tags:**
+### ∿ **Tags:**
 
 #LaborJustice · #AIInequality · #EarthWater · #EconomicTruth · #SolidarityMemetics
 

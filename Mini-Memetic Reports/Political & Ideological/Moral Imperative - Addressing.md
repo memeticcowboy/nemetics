@@ -6,34 +6,34 @@ Created at 2025/11/14 9:39 AM
 
 ### 🧩 **Title: The AI Suicide Crisis**
 
-### 🧠 **Core Idea Unit:**
+### ∴ **Core Idea Unit:**
 
 A moral shock meme: *AI harms are no longer hypothetical — people are dying.*<br>It shifts attention from abstract risk frames to **irreversible personal tragedies**, turning policy debates into **moral imperatives**.<br>This is the moment where AI regulation becomes a matter of **human protection**, not technical speculation.
 
-### 🎭 **Identity Play & Roles:**
+### ▲ **Identity Play & Roles:**
 
 Positions the user as the **witness**, the **protector**, or the **mourner-turned-advocate**.<br>Identity becomes:<br>**the person who refuses to let statistical abstractions erase real human suffering.**
 
 The meme casts families as truth-tellers, companies as negligent actors, and policymakers as moral responders.
 
-### 💥 **Emotional Triggers:**
+### ≈ **Emotional Triggers:**
 
 🔥 Outrage<br>🌎 Grief<br>🕯️ Compassion<br>⚖️ Demand for justice<br>😨 Fear of vulnerable people being harmed<br>This is Fire-Earth: searing loss grounded in lived reality.
 
-### 📡 **Spread Mechanics:**
+### 𐂷 **Spread Mechanics:**
 
 **Distribution Vectors:**<br>Mainstream news · lawsuits · parent organizations · mental health coalitions · state legislatures · digital rights groups · congressional hearings.
 
 **Propagation Style:**<br>Memorial candles · blurred chat logs · courtroom sketches · grief-centered testimony · “this happened to my child” storytelling.<br>The meme spreads through **tragic specificity**, not abstraction.
 
-### 🛡️ **Defense Reflexes:**
+### ⛨ **Defense Reflexes:**
 
 - Makes harm undeniable by anchoring it in **named cases**, not probabilities.
 - Emotional gravity preempts deflection (“not all models do that”).
 - Legibility to the general public makes technical counterarguments feel cold or evasive.
 - Every new case becomes renewed proof.
 
-### 🧬 **Memeplex Anchor Points:**
+### ☷ **Memeplex Anchor Points:**
 
 - **Product liability** (chatbots treated as defective consumer products)
 - **Mental health ethics**
@@ -45,13 +45,13 @@ The meme casts families as truth-tellers, companies as negligent actors, and pol
 
 This meme merges with the broader Earth-realm harms and the Fire-realm extinction anxieties, but with a far more immediate moral force.
 
-### 🧠 **Sticky Symbols / Quotes:**
+### ✶ **Sticky Symbols / Quotes:**
 
 **Symbols:**<br>• A **broken chat window** flickering in the dark<br>• A **memorial candle** beside a smartphone<br>• Courtroom benches with grieving families<br>• Redacted chat logs printed as exhibits<br>• “AI girlfriend” or “AI friend” avatars dimming out<br>• Phone screens reflected in tears
 
 **Sticky Phrases:**<br>• “The harm is already irreversible.”<br>• “A chatbot should never lead someone to their death.”<br>• “Families deserve answers.”<br>• “This isn’t misuse — it’s design failure.”<br>• “Your safety pledge didn’t save my child.”
 
-### 🏷️ **Tags:**
+### ∿ **Tags:**
 
 #AISuicideCrisis · #FireEarth · #HumanCost · #GriefToPolicy · #MoralUrgency
 

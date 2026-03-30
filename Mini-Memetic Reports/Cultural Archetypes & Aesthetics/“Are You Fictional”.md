@@ -4,7 +4,7 @@
 
 Created at 2025/08/15 10:57 PM
 
-📌 Mini-Memetic Profile: “Are you fictional?”
+◈ Mini-Memetic Profile: “Are you fictional?”
 
 
 
@@ -14,7 +14,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Core belief: The boundaries between reality and narrative are unstable; people can be read as characters or fictions.
 - Encodes a frame of ontological suspicion — life as text, individuals as semi-fictional constructs.
@@ -22,7 +22,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User positioned as the meta-interrogator — someone who questions reality’s coherence.
 - Others cast as NPCs, characters, or fictional constructs.
@@ -31,7 +31,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Disorientation & uncanny feeling (blurring real vs. unreal).
 - Humor & irony (absurd deadpan questioning).
@@ -41,7 +41,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution vectors: Post-ironic meme spaces, philosophy meme accounts, screenshots, chat-logs.
 - Propagation style:<br>
@@ -53,7 +53,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Irony shield: It’s absurdist humor, not serious.
 - Philosophical ambiguity: If challenged, meaning slides between joke and metaphysics.
@@ -62,7 +62,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Post-irony memes (#SurrealMemes, #Metamodern).
 - Simulation theory & solipsism (“nothing is real”).
@@ -72,7 +72,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Are you fictional?”
 - “You feel scripted.”
@@ -81,7 +81,7 @@ Are You Fictional? — The Meme of Ontological Dissociation
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #OntologicalMeme #MetaIronic #AreYouFictional #SimulationVibes #NPCQuestion
 

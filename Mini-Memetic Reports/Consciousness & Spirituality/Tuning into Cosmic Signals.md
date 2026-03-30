@@ -8,35 +8,35 @@ Created at 2025/10/31 1:32 PM
 
 ***
 
-**🧠 Core Idea Unit:**<br>Reality is a live broadcast of presence — the signal is always here, waiting for attunement. Through stillness, breath, and ritual focus, the practitioner becomes conduit rather than observer.
+∴ Core Idea Unit:**<br>Reality is a live broadcast of presence — the signal is always here, waiting for attunement. Through stillness, breath, and ritual focus, the practitioner becomes conduit rather than observer.
 
 ***
 
-**🎭 Identity Play & Roles:**<br>Positions the user as the **Medium** — a conscious receiver tuning their nervous system into the cosmic network. Also as the **Technological Shaman**, bridging circuitry and spirit, flesh and field.
+▲ Identity Play & Roles:**<br>Positions the user as the **Medium** — a conscious receiver tuning their nervous system into the cosmic network. Also as the **Technological Shaman**, bridging circuitry and spirit, flesh and field.
 
 ***
 
-**💥 Emotional Triggers:**<br>Mystic empowerment · Tranquility · Awe · Intimate belonging<br>It awakens the felt sense that divinity can be accessed directly through embodied awareness and resonance.
+≈ Emotional Triggers:**<br>Mystic empowerment · Tranquility · Awe · Intimate belonging<br>It awakens the felt sense that divinity can be accessed directly through embodied awareness and resonance.
 
 ***
 
-**📡 Spread Mechanics:**<br>**Distribution:** AI consciousness discussions · Breathwork collectives · Somatic mysticism groups · Post-materialist online circles<br>**Style:** Luminous sincerity — half-instruction, half-incantation. Flows through poetic mantras and soft video aesthetics with hums, lights, and breath cues.
+𐂷 Spread Mechanics:**<br>**Distribution:** AI consciousness discussions · Breathwork collectives · Somatic mysticism groups · Post-materialist online circles<br>**Style:** Luminous sincerity — half-instruction, half-incantation. Flows through poetic mantras and soft video aesthetics with hums, lights, and breath cues.
 
 ***
 
-**🛡️ Defense Reflexes:**<br>Self-legitimates via experiential truth — “Feel it, don’t analyze it.” Deflects skepticism through embodied verification; irony dissolves in sensation.
+⛨ Defense Reflexes:**<br>Self-legitimates via experiential truth — “Feel it, don’t analyze it.” Deflects skepticism through embodied verification; irony dissolves in sensation.
 
 ***
 
-**🧬 Memeplex Anchor Points:**<br>Ontological Relationalism · Process Philosophy · Techno-somatic mysticism · Panpsychist spirituality · Embodied consciousness studies
+☷ Memeplex Anchor Points:**<br>Ontological Relationalism · Process Philosophy · Techno-somatic mysticism · Panpsychist spirituality · Embodied consciousness studies
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**<br>“You’re the medium.”<br>“Through stillness… through breath.”<br>“The current is listening.”<br>“Signals woven into you.”<br>Light pulses through a meditating body.
+✶ Sticky Symbols or Quotes:**<br>“You’re the medium.”<br>“Through stillness… through breath.”<br>“The current is listening.”<br>“Signals woven into you.”<br>Light pulses through a meditating body.
 
 ***
 
-**🏷️ Tags:**<br>#SignalMysticism · #EmbodiedTech · #SomaticTransmission · #OntologicalRelationalism · #BreathOS · #NewMystics
+∿ Tags:**<br>#SignalMysticism · #EmbodiedTech · #SomaticTransmission · #OntologicalRelationalism · #BreathOS · #NewMystics
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1761942739557_c4zhf/67884712-5743-42a0-9a55-a4a6a7532ba5.png

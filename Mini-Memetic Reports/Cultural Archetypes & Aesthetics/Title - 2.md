@@ -8,14 +8,14 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Stories, conversations, and chains of meaning are imagined as threads that can be followed, intertwined, or unraveled to create—or destroy—coherence.
 
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Story Weaver (combines multiple plotlines into a whole)
 - Interpreter (follows the thread of meaning through complex discourse)
@@ -25,7 +25,7 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Satisfaction at resolving disparate storylines into unity
 - Curiosity in following narrative or rhetorical trails
@@ -35,7 +35,7 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution vectors: Literature, creative writing guides, literary criticism, academic discourse analysis.
 - Propagation style: Metaphor-rich criticism, reader/writer advice, visual/structural narrative diagrams.
@@ -43,7 +43,7 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Appeal to narrative coherence as a mark of quality
 - Canon authority (“golden threads” in classics)
@@ -52,7 +52,7 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Aristotelian unity of plot
 - Modernist stream-of-consciousness narrative
@@ -62,7 +62,7 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Thread of discourse”
 - “Loose thread”
@@ -72,7 +72,7 @@ Narrative Threads: Weaving Meaning in Story and Speech
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #NarrativeThreads #StoryWeaving #ThreadOfDiscourse #SemioticChain #LooseEnds
 

@@ -8,13 +8,13 @@ Created at 2025/11/23 12:32 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Time bends when history is unresolved. Seasons warp into surreal signals—revealing truths the psyche refuses to confront. Memory becomes a climate system.
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 **The Disoriented Historian** — watching chronology slip sideways.<br>**The Reluctant Rememberer** — drawn into revelations they didn’t ask for.
 
@@ -22,37 +22,37 @@ These roles cast the self as someone navigating a world where the past behaves l
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 Surreal awe at impossible seasonal shifts.<br>Temporal dread as time misbehaves.<br>Curiosity sharpened by uncanny ecological cues.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors:** speculative fiction, dream-logic allegories, psychological surrealism, symbolic climate narratives.<br>**Propagation Style:** temporal parable, surreal metaphor, uncanny ecopsychology.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 The surreal shield: “It’s just dream logic.”<br>Temporal ambiguity diffuses moral blame.<br>Metaphor-first framing makes critique feel optional.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 Memory ecology · Psychological surrealism · Temporal mythmaking · Climate symbolism · Traumatic recursion loops.
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes**
+### ✶ **Sticky Symbols or Quotes**
 
 “Cactus where snow should be.”<br>“Blossoms turning to fruit in minutes.”<br>“The past shifts its seasons to be seen.”<br>“When history overheats, time melts.”
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #MemoryWeather · #TemporalSurrealism · #DreamLogicMythos · #Psychoclimatic
 

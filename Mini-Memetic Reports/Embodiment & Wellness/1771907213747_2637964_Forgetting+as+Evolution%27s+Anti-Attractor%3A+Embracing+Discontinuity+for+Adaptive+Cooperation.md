@@ -8,7 +8,7 @@ Created at 2025/12/22 4:39 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Memory, continuity, and attribution are not unqualified goods.<br>**Forgetting is an evolutionary feature**—a release valve that prevents identity-based capture and keeps cooperation adaptive rather than possessed.
 
@@ -16,7 +16,7 @@ Memory, continuity, and attribution are not unqualified goods.<br>**Forgetting i
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 This meme loosens the grip of ownership on participation:
 
@@ -28,7 +28,7 @@ The self is repositioned as **a transient carrier**, not a permanent container o
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🪶 **Reframing loss as protection** — disappearance gains purpose
 - 😮‍💨 **Relief from authorship anxiety** — credit no longer guards worth
@@ -38,7 +38,7 @@ The emotional arc moves from fear of erasure to gratitude for release.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution vectors**
 
@@ -56,7 +56,7 @@ This meme spreads where collaboration has stalled under its own memory.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Attribution panic:** fear of theft or invisibility
 - **Legacy fixation:** equating remembrance with meaning
@@ -66,7 +66,7 @@ These reflexes reintroduce capture by insisting on permanence.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Evolutionary cooperation theory
 - Anti-ownership ethics
@@ -78,7 +78,7 @@ This meme aligns forgetting with resilience rather than loss.
 
 ***
 
-### 🧠 **Sticky Symbols & Quotes**
+### ✶ **Sticky Symbols & Quotes**
 
 - **“Forgetting is built in.”**
 - **“Anti-attractor.”**
@@ -92,7 +92,7 @@ Symbolic metaphors:
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #AntiAttractor · #ForgettingAsFeature · #CooperationWithoutOwnership · #EvolutionaryEthics · #PostEgo · #CommonsLogic
 

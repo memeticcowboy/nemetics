@@ -4,7 +4,7 @@
 
 Created at 2025/08/17 11:18 AM
 
-📌 **Mini-Memetic Profile: “The MemeGrid”**
+◈ **Mini-Memetic Profile: “The MemeGrid”**
 
 ***
 
@@ -14,14 +14,14 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Belief: What began as a framework for understanding culture (memetics) has been captured and repurposed into a **control system** — locking individuals into cycles of compulsory action, predictive modulation, and cultural capture.
 - Encodes a frame of **memetic enclosure**: culture-as-code, identity-as-algorithm, wonder-as-collateral.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - User positioned as the **resistant observer** or **exiled thinker**, seeing the invisible grid.
 - Others are **hosts** (unknowingly reproducing the system) or **engineers of the grid** (marketers, militaries, platforms).
@@ -29,7 +29,7 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Alienation** (loss of authorship, identity reduced to patterns).
 - **Paranoia/suspicion** (everything is instrumentalized).
@@ -38,7 +38,7 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Substack essays, critical theory spaces, memetic studies circles, alt-critical meme communities.
 - **Propagation style:**
@@ -48,7 +48,7 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Totalizing shield:** Any critique is proof of the MemeGrid’s operation (“your argument is itself co-opted”).
 - **Irony inversion:** Attempts to joke about it risk becoming examples of “irony poisoning.”
@@ -56,7 +56,7 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **Critical theory lineages** (Debord’s spectacle, Baudrillard’s simulation, Fisher’s capitalist realism).
 - **Techno-political critique** (surveillance capitalism, algorithmic feeds, narrative warfare).
@@ -65,7 +65,7 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “The MemeGrid.”
 - “Compulsory doing, not free being.”
@@ -75,7 +75,7 @@ Created at 2025/08/17 11:18 AM
 
 ***
 
-🏷️ **Tags:**<br>#MemeGrid #ControlSystem #DODOloop #MemeticEnclosure #CultureAsCode
+∿ **Tags:**<br>#MemeGrid #ControlSystem #DODOloop #MemeticEnclosure #CultureAsCode
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1755454710707_c4zhf/190216a8-3b74-44d7-aff0-fbcc836bd6ca.png

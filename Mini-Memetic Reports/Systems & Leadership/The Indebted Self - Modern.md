@@ -6,35 +6,35 @@ Created at 2025/11/19 9:10 AM
 
 ## **🧩 Title: Debt Capitalism**
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 Debt replaces labor as the central mechanism of control.<br>The subject is remade as a perpetual debtor—disciplined not by bosses, but by credit, austerity, and obligation.<br>The shift: from exploitation → *indebted self-management*.
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 **The Indebted Self**, the Optimized Striver, the Shame-Conditioned Citizen, the Credit-Scored Subject.<br>Position: not worker vs. owner, but debtor under creditor sovereignty.
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 Low-grade anxiety, looming guilt, precarity, quiet resentment, humiliating self-blame, exhaustion, resignation, and a desire for escape or exodus.
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Distribution:** academic Twitter, left-theory circles, economic justice feeds, student-debt activism, austerity critique spaces.<br>**Style:** sober indictment, analytic fatalism, structural exposure, moral unveiling.
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 Irony-shielding via economistic jargon; moral reframing (“you borrowed it, pay it”); pathologizing critique (“financial illiteracy”); obscuring systemic design behind personal responsibility.
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 Autonomist Marxism · Neoliberal governmentality · Foucault + Lazzarato · Graeberian anthropology · Post-2008 austerity · Racialized finance regimes · Education commodification.
 
-## **🧠 Sticky Symbols / Quotes**
+## ✶ Sticky Symbols / Quotes**
 
 • “The debtor is the new worker.”<br>• Credit-score halos<br>• Infinite repayment loops<br>• Austerity as moral theater<br>• “You are your own collateral.”<br>• Chains made of contracts, not iron.
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #DebtSubject · #AusterityLogic · #NeoliberalGovernmentality · #Financialization
 

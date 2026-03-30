@@ -8,7 +8,7 @@ Created at 2025/12/18 8:47 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Habitual, inherited language doesn’t just describe reality—it *architects* it.<br>When language hardens, selfhood calcifies into stone structures suited for domination.<br>Relearning language as *air*—grammar rather than rules—restores fluid orientation and preserves freedom.
 
@@ -16,7 +16,7 @@ Habitual, inherited language doesn’t just describe reality—it *architects* i
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast as:** Writer · Cultural critic · Decolonial thinker · Designer of meaning
 
@@ -24,7 +24,7 @@ The meme positions the user as an *unfreezer* of sense—someone who notices whe
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 - 🪨 Suspicion toward inherited language
 - 🌀 Subtle unease at linguistic confinement
@@ -35,7 +35,7 @@ These emotions destabilize linguistic obedience and open space for reorientation
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution vectors:**
 
@@ -48,7 +48,7 @@ These emotions destabilize linguistic obedience and open space for reorientation
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Resists capture by refusing final definitions
 - Semantic fluidity prevents institutional co-option
@@ -58,7 +58,7 @@ Opponents struggle because the meme questions the language of opposition itself.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Critical memetics
 - Linguistic construction of power
@@ -69,7 +69,7 @@ Opponents struggle because the meme questions the language of opposition itself.
 
 ***
 
-## 🧠 Sticky Symbols or Quotes
+## ✶ Sticky Symbols or Quotes
 
 - “Language as stone. Language as air.”
 - “Grammar, not rules.”
@@ -79,7 +79,7 @@ Opponents struggle because the meme questions the language of opposition itself.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #LanguageAsAir · #CriticalMemetics · #AntiDomination · #ReSpeaking · #EpistemicFreedom · #ElementalGrammar
 

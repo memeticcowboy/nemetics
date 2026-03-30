@@ -8,15 +8,15 @@ Created at 2025/12/28 4:07 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Expansion of self or vision is pre-coded as moral failure. Growth triggers accusation; accusation enforces retreat. The meme trains ambition to self-police before it externalizes.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Overreacher Who Must Be Cut Down<br>The subject is positioned as dangerous when exceeding assigned scale, learning to pre-emptively shrink to remain legitimate.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😨 Fear of shame
 - 😰 Anticipatory punishment
@@ -25,7 +25,7 @@ Expansion of self or vision is pre-coded as moral failure. Growth triggers accus
 
 These emotions activate **self-censorship before action**, preventing visible transgression.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -36,7 +36,7 @@ These emotions activate **self-censorship before action**, preventing visible tr
 
 **Propagation Style:**<br>Cautionary tales, tone of grave wisdom, retrospective punishment (“this is what happens when…”).
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Appeals to tradition (“this is how it’s always been”)
 - Moral framing (“it’s for your own good”)
@@ -44,21 +44,21 @@ These emotions activate **self-censorship before action**, preventing visible tr
 
 Critique is reframed as naïveté or arrogance.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Scarcity cosmology
 - Hierarchical legitimacy
 - Zero-sum dignity
 - Moralized restraint
 
-### 🧠 Sticky Phrases / Symbols
+### ✶ Sticky Phrases / Symbols
 
 - “Who do you think you are?”
 - Pride-before-fall
 - Divine punishment
 - The cautionary bludgeon
 
-🏷️ **Tags:** #PsychicLeash · #MoralCeiling · #AntiExpansion · #MemeGrid
+∿ **Tags:** #PsychicLeash · #MoralCeiling · #AntiExpansion · #MemeGrid
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766966837288_c4zhf/2174f5fe-ded9-4863-bc19-462c66837b94.png

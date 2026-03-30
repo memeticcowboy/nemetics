@@ -9,14 +9,14 @@ Created at 2025/07/05 7:27 AM
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Creativity and energy are cyclical, not constant; respecting your body’s rhythms is wiser than forcing perpetual output.
 
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Positions the user as:<br>
     - Attuned Seeker (one who listens to subtle signals)
@@ -27,7 +27,7 @@ Created at 2025/07/05 7:27 AM
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Relief (permission to rest)
 - Self-compassion (validating burnout)
@@ -37,7 +37,7 @@ Created at 2025/07/05 7:27 AM
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution vectors:<br>
     - Instagram wellness infographics
@@ -54,7 +54,7 @@ Created at 2025/07/05 7:27 AM
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Moral framing: self-care is inherently good and necessary
 - Rebuttal resistance: any critique is framed as “internalized capitalism”
@@ -63,7 +63,7 @@ Created at 2025/07/05 7:27 AM
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Feminist wellness culture
 - Anti-hustle productivity discourse
@@ -73,7 +73,7 @@ Created at 2025/07/05 7:27 AM
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - Internal seasons
 - Creativity isn’t a tap you can just turn on
@@ -81,7 +81,7 @@ Created at 2025/07/05 7:27 AM
 - Body whispering, then shouting, then cutting the power
 
 
-🏷️ Tags:
+∿ Tags:
 
 #CycleWisdom #AntiHustle #SelfCareRituals #SomaticAwareness #SlowCreativity
 

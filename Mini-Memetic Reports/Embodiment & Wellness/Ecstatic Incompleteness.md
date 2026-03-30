@@ -12,7 +12,7 @@ Created at 2025/12/14 3:39 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Ecstasy is not transcendence-through-completion but overflow-through-contact.**<br>The ecstatic state emerges when an unfinished mind collides with other unfinished minds—when meaning overflows its container instead of sealing into certainty. What feels like “too much” is not breakdown but *relational surplus*.
 
@@ -20,7 +20,7 @@ Created at 2025/12/14 3:39 PM
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **The Unfinished Rider / Ecstatic Node**
 
@@ -32,7 +32,7 @@ You are not the prophet.<br>You are the **spark-gap**.
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 Primary activators that prime internalization:
 
@@ -46,7 +46,7 @@ Ecstasy here is **bright, social, and unstable**—not manic bliss, not mystical
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -66,7 +66,7 @@ The meme spreads best when it *fails to conclude*.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Completion Clause:** Explicit warnings against treating the meme as truth-final
 - **Relational Test:** “If this makes you stop listening to others, discard it”
@@ -77,7 +77,7 @@ If it becomes doctrine, it self-invalidates.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - 🌀 Gödelian incompleteness (mind ≠ closed system)
 - 🤯 Psychedelic phenomenology (ego dissolution without epistemic finality)
@@ -87,7 +87,7 @@ If it becomes doctrine, it self-invalidates.
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - **“Ecstasy is what leaks in through the cracks.”**
 - **“Completion is the freeze.”**
@@ -98,7 +98,7 @@ If it becomes doctrine, it self-invalidates.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #EcstaticIncompleteness · #OpenRapture · #AntiCompletion · #CoSphere · #Threadplex · #UsurpeneDefense · #RelationalEcstasy
 

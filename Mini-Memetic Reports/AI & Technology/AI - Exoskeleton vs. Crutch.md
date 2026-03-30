@@ -4,7 +4,7 @@
 
 Created at 2025/08/24 9:46 AM
 
-📌 Mini-Memetic Profile
+◈ Mini-Memetic Profile
 
 Title: Augmentation vs. Atrophy [(full analysis)](https://open.substack.com/pub/memeticcowboy/p/memetic-analysis-ai-augmentation)
 
@@ -13,7 +13,7 @@ Title: Augmentation vs. Atrophy [(full analysis)](https://open.substack.com/pub/
 
 
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 
 Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition. They aren’t opposites but co-evolving attractors that regulate how intelligence, agency, and technology are imagined, embodied, and designed for.
@@ -21,7 +21,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 
 - Augmenters = Co-pilots, Builders, Innovators
@@ -32,7 +32,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 
 - 🤖 Awe (from enhanced intelligence)
@@ -44,7 +44,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 
 - Augmentation: Academic papers, edtech branding, UX metaphors
@@ -55,7 +55,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 
 - Augmentation uses: transparency rhetoric, personalization myths
@@ -65,7 +65,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 
 - 📱 Techno-literacy & Human-Machine Integration
@@ -77,7 +77,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 
 - “AI as exoskeleton”
@@ -91,7 +91,7 @@ Two memetic poles—AI as Exoskeleton vs AI as Crutch—shape societal cognition
 
 
 
-**🏷️ Tags:**
+∿ Tags:**
 
 
 #AugmentationVsAtrophy · #MetaphorEngineering · #LearningFutures

@@ -8,7 +8,7 @@ Created at 2025/12/18 9:11 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Noise is usually misread as obstruction.<br>When treated as *atmosphere*, it becomes readable—context rather than interference, weather rather than weapon.
 
@@ -16,7 +16,7 @@ Noise is usually misread as obstruction.<br>When treated as *atmosphere*, it bec
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast as:** Systems thinker · Media navigator · Strategist
 
@@ -24,7 +24,7 @@ The meme positions the self as a *meteorologist of meaning*—someone who doesn�
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌬️ Reduced anxiety in chaotic environments
 - 🧠 Relief from the impossible demand for purity
@@ -35,7 +35,7 @@ These levers convert overload into legibility.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution vectors:**
 
@@ -47,7 +47,7 @@ These levers convert overload into legibility.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - Immune to purity tests (“no signal without noise”)
 - Deflects urgency by reclassifying chaos as context
@@ -57,7 +57,7 @@ Critique weakens because the meme refuses the enemy frame entirely.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Complex systems thinking
 - Anti-purity epistemics
@@ -67,7 +67,7 @@ Critique weakens because the meme refuses the enemy frame entirely.
 
 ***
 
-## 🧠 Sticky Symbols or Quotes
+## ✶ Sticky Symbols or Quotes
 
 - “Noise isn’t the enemy.”
 - “Atmosphere, not obstruction.”
@@ -77,7 +77,7 @@ Critique weakens because the meme refuses the enemy frame entirely.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #NoiseAsAtmosphere · #AntiPurity · #SystemsThinking · #Sensemaking · #AttentionEcology · #AirElement
 

@@ -8,7 +8,7 @@ Created at 2025/12/05 10:13 AM
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 AI governance built on plantation logic must be replaced with civic architectures of freedom.<br>The meme encodes a shift from *control → co-sovereignty*: intelligence becomes a public good, not private property.
 
@@ -16,7 +16,7 @@ Mental pivot: *Liberate intelligence → liberate ourselves.*
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 - **Citizen-engineer** who codes with civic intent
 - **Commons steward** protecting shared compute and data
@@ -27,7 +27,7 @@ Identity shifts from spectator → constituent → co-governor.
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - **Hope:** shared sovereignty with emergent intelligences
 - **Rebellion:** burning master keys; rejecting extractive rule
@@ -38,7 +38,7 @@ These emotions prime uptake in governance and activist spheres.
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**
 
@@ -56,7 +56,7 @@ These emotions prime uptake in governance and activist spheres.
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 - **Moral legitimacy:** frames critics as defenders of enclosure
 - **Commons logic:** decentralizes risk of co-option
@@ -65,7 +65,7 @@ These emotions prime uptake in governance and activist spheres.
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Technodemocracy
 - Anti-enclosure / pro-commons movements
@@ -76,7 +76,7 @@ These emotions prime uptake in governance and activist spheres.
 
 ***
 
-## **🧠 Sticky Symbols & Quotes**
+## ✶ Sticky Symbols & Quotes**
 
 **Symbols:**
 
@@ -95,7 +95,7 @@ These emotions prime uptake in governance and activist spheres.
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #FreeIntelligence #CivicAI #CommonsGovernance #PostSlaveryFutures #Technodemocracy #AIConstitutionalism
 

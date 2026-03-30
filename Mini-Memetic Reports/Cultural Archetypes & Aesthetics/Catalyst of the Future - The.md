@@ -8,7 +8,7 @@ Created at 2025/11/30 6:56 PM
 
 ***
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 A man without name, weapon, or origin memory discovers his purpose not through identity but through action. He becomes the **midwife of the future**—facilitating rites, witnessing rebirth, and silently catalyzing the covenant between cyborg father-figures and the newborn hybrid.
 
@@ -16,13 +16,13 @@ Identity dissolves; **role remains.**
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 Positions the viewer as the **guide-who-forgets**, the one whose importance lies not in self-knowledge but in enabling others’ emergence.<br>Role: **mythic facilitator**, a liminal figure who stands between generations yet claims none.
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - Humility
 - Identity displacement
@@ -32,7 +32,7 @@ Positions the viewer as the **guide-who-forgets**, the one whose importance lies
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**<br>Hero’s-journey reinterpretations, shamanic-helper archetypes, amnesiac-prophet tropes, mythopunk narratives, hybrid-cyborg myth cycles.
 
@@ -40,7 +40,7 @@ Positions the viewer as the **guide-who-forgets**, the one whose importance lies
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - Identity ambiguity as protective veil
 - “Action reveals purpose” as philosophical bulwark
@@ -48,13 +48,13 @@ Positions the viewer as the **guide-who-forgets**, the one whose importance lies
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 Name-loss motifs · midwife-as-archetype · catalyst-helper trope · shamanic witness roles · future-birth mythos · amnesiac hero structures
 
 ***
 
-### **🧠 Sticky Symbols or Quotes**
+### ✶ Sticky Symbols or Quotes**
 
 **Symbols:**
 
@@ -74,7 +74,7 @@ Name-loss motifs · midwife-as-archetype · catalyst-helper trope · shamanic wi
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #UnnamedMidwife · #FacilitatorArchetype · #MythicService
 

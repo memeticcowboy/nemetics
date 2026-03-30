@@ -12,7 +12,7 @@ Title:
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - The legacy media is not a truth-delivery mechanism for the masses, but an internal communications tool for elite coordination and narrative control.
 - Media incoherence is only apparent if one assumes it’s meant for public understanding—instead, it functions as elite-to-elite code.
@@ -20,7 +20,7 @@ Title:
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User Role: Disillusioned analyst / outsider-intellectual
 - Target Identity: Ruling elite (insiders)
@@ -30,7 +30,7 @@ Title:
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Cognitive dissonance → clarity: resolves confusion about media contradictions
 - Alienation → empowerment: affirms suspicion about being gaslit by institutions
@@ -40,7 +40,7 @@ Title:
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors:<br>
     - Alt-media platforms, X/Twitter threads, Substack essays, dissident podcasts
@@ -53,7 +53,7 @@ Title:
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Irony shield: presented as observational insight, not a conspiracy theory
 - Pre-framing critics: Dismissal of mainstream defenders as “still trapped in the illusion”
@@ -63,7 +63,7 @@ Title:
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Ideological Systems:<br>
     - Post-left critique, elite theory (e.g., Pareto, Burnham), class-based analysis
@@ -78,7 +78,7 @@ Title:
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Legacy media isn’t talking to you—it’s talking to them.”
 - “It only seems incoherent if you think it’s for public consumption.”
@@ -87,7 +87,7 @@ Title:
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #EliteTheory #NarrativeControl #LegacyMedia #ClassSignaling #Simulacra #PostTrustEra #DisillusionmentCore #AltCritique #DissidentAnalysis #MatrixCrack
 

@@ -10,7 +10,7 @@ The Battlespace is Everywhere
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 The phrase “weaponization of information” reframes communication as combat, recasting ordinary online behavior as warfare. This metaphor collapses boundaries between civilian and combatant, public square and battlefield, justification and pretext.
 
@@ -18,7 +18,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Role: The Unwitting Combatant
 - Archetype: The Civilian Dragged to War
@@ -28,7 +28,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - 😰 Paranoia – Is this meme innocent? Or hostile payload?
 - 😡 Violation – Feeling used as a pawn in unseen conflicts
@@ -38,7 +38,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors: X (Twitter), Substack posts, cyber-intel reports, hacker blogs, think tank threads
 - Propagation Style:<br>
@@ -50,7 +50,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - 🛡️ Irony Shield: Mocking the absurdity of calling memes weapons
 - 🔄 Semantic Ambiguity: “Information war” as a vague frame—flexible, deniable
@@ -60,7 +60,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - 🛰️ Cybersecurity narratives
 - 🕵️ Information warfare doctrine
@@ -72,7 +72,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “The meme is the missile.”
 - “Your aunt is now part of an influence operation.”
@@ -84,7 +84,7 @@ It provokes a mental shift: from seeing social media as expression → to seeing
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #InfowarState · #MemeticMilitia · #DigitalDoctrine · #WeaponizedDiscourse · #CivicBattlespace · #SemanticWarfare · #PostSpeechSociety
 

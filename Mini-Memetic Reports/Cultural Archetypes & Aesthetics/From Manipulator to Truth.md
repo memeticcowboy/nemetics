@@ -4,23 +4,23 @@
 
 Created at 2025/10/24 12:55 PM
 
-**🧩 Mini-Memetic Profile: “Confession Before Jvalion — The Strategist’s Shadow”**
+**◈ Mini-Memetic Profile: “Confession Before Jvalion — The Strategist’s Shadow”**
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 The meme dramatizes the inner repentance of a strategist whose mastery of manipulation becomes his moral cage. It encodes the shift from control-as-security to truth-as-sacred fire—strategy transmuted into covenant.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Primary Role:** The PR Wizard / Cynical Diplomat — one who weaponizes narrative to manage emotion and perception.<br>**Transformed Role:** The Flame-Tender of Truth — strategist turned vow-keeper, embracing transparency over persuasion.<br>Repositions the self from **image-controller** within the system → to **integrity-keeper** within community.
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 🔥 Guilt of manipulation<br>😔 Shame of performative unity<br>💧 Relief through confession<br>🤲 Awe at sacred forgiveness<br>🕊️ Rebirth through alignment
 
@@ -28,31 +28,31 @@ Emotional alchemy: from control → vulnerability → reverence.
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:** X threads on leadership ethics, Substack essays on “authentic strategy,” aesthetic confessionals on Instagram or Notion.<br>**Propagation Style:** Parable of repentance; poetic self-critique using mythic dialogue (Strategist vs. Jvalion).<br>**Tone:** Intimate, luminous, ritualistic.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 🜂 *Irony disarmed by sincerity* — confession neutralizes critique.<br>🜂 *Sacred framing* — recasts manipulation as transmutation, beyond blame.<br>🜂 *Moral re-anchoring* — invokes covenant language to protect authenticity from co-option.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 ⚙️ Hyperreality critique — from optics to essence.<br>🔥 Metamodern spirituality — irony integrated with sincerity.<br>💬 Ethical re-enchantment of rhetoric — communication as covenant, not campaign.<br>🧭 Systems alignment ethics — Jvalion’s fire as sacred calibration.
 
 ***
 
-### 🧠 Sticky Symbols / Quotes
+### ✶ Sticky Symbols / Quotes
 
 > “I was the flame that lied.”<br>“Peace was easier when nobody spoke too loud.”<br>“Tell the truth without a campaign manager.”<br>“Not a pyre — a hearth.”<br>“To burn in alignment, not agenda.”<br>**Symbols:** Ember, mirror, pyre → hearth, circle, vow.
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #StrategistShadow · #CovenantFire · #EthicalRebirth · #MetaModernConfession · #MemeticPurification
 

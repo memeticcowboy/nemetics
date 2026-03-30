@@ -10,13 +10,13 @@ Created at 2025/09/16 10:22 PM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Consciousness is not an entity we *have*, but a recursive modelling process we *do*—a loop without a true owner.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **The Modeler**: Self becomes performer of models, not a possessor.
 - **The Defender**: Believers in enduring soul/self resist dissolution.
@@ -24,27 +24,27 @@ Consciousness is not an entity we *have*, but a recursive modelling process we *
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 😬 Unease · 🧠 Curiosity · 🌀 Disorientation · 🤔 Doubt · 👻 Haunting
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors**: Philosophy talks, consciousness studies forums, podcast debates, fringe-parapsychology circles.
 - **Propagation Style**: Recursive argumentation, haunting exclusions, paradox loops.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Recursive folding**: Every critique becomes another model in the loop.
 - **Exclusion pressure**: Paranormal “outsides” denied yet leak back in, keeping discourse unstable.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - 🤯 Predictive Processing & Bayesian Brain Theory
 - 🌀 Post-structuralist recursion (self as construct)
@@ -53,7 +53,7 @@ Consciousness is not an entity we *have*, but a recursive modelling process we *
 
 ***
 
-### 🧠 Sticky Symbols / Quotes
+### ✶ Sticky Symbols / Quotes
 
 - **“Not possessed but performed.”**
 - **“The loop is the self.”**
@@ -62,7 +62,7 @@ Consciousness is not an entity we *have*, but a recursive modelling process we *
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #ConsciousnessDebate · #RecursiveSelf · #HauntedMaterialism · #LoopLogic
 

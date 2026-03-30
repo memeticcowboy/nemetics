@@ -8,13 +8,13 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 > Humans are not just susceptible to myths — they **seek them**, hunger for them, and build identities around them.<br>This unit encodes the idea that myth is not outdated or irrational, but **fundamental to human cognition**, especially in the digital era. The craving is framed not as weakness but as an adaptive mechanism that can be hijacked.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **User as Craver** — an aware addict, subconsciously drawn to comforting stories.
 - **Meme Sharer as Seer** — someone who has “seen through the stories.”
@@ -23,7 +23,7 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - 🌀 Existential discomfort (realizing belief may be programmed)
 - 🤯 Awe (recognizing mythic structure in modern culture)
@@ -32,7 +32,7 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Instagram, X/Twitter, Threads, aesthetic philosophy meme pages, pedagogical subcultures.
 - **Propagation style:**
@@ -43,7 +43,7 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Irony Shield:** The ambiguity of “craving” diffuses direct critique; is it judgment or confession?
 - **Semantic Depth Buffer:** “Myth” resists precise definition—invites interpretation rather than rebuttal.
@@ -51,7 +51,7 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - ✝️ Religious Deconstruction & Post-Christian Critique
 - 🌀 Jungian / Archetypal Psychology
@@ -61,7 +61,7 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “The myths you crave” — the central phrase is both poetic and accusatory
 - Visual: Pink concentric target over green background (eye-catching, womb-like structure)
@@ -69,7 +69,7 @@ Created at 2025/08/17 4:53 PM
 
 ***
 
-🏷️ **Tags:**<br>`#NarrativeAddiction` `#MythCore` `#SystemicSelf` `#PostTruthEra`<br>`#DigitalPsyche` `#MetaAwakening` `#CulturalScripts` `#ArchetypeHacking`
+∿ **Tags:**<br>`#NarrativeAddiction` `#MythCore` `#SystemicSelf` `#PostTruthEra`<br>`#DigitalPsyche` `#MetaAwakening` `#CulturalScripts` `#ArchetypeHacking`
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1755474818629_c4zhf/5db49ea9-ba57-4e8d-b295-884384ce64eb.png

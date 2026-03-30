@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:48 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:48 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - “Reformed empath” frames a transformation from **overextended emotional sponge** to **boundaried, self-respecting intuitive**.
 - Converts past emotional vulnerability into a story of **awakening, discipline, and spiritual self-containment**.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:48 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Pride in Discipline:** Reclaims emotional self-respect and power.
 - **Relief from Overexposure:** Speaks to burnout from unboundaried empathy.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:48 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Empath TikTok, healing coach bios, boundary culture memes, shadow work content, trauma-informed wellness accounts.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:48 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Self-Work Immunity:** Critique deflected with “you haven’t done your boundary work yet.”
 - **Trauma Framing Shield:** Overgiving recoded as past wound, now healed.
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:48 AM
 
 ***
 
-🏷️ **Tags:**<br>#ReformedEmpath #EmpathToAlchemist #BoundariesFirst #EmotionalDiscernment #IntuitiveGlowUp #EnergeticRefinement #NoMoreAbsorbing #SovereignSensitivity #HealedNotHard #SpiritualMaturity
+∿ **Tags:**<br>#ReformedEmpath #EmpathToAlchemist #BoundariesFirst #EmotionalDiscernment #IntuitiveGlowUp #EnergeticRefinement #NoMoreAbsorbing #SovereignSensitivity #HealedNotHard #SpiritualMaturity
 

@@ -6,7 +6,7 @@ Created at 2025/12/22 4:27 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Attention is not neutral observation.<br>It is a **world-selecting force**—the primary gate through which reality is stabilized, amplified, and eventually hardened into feedback loops.
 
@@ -14,7 +14,7 @@ Attention is not neutral observation.<br>It is a **world-selecting force**—the
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 This meme recasts the individual from passive witness to unwitting architect:
 
@@ -26,7 +26,7 @@ The self is repositioned as a **node inside attention circuits**, not a sovereig
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🧠 **Cognitive self-recognition** — “Oh. That’s me.”
 - 😨 **Fear of capture** — realizing exits aren’t obvious
@@ -36,7 +36,7 @@ The unease comes from delayed recognition: the gate closed long ago.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution vectors**
 
@@ -54,7 +54,7 @@ This meme spreads where people already feel overstimulated but can’t name why.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Agency reassurance:** “I can always choose differently”
 - **Productivity reframing:** turning capture into optimization
@@ -64,7 +64,7 @@ These defenses preserve comfort while leaving the machinery intact.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Attention ecology
 - Cybernetic epistemology
@@ -76,7 +76,7 @@ This meme attaches most strongly where attention is already monetized.
 
 ***
 
-### 🧠 **Sticky Symbols & Quotes**
+### ✶ **Sticky Symbols & Quotes**
 
 - **“Attention is the gate.”**
 - **“Feedback loops form.”**
@@ -90,7 +90,7 @@ Symbolic metaphors:
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #AttentionEcology · #TheGateAndTheTrap · #FeedbackLoops · #PerceptualCapture · #CyberneticSelf · #MediaAwareness
 

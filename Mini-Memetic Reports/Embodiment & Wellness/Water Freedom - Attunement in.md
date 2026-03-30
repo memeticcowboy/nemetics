@@ -8,7 +8,7 @@ Created at 2025/12/14 12:13 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 When connection lacks attunement, relationship collapses into **conquest** (Power Over) or **fusion** (loss of self).<br>**Water Freedom names a third mode**: attunement — connection that *binds without binding*, preserving difference while creating coherence.
 
@@ -18,7 +18,7 @@ When connection lacks attunement, relationship collapses into **conquest** (Powe
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ When connection lacks attunement, relationship collapses into **conquest** (Powe
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌊 **Belonging Without Loss** — connection that doesn’t cost identity
 - 🔥💧 **Warmth Without Coercion** — safety without capture
@@ -41,7 +41,7 @@ This meme stabilizes attachment by **restoring differentiation**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme stabilizes attachment by **restoring differentiation**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Codependence Shield:** Attunement ≠ fusion
 - **Anti-Domination Guard:** Connection ≠ control
@@ -68,7 +68,7 @@ Critique must argue **why coercion or merger outperform attuned relation** — r
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Relational ethics
 - Dialogic pluralism
@@ -78,7 +78,7 @@ Critique must argue **why coercion or merger outperform attuned relation** — r
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ≈ **WATER**
 - 🌊 *Resonance*
@@ -88,7 +88,7 @@ Critique must argue **why coercion or merger outperform attuned relation** — r
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #WaterFreedom · #Attunement · #PowerWith · #RelationalEthics · #DialogicPluralism · #IFPrime
 

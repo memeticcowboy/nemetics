@@ -2,13 +2,13 @@
 
 Created at 2025/06/03 8:28 PM
 
-📌 Mini-Memetic Profile
+◈ Mini-Memetic Profile
 
 Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Feed Slowness is a memetic resistance tactic aimed at disrupting the dopamine-loop architecture of algorithmic feeds.
 - It promotes intentional drag, temporal friction, and psychic spaciousness as acts of rebellion within — or withdrawal from — hyperfast content ecosystems.
@@ -17,7 +17,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User as Signal Dissident or Cognitive Rewilders: Rebels against speed-based attention economies.
 - Target as the Infinite Feed: Especially TikTok, Instagram, Twitter/X — platforms that optimize for compulsive, low-friction consumption.
@@ -26,7 +26,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Frustration & Burnout: From sensory overload, doomscrolling, fragmentation.
 - Satisfaction through Control: The calm of unplugging, pausing, curating.
@@ -36,7 +36,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution vectors: Minimalist web circles, anti-feed manifestos, Substack essays, small-scale social collectives, permacomputing blogs.
 - Propagation style:<br>
@@ -49,7 +49,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Temporal Autonomy Shield: Critiques of irrelevance or inefficiency are re-coded as symptoms of feed addiction.
 - Non-Performance Framing: Refuses virality — even silence becomes message.
@@ -58,7 +58,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - #SlowSignal, #DigitalSabbath, #PostDigitalMythos
 - Anti-viral design theory, Permacomputing, Calm Tech
@@ -67,7 +67,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - Loading wheels as sacred mandalas
 - “Starve the feed”
@@ -78,7 +78,7 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #FeedSlowness #ScrollStrike #DigitalFriction #RewildTheUI #AlgorithmSabotage #SlowPosting #AntiViralDesign #InterfaceSkepticism #SignalPacing #CognitiveRefusal
 

@@ -8,13 +8,13 @@ Created at 2025/12/28 9:41 PM
 
 **Tagline**<br>*Not excess—range.*
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Human systems suppress amplitude—range of motion, intensity, scale of becoming—by moralizing it as danger. The fall narrative trains fear through punishment. Liberation occurs when amplitude is reclassified from *moral risk* to *structural signal*: when something breaks, it is evidence of an undersized container, not a flawed motion.
 
 **Mental shift provoked:**<br>From *“I went too far”* → *“what ceiling constrained this movement?”*
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast roles:**
 
@@ -24,7 +24,7 @@ Human systems suppress amplitude—range of motion, intensity, scale of becoming
 
 **Repositioning:**<br>The self is no longer a transgressor of norms but a diagnostic instrument revealing load limits in inherited systems.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😮‍💨 **Relief from shame** — intensity decoupled from defect
 - 🔥 **Permission to intensify** — without apology or self-editing
@@ -33,7 +33,7 @@ Human systems suppress amplitude—range of motion, intensity, scale of becoming
 
 This meme converts fear of intensity into inquiry about capacity.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -48,7 +48,7 @@ This meme converts fear of intensity into inquiry about capacity.
 - Reframes rather than confronts
 - Uses physics and kinematics instead of moral language
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Anti-moralism:** refuses virtue/vice framing
 - **Design pivot:** shifts blame from actor to container
@@ -56,7 +56,7 @@ This meme converts fear of intensity into inquiry about capacity.
 
 Critique is neutralized by refusing to debate norms at all.
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Anti-moralism, pro-dynamics
 - Systems theory & ecological scaling
@@ -65,7 +65,7 @@ Critique is neutralized by refusing to debate norms at all.
 
 Growth is not ethical or unethical—it is a physics problem.
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 - *“Amplitude isn’t arrogance. It’s information.”*
 - *“If something breaks, resize the container.”*
@@ -76,7 +76,7 @@ Growth is not ethical or unethical—it is a physics problem.
 
 These form a **kinematic vocabulary**, not metaphor alone.
 
-### 🏷️ Tags
+### ∿ Tags
 
 #Amplitude · #ForbiddenVariable · #HubrisReversal · #DegreesOfFreedom · #ResizeTheContainer · #AntiMoralism · #SystemsThinking
 

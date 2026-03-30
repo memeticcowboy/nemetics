@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 9:54 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - “Energy leak” metaphor casts **unwanted emotional expenditure** as a **subtle but dangerous loss**, usually caused by others or unresolved internal dynamics.
 - Frames **boundary violations** not as overt aggression, but as **passive, often unconscious siphoning** of personal energy.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Vulnerability:** Feeling of being “taken from” without consent or reciprocity.
 - **Violation without confrontation:** Anxiety, resentment without visible cause.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Spiritual wellness communities, energy healing circles, trauma-informed coaching, TikTok therapy and astrology accounts.
@@ -50,7 +50,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Non-confrontational Framing:** Leak talk avoids blaming but still assigns consequence.
 - **Subtle Gaslighting Defense:** “You may not mean to, but you’re draining me”—disables intent-based rebuttal.

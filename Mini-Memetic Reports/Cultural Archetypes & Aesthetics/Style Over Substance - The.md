@@ -4,18 +4,18 @@
 
 Created at 2025/08/20 5:22 PM
 
-📌 **Mini-Memetic Profile: “Style Over Substance”**
+◈ **Mini-Memetic Profile: “Style Over Substance”**
 
 ***
 
-🧠 **Core Idea Unit:**
+∴ **Core Idea Unit:**
 
 - Presentation, aesthetics, and performance matter more than actual depth, quality, or truth.
 - Reality is increasingly judged by *how it looks* rather than *what it is.*
 
 ***
 
-🎭 **Identity Play & Roles:**
+▲ **Identity Play & Roles:**
 
 - **User:** The savvy cynic or ironic performer who sees through the game but also plays it.
 - Casts self as *trend-aware trickster* or *disillusioned critic* calling out the hollow core.
@@ -23,7 +23,7 @@ Created at 2025/08/20 5:22 PM
 
 ***
 
-💥 **Emotional Triggers:**
+≈ **Emotional Triggers:**
 
 - 😏 Cynicism (mocking the hollowness).
 - 😬 Shame (fear of being all surface, no depth).
@@ -32,14 +32,14 @@ Created at 2025/08/20 5:22 PM
 
 ***
 
-📡 **Spread Mechanics:**
+𐂷 **Spread Mechanics:**
 
 - **Vectors:** Instagram aesthetics, TikTok influencers, branding discourse, fashion critique, ironic tweets.
 - **Style:** Irony, satire, aphoristic hot takes, side-by-side image contrasts (“expectation vs. reality”).
 
 ***
 
-🛡️ **Defense Reflexes:**
+⛨ **Defense Reflexes:**
 
 - Irony shield: “Obviously I know it’s shallow, that’s the point.”
 - Aesthetic absolutism: “Style *is* substance in the post-truth world.”
@@ -47,7 +47,7 @@ Created at 2025/08/20 5:22 PM
 
 ***
 
-🧬 **Memeplex Anchor Points:**
+☷ **Memeplex Anchor Points:**
 
 - 📱 Hyperreality critique (Baudrillard, spectacle culture).
 - 🕶️ Postmodernism & irony.
@@ -56,7 +56,7 @@ Created at 2025/08/20 5:22 PM
 
 ***
 
-🧠 **Sticky Symbols or Quotes:**
+✶ **Sticky Symbols or Quotes:**
 
 - “All vibes, no core.”
 - “Pretty lies beat ugly truths.”
@@ -65,7 +65,7 @@ Created at 2025/08/20 5:22 PM
 
 ***
 
-🏷️ **Tags:**<br>#VibeEconomy · #AestheticCapitalism · #SurfaceCulture · #CloutChasing · #Hyperreal
+∿ **Tags:**<br>#VibeEconomy · #AestheticCapitalism · #SurfaceCulture · #CloutChasing · #Hyperreal
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1755735704477_c4zhf/045d74a1-c3cf-4ea7-8ab6-ca000f20b150.png

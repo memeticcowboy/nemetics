@@ -4,18 +4,18 @@
 
 Created at 2025/09/14 12:49 PM
 
-🧠 **Core Idea Unit:**<br>Groypers embody a weaponized subculture where irony, trolling, and pseudo-ironic Pepe mutations mask ideological radicalization. The “chubby frog” image functions as both shield and banner for a loosely networked digital insurgency.
+∴ **Core Idea Unit:**<br>Groypers embody a weaponized subculture where irony, trolling, and pseudo-ironic Pepe mutations mask ideological radicalization. The “chubby frog” image functions as both shield and banner for a loosely networked digital insurgency.
 
 ***
 
-🎭 **Identity Play & Roles:**
+▲ **Identity Play & Roles:**
 
 - **Role Cast:** The Outsider-Warrior-Clown
 - **Positioning:** Frames adherents as “true conservatives” fighting corrupt mainstream institutions. By deploying meme irony, they position themselves as playful rebels while enforcing rigid ideological orthodoxy.
 
 ***
 
-💥 **Emotional Triggers:**
+≈ **Emotional Triggers:**
 
 - 😡 Outrage at perceived betrayal of conservatism
 - 🤪 Humor and irony for cover + bonding
@@ -24,14 +24,14 @@ Created at 2025/09/14 12:49 PM
 
 ***
 
-📡 **Spread Mechanics:**
+𐂷 **Spread Mechanics:**
 
 - **Distribution Vectors:** Twitter/X, Telegram, YouTube ambushes (“Groyper Wars”), meme forums.
 - **Propagation Style:** Trolling, coordinated disruption of events, irony-laden propaganda, performative virality.
 
 ***
 
-🛡️ **Defense Reflexes:**
+⛨ **Defense Reflexes:**
 
 - **Irony Shield:** “It’s just a meme” dismisses critique.
 - **Purity Frame:** Attack mainstream conservatives as “fake,” redirecting critique outward.
@@ -39,7 +39,7 @@ Created at 2025/09/14 12:49 PM
 
 ***
 
-🧬 **Memeplex Anchor Points:**
+☷ **Memeplex Anchor Points:**
 
 - 📱 Internet Troll Culture
 - 🐸 Pepe the Frog → mutated form
@@ -49,7 +49,7 @@ Created at 2025/09/14 12:49 PM
 
 ***
 
-🧠 **Sticky Symbols or Quotes:**
+✶ **Sticky Symbols or Quotes:**
 
 - The “chubby frog” Groyper image
 - “Groyper War” as event-branding
@@ -58,7 +58,7 @@ Created at 2025/09/14 12:49 PM
 
 ***
 
-🏷️ **Tags:**<br>#MemeMilitia · #CultureWar · #AltRightMutation · #IronyShield
+∿ **Tags:**<br>#MemeMilitia · #CultureWar · #AltRightMutation · #IronyShield
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1757879331819_c4zhf/44851f32-5d76-4d65-ae65-afa2ff5795e7.png

@@ -8,15 +8,15 @@ Created at 2025/12/29 12:49 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 After hierarchy dissolves, freedom and responsibility converge. The subject becomes accountable not to rules, but to the skies they help create for others.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The Open-Sky Author<br>The subject assumes creative sovereignty while holding ethical responsibility for downstream effects.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Freedom with weight
 - Responsibility without obedience
@@ -25,7 +25,7 @@ After hierarchy dissolves, freedom and responsibility converge. The subject beco
 
 These emotions mature agency beyond rebellion.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -35,23 +35,23 @@ These emotions mature agency beyond rebellion.
 
 **Propagation Style:**<br>Invitational futures, shared authorship framing, quiet resolve.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Ethics as practice, not rule
 - Responsibility without control
 - Care without containment
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Post-hierarchical ethics
 - World-weaving
 - Future stewardship
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 Open sky · authorship · responsibility · future fliers
 
-🏷️ **Tags:** #OpenSkyAuthorship · #WorldWeaving · #EthicalFreedom · #FutureStewardship
+∿ **Tags:** #OpenSkyAuthorship · #WorldWeaving · #EthicalFreedom · #FutureStewardship
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767041392381_c4zhf/3e3a4476-ebf8-44c7-8179-e10e6bff3597.png

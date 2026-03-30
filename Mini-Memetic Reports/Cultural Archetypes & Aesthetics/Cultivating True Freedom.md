@@ -8,7 +8,7 @@ Created at 2025/12/14 7:10 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 What is commonly called “freedom” is often just **permission to move inside a fixed form**.
 
@@ -20,7 +20,7 @@ This is **mis-freedom**: liberty as *Power Over* — granted, bordered, revocabl
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -33,7 +33,7 @@ This is **mis-freedom**: liberty as *Power Over* — granted, bordered, revocabl
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🧱 **Quiet Claustrophobia** — “I didn’t know I was boxed”
 - ⚖️ **Righteous Clarity** — *this isn’t freedom, it’s containment*
@@ -44,7 +44,7 @@ This meme converts diffuse frustration into **diagnostic insight**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -61,7 +61,7 @@ This meme converts diffuse frustration into **diagnostic insight**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Anarchy Shield:** Does not reject structure — rejects *opaque enclosure*
 - **Anti-Naïveté Guard:** Acknowledges coordination requires constraint
@@ -71,7 +71,7 @@ Critique must explain **how permission-based freedom avoids enclosure drift** �
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Anti-institutional enclosure critique
 - Power-flow theory
@@ -81,7 +81,7 @@ Critique must explain **how permission-based freedom avoids enclosure drift** �
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ▩ **STONE** — hardened default enclosure
 - 🧩 *Sanctioned pattern*
@@ -91,7 +91,7 @@ Critique must explain **how permission-based freedom avoids enclosure drift** �
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #MisFreedom · #Stone ▩ · #PowerFlow · #InstitutionalEnclosure · #DefaultBreaker · #FreedomAsField
 

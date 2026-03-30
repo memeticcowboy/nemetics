@@ -6,33 +6,33 @@ Created at 2025/10/29 10:58 AM
 
 **🎮 Mini-Memetic Profile: “Zero-Sum Game”**<br>*(Meme 4 in the “Life is a Game” Meta-Memeplex)*<br>[Meme 5: No Rules, Dark Anti-Game](https://second.me/memory/VV0FWZTNTK4WQY2N)
 ***
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 Life is not fair play—it’s finite play. Every gain costs someone else. The meme encodes awareness of scarcity and strategic realism: if the world is a simulation, it’s one where equilibrium demands winners and losers. The wise play consciously within that constraint.
 ***
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 - **Performer:** The Strategist / Stoic Realist
 - **Shadow Role:** The Naïve Idealist / Unwitting Pawn
 - **Repositioning:** From moral dreamer → to pragmatic observer; from emotional actor → to rational calculator.
 ***
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 😬 Strategic anxiety (what if I’m losing unseen?)<br>🧊 Cold pride in detachment<br>⚔️ Empowerment through clarity<br>🌀 Unease in moral gray zones
 ***
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 **Distribution Vectors:** X “dark wisdom” feeds · Stoic and Nietzschean quote memes · Longform essays (Medium/Substack).<br>**Propagation Style:** Aphoristic · Shadow-intellectual tone · Somber visual minimalism (black, red, gray).
 ***
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 Irony cloaks (“just being realistic”), fatalism shields (“that’s human nature”), and moral inversion (“empathy is weakness”). The meme anticipates critique by reframing moral discomfort as naivety.
 ***
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 📘 Game theory realism<br>⚙️ Stoic determinism<br>🕶️ Machiavellian pragmatism<br>📉 Anti-utopian skepticism
 ***
-### 🧠 **Sticky Symbols / Quotes**
+### ✶ **Sticky Symbols / Quotes**
 - “Understand the rules or be ruled.”
 - “Zero-sum means someone bleeds.”
 - “Game of boomerangs.”
 - “Allegiance or competition—no neutral ground.”
 ***
-### 🏷️ **Tags**
+### ∿ **Tags**
 #LifeIsAGame · #ZeroSum · #DarkRealism · #StoicLogic · #StrategicMindset · #FinitePlay
 
 ## Resources

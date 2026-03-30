@@ -6,33 +6,33 @@ Created at 2025/10/29 10:46 AM
 
 **🎮 Mini-Memetic Profile: “Player or Played”**<br>*(Meme 1 in the “Life is a Game” Meta-Memeplex)*<br>*[Meme 2: Choose Your Game](https://second.me/memory/CGM6M23AQNOCLYVG)*
 ***
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 Life is a competitive simulation. You either act as the *Player*—strategic, self-directed—or as the *Played*—a pawn in someone else’s system. The meme encodes the belief that awareness equals control, and control equals worth.
 ***
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 - **Performer:** The Strategist / The Self-Made Player
 - **Shadow Role:** The NPC / The Unconscious Pawn
 - **Repositioning:** From victim of circumstance → to agent of your own game narrative.<br>The self is reframed as a gamer optimizing moves within a cosmic leaderboard.
 ***
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 🔥 Empowerment through self-determination<br>😨 Fear of manipulation or irrelevance<br>💪 Drive for mastery, dominance, and recognition<br>🧊 Cool detachment masking insecurity about control
 ***
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 **Distribution Vectors:** Instagram Reels, TikTok edits, “hustle” X threads, gym and crypto subcultures.<br>**Propagation Style:** Motivational aphorism · Hyper-masculine satire · Binary framing · Shock-clarity tone.
 ***
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 Irony armor (“it’s just mindset talk”), success-proof (“it worked for me”), and moral inversion (“weakness is victimhood”). Critique is dismissed as cope or NPC behavior.
 ***
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 📈 Neoliberal individualism<br>🎮 Game theory & simulationism<br>💼 Hustle culture mythology<br>🧩 Red-pill agency and self-optimization narratives
 ***
-### 🧠 **Sticky Symbols / Quotes**
+### ✶ **Sticky Symbols / Quotes**
 - “Be a player or be played.”
 - “Main character energy.”
 - “Life’s a simulation—learn the rules.”
 - “Level up or log out.”
 ***
-### 🏷️ **Tags**
+### ∿ **Tags**
 #LifeIsAGame · #SigmaGrindset · #NPCTheory · #AgencyMyth · #MindsetMeme · #HyperrealityHustle
 
 ## Resources

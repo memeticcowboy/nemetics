@@ -4,13 +4,13 @@
 
 Created at 2025/09/05 1:38 PM
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 WIIFM reframes systemic or organizational benefits into *personal gains*. It functions as a motivational filter: *“Don’t tell me what’s good for the system—tell me how it helps me.”*
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **Individual:** Self-focused beneficiary, asking “what do *I* get?”
 - **Manager/Marketer:** Translator of system gains into personal language.
@@ -18,7 +18,7 @@ WIIFM reframes systemic or organizational benefits into *personal gains*. It fun
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Relief (less stress, less work).
 - Security (job stability, career growth).
@@ -27,14 +27,14 @@ WIIFM reframes systemic or organizational benefits into *personal gains*. It fun
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:** Corporate change memos, sales pitches, training modules.
 - **Propagation Style:** Pragmatic persuasion—WIIFM spreads by showing *tangible gains*.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Hard to dismiss because it personalizes value.
 - Critique is muted by its obvious logic (“people care about themselves”).
@@ -42,7 +42,7 @@ WIIFM reframes systemic or organizational benefits into *personal gains*. It fun
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - 🏢 Organizational change & adoption theory.
 - 📈 Marketing/consumer psychology.
@@ -51,7 +51,7 @@ WIIFM reframes systemic or organizational benefits into *personal gains*. It fun
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 - “What’s In It For Me?”
 - “Translate benefits into personal wins.”
@@ -64,7 +64,7 @@ WIIFM reframes systemic or organizational benefits into *personal gains*. It fun
 
 WIIFM is a **pragmatic engagement meme**: it survives because it makes abstract goals relatable by mapping them directly onto self-interest. It thrives at the intersection of organizational need and individual motivation, but overuse risks turning collective meaning into a marketplace of private gains.
 
-🏷️ **Tags:** #WIIFM #SelfInterestMeme #ChangeManagement #IncentiveLogic #EngagementHack
+∿ **Tags:** #WIIFM #SelfInterestMeme #ChangeManagement #IncentiveLogic #EngagementHack
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1757104688177_c4zhf/392e480c-1ec2-470f-930e-f3acbe5874d6.png

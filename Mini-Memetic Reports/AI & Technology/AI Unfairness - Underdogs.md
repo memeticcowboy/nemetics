@@ -4,17 +4,17 @@
 
 Created at 2025/09/04 7:37 PM
 
-🧩 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 **Title:**
 
 AI Unfairness: The Underdog Revolution Meme
 
-🧠 **Core Idea Unit**
+∴ **Core Idea Unit**
 
 AI’s “unfairness” is recoded as **justice-by-reversal**: it disrupts entrenched privilege, flipping exclusion into advantage for outsiders. The very bias critics fear becomes the weapon of the underdog.
 
-🎭 **Identity Play & Roles**
+▲ **Identity Play & Roles**
 
 	•	User = **outsider/peasant/nobody/rebel** rising.
 
@@ -22,13 +22,13 @@ AI’s “unfairness” is recoded as **justice-by-reversal**: it disrupts entr
 
 	•	Dramatic inversion: the overlooked become protagonists, authorities cast as villains.
 
-💥 **Emotional Triggers**
+≈ **Emotional Triggers**
 
 Vindication · Pride · Hope · Rebellion · Ironic joy.
 
 Communal thrill in watching gatekeepers fall, paired with anticipation of “unfairness in our favor.”
 
-📡 **Spread Mechanics**
+𐂷 **Spread Mechanics**
 
 	•	**Vectors:** X, Reddit, TikTok, Instagram.
 
@@ -36,7 +36,7 @@ Communal thrill in watching gatekeepers fall, paired with anticipation of “unf
 
 	•	**Dynamics:** Quote-tweets, viral hashtags, image macros with triumphal or mocking captions.
 
-🛡️ **Defense Reflexes**
+⛨ **Defense Reflexes**
 
 	•	Preemptive irony: “Yes, unfair—and that’s good.”
 
@@ -44,7 +44,7 @@ Communal thrill in watching gatekeepers fall, paired with anticipation of “unf
 
 	•	Moral framing: justice for those historically excluded.
 
-🧬 **Memeplex Anchor Points**
+☷ **Memeplex Anchor Points**
 
 	•	Tech democratization
 
@@ -54,7 +54,7 @@ Communal thrill in watching gatekeepers fall, paired with anticipation of “unf
 
 	•	Underdog justice myths
 
-🧠 **Sticky Symbols or Quotes**
+✶ **Sticky Symbols or Quotes**
 
 	•	“Unfair in our favor.”
 
@@ -64,7 +64,7 @@ Communal thrill in watching gatekeepers fall, paired with anticipation of “unf
 
 	•	Hashtags: #AIRevolution #Underdogs #GatekeeperFall #UnlockTheHoard
 
-🏷️ **Tags**
+∿ **Tags**
 
 #TechPopulism #MemeticJustice #AI #Underdogs
 

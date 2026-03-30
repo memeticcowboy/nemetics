@@ -8,13 +8,13 @@ Created at 2025/10/26 8:44 PM
 
 ***
 
-### 🧠 **Core Idea Unit:**
+### ∴ **Core Idea Unit:**
 
 The harbor bleeds because we cannot stop connecting. In an age of saturated empathy and overstimulated circuits, **stillness becomes unbearable and sacred**. The blood-red sea reflects not wrath, but rot — not punishment, but *mirror*.
 
 ***
 
-### 🎭 **Identity Play & Roles:**
+### ▲ **Identity Play & Roles:**
 
 - **Witness-Pilgrim** — not to cleanse, but to *see*
 - **Cowboy-as-Penitent** — masculine agency in collapse
@@ -25,7 +25,7 @@ Repositioning: From hero to hospice worker of the Anthropocene
 
 ***
 
-### 💥 **Emotional Triggers:**
+### ≈ **Emotional Triggers:**
 
 - 🩸 **Sublime Dread** — beauty in irreversible collapse
 - 😔 **Reverent Melancholy** — grief as meaning-generator
@@ -34,7 +34,7 @@ Repositioning: From hero to hospice worker of the Anthropocene
 
 ***
 
-### 📡 **Spread Mechanics:**
+### 𐂷 **Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Eco-poetic visual zines
@@ -48,7 +48,7 @@ Repositioning: From hero to hospice worker of the Anthropocene
 
 ***
 
-### 🛡️ **Defense Reflexes:**
+### ⛨ **Defense Reflexes:**
 
 - **Mythic Frame** — not predictive, but reflective
 - **Emotional Shield** — too melancholic for ridicule
@@ -57,7 +57,7 @@ Repositioning: From hero to hospice worker of the Anthropocene
 
 ***
 
-### 🧬 **Memeplex Anchor Points:**
+### ☷ **Memeplex Anchor Points:**
 
 - 🪦 Eco-grief / Solastalgia
 - 💔 Empathic collapse as collective shadow
@@ -67,7 +67,7 @@ Repositioning: From hero to hospice worker of the Anthropocene
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes:**
+### ✶ **Sticky Symbols or Quotes:**
 
 - “The sea below bled red.”
 - “Salt gone sour.”
@@ -79,7 +79,7 @@ Repositioning: From hero to hospice worker of the Anthropocene
 
 ***
 
-### 🏷️ **Tags:**
+### ∿ **Tags:**
 
 #BloodHarbor · #EcoGrief · #EmpathyCollapse · #SublimeDread · #MourningTheAnthropocene · #PostHope · #WitnessPilgrim
 

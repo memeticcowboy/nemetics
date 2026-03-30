@@ -6,24 +6,24 @@ Created at 2026/01/05 10:26 AM
 
 ## **Integration as Restored Circulation (Not Approval)**
 
-**🧠 Core Idea Unit**<br>Integration does not mean endorsement. Restoring movement prevents hijack without moral absolution.
+∴ Core Idea Unit**<br>Integration does not mean endorsement. Restoring movement prevents hijack without moral absolution.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *circulation steward*. Agency without self-exoneration.
+▲ Identity Play & Roles**<br>Casts the viewer as a *circulation steward*. Agency without self-exoneration.
 
-**💥 Emotional Triggers**<br>🌱 Practical hope · 😌 Fear reduction · 🧭 Grounded agency
+≈ Emotional Triggers**<br>🌱 Practical hope · 😌 Fear reduction · 🧭 Grounded agency
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Governance analysis, facilitation frameworks
 - **Style:** Ecological, procedural, non-moral
 
-**🛡️ Defense Reflexes**<br>Prevents capture by clearly separating movement from permission.
+⛨ Defense Reflexes**<br>Prevents capture by clearly separating movement from permission.
 
-**🧬 Memeplex Anchor Points**<br>Ecological ethics · Metabolism over purity · Anti-cancel logic
+☷ Memeplex Anchor Points**<br>Ecological ethics · Metabolism over purity · Anti-cancel logic
 
-**🧠 Sticky Phrases / Symbols**<br>“Restored circulation” · “Not approval” · “Recombination”
+✶ Sticky Phrases / Symbols**<br>“Restored circulation” · “Not approval” · “Recombination”
 
-**🏷️ Tags**<br>#Integration · #Circulation · #EcologicalEthics
+∿ Tags**<br>#Integration · #Circulation · #EcologicalEthics
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767637594324_c4zhf/d6c44a11-8d7b-4b89-8dda-abfdff96541c.png

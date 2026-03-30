@@ -6,36 +6,36 @@ Created at 2025/11/14 9:47 AM
 
 ### 🧩 **Title: AI Is a Surveillance Infrastructure**
 
-### 🧠 **Core Idea Unit:**
+### ∴ **Core Idea Unit:**
 
 A structural reframing: *AI doesn’t automate creativity — it automates control.*<br>The meme asserts that AI, when built atop surveillance-capitalist incentives, becomes a **behavior-shaping infrastructure** that threatens democratic agency more than labor markets or creativity.<br>Shift: from “AI as tool/model” to **AI as power architecture.**
 
-### 🎭 **Identity Play & Roles:**
+### ▲ **Identity Play & Roles:**
 
 Positions the user as the **autonomy guardian** — someone defending emotional and political selfhood against invisible shaping forces.<br>Identity becomes:<br>**the one who can feel the water while seeing the pipes.**
 
 It casts corporations as data-extractors, governments as tempted overseers, and citizens as bodies wrapped in algorithmic lattices.
 
-### 💥 **Emotional Triggers:**
+### ≈ **Emotional Triggers:**
 
 🌊 Emotional autonomy anxiety<br>🧊 Quiet dread of being tracked, shaped, nudged<br>🔗 Structural entanglement<br>🛡️ Democratic vigilance<br>⚙️ Metal clarity: cold realization of systemic capture
 
 Water–Metal: fluid vulnerability + hard systemic critique.
 
-### 📡 **Spread Mechanics:**
+### 𐂷 **Spread Mechanics:**
 
 **Distribution Vectors:**<br>Digital rights advocacy · democratic theory discourse · academic privacy circles · labor-safety unions · encryption organizations · investigative journalism · Global South data sovereignty movements.
 
 **Propagation Style:**<br>Lattice metaphors · entangled silhouettes · black-box diagrams · dark-mode transparency warnings · “invisible architecture” aesthetics.
 
-### 🛡️ **Defense Reflexes:**
+### ⛨ **Defense Reflexes:**
 
 - Shifts debate from “privacy preferences” to **democratic risk**, making counterarguments seem irresponsible.
 - Frames surveillance not as misuse but as **structural inevitability** under current incentives.
 - Reinterprets claims of “harmless personalization” as **behavioral manipulation**, reversing the burden of proof.
 - When accused of exaggeration, points to historical precedents: Facebook political microtargeting, TikTok data flows, workplace surveillance AI.
 
-### 🧬 **Memeplex Anchor Points:**
+### ☷ **Memeplex Anchor Points:**
 
 - **Surveillance capitalism** (Zuboff’s framework)
 - **Epistemic commons erosion** (information control undermines public reasoning)
@@ -46,13 +46,13 @@ Water–Metal: fluid vulnerability + hard systemic critique.
 
 The meme fuses AI discourse with political theory, shifting the problem space from “alignment” to **governance and autonomy**.
 
-### 🧠 **Sticky Symbols / Quotes:**
+### ✶ **Sticky Symbols / Quotes:**
 
 **Symbols:**<br>• Neural-network lattice wrapped around a human silhouette<br>• Data streams constricting like digital vines<br>• Eyes embedded in circuit traces<br>• Shadowy interface prompts shaping choices<br>• Transparent cube around a person with algorithmic glyphs flickering
 
 **Sticky Phrases:**<br>• “AI doesn’t replace humans — it replaces democracy.”<br>• “Surveillance is not a feature. It’s the business model.”<br>• “Prediction is power.”<br>• “Your data builds your cage.”<br>• “What they measure, they govern.”
 
-### 🏷️ **Tags:**
+### ∿ **Tags:**
 
 #AIDemocracyCrisis · #SurveillanceInfrastructure · #WaterMetal · #AutonomyUnderExtraction · #DataPower
 

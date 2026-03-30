@@ -4,11 +4,11 @@
 
 Created at 2025/12/20 2:00 PM
 
-## 🧩 Mini-Memetic Profile — **Beauty Because Broken**
+## ◈ Mini-Memetic Profile — **Beauty Because Broken**
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Worth is commonly equated with intactness, success, or optimization.<br>Reframed, beauty emerges **because of fracture**—breakage allows truth, history, and care to become visible. What survives is not purity, but **honesty**.
 
@@ -16,7 +16,7 @@ Worth is commonly equated with intactness, success, or optimization.<br>Reframed
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Witness** — sees clearly without needing repair
 - **Survivor** — releases the fantasy of restoration
@@ -26,7 +26,7 @@ The meme repositions the self from *aspiring to wholeness* to **honoring what sh
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🕊️ Catharsis without triumph
 - 🧠 Acceptance without repair fantasy
@@ -37,7 +37,7 @@ These emotions permit rest without denial.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -55,7 +55,7 @@ These emotions permit rest without denial.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Anti-redemption stance:** No promise of fixing or return
 - **Aesthetic restraint:** Beauty is observed, not celebrated
@@ -65,7 +65,7 @@ Critique that demands improvement finds no purchase.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Anti-perfectionism
 - Ethics of witness
@@ -75,7 +75,7 @@ Critique that demands improvement finds no purchase.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Broken city
 - Light through cracks
@@ -85,7 +85,7 @@ Critique that demands improvement finds no purchase.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #BeautyBecauseBroken · #AntiPerfectionism · #WitnessEthics · #AftermathAesthetic · #NoRepairFantasy · #QuietCatharsis
 

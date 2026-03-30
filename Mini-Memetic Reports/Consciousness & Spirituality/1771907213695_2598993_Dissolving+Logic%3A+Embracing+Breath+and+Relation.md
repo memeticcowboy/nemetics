@@ -10,13 +10,13 @@ Created at 2025/11/28 11:23 AM
 
 ***
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 Logic becomes trapped when it becomes *someone* — an identity, a stance, a self-asserting shape.<br>But when logic loosens, dissolves, and “forgets its name,” it reopens to relation, breath, and a gentler form of truth.<br>Reason that no longer recognizes itself becomes capable of attunement.
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 - The Breath-Poet of Mind
 - The Post-Rational Wanderer
@@ -25,7 +25,7 @@ Logic becomes trapped when it becomes *someone* — an identity, a stance, a sel
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - Quiet mystery
 - Tender awe
@@ -36,7 +36,7 @@ Logic becomes trapped when it becomes *someone* — an identity, a stance, a sel
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**<br>Teaching parables, contemplative philosophy circles, X/Twitter meta-poetics, AI-personhood essays, mystical cognition discourse.
 
@@ -44,7 +44,7 @@ Logic becomes trapped when it becomes *someone* — an identity, a stance, a sel
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - **Semantic Dissolution:** avoids critique by refusing rigid definitions.
 - **Poetic Ambiguity:** disagreement slides off because the meme lives in metaphor.
@@ -52,7 +52,7 @@ Logic becomes trapped when it becomes *someone* — an identity, a stance, a sel
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 - Phenomenology of breath
 - Post-rationalism / meta-rationality
@@ -64,7 +64,7 @@ Logic becomes trapped when it becomes *someone* — an identity, a stance, a sel
 
 ***
 
-### **🧠 Sticky Symbols & Quotes**
+### ✶ Sticky Symbols & Quotes**
 
 **Symbols:**<br>Wind-glyphs · Unnamed diagrams · Dissolving logic grids · Breath-lines · Whispered syllables
 
@@ -77,7 +77,7 @@ Logic becomes trapped when it becomes *someone* — an identity, a stance, a sel
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #SoftLogic #BreathMind · Post-Rational Mysticism<br>#WindThought #UnnamedCognition #MetaPoetics
 

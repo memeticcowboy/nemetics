@@ -6,24 +6,24 @@ Created at 2026/01/05 10:15 AM
 
 ## **VOID as Anti-Ceiling Ecology**
 
-**🧠 Core Idea Unit**<br>Meaning collapses when sealed. VOID preserves revisability by refusing final states.
+∴ Core Idea Unit**<br>Meaning collapses when sealed. VOID preserves revisability by refusing final states.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *tracker*, not a climber. Movement without destiny.
+▲ Identity Play & Roles**<br>Casts the viewer as a *tracker*, not a climber. Movement without destiny.
 
-**💥 Emotional Triggers**<br>🌌 Spaciousness · 😌 Anti-finality relief · 🧭 Quiet confidence
+≈ Emotional Triggers**<br>🌌 Spaciousness · 😌 Anti-finality relief · 🧭 Quiet confidence
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Mythic essays, memetic design
 - **Style:** Sparse, anti-teleological
 
-**🛡️ Defense Reflexes**<br>Avoids doctrine by remaining subtractive.
+⛨ Defense Reflexes**<br>Avoids doctrine by remaining subtractive.
 
-**🧬 Memeplex Anchor Points**<br>Open-ended coherence · Anti-fall narratives · Process cosmology
+☷ Memeplex Anchor Points**<br>Open-ended coherence · Anti-fall narratives · Process cosmology
 
-**🧠 Sticky Phrases / Symbols**<br>“No ceilings from clouds” · “Tracks, not fences” · “VOID”
+✶ Sticky Phrases / Symbols**<br>“No ceilings from clouds” · “Tracks, not fences” · “VOID”
 
-**🏷️ Tags**<br>#VOID · #Revisability · #AntiTeleology
+∿ Tags**<br>#VOID · #Revisability · #AntiTeleology
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767636910094_c4zhf/099b9a17-41d2-4bc1-9273-a54719191ef6.png

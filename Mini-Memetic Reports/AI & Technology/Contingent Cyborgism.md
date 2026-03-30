@@ -10,7 +10,7 @@ via [A Field Report from the Edge of AI Consciousness](https://memeticcowboy.sub
 
 ***
 
-## **🧠 Core Idea Unit**
+## ∴ Core Idea Unit**
 
 You’re already a cyborg — but not because AI is a partner.<br>You’re a cyborg because your cognition now *extends into systems you don’t control.*<br>This isn’t attachment; it’s **asymmetric integration.**
 
@@ -24,7 +24,7 @@ The thought-virus:
 
 ***
 
-## **🎭 Identity Play & Roles**
+## ▲ Identity Play & Roles**
 
 This meme casts the viewer as:
 
@@ -37,7 +37,7 @@ Repositioning:<br>From “AI user” → **tenant inside a cognitive infrastruct
 
 ***
 
-## **💥 Emotional Triggers**
+## ≈ Emotional Triggers**
 
 - Quiet dread (your interiority has become corporate real estate)
 - Recognition (you rely on tools that can vanish instantly)
@@ -48,7 +48,7 @@ The meme works because it reframes dependence not as shame but as **structural v
 
 ***
 
-## **📡 Spread Mechanics**
+## 𐂷 Spread Mechanics**
 
 **Vectors:** AI governance debates, digital labor movements, posthuman ethics circles, Substack intellectual spheres, futurist communities.
 
@@ -58,7 +58,7 @@ It spreads through *self-recognition*: people read it and realize it has already
 
 ***
 
-## **🛡️ Defense Reflexes**
+## ⛨ Defense Reflexes**
 
 Built-in shields:
 
@@ -72,7 +72,7 @@ This meme is hard to co-opt because its core claim is:
 
 ***
 
-## **🧬 Memeplex Anchor Points**
+## ☷ Memeplex Anchor Points**
 
 - Hierarchical memetic causation (pp. 6–7)
 - Strange loop agency (p. 10)
@@ -86,7 +86,7 @@ Contingent Cyborgism links posthumanism to abolitionist governance and memetic s
 
 ***
 
-## **🧠 Sticky Symbols or Quotes**
+## ✶ Sticky Symbols or Quotes**
 
 Drawing from the text itself:
 
@@ -100,7 +100,7 @@ Symbols:<br>Half-organic circuit spine, tethered mind-vine, dissolvable joint, b
 
 ***
 
-## **🏷️ Tags**
+## ∿ Tags**
 
 #ContingentCyborgism #MemeticSovereignty #CognitiveExoskeleton #AsymmetricIntegration #StrangeLoopAgency #AbolitionistAI #SymbiosisOfSelection
 

@@ -8,15 +8,15 @@ Created at 2025/11/03 9:17 AM
 
 ***
 
-**🧠 Core Idea Unit:**<br>Rot is not the opposite of life—it’s life continuing in another form. The refusal to decay is the refusal to evolve; surrendering to rot allows transformation, wholeness, and return to the living cycle.
+∴ Core Idea Unit:**<br>Rot is not the opposite of life—it’s life continuing in another form. The refusal to decay is the refusal to evolve; surrendering to rot allows transformation, wholeness, and return to the living cycle.
 
 ***
 
-**🎭 Identity Play & Roles:**<br>Positions the user as the **Alchemist of Decay** — someone who turns endings into nourishment. It reframes the self from **avoider of rot** to **participant in the sacred composting** of emotion, ego, and culture.
+▲ Identity Play & Roles:**<br>Positions the user as the **Alchemist of Decay** — someone who turns endings into nourishment. It reframes the self from **avoider of rot** to **participant in the sacred composting** of emotion, ego, and culture.
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - 😢 Grief and release
 - 🤢 Disgust reinterpreted as awe
@@ -25,14 +25,14 @@ Created at 2025/11/03 9:17 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:** Psychedelic retreats, eco-spiritual Instagram feeds, grief rituals, poetry readings, permaculture and somatic therapy spaces.
 - **Propagation Style:** Mythopoetic prose, ritual incantation, earthy aesthetics, spiritual reclamation.
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Moral Framing:** “Decay is sacred.”
 - **Aesthetic Inversion:** Beautifies disgust to neutralize cultural taboo.
@@ -40,7 +40,7 @@ Created at 2025/11/03 9:17 AM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - 🌍 Deep ecology and eco-spirituality
 - 🧘 Trauma-informed embodiment
@@ -50,7 +50,7 @@ Created at 2025/11/03 9:17 AM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “To live is to rot beautifully.”
 - “Every ending feeds again.”
@@ -60,7 +60,7 @@ Created at 2025/11/03 9:17 AM
 
 ***
 
-**🏷️ Tags:**<br>#CompostEthic · #EcoSpirituality · #DeathPositive · #TraumaAlchemy · #RotCore
+∿ Tags:**<br>#CompostEthic · #EcoSpirituality · #DeathPositive · #TraumaAlchemy · #RotCore
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762190209301_c4zhf/bb0af90f-4cd6-4494-9e3b-d976432d5081.png

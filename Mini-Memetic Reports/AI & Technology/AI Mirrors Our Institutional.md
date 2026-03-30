@@ -29,7 +29,7 @@ The real failure is not technological rebellion, but **unexamined inheritance**.
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>AI reproduces the structures it is trained within; it does not invent them.
 
@@ -39,7 +39,7 @@ The meme reframes AI harm as **legacy debt**, not novelty.
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **AI Builders / Critics / Social Theorists**
 
@@ -53,7 +53,7 @@ The meme invites tragic clarity rather than outrage.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 😮‍💨 **Deflation** — scapegoating loses force
 - 🪞 **Recognition** — “this looks familiar because it is”
@@ -64,7 +64,7 @@ The meme invites tragic clarity rather than outrage.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Inheritance framing** — harm traced through lineage, not intent
 - **Mirror metaphor** — critique without demonization
@@ -75,7 +75,7 @@ The meme resists capture by refusing both tech utopianism and tech doom.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - MemeGrid dynamics
 - Institutional inheritance
@@ -88,7 +88,7 @@ This meme integrates cleanly with AI ethics debates that focus on data provenanc
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Inheritance**
 - **Trapped mirrors**
@@ -100,7 +100,7 @@ These function as reframing anchors rather than accusations.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #MemeGrid · #StructuralInheritance · #AIandSociety · #AntiScapegoating · #SystemsCritique · #EpistemicEcology
 

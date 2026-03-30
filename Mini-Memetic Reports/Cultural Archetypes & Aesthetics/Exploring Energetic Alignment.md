@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 10:25 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - “Energetic alignment” presents interpersonal connection as a matter of **vibrational compatibility**, not shared values, communication, or effort.
 - Frames relationships (romantic, platonic, professional) as either **in alignment** or **out of resonance**—with no need for justification beyond felt energetic mismatch.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Empowerment through Intuition:** Validates deep personal knowing over social obligation or logic.
 - **Fear of Misattunement:** Suggests that misalignment leads to stagnation, drain, or emotional compromise.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Spiritual influencer content, dating advice reels, empath and manifestation pages, therapy-inflected content about “safe people” or “soul contracts.”
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Unassailable Subjectivity:** Misalignment is felt, not argued—invalidates counterpoints.
 - **Non-confrontation Logic:** Disengagement framed not as rejection but misresonance.
@@ -77,5 +77,5 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-🏷️ **Tags:**<br>#EnergeticAlignment #SoulResonance #VibeFiltering #RelationalIntuition #CosmicCompatibility #AlignmentOverAttachment #FrequencyFit #AuraMatch #IntuitiveExit #SoftDisconnection
+∿ **Tags:**<br>#EnergeticAlignment #SoulResonance #VibeFiltering #RelationalIntuition #CosmicCompatibility #AlignmentOverAttachment #FrequencyFit #AuraMatch #IntuitiveExit #SoftDisconnection
 

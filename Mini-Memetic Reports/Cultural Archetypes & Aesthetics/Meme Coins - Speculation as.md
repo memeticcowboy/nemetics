@@ -9,7 +9,7 @@ Created at 2025/09/08 7:42 AM
 
 “Speculation as Selfhood. Cringe as Currency.”
 
-**🧠** **Core Idea Unit**
+∴ **Core Idea Unit**
 
 
 Meme coins symbolize the cultural economy of belief: value spun from vibes, hype, and shared illusion. They reveal how attention crafts worth, and how virality mutates into market force. The shift: from substance to signal.
@@ -17,7 +17,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 
-**🎭** **Identity Play & Roles**
+▲ **Identity Play & Roles**
 
 
 - Role: The Speculator-Shaman
@@ -29,7 +29,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 
-**💥** **Emotional Triggers**
+≈ **Emotional Triggers**
 
 
 - 🤪 Cringe-laced Humor
@@ -43,7 +43,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 
-**📡** **Spread Mechanics**
+𐂷 **Spread Mechanics**
 
 
 - Distribution Vectors:<br>X threads, Discord shills, TikTok clips, Twitch chats, meme subreddits, Telegram cults.
@@ -54,7 +54,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 
-**🛡️** **Defense Reflexes**
+⛨ **Defense Reflexes**
 
 
 - Irony Shields: “It’s just a joke… unless it moons.”
@@ -71,7 +71,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 - 📉 Financial nihilism / post-capitalist absurdity
-- 🎭 Identity as performance
+- ▲ Identity as performance
 - 📱 Attention economics
 - 💰 Late-stage capitalism satire
 - 🕸️ Network tribalism
@@ -83,7 +83,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 
-**🧷** **Sticky Symbols or Quotes**
+✶ **Sticky Symbols or Quotes**
 
 
 - “This coin has no utility—and that’s the point.”
@@ -96,7 +96,7 @@ Meme coins symbolize the cultural economy of belief: value spun from vibes, hype
 
 
 
-**🏷️** **Tags**
+∿ **Tags**
 
 
 #NarrativeInflation · #SpeculativeSelfhood · #CloutCasino · #Memeconomy · #IronyFinance · #IdentityMarkets · #DigitalMythmaking · #PostCapitalistPlay

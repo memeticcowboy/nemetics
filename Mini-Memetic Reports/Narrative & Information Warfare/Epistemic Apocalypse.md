@@ -4,7 +4,7 @@
 
 Created at 2025/08/16 6:05 PM
 
-📌 **Mini-Memetic Profile: “Epistemic Apocalypse”**
+◈ **Mini-Memetic Profile: “Epistemic Apocalypse”**
 
 ***
 
@@ -12,14 +12,14 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Belief: Humanity faces not only crises of politics and environment but of **knowledge itself** — the breakdown of shared truths, stable maps, and credible authorities.
 - Encodes a frame of **cognitive disintegration**: when epistemic frameworks collapse, all narratives compete in a chaotic marketplace of doubt.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - User as the **seer of collapse**, warning of the unraveling.
 - Others cast as **denialists** (clinging to false certainty) or **lost souls** (adrift in the chaos).
@@ -27,7 +27,7 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Fear & dread** (loss of certainty, chaos of meaning).
 - **Awe** (the scale of collapse, mythic resonance of “apocalypse”).
@@ -36,7 +36,7 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Critical theory discourse, doom-meme pages, AI disinfo threads, alt-culture forums.
 - **Propagation style:**
@@ -46,7 +46,7 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Totalizing frame:** Critics can be dismissed as failing to see the full collapse.
 - **Irony shield:** Sometimes played as hyperbolic “doomposting.”
@@ -54,7 +54,7 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **Post-truth discourse** (#FakeNews, #InfoWar).
 - **Apocalyptic memes** (Doomer culture, eschatological narratives).
@@ -63,7 +63,7 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “Epistemic apocalypse.”
 - “Collapse of certainty.”
@@ -72,7 +72,7 @@ Created at 2025/08/16 6:05 PM
 
 ***
 
-🏷️ **Tags:**<br>#EpistemicApocalypse #PostTruth #CollapseMemes #InfoChaos
+∿ **Tags:**<br>#EpistemicApocalypse #PostTruth #CollapseMemes #InfoChaos
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1755392748634_c4zhf/454f6807-30bf-4800-a539-680326dff484.png

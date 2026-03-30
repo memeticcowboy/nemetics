@@ -8,46 +8,46 @@ Created at 2026/01/14 2:40 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Harm emerges without an antagonist: outcomes feel inevitable because procedures accumulate momentum. The mental shift replaces *moral blame* with *structural diagnosis*, relocating responsibility from “who did this?” to “what configuration made this predictable?”
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 - **Cast Role:** *Responsible Node* (middle managers, ICs, compliance workers)
 - **Repositioning:** From moral agent seeking absolution to cartographer tracing flows they neither authored nor can easily halt.
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 😵‍💫 Disorientation · 😔 Helplessness · 😐 Normalization of harm<br>These emotions prime acceptance of inevitability while quietly intensifying self-blame.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 - **Vectors:** Org storytelling, systems critiques, postmortems, “lessons learned” decks
 - **Propagation Style:** Neutral, procedural, sober—language of inevitability without authorship
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Critique Deflection:** “No one decided this” / “It’s just the process”
 - **Immunity:** Structural framing preempts moral challenge; harm becomes nobody’s fault and everybody’s burden.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 ⚙️ Bureaucratic rationality · 📊 Managerial metrics · 🧠 Cognitive offloading · 🧩 Systems thinking (flattened)<br>Attaches to cultures that privilege legibility over legitimacy.
 
 ***
 
-## 🧠 Sticky Symbols / Phrases
+## ✶ Sticky Symbols / Phrases
 
 - “The deck approved it.”
 - “Slack said it was fine.”
@@ -56,7 +56,7 @@ Harm emerges without an antagonist: outcomes feel inevitable because procedures 
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #ProcessWithoutVillain · #StructuralHarm · #ProceduralInevitability · #ManagerialAffect · #NormalizationLoop
 

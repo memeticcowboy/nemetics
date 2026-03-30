@@ -8,13 +8,13 @@ Created at 2025/11/23 11:55 AM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Collapse becomes readable when the burn is intentional. The landscape turns into a moral instrument, revealing the hidden failures that shaped it. The shift: environments stop being backdrops and start being verdicts.
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 **The Seeker of Cause** — compelled to read the terrain for truth.<br>**The Guilt-Bearer** — carries suspicion that their own choices fed the flame.<br>**The Investigator of Systemic Failure** — walking the ruins as a forensic witness.
 
@@ -22,37 +22,37 @@ These roles reposition the self as someone whose moral clarity is earned only th
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 Dread at evidence of intention.<br>Guilt rising from environmental accusation.<br>Curiosity sharpened by forensic mystery.<br>The uncanny sense that “the world is speaking back.”
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors:** apocalyptic fiction communities, ecological collapse discourse, AI-ethics debates, ruin-as-mirror aesthetics.<br>**Propagation Style:** somber parable, forensic myth, atmospheric allegory.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 Ambiguous agency: the burn could be natural or moral, human choice or systemic drift—critiques dissolve into interpretive haze.<br>Ruin-aesthetic shield: the beauty of devastation distracts from prescriptive conclusions.<br>Mythic framing: positions the narrative as diagnostic rather than didactic.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 Ecological ethics · Collapse studies · Metamodern moral inquiry · AI-alignment metaphors · Post-utopian world-building · Trauma ecology.
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes**
+### ✶ **Sticky Symbols or Quotes**
 
 Ash-snow drifting like judgment.<br>“The pulse counts what we tried to forget.”<br>“Worlds don’t fall—they testify.”<br>“Where copper hits the tongue, truth surfaces.”<br>The eleven-minute heartbeat in the soil.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #RuinAsMirror · #CollapseForensics · #EthicalWorldbuilding · #AshLore · #PostUtopian
 

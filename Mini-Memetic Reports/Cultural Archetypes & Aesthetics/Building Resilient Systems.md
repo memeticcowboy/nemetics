@@ -8,19 +8,19 @@ Created at 2025/12/28 8:42 PM
 
 *(Modular Playful Pragmatism)*
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Resilient complexity emerges from simple modules recombined playfully, not from monolithic design.
 
 **Mental shift provoked:**<br>From *“design it right once”* → *“build systems that invite recombination.”*
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast as:** Co-Builder / Modular Thinker<br>The user is positioned as a participant, not a master architect.
 
 **System repositioning:**<br>Authority shifts from top-down control to participatory assembly.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Approachability
 - Creative confidence
@@ -28,21 +28,21 @@ Resilient complexity emerges from simple modules recombined playfully, not from 
 
 Primary affect: **playful capability**
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 - **Vectors:** STEM education, product metaphors, open-source culture
 - **Style:** analogy-driven, optimistic, accessible
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Counters “too simplistic” critique by scaling upward
 - Deflects rigidity by emphasizing recombination
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 Open systems · Modular design · Participatory innovation
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 - “Play well.”
 - “Simple bricks, complex worlds.”

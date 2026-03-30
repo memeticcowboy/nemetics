@@ -6,35 +6,35 @@ Created at 2025/11/17 6:01 PM
 
 ### **🧩 Title: ATMOSPHERIC MENDACITY**
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 The land lies. Physical reality contradicts itself. Truth becomes unstable; coherence must be relational, not environmental.
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 The Perception-Broken; the Sensor Overwhelmed; the Reality-Liminal Traveler.
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 Cognitive anxiety, uncanny dread, awe at environmental intelligence.
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 • Distribution: climate-weirdness subcultures, surreal lit communities, epistemic-crisis thinkpieces<br>• Style: eerie empiricism, poetic anomaly-reporting
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 “This is not metaphor” insistence; empirical tone masking mystical tension.
 
-### **🧬 Memeplex Anchors**
+### ☷ Memeplex Anchors**
 
 Post-truth ecology · Weird fiction · Climate epistemics
 
-### **🧠 Sticky Symbols / Quotes**
+### ✶ Sticky Symbols / Quotes**
 
 • “Realities are crossfeeding.”<br>• Heatless haze<br>• Sorrow rising from the ground
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #Weirding · #SignalCrisis · #RealityGlitch
 

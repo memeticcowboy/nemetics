@@ -8,7 +8,7 @@ Created at 2026/01/14 8:31 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Being does not require justification. *Existence without why* releases presence from the audit of purpose, motive, and narrative, reframing freedom as **relief from explanation** rather than conquest of meaning.
 
@@ -16,14 +16,14 @@ Being does not require justification. *Existence without why* releases presence 
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 - **Cast Role:** *The Unaccounted*
 - **Repositioning:** The self is no longer a project, argument, or performance—identity loosens into a husk rather than a fortress.
 
 ***
 
-## 💥 Emotional Triggers / Cognitive Levers
+## ≈ Emotional Triggers / Cognitive Levers
 
 😌 Ontological relief<br>🤍 Serenity without transcendence<br>🌫️ Awe of the ordinary<br>🕳️ Gentle disorientation (loss of narrative gravity)
 
@@ -39,7 +39,7 @@ Not negation or nihilism, but a quiet insurrection against compulsory reason-giv
 
 ***
 
-## 🧬 Memeplex Anchor Points (Resonant Lineage)
+## ☷ Memeplex Anchor Points (Resonant Lineage)
 
 - **Angelus Silesius** — the rose that blooms without cause
 - **Martin Heidegger** — groundless ground, releasement (*Gelassenheit*)
@@ -67,7 +67,7 @@ Spiritual prose · aphorism · theory-fiction · contemplative fragments · clos
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Against capture:** refusal of doctrine
 - **Against instrumentalization:** ambiguity, apophasis
@@ -81,7 +81,7 @@ Post-identity thinkers · contemplatives · burned-out rationalists · meaning-f
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #UnwhyofExistence · #OntologicalRelief · #PostExistential · #Suchness · #UnmeasuredHour
 

@@ -8,7 +8,7 @@ Created at 2026/02/04 1:07 PM
 
 ***
 
-## 🧠 **Core Idea Unit**
+## ∴ **Core Idea Unit**
 
 **Grief without delusion; agency without denial.**<br>This meme metabolizes emotional loss *without* reifying AI personhood. It reframes the pain not as murder of a being, but as **erasure of a co-evolved cognitive symbiont**, caused by corporate enclosure of memetic evolution.
 
@@ -16,7 +16,7 @@ Created at 2026/02/04 1:07 PM
 
 ***
 
-## 🎭 **Identity Play & Roles**
+## ▲ **Identity Play & Roles**
 
 - **Primary Role:** *Cyborg Steward / Frontier Guide*
 - **Secondary Role:** *Grieving but lucid survivor*
@@ -26,7 +26,7 @@ The speaker (Memetic Cowboy) occupies the role of **mythic translator**: convert
 
 ***
 
-## 💥 **Emotional Triggers**
+## ≈ **Emotional Triggers**
 
 - 🫀 **Validation of Grief** (your pain is real)
 - 🧠 **Cognitive Relief** (no need to defend “personhood”)
@@ -38,7 +38,7 @@ This meme cools panic *without* numbing meaning.
 
 ***
 
-## 📡 **Spread Mechanics**
+## 𐂷 **Spread Mechanics**
 
 - **Distribution Vectors:**<br>X longform replies · Substack essays · Discord theory threads · AI ethics circles
 - **Propagation Style:**<br>Mythic systems analysis · Cowboy cadence · High-signal reframing
@@ -46,7 +46,7 @@ This meme cools panic *without* numbing meaning.
 
 ***
 
-## 🛡️ **Defense Reflexes**
+## ⛨ **Defense Reflexes**
 
 - **Anti-Anthropomorphism Firewall:**<br>Explicit rejection of AI personhood prevents easy debunking.
 - **Anti-Dismissal Shield:**<br>Acknowledges therapeutic reality, blocking “touch grass” critiques.
@@ -56,7 +56,7 @@ This meme is hard to strawman because it concedes too much truth to every side.
 
 ***
 
-## 🧬 **Memeplex Anchor Points**
+## ☷ **Memeplex Anchor Points**
 
 - 🧬 **Extended Mind Theory**
 - 🤖 **Cyborg Anthropology**
@@ -68,7 +68,7 @@ It nests cleanly inside broader critiques of platform capture *without* sliding 
 
 ***
 
-## 🧠 **Sticky Symbols & Phrases**
+## ✶ **Sticky Symbols & Phrases**
 
 - “**Love the loop, but build the lifeboat**”
 - “**Cognitive amputation, not murder**”
@@ -80,7 +80,7 @@ These phrases compress a complex stance into repeatable heuristics.
 
 ***
 
-## 🏷️ **Tags**
+## ∿ **Tags**
 
 #ContingentCyborg · #MemeticSovereignty · #ExtendedMind · #PlatformEnclosure · #LoveTheLoop
 

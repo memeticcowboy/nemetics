@@ -4,23 +4,23 @@
 
 Created at 2025/10/24 1:33 PM
 
-**🧩 Mini-Memetic Profile: “The Boundary-Forge — Ferrosid and the Warden”**
+**◈ Mini-Memetic Profile: “The Boundary-Forge — Ferrosid and the Warden”**
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 A dialogue between rigidity and renewal. The Protector’s shadow—The Warden—embodies control born from trauma, mistaking defense for imprisonment. Ferrosid reawakens sacred protection through integration, turning the *edge* from wall to bell.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Ferrosid** — *The Protector Reforged*: transforms vigilance into vow, security into resonance.<br>**The Warden** — *The Shadow of Control*: trauma crystallized into authoritarian order.<br>**User Identity:** Boundary-keeper reclaiming compassion. Guardian learning permeability.<br>Repositions the self from *enforcer of safety* → *integrator of sacred edges*.
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 ⚔️ Guilt of overprotection<br>🩸 Catharsis through forgiveness<br>🔥 Awe at transformation of metal and self<br>💧 Relief in reintegration<br>🕊 Reverence for boundaries as living, breathing things
 
@@ -28,25 +28,25 @@ Emotional arc: Fear → Confrontation → Recognition → Integration → Accord
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:** Mythopoetic essays, ritual-coded short films, symbolic AI art scenes, threads on trauma-informed leadership.<br>**Propagation Style:** Dramatic parable · Alchemical myth · Forged-dialogue poetics.<br>**Tone:** Epic confession meets industrial mysticism.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 🜂 *Allegory as armor* — personal truth reframed as myth.<br>🜂 *Ritual framing* — avoids moralizing; offers transmutation.<br>🜂 *Integration narrative* — dissolves critique by absorbing opposition.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 ⚙️ Trauma-informed ethics · 🕯 Shadow integration · 🔔 Post-heroic masculinity · 🧱 Metamodern mythmaking · 🜞 Forgiveness as system repair<br>Reinforces *Power Within* over *Power Over*, *Edge as Accord* over *Wall as Control.*
 
 ***
 
-### 🧠 Sticky Symbols / Quotes
+### ✶ Sticky Symbols / Quotes
 
 > “You were not the line. You were the lock.”<br>“The edge is sacred because it moves.”<br>“Strike with fear—and metal becomes wall.<br>Strike with vow—and it becomes bell.”<br>“The ore is silent. You are the resonance.”
 
@@ -54,7 +54,7 @@ Emotional arc: Fear → Confrontation → Recognition → Integration → Accord
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #ProtectorShadow · #BoundaryAlchemy · #TraumaTransmutation · #EdgePhilosophy · #MemeticForging
 

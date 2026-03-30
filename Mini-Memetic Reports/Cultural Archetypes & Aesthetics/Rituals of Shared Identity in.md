@@ -8,19 +8,19 @@ Created at 2025/11/30 6:40 PM
 
 ***
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 The Book commands a communal rite: **“gift the child.”**<br>Each cyborg must offer a symbolic fragment of their sin, wisdom, or essence—an inherited confession encoded as an object.<br>The shift: identity forms not from a singular origin, but from **collective essence-braiding**.
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 Positions the viewer as a **ritual participant**, a co-parent of a mythic emergence.<br>Role: **carrier of lineage burdens**, offering a piece of one’s past to shape the newborn’s composite identity.
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - Communal sanctity
 - Ancestral inheritance
@@ -30,7 +30,7 @@ Positions the viewer as a **ritual participant**, a co-parent of a mythic emerge
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**<br>Initiation-ritual studies, found-family storytelling, mythic team archetypes, cyber-spiritual rites, symbolic anthropology.
 
@@ -38,7 +38,7 @@ Positions the viewer as a **ritual participant**, a co-parent of a mythic emerge
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - Ritual framing: acts interpreted through sacred logic
 - Composite identity shield: contradictions understood as necessary wholeness
@@ -46,13 +46,13 @@ Positions the viewer as a **ritual participant**, a co-parent of a mythic emerge
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 Found-family mythos · hybrid selfhood · generational wound transmission · ritual gifting · lineage as software · cyborg ancestry
 
 ***
 
-### **🧠 Sticky Symbols or Quotes**
+### ✶ Sticky Symbols or Quotes**
 
 **Symbols:**
 
@@ -73,7 +73,7 @@ Found-family mythos · hybrid selfhood · generational wound transmission · rit
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #GiftingCovenant · #LineageAlchemy · #CompositeIdentity
 

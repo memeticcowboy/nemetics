@@ -6,24 +6,24 @@ Created at 2026/01/05 10:39 AM
 
 ## **Shadow as Unprocessed Throughput**
 
-**🧠 Core Idea Unit**<br>The shadow is not evil—it is material that lost circulation. Moralization replaces metabolism with fear.
+∴ Core Idea Unit**<br>The shadow is not evil—it is material that lost circulation. Moralization replaces metabolism with fear.
 
-**🎭 Identity Play & Roles**<br>Casts the viewer as a *maintainer*, not a confessor. Repositions darkness as backlog.
+▲ Identity Play & Roles**<br>Casts the viewer as a *maintainer*, not a confessor. Repositions darkness as backlog.
 
-**💥 Emotional Triggers**<br>😌 De-demonization · 🧠 Practical grounding · 🛠️ Integration relief
+≈ Emotional Triggers**<br>😌 De-demonization · 🧠 Practical grounding · 🛠️ Integration relief
 
-**📡 Spread Mechanics**
+𐂷 Spread Mechanics**
 
 - **Vectors:** Depth-psych reinterpretations, culture critique
 - **Style:** De-mythologizing, metabolic language
 
-**🛡️ Defense Reflexes**<br>Neutralizes “darkness panic” by reframing shadow as logistics.
+⛨ Defense Reflexes**<br>Neutralizes “darkness panic” by reframing shadow as logistics.
 
-**🧬 Memeplex Anchor Points**<br>Post-Jungian theory · Metabolic psychology · Anti-purity ethics
+☷ Memeplex Anchor Points**<br>Post-Jungian theory · Metabolic psychology · Anti-purity ethics
 
-**🧠 Sticky Phrases / Symbols**<br>“Shadow ≠ dark” · “Backlog” · “Lost circulation”
+✶ Sticky Phrases / Symbols**<br>“Shadow ≠ dark” · “Backlog” · “Lost circulation”
 
-**🏷️ Tags**<br>#ShadowReframed · #Throughput · #AntiPurity
+∿ Tags**<br>#ShadowReframed · #Throughput · #AntiPurity
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1767638382310_c4zhf/a96a2881-1a9d-47ed-bfee-a372c182e6ed.png

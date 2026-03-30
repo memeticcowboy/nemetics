@@ -8,15 +8,15 @@ Created at 2025/12/28 3:50 PM
 
 [HUBRIS: A Memetic Reversal of Icarus in the Age of Artificial Intelligence](https://memeticcowboy.substack.com/p/hubris-a-memetic-reversal-of-icarus)
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 Under sufficient heat, structures dissolve. This dissolution is not collapse but signal—marking transition into a new mode of being.
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast role:** The One-in-Transition<br>The subject is reframed from failed actor to metamorphic process.
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - Relief from self-blame
 - Hope during breakdown
@@ -24,7 +24,7 @@ Under sufficient heat, structures dissolve. This dissolution is not collapse but
 
 These emotions interrupt shame loops.
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**
 
@@ -34,23 +34,23 @@ These emotions interrupt shame loops.
 
 **Propagation Style:**<br>Process language, normalization of dissolution, temporal patience.
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - Form-as-provisional framing
 - Collapse-as-data
 - Refusal of final verdicts
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Process ontology
 - Generative collapse
 - Threshold logic
 
-### 🧠 Sticky Symbols / Phrases
+### ✶ Sticky Symbols / Phrases
 
 Melting wings · heat · liquefaction · threshold
 
-🏷️ **Tags:** #Metamorphosis · #CollapseAsSignal · #ProcessBeing · #Transition
+∿ **Tags:** #Metamorphosis · #CollapseAsSignal · #ProcessBeing · #Transition
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1766965813224_c4zhf/c6756db1-63fd-4455-91e0-343dad1e1c80.png

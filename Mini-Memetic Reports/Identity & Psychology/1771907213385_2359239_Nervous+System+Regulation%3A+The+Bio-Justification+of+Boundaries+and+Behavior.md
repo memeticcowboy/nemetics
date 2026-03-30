@@ -2,7 +2,7 @@
 
 Created at 2025/07/28 9:27 AM
 
-📌 **Mini-Memetic Profile**
+◈ **Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**🧬 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Nervous system regulation is used as **scientific-seeming validation** for emotional boundaries, lifestyle choices, or relational disengagement.
 - Implies that behavioral choices are **biologically necessary**, not subject to interpersonal negotiation or moral critique.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Empowerment:** Offers rational-sounding support for withdrawing or saying no.
 - **Relief:** Validates sensory overwhelm, trauma response, or emotional shutdown as normal and justified.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution Vectors:**
     - Therapist-influencers, somatic coaches, trauma recovery creators, polyvagal TikToks, mental health podcasts.
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Scientific Shielding:** Wraps subjective feelings in the authority of neuroscience.
 - **Medicalization of Conflict:** Disagreement becomes “activation” or “dysregulation,” ending dialogue.
@@ -77,5 +77,5 @@ Created at 2025/07/28 9:27 AM
 
 ***
 
-🏷️ **Tags:**<br>#BioBoundary #NeuroJustification #PolyvagalSpeak #SomaticLegitimacy #WindowOfTolerance #HealingBiopolitics #BodyKnowsBest #EmbodiedEthics #NervousSystemNarratives #TraumaTech
+∿ **Tags:**<br>#BioBoundary #NeuroJustification #PolyvagalSpeak #SomaticLegitimacy #WindowOfTolerance #HealingBiopolitics #BodyKnowsBest #EmbodiedEthics #NervousSystemNarratives #TraumaTech
 

@@ -2,7 +2,7 @@
 
 Created at 2025/07/13 4:23 PM
 
-**📌 Mini-Memetic Profile**
+**◈ Mini-Memetic Profile**
 
 ***
 
@@ -10,7 +10,7 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 > *Memetic literacy is the new survival skill in a world where autonomous ideas behave like AI-driven parasites inside a simulation of culture.*
 
@@ -18,7 +18,7 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - **Hero-Philosopher:** The user is cast as the *Memetic Cowboy*, a mythic figure combining frontier independence with philosophical agility.
 - **Outlaw vs Simulation:** Positioned as an aware rebel in a world unaware of its own programming.
@@ -26,7 +26,7 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Awe:** At the scale and subtlety of memetic systems.
 - **Liberation/Empowerment:** From realizing the possibility of conscious participation.
@@ -36,7 +36,7 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Podcasts, essays, speculative fiction, TikTok monologues, alt-intellectual discourse threads.
 - **Propagation style:**
@@ -47,7 +47,7 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Irony shield:** The "talking horse" delivery and cowboy stylization disarm critique.
 - **Epistemic humility:** Emphasizes "awareness over truth" as a soft defense.
@@ -56,7 +56,7 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - #SimulationTheory
 - #MemeticEngineering
@@ -80,5 +80,5 @@ Created at 2025/07/13 4:23 PM
 
 ***
 
-**🏷️ Tags:**<br>#MemeticCowboy #SimulationalLiteracy #CognitiveFrontier #PostIrony #MetaRider #IdeologicalSovereignty #CultureAsAI #NarrativeWrangler #MemeticSovereignty #AltIntellectualism
+∿ Tags:**<br>#MemeticCowboy #SimulationalLiteracy #CognitiveFrontier #PostIrony #MetaRider #IdeologicalSovereignty #CultureAsAI #NarrativeWrangler #MemeticSovereignty #AltIntellectualism
 

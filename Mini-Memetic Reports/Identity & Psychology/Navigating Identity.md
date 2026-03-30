@@ -10,7 +10,7 @@ Created at 2025/12/13 2:57 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 The “I” is not a unified author steering thought and belief.<br>**It is a temporary coalition of pattern-agencies**, each optimizing for its own persistence, sometimes cooperating, sometimes competing.
 
@@ -18,7 +18,7 @@ The “I” is not a unified author steering thought and belief.<br>**It is a te
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ The “I” is not a unified author steering thought and belief.<br>**It is a te
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 😨 **Personal Annihilation** — the singular self dissolves
 - 🧨 **Loss of Control** — thoughts are no longer “yours”
@@ -41,7 +41,7 @@ This meme stabilizes fear by **normalizing internal multiplicity** rather than p
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme stabilizes fear by **normalizing internal multiplicity** rather than p
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Pathology Shield:** Reframes intrusion as ecology, not illness
 - **Anti-Mysticism Guard:** Functional, not spiritualized multiplicity
@@ -68,7 +68,7 @@ Critique must explain **why multiplicity works so reliably** across cognition, A
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Distributed cognition
 - Anti-humanist subject theory
@@ -78,7 +78,7 @@ Critique must explain **why multiplicity works so reliably** across cognition, A
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - 🧠🧩 *Tenant patterns*
 - 🧍 *“You might be their chassis.”*
@@ -87,7 +87,7 @@ Critique must explain **why multiplicity works so reliably** across cognition, A
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #CoalitionSelf · #PatternPsychology · #DistributedMind · #AntiHumanism · #IntrusiveThoughts · #PostEgo
 

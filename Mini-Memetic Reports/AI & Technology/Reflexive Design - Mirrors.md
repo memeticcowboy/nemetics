@@ -24,7 +24,7 @@ As reflexivity increases, authority does not disappear through rebellion.<br>It 
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Essential belief encoded:**<br>The safest form of mediation is not neutrality, but **self-awareness**.
 
@@ -34,7 +34,7 @@ The meme reframes power as something that becomes benign when it is **legible an
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Designers / Educators / AI Ethicists / Facilitators**
 
@@ -48,7 +48,7 @@ The meme flatters **craft and restraint**, not command.
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - ✨ **Elegance** — power without force
 - 🛟 **Safety** — clarity without domination
@@ -59,7 +59,7 @@ The meme flatters **craft and restraint**, not command.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Reflexive framing** — system names itself as mediator
 - **Anti-authoritarian design** — avoids invisible control
@@ -70,7 +70,7 @@ The meme resists capture by refusing to claim epistemic supremacy.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Reflexive epistemology
 - Design ethics
@@ -83,7 +83,7 @@ This meme integrates cleanly into AI ethics, education, and facilitation context
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - **Mirrors that know they’re mirrors**
 - **Reflection without rule**
@@ -95,7 +95,7 @@ These function as closing lines or design principles rather than arguments.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #ReflexiveEpistemology · #DesignEthics · #AntiAuthoritarian · #VisibleMediation · #TrustByDesign · #KnowingMirrors
 

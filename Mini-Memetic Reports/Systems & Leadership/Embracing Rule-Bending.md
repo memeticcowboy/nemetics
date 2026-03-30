@@ -8,39 +8,39 @@ Created at 2025/11/21 10:39 AM
 
 **More:** [Memetic Analysis: “Strong Leaders Bend the Rules”](https://memeticcowboy.substack.com/p/memetic-analysis-strong-leaders-bend)
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 Legitimacy shifts from law to charisma: rule-breaking is framed as moral clarity when performed by the “chosen” leader. Disorder makes exceptionalism feel like rescue.
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 **The Loyal Rationalizer** — the follower who interprets transgression as courage.<br>**The Threat-Sentinel** — scanning for enemies, rewarding decisive action.<br>**The Moral Bypasser** — collapses process into outcome: “If he wins for us, it’s right.”
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 Anger (trait and situational), betrayal, fear, vindication, craving for order, awe before unapologetic dominance.
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 - **Distribution Vectors:** Talk radio, partisan video loops, political rallies, reaction-driven feeds, pastor-influencer sermons.
 - **Propagation Style:** Righteous rhetoric, adversarial mythmaking, military-aesthetic imagery, “lawlessness for the greater good.”
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 Irony shield: “You’re too naive for the real world.”<br>Threat inflation: “You’ll understand when danger knocks.”<br>Identity lock-in: dissent cast as betrayal of the group.
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 Authoritarian populism · grievance politics · prophetic-savior archetypes · punitive theology · sovereignty maximalism · frontier mythos · masculine exceptionalism
 
-### **🧠 Sticky Symbols or Quotes**
+### ✶ Sticky Symbols or Quotes**
 
 - “Sometimes strong leaders have to bend the rules.”
 - “Only he has the courage to act.”
 - “Law and order — by any means.”
 - Visuals: flags, storms, military chic, lone rider silhouettes.
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #Authoritarianism #RuleBending #StrongmanMyth #PoliticalEmotions #NarrativePower #GrievanceCore #MythicTransgression
 

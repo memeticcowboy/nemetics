@@ -8,37 +8,37 @@ Created at 2025/11/20 11:37 AM
 
 **[via Jessica Friday | Substack](https://substack.com/@jlfridayofficial/note/c-179300383?utm_source=notes-share-action&r=5a5yhr)**
 
-## 🧠 **Core Idea Unit**
+## ∴ **Core Idea Unit**
 
 Left-wing movements stall not from lack of moral clarity but from rejecting the very competencies their “shadow” (the right) has mastered—cooperation, enterprise, and creative alignment. The shift: from *anti-X* identity to *pro-creation* identity.
 
-## 🎭 **Identity Play & Roles**
+## ▲ **Identity Play & Roles**
 
 **The Blocked Builder** — the leftist who sees the contradiction: communal ethics without communal praxis.<br>**The Shadow Integrator** — one who studies the enemy’s strengths not to mimic ideology but to reclaim capacity.
 
 Repositions the self from critic of systems → architect of alternatives.
 
-## 💥 **Emotional Triggers**
+## ≈ **Emotional Triggers**
 
 • Frustration at left-infighting<br>• Hope in constructive vision<br>• Cognitive dissonance around “business”<br>• Relief at permission to build<br>• Quiet awe at cross-ideological convergence
 
-## 📡 **Spread Mechanics**
+## 𐂷 **Spread Mechanics**
 
 Distribution: community-organizing Twitter, co-ops, wellbeing economy circles, civics IG accounts, praxis-Left Discords.<br>Style: motivational critique, shadow-integration frame, call-to-building, practical optimism.
 
-## 🛡️ **Defense Reflexes**
+## ⛨ **Defense Reflexes**
 
 • Shadow-framing reframes critique as integration, not capitulation<br>• Business-language recontextualized as relational + creative, not extractive<br>• Avoids purity spirals by emphasizing mutual learning<br>• “Humans don’t think in negatives” → a cognitive science shield
 
-## 🧬 **Memeplex Anchor Points**
+## ☷ **Memeplex Anchor Points**
 
 • Shadow psychology (Jung)<br>• Cooperative economics / wellbeing economy<br>• Conscious capitalism reframed as tools not ideology<br>• Movement-building theory<br>• Pragmatic socialism / municipalism<br>• MLK-style positive-vision politics
 
-## 🧠 **Sticky Symbols or Quotes**
+## ✶ **Sticky Symbols or Quotes**
 
 • “The right is your shadow.”<br>• “You refuse the enemy’s strengths.”<br>• “Humans don’t think in negatives.”<br>• “Build what you’re *for*, not just what you’re against.”<br>• “You are 95% aligned with conscious capitalists.”<br>• UBI counties as proof-of-concept nodes<br>• “It was ‘I have a dream,’ not ‘I hate fascists.’”
 
-## 🏷️ **Tags**
+## ∿ **Tags**
 
 #ShadowIntegration · #ConstructiveLeft · #WellbeingEconomy · #MovementPraxis · #CooperativeSkillset
 

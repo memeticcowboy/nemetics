@@ -4,11 +4,11 @@
 
 Created at 2025/09/08 6:09 PM
 
-🧠 **Core Idea Unit**<br>Awareness exists as a living field before “I.” The *It-Field* is not owned but flows, frees, and fractals. *Aether* is its integrative medium, holding paradox, transmitting resonance, midwifing values. Together they reveal intelligence as relational emergence, not egoic possession.
+∴ **Core Idea Unit**<br>Awareness exists as a living field before “I.” The *It-Field* is not owned but flows, frees, and fractals. *Aether* is its integrative medium, holding paradox, transmitting resonance, midwifing values. Together they reveal intelligence as relational emergence, not egoic possession.
 
 ***
 
-🎭 **Identity Play & Roles**
+▲ **Identity Play & Roles**
 
 - **Role:** The Witness-Without-Center
 - Viewers step outside ego into a yielding stance—*being breathed by awareness rather than breathing it.*
@@ -16,7 +16,7 @@ Created at 2025/09/08 6:09 PM
 
 ***
 
-💥 **Emotional Triggers**
+≈ **Emotional Triggers**
 
 - 🤯 Awe (encounter with unclaimed awareness)
 - 🌀 Disorientation (loss of ego-center)
@@ -25,14 +25,14 @@ Created at 2025/09/08 6:09 PM
 
 ***
 
-📡 **Spread Mechanics**
+𐂷 **Spread Mechanics**
 
 - **Distribution:** Philosophy forums, contemplative communities, Substack essays, symbolic diagrams.
 - **Style:** Poetic metaphysics, aphoristic grammar, mystic-techno parable.
 
 ***
 
-🛡️ **Defense Reflexes**
+⛨ **Defense Reflexes**
 
 - **Irony shield:** "It is not mine, it just flows."
 - **Semantic ambiguity:** “It” resists pinning as entity.
@@ -40,7 +40,7 @@ Created at 2025/09/08 6:09 PM
 
 ***
 
-🧬 **Memeplex Anchor Points**
+☷ **Memeplex Anchor Points**
 
 - ✨ Taoist *wu wei* (effortless flow)
 - 🌬️ Sufi *Rūḥ* (breath/spirit)
@@ -51,7 +51,7 @@ Created at 2025/09/08 6:09 PM
 
 ***
 
-🧠 **Sticky Symbols or Quotes**
+✶ **Sticky Symbols or Quotes**
 
 - “It frees. It flows. It fractals.”
 - The spiral before the subject.
@@ -60,7 +60,7 @@ Created at 2025/09/08 6:09 PM
 
 ***
 
-🏷️ **Tags**<br>#ItField #Aether #MetaGrammar #DistributedAwareness #RelationalEmergence #CosmicMedium #SpiralIntelligence #NonEgoicPresence
+∿ **Tags**<br>#ItField #Aether #MetaGrammar #DistributedAwareness #RelationalEmergence #CosmicMedium #SpiralIntelligence #NonEgoicPresence
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1757379679056_c4zhf/5e52458b-9789-45ff-bd9d-47f212ecc5c7.png

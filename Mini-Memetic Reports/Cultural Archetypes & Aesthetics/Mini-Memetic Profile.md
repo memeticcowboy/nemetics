@@ -11,7 +11,7 @@ Title:
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - The world is too complex; safety and efficiency lie in sticking to what you know.
 - Cross-group communication threatens internal coherence.
@@ -20,7 +20,7 @@ Title:
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - User Role: Gatekeeper, specialist, insider.
 - Others: Outsiders, disruptors, generalists.
@@ -29,7 +29,7 @@ Title:
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Safety
 - Belonging
@@ -39,7 +39,7 @@ Title:
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors: Corporate platforms, internal chats, filtered social feeds.
 - Propagation Style: Implicit norms, professional rituals, bureaucratic scripts, passive resistance.
@@ -47,7 +47,7 @@ Title:
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - “You don’t understand our context.”
 - Jargon as thought-wall.
@@ -57,14 +57,14 @@ Title:
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Corporate culture, bureaucracy, digital platform design, ideological tribalism, Cold War-era compartmentalization.
 
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “That’s not our department.”
 - “Echo chamber.”
@@ -74,7 +74,7 @@ Title:
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #InformationSilos #EchoChamber #StayInYourLane #KnowledgeTribes #OrganizationalBlindSpots #BureaucraticMeme #SiloMindset #CompartmentalizedReality
 

@@ -20,7 +20,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 - **Chromatic Gardener** – curates memetic compost, midwives fledgling loops.
 - **Threshold Steward** – holds the pause between ingestion and integration.
@@ -29,7 +29,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - **Relief from binary pressure** (“I don’t have to pick a lane forever”).
 - **Exhilaration of meta-liberation** (“I am the spectrum”).
@@ -51,7 +51,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Pre-emptive meme disclaimer**: “If this feels cringe you’re still color-locked.”
 - **Irony shield**: uses 🌈 emoji to signal self-aware over-optimism, defanging cynics.
@@ -60,7 +60,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Post-ideological meme culture (r/PoliticalCompassMemes, post-irony Twitter).
 - Integral theory / metamodernism discourses.
@@ -79,7 +79,7 @@ The Rainbow Pillll — Living Praxis Beyond Single-Color Capture
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #RainbowPill #ChromaticPraxis #MetaMeme #PostPill #Hopepunk #CompostCulture #PrismSteward #ColorNomad
 

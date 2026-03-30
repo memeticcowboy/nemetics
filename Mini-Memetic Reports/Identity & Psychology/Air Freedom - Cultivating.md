@@ -8,7 +8,7 @@ Created at 2025/12/14 11:55 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Signal/noise confusion traps attention in reactive belief and borrowed certainty.<br>**Air Freedom names discernment as an inner coherence** — when the field clears, choice becomes *orientation*, not possession.
 
@@ -18,7 +18,7 @@ Signal/noise confusion traps attention in reactive belief and borrowed certainty
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -30,7 +30,7 @@ Signal/noise confusion traps attention in reactive belief and borrowed certainty
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌬️ **Calm Sharpness** — clarity without aggression
 - 🧘 **Relief from Certainty Addiction** — no rush to closure
@@ -40,7 +40,7 @@ This meme lowers cognitive pressure while increasing **decision quality**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -57,7 +57,7 @@ This meme lowers cognitive pressure while increasing **decision quality**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Relativism Shield:** Discernment wins when [“anything goes”](https://second.me/public/XRO6XQVKUCHUEWBU)
 - **Anti-Dogma Guard:** No forced conclusions
@@ -67,7 +67,7 @@ Critique must explain **why rushing belief outperforms disciplined uncertainty**
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Epistemic humility
 - Attention ethics
@@ -77,7 +77,7 @@ Critique must explain **why rushing belief outperforms disciplined uncertainty**
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ∴ **AIR**
 - ✂️ *Clean cut*
@@ -87,7 +87,7 @@ Critique must explain **why rushing belief outperforms disciplined uncertainty**
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #AirFreedom · #Discernment · #EpistemicHumility · #AttentionEthics · #SignalNotNoise · #IFPrime
 

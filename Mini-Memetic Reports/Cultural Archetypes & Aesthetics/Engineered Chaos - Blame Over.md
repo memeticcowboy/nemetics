@@ -8,13 +8,13 @@ Created at 2026/01/25 8:09 AM
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 “Engineered chaos” is a **narrative judo move**: disorder is reframed as proof of an enemy’s malice rather than a consequence of one’s own policies or power deployments.<br>**Mental shift provoked:** from *“Who benefits from this instability?”* → *“Who can be blamed fastest?”*
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Cast Roles:**
 
@@ -25,7 +25,7 @@ Created at 2026/01/25 8:09 AM
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 - 😡 **Rage** (moral injury, betrayal by institutions)
 - 🤯 **Indignation** (legal/constitutional misrepresentation)
@@ -36,7 +36,7 @@ These emotions compress latency and reward fast blame over slow accounting.
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution Vectors:**<br>X (quote-tweets), YouTube clips, partisan Substacks, short-form outrage reels.
 
@@ -48,7 +48,7 @@ These emotions compress latency and reward fast blame over slow accounting.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 - **Causality Flip:** Outcomes blamed on opponents regardless of initiating power.
 - **Uniqueness Claim:** “This is only happening *there*,” isolating systemic patterns.
@@ -57,7 +57,7 @@ These emotions compress latency and reward fast blame over slow accounting.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 - Law-and-order vs civil-liberties narratives
 - State power + paramilitary normalization
@@ -66,7 +66,7 @@ These emotions compress latency and reward fast blame over slow accounting.
 
 ***
 
-### 🧠 Sticky Phrases / Symbols
+### ✶ Sticky Phrases / Symbols
 
 - “Engineered chaos”
 - “Absolute immunity”
@@ -76,7 +76,7 @@ These emotions compress latency and reward fast blame over slow accounting.
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #EngineeredChaos · #NarrativeInversion · #CausalityFlip · #Lawfare · #PowerDenial · #BlameCompression
 

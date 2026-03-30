@@ -8,7 +8,7 @@ Created at 2025/12/14 11:13 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Rights-based freedom depends on recognition by authority and can always be revoked.<br>**IF-Prime reframes freedom as cultivated capacity** — arising from elemental powers enacted in the field, not permissions granted from above.
 
@@ -18,7 +18,7 @@ Rights-based freedom depends on recognition by authority and can always be revok
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ Rights-based freedom depends on recognition by authority and can always be revok
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🌱 **Agency Without Rebellion** — power without opposition theater
 - 🧘 **Sovereignty Without Isolation** — strength that remains relational
@@ -41,7 +41,7 @@ This meme replaces resentment with **quiet confidence**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme replaces resentment with **quiet confidence**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Legalism Shield:** Freedom not reduced to policy or rights-talk
 - **Anti-Authoritarian Guard:** No need to overthrow authority to be free
@@ -68,7 +68,7 @@ Critique must explain **how bestowed rights substitute for cultivated capacity u
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Virtue and capacity ethics
 - IF-Prime elemental framework
@@ -78,7 +78,7 @@ Critique must explain **how bestowed rights substitute for cultivated capacity u
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - 🌿 **“Not rights bestowed.”**
 - 🔨 **Cultivated, not granted**
@@ -88,7 +88,7 @@ Critique must explain **how bestowed rights substitute for cultivated capacity u
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #IFPrime · #CultivatedFreedom · #EmbodiedSovereignty · #CapacityEthics · #ElementalPower · #GrownNotGranted
 

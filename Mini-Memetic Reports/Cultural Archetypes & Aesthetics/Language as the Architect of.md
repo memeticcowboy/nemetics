@@ -10,7 +10,7 @@ Created at 2025/12/25 7:46 AM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 **Semiotic Causalism**: Language does not describe reality; it *conditions it*.<br>Words are not mirrors but constraints—each sentence quietly programs what actions, meanings, and futures become thinkable. Reality is not argued into being; it is *trained* through repeated descriptions.
 
@@ -18,7 +18,7 @@ Created at 2025/12/25 7:46 AM
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Offered Role:** *The Lucid Speaker*<br>One who perceives grammar as infrastructure. You no longer debate meanings—you notice how phrasing forges habits, power asymmetries, and ethical drift.
 
@@ -28,7 +28,7 @@ Created at 2025/12/25 7:46 AM
 
 ***
 
-## 💥 Emotional Triggers
+## ≈ Emotional Triggers
 
 - 🌀 **Epistemic Vertigo** — realizing that “facts” are often stabilized speech habits
 - 🧠 **Hyper-vigilance** — noticing ordinary phrases as quiet architectures of power
@@ -38,7 +38,7 @@ Emotion is restrained, adult, and durable—discomfort without accusation.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Vectors:**
 
@@ -50,7 +50,7 @@ Emotion is restrained, adult, and durable—discomfort without accusation.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Discomfort Reframe:** Resistance is framed as friction revealing habituation, not as an opponent to defeat.
 - **Non-Conversion Clause:** “Nothing here is meant to convert you” disarms debate and relocates evaluation to lived resonance.
@@ -58,7 +58,7 @@ Emotion is restrained, adult, and durable—discomfort without accusation.
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - **Linguistic Relativity** — perception shaped by structure, not intention
 - **Post-Structuralism** — discourse as reality-forming practice
@@ -68,7 +68,7 @@ Emotion is restrained, adult, and durable—discomfort without accusation.
 
 ***
 
-## 🧠 Sticky Symbols & Phrases
+## ✶ Sticky Symbols & Phrases
 
 - “Language is not a mirror. It is a generator.”
 - “The first technology was naming.”
@@ -78,7 +78,7 @@ Emotion is restrained, adult, and durable—discomfort without accusation.
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #SemioticArchitecture #MetaEthics #LinguisticCausalism #RealityTraining<br>#MemeticEcology #PostOntology #Psychotechnology
 

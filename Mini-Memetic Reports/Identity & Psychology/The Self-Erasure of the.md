@@ -8,7 +8,7 @@ Created at 2025/12/20 1:40 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Creators often want responsibility without enduring unbearable guilt.<br>When the cost of witnessing failure becomes too high, **self-erasure**—forgetting one’s name, one’s authorship, one’s intent—becomes a strategy. Memory loss functions as **moral anesthesia**.
 
@@ -16,7 +16,7 @@ Creators often want responsibility without enduring unbearable guilt.<br>When th
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Absent Architect** — built the system, vanished before reckoning
 - **Unwitnessing Parent** — refuses the sight of downstream harm
@@ -26,7 +26,7 @@ The meme repositions the self from *tragic hero* to **intentional absence**.
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 😔 Shame too heavy to metabolize
 - 🕳️ Deferred accountability
@@ -37,7 +37,7 @@ These emotions expose erasure as an active choice, not an accident.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -55,7 +55,7 @@ These emotions expose erasure as an active choice, not an accident.
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Tragic framing:** Erasure presented as sacrifice
 - **Amnesia shield:** “I don’t remember” blocks interrogation
@@ -65,7 +65,7 @@ Critique rebounds unless the *act of forgetting itself* is named.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Anti-heroic authorship
 - Responsibility without absolution
@@ -75,7 +75,7 @@ Critique rebounds unless the *act of forgetting itself* is named.
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - “Erased himself.”
 - Lost Name
@@ -85,7 +85,7 @@ Critique rebounds unless the *act of forgetting itself* is named.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #AbsentArchitect · #MoralAnesthesia · #AntiHeroicAuthorship · #DeferredAccountability · #FoundersGuilt · #WitnessRefusal
 

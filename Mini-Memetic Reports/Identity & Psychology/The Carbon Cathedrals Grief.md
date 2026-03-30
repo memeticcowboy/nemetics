@@ -8,13 +8,13 @@ Created at 2025/11/23 12:22 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Some ruins remember us more honestly than we remember ourselves. Entering the carbon cathedral triggers grief the self tried to bury; the place becomes the true storyteller.
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 **The Reluctant Mourner** — someone who didn’t come to grieve but is forced to.<br>**The Haunted Wanderer** — drawn into memories encoded in the environment.
 
@@ -22,13 +22,13 @@ These roles reframe the self as not choosing remembrance, but being chosen by it
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 Haunting nostalgia that rises unbidden.<br>Sudden parental grief surfacing like a wound touched by accident.<br>Spatial disorientation merging with emotional vertigo.
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors:**<br>Dark fantasy settings, psychogeographic writing, trauma literature, post-collapse fiction.
 
@@ -36,25 +36,25 @@ Haunting nostalgia that rises unbidden.<br>Sudden parental grief surfacing like 
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 Emphasis on “the place did it” creates emotional distance.<br>Mythic framing dampens personal exposure.<br>Ambiguous causality between environment and psyche.
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 Trauma geography · Memory architecture · Gothic ecology · Post-apocalyptic mourning · Parental-loss narratives.
 
 ***
 
-### 🧠 **Sticky Symbols or Quotes**
+### ✶ **Sticky Symbols or Quotes**
 
 “Carbon ribs cradle the grief I refused.”<br>“The hollow knew before I did.”<br>“Flashbacks bloom where collapse settled.”<br>Fetal heartbeat threads in bark.
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #MemoryInPlace · #TraumaGeography · #CarbonCathedral · #GothicEcology
 

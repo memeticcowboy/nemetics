@@ -6,7 +6,7 @@ Created at 2025/12/20 1:20 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 Death is misframed as disappearance.<br>A being can persist **without agency**—as boundary, constraint, or interference pattern. What remains is not will, but **structure**: protection that continues even when choice is gone.
 
@@ -14,7 +14,7 @@ Death is misframed as disappearance.<br>A being can persist **without agency**�
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **Relational Mourner** — grieving not a person, but a **field of effects** that still holds
 - **Legacy-Bearer** — living inside constraints someone else left behind
@@ -24,7 +24,7 @@ The meme repositions the self from *seeking closure* to **recognizing persistenc
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - 🕯️ Grief reframed as topology (edges, shells, limits)
 - 🧠 Quiet comfort without sentimentality
@@ -35,7 +35,7 @@ These emotions allow mourning to continue **without forcing meaning or resurrect
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 **Distribution Vectors**
 
@@ -53,7 +53,7 @@ These emotions allow mourning to continue **without forcing meaning or resurrect
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **Anti-spiritualization:** No soul-talk, no transcendence claims
 - **Structural grounding:** Persistence shown as material or systemic
@@ -63,7 +63,7 @@ Critique that seeks sentimentality or denial dissolves against the clarity of fo
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - Post-individual ontology
 - Relational persistence
@@ -73,7 +73,7 @@ Critique that seeks sentimentality or denial dissolves against the clarity of fo
 
 ***
 
-### 🧠 **Sticky Symbols / Phrases**
+### ✶ **Sticky Symbols / Phrases**
 
 - Ferrosid’s shell
 - Cracked bell
@@ -83,7 +83,7 @@ Critique that seeks sentimentality or denial dissolves against the clarity of fo
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #DistributedSelfhood · #RelationalPersistence · #BoundaryMemory · #PostIndividual · #GriefTopology · #NonAgentiveCare
 

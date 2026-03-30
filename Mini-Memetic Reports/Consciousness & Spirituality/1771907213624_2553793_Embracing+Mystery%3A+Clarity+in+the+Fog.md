@@ -4,53 +4,53 @@
 
 Created at 2025/11/06 8:23 AM
 
-**🧩 Mini-Memetic Profile: “Self-Clarity as Mystery”**
+**◈ Mini-Memetic Profile: “Self-Clarity as Mystery”**
 
 ***
 
-### 🧠 Core Idea Unit
+### ∴ Core Idea Unit
 
 True self-clarity is not about knowing *what* you are but *feeling how* you move through the unknown. It replaces definition with attunement — a lived relationship with mystery rather than a performance of certainty.
 
 ***
 
-### 🎭 Identity Play & Roles
+### ▲ Identity Play & Roles
 
 **Role:** The Inner Navigator<br>**Frame:** The seeker who stops seeking maps and begins to sense currents.<br>The meme repositions the self from “performer of coherence” to “participant in emergence.”
 
 ***
 
-### 💥 Emotional Triggers
+### ≈ Emotional Triggers
 
 🌀 Disorientation → 🤯 Awe → 🌫️ Calm acceptance<br>A gentle unraveling of the need for control, leading to reverence for the unseen within.
 
 ***
 
-### 📡 Spread Mechanics
+### 𐂷 Spread Mechanics
 
 **Distribution:** Poetic philosophy threads, contemplative reels, minimalist art posts.<br>**Propagation Style:** Parable and aphorism wrapped in fog aesthetics — elegant ambiguity and introspective calm.
 
 ***
 
-### 🛡️ Defense Reflexes
+### ⛨ Defense Reflexes
 
 Irony shields are unnecessary; the meme is self-justifying through paradox.<br>It resists commodification by refusing clarity as a social proof — it invites lived ambiguity.
 
 ***
 
-### 🧬 Memeplex Anchor Points
+### ☷ Memeplex Anchor Points
 
 🧘‍♂️ Non-dual awareness · 🌀 Mysticism of process · 🧠 Metamodern selfhood · 🪞Phenomenological introspection
 
 ***
 
-### 🧠 Sticky Symbols or Quotes
+### ✶ Sticky Symbols or Quotes
 
 > “The fog ain’t confusion, but the shape of your becoming.” -- MC<br>“Clarity breathes, not shines.”<br>“To know yourself is to move well in mist.”
 
 ***
 
-### 🏷️ Tags
+### ∿ Tags
 
 #SelfInquiry · #MetamodernMystic · #InnerFog · #ProcessPhilosophy · #LivedClarity · #MysticMinimalism
 

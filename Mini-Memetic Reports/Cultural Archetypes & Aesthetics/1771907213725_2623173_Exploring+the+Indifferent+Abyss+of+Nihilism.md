@@ -12,7 +12,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 🧠 **Core Idea Unit**
+### ∴ **Core Idea Unit**
 
 - **The Zero-State Truth**: Reality is not a womb but a **sterile abyss**—a will-before-will that erases memory, meaning, and ethics.
 - Meaning, care, and structure are framed as **temporary hallucinations** imposed on an indifferent static.
@@ -20,7 +20,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 🎭 **Identity Play & Roles**
+### ▲ **Identity Play & Roles**
 
 - **👁️ The Disconnected Witness**: “I see the void others are too afraid to face.”
 - **🧊 The Entropic Sage**: Emotional detachment mistaken for enlightenment; dissociation reframed as purity.
@@ -28,7 +28,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 💥 **Emotional Triggers**
+### ≈ **Emotional Triggers**
 
 - **🌌 Cosmic Vertigo**: Absolute groundlessness, no frame to stand on.
 - **❄️ Cold Relief**: Seductive freedom from guilt, duty, or care 
@@ -36,7 +36,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 📡 **Spread Mechanics**
+### 𐂷 **Spread Mechanics**
 
 - **Vectors**:
     - Black-pilled philosophy spaces
@@ -50,7 +50,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 🛡️ **Defense Reflexes**
+### ⛨ **Defense Reflexes**
 
 - **🙄 “Cope” Shield**: All constructive frames (Lattice, Co-Sphere, ethics) dismissed as ego defenses.
 - **🕳️ Indifference Shield**: No rebuttal, no engagement—critique is absorbed and nullified.
@@ -58,7 +58,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 🧬 **Memeplex Anchor Points**
+### ☷ **Memeplex Anchor Points**
 
 - **📚 Philosophical**: Nihilism, German Idealist pessimism (Mainländer, dark Böhme).
 - **⚙️ Modern**: Entropy-only accelerationism, low-fidelity simulation theory, doomer realism.
@@ -80,7 +80,7 @@ Created at 2025/12/12 12:23 PM
 
 ***
 
-### 🏷️ **Tags**
+### ∿ **Tags**
 
 #VoidCore #Ungrund #ZeroState #CosmicIndifference #EntropicDrift #GlitchGnosis #AntiLattice
 

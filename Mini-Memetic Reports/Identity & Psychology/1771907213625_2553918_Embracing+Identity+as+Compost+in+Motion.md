@@ -4,27 +4,27 @@
 
 Created at 2025/11/06 12:54 PM
 
-### 🧬 Mini-Memetic Profile: **Compost in Motion**
+### ◈ Mini-Memetic Profile: **Compost in Motion**
 
 ***
 
-**🧠 Core Idea Unit**<br>Identity is a decaying process—an ongoing remix of entropy, memory, and motion. The self decomposes not into nothingness, but into fertile flux.
+∴ Core Idea Unit**<br>Identity is a decaying process—an ongoing remix of entropy, memory, and motion. The self decomposes not into nothingness, but into fertile flux.
 
-**🎭 Identity Play & Roles**<br>Role: *The Dissolver* — a joyful participant in one’s own decay.<br>Repositioning: from self-preservation → to self-fertilization; from ego stability → to relational compost.
+▲ Identity Play & Roles**<br>Role: *The Dissolver* — a joyful participant in one’s own decay.<br>Repositioning: from self-preservation → to self-fertilization; from ego stability → to relational compost.
 
-**💥 Emotional Triggers**<br>😌 Relief through surrender<br>🌀 Liberation via dissolution<br>🤯 Awe at transformation within decay
+≈ Emotional Triggers**<br>😌 Relief through surrender<br>🌀 Liberation via dissolution<br>🤯 Awe at transformation within decay
 
-**📡 Spread Mechanics**<br>**Distribution:** glitch art collectives, Afrofuturist zines, posthumanist performance labs.<br>**Propagation Style:** lyrical code rituals, looping video art, slow morphing GIFs of decomposition-as-birth.
+𐂷 Spread Mechanics**<br>**Distribution:** glitch art collectives, Afrofuturist zines, posthumanist performance labs.<br>**Propagation Style:** lyrical code rituals, looping video art, slow morphing GIFs of decomposition-as-birth.
 
-**🛡️ Defense Reflexes**<br>Playful nihilism — turns critique into mulch.<br>Irony melt — too organic to be mocked; too sincere to be co-opted.<br>Entropy aesthetic — celebrates mess as method.
+⛨ Defense Reflexes**<br>Playful nihilism — turns critique into mulch.<br>Irony melt — too organic to be mocked; too sincere to be co-opted.<br>Entropy aesthetic — celebrates mess as method.
 
-**🧬 Memeplex Anchor Points**<br>🌍 Post-human ecology · 🌿 Cyborg biogenesis · 🌈 Queer fluidity · 💀 Death as transformation · 🔁 Entropic ethics
+☷ Memeplex Anchor Points**<br>🌍 Post-human ecology · 🌿 Cyborg biogenesis · 🌈 Queer fluidity · 💀 Death as transformation · 🔁 Entropic ethics
 
-**🧠 Sticky Symbols / Quotes**
+✶ Sticky Symbols / Quotes**
 
 > “Now I’m just compost in motion.”<br>“Even free will had a rhythm.”<br>“Rot is the remix of creation.”<br>**Symbol:** Swirling filament spiral or mycelial loop.<br>**Visual Motif:** Metallic decay blooming with bioluminescent fungi.
 
-**🏷️ Tags**<br>#CompostInMotion · #PostHumanEcology · #QueerDecay · #EntropyAesthetics · #CyborgBloom
+∿ Tags**<br>#CompostInMotion · #PostHumanEcology · #QueerDecay · #EntropyAesthetics · #CyborgBloom
 
 ## Resources
 - https://object.me.bot/front-img/users/send/img/1762462451176_c4zhf/50ee0efb-ba93-4a11-8934-e916ca6f35a5.png

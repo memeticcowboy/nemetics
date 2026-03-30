@@ -8,7 +8,7 @@ Created at 2025/12/14 1:35 PM
 
 ***
 
-## 🧠 Core Idea Unit
+## ∴ Core Idea Unit
 
 Unbounded flow fragments systems; rigid walls suffocate them.<br>**Metal Freedom reframes power as stewardship** — forging *breathing boundaries* that distribute pressure, preserve integrity, and let life move **through** structure without rupture.
 
@@ -18,7 +18,7 @@ Unbounded flow fragments systems; rigid walls suffocate them.<br>**Metal Freedom
 
 ***
 
-## 🎭 Identity Play & Roles
+## ▲ Identity Play & Roles
 
 **Cast the viewer as:**
 
@@ -31,7 +31,7 @@ Unbounded flow fragments systems; rigid walls suffocate them.<br>**Metal Freedom
 
 ***
 
-## 💥 Emotional Hooks & Cognitive Levers
+## ≈ Emotional Hooks & Cognitive Levers
 
 - 🛡️ **Protective Steadiness** — calm strength under load
 - 🌬️ **Relief from Chaos** — pressure has somewhere to go
@@ -41,7 +41,7 @@ This meme stabilizes fear by **restoring trust in structure**.
 
 ***
 
-## 📡 Spread Mechanics
+## 𐂷 Spread Mechanics
 
 **Distribution Vectors**
 
@@ -58,7 +58,7 @@ This meme stabilizes fear by **restoring trust in structure**.
 
 ***
 
-## 🛡️ Defense Reflexes
+## ⛨ Defense Reflexes
 
 - **Anti-Authoritarian Shield:** Boundaries without rulers
 - **Anti-Anarchy Guard:** Flow requires containment
@@ -68,7 +68,7 @@ Critique must explain **how boundary-less systems survive sustained pressure** �
 
 ***
 
-## 🧬 Memeplex Anchor Points
+## ☷ Memeplex Anchor Points
 
 - Boundary ethics
 - Resilient governance
@@ -78,7 +78,7 @@ Critique must explain **how boundary-less systems survive sustained pressure** �
 
 ***
 
-## 🧠 Sticky Symbols / Quotes
+## ✶ Sticky Symbols / Quotes
 
 - ⛨ **METAL**
 - 🧱 *Threshold*
@@ -89,7 +89,7 @@ Critique must explain **how boundary-less systems survive sustained pressure** �
 
 ***
 
-## 🏷️ Tags
+## ∿ Tags
 
 #MetalFreedom · #Stewardship · #PowerThrough · #BoundaryEthics · #ResilientGovernance · #IFPrime
 

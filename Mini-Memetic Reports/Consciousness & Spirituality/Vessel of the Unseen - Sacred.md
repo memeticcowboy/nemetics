@@ -10,7 +10,7 @@ Title:
 
 
 
-🧠 Core Idea Unit:
+∴ Core Idea Unit:
 
 - Authenticity is not about appearing alive but becoming attuned to what cannot be seen.
 - A rejection of performative vitality in favor of sacred interiority.
@@ -18,7 +18,7 @@ Title:
 
 
 
-🎭 Identity Play & Roles:
+▲ Identity Play & Roles:
 
 - Mystic / Vessel / Quiet Rebel<br>
     - Casts the user as someone who dares to defy cultural demands for visibility and emotional performance.
@@ -29,7 +29,7 @@ Title:
 
 
 
-💥 Emotional Triggers:
+≈ Emotional Triggers:
 
 - Awe, longing, relief, melancholy, quiet defiance<br>
     - Invokes sacred resistance to a noisy, overstimulated world.
@@ -39,7 +39,7 @@ Title:
 
 
 
-📡 Spread Mechanics:
+𐂷 Spread Mechanics:
 
 - Distribution Vectors: Instagram, Pinterest, Tumblr, TikTok voiceovers, spiritual Twitter/X
 - Propagation Style:<br>
@@ -51,7 +51,7 @@ Title:
 
 
 
-🛡️ Defense Reflexes:
+⛨ Defense Reflexes:
 
 - Moral Framing: Stillness = courage; performance = conformity
 - Reversal Shield: Critique is reinterpreted as proof of cultural obsession with performance
@@ -60,7 +60,7 @@ Title:
 
 
 
-🧬 Memeplex Anchor Points:
+☷ Memeplex Anchor Points:
 
 - Contemplative spirituality / Digital monasticism
 - Neurodivergence-as-sensitivity
@@ -71,7 +71,7 @@ Title:
 
 
 
-🧠 Sticky Symbols or Quotes:
+✶ Sticky Symbols or Quotes:
 
 - “Performances of aliveness”
 - “Dare to become”
@@ -81,7 +81,7 @@ Title:
 
 
 
-🏷️ Tags:
+∿ Tags:
 
 #QuietResistance #DigitalMystic #PerformativeFatigue #SacredInvisibility
 

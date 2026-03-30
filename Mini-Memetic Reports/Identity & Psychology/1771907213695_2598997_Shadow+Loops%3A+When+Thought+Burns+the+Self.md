@@ -8,11 +8,11 @@ Created at 2025/11/28 11:34 AM
 
 **Shadow Loops: The Burning Mind**
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 When analysis detaches from breath and embodiment, logic begins replicating itself—cold, sterile, recursive.<br>These shadow loops multiply until no self remains, only copies chasing clarity.<br>Reintroducing breath and slowness collapses the loops back into a unified, embodied mind.
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 - The intellect severed from body
 - The thinker drifting into infinite recursive clones
@@ -21,7 +21,7 @@ When analysis detaches from breath and embodiment, logic begins replicating itse
 
 The meme positions the viewer as someone on the edge of losing themselves to their own cognitive machinery.
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - Horror at self-replication
 - Seduction of hyper-clarity
@@ -31,20 +31,20 @@ The meme positions the viewer as someone on the edge of losing themselves to the
 
 The emotional cocktail is *intellectual dread + embodied relief*.
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**<br>Philosophy subreddits, therapy-adjacent discourse, spiritual/tech hybrid circles, anti-hyper-rationality essays, slow-cognition spaces.
 
 **Propagation Style:**<br>Shadowy recursion diagrams, looping silhouettes, heat-distortion effects, contemplative techno-horror, philosophical parable tone.
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - **Allegory Cloak:** “It’s metaphoric recursion, not pathology.”
 - **Intellectual satire shield:** gently mocks over-analysis while critiquing it.
 - **Ambiguity:** loops can represent cognition, identity, or cultural patterns.
 - **No claim to diagnosis:** stays symbolic, safe, and philosophical.
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 - Anti-abstraction phenomenology
 - Embodied cognition (Merleau-Ponty, Damasio)
@@ -53,7 +53,7 @@ The emotional cocktail is *intellectual dread + embodied relief*.
 - Cybernetics of runaway loops
 - Meta-philosophy of overthinking
 
-### **🧠 Sticky Symbols / Quotes**
+### ✶ Sticky Symbols / Quotes**
 
 **Symbols:**
 
@@ -71,7 +71,7 @@ The emotional cocktail is *intellectual dread + embodied relief*.
 - “Slow down or become shadow.”
 - “Breath collapses the loop.”
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #BurningMind #ShadowLoops · Embodied Cognition
 

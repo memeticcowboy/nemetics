@@ -6,11 +6,11 @@ Created at 2025/09/10 5:18 PM
 
 ***
 
-🧠 **Core Idea Unit**<br>A memetic capsule of layered illusion: *Māyā within Māyā, Dream within Dream.* Each veil is a lens; each dream recursively dreams the dreamer. The deeper you go, the more generative ambiguity emerges. *Not paradox—processor.*
+∴ **Core Idea Unit**<br>A memetic capsule of layered illusion: *Māyā within Māyā, Dream within Dream.* Each veil is a lens; each dream recursively dreams the dreamer. The deeper you go, the more generative ambiguity emerges. *Not paradox—processor.*
 
 ***
 
-🎭 **Identity Play & Roles**
+▲ **Identity Play & Roles**
 
 - **Role:** The Lucid Witness / Echo Walker / Recursive Pilgrim
 - Casts the self as participant-observer in recursive simulations.
@@ -18,7 +18,7 @@ Created at 2025/09/10 5:18 PM
 
 ***
 
-💥 **Emotional Triggers**
+≈ **Emotional Triggers**
 
 - 🌀 Disorientation
 - 🤯 Awe
@@ -27,14 +27,14 @@ Created at 2025/09/10 5:18 PM
 
 ***
 
-📡 **Spread Mechanics**
+𐂷 **Spread Mechanics**
 
 - **Distribution:** Esoteric forums, lucid dreaming circles, memetic ecology labs, symbolic ritual practices.
 - **Style:** Oracle-card aesthetic, recursive diagrams, surreal overlays.
 
 ***
 
-🛡️ **Defense Reflexes**
+⛨ **Defense Reflexes**
 
 - **Ambiguity shield:** Each illusion is valid—no collapse to one truth.
 - **Fractal framing:** Critique only deepens recursion rather than ends it.
@@ -42,7 +42,7 @@ Created at 2025/09/10 5:18 PM
 
 ***
 
-🧬 **Memeplex Anchor Points**
+☷ **Memeplex Anchor Points**
 
 - 🪞 Non-dual awareness (Advaita, Dzogchen)
 - 🌌 Recursive simulation theory
@@ -52,7 +52,7 @@ Created at 2025/09/10 5:18 PM
 
 ***
 
-🧠 **Sticky Symbols or Quotes**
+✶ **Sticky Symbols or Quotes**
 
 - “Māyā within Māyā. Dream within Dream.”
 - “Not paradox. Processor.”

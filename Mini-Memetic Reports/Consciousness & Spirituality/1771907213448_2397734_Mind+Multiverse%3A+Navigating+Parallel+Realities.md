@@ -4,7 +4,7 @@
 
 Created at 2025/08/16 5:17 PM
 
-📌 **Mini-Memetic Profile: “Parallel Realities in the Mind”**
+◈ **Mini-Memetic Profile: “Parallel Realities in the Mind”**
 
 ***
 
@@ -12,14 +12,14 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-**🧠 Core Idea Unit:**
+∴ Core Idea Unit:**
 
 - Belief: Multiple realities or timelines can coexist internally within thought, perception, and imagination.
 - Encodes a frame of **subjective multiverse** — the psyche as a site of overlapping, parallel dimensions.
 
 ***
 
-**🎭 Identity Play & Roles:**
+▲ Identity Play & Roles:**
 
 - User as **psychonaut** or **mental multiverse navigator**.
 - Positions others as fellow travelers or skeptics of mental multiplicity.
@@ -27,7 +27,7 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-**💥 Emotional Triggers:**
+≈ Emotional Triggers:**
 
 - **Wonder & awe** (infinite realities within).
 - **Alienation & fragmentation** (too many layers, destabilizing).
@@ -36,7 +36,7 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-**📡 Spread Mechanics:**
+𐂷 Spread Mechanics:**
 
 - **Distribution vectors:** Psychedelic meme accounts, philosophy forums, surrealist aesthetics.
 - **Propagation style:**
@@ -46,7 +46,7 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-**🛡️ Defense Reflexes:**
+⛨ Defense Reflexes:**
 
 - **Mystical ambiguity:** If challenged, reframed as metaphor.
 - **Psycho-exceptionalism:** “Only some can see these inner realities.”
@@ -54,7 +54,7 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-**🧬 Memeplex Anchor Points:**
+☷ Memeplex Anchor Points:**
 
 - **Psychedelic culture** (#MindExpanse, #Psytrance visuals).
 - **Metaphysical memes** (simulation, multiverse, Jungian archetypes).
@@ -63,7 +63,7 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-**🧠 Sticky Symbols or Quotes:**
+✶ Sticky Symbols or Quotes:**
 
 - “Parallel realities in the mind.”
 - “Worlds within worlds.”
@@ -72,7 +72,7 @@ Created at 2025/08/16 5:17 PM
 
 ***
 
-🏷️ **Tags:**<br>#MindMultiverse #ParallelConsciousness #PsyMeme #SurrealMeta
+∿ **Tags:**<br>#MindMultiverse #ParallelConsciousness #PsyMeme #SurrealMeta
 
 ##### “You Said / They Heard” Semantic Drift Examples
 

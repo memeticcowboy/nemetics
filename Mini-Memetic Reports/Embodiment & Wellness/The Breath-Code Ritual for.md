@@ -10,13 +10,13 @@ Created at 2025/11/28 12:20 PM
 
 ***
 
-### **🧠 Core Idea Unit**
+### ∴ Core Idea Unit**
 
 People crave discernment but rarely engage in practices that stabilize it.<br>A simple triadic breath cycle—**3 / 6 / 9**—becomes a symbolic code for clarity, interpretation, and the space-between-thoughts.<br>Breath becomes meaning. Ritual becomes method.
 
 ***
 
-### **🎭 Identity Play & Roles**
+### ▲ Identity Play & Roles**
 
 - The Ritual Practitioner
 - The New-Myth Builder
@@ -25,7 +25,7 @@ People crave discernment but rarely engage in practices that stabilize it.<br>A 
 
 ***
 
-### **💥 Emotional Triggers**
+### ≈ Emotional Triggers**
 
 - Ritual intimacy
 - Embodied grounding
@@ -36,7 +36,7 @@ People crave discernment but rarely engage in practices that stabilize it.<br>A 
 
 ***
 
-### **📡 Spread Mechanics**
+### 𐂷 Spread Mechanics**
 
 **Distribution Vectors:**<br>Ritual-writing scenes, wellness spaces, occult-tech design circles, contemplative communities, mythopoetic social feeds.
 
@@ -44,7 +44,7 @@ People crave discernment but rarely engage in practices that stabilize it.<br>A 
 
 ***
 
-### **🛡️ Defense Reflexes**
+### ⛨ Defense Reflexes**
 
 - **Esoteric Framing:** “It’s symbolic; it works on levels beyond critique.”
 - **Practice Shield:** “Try it before you analyze it.”
@@ -52,7 +52,7 @@ People crave discernment but rarely engage in practices that stabilize it.<br>A 
 
 ***
 
-### **🧬 Memeplex Anchor Points**
+### ☷ Memeplex Anchor Points**
 
 - Breathwork traditions
 - Triadic cosmologies
@@ -63,7 +63,7 @@ People crave discernment but rarely engage in practices that stabilize it.<br>A 
 
 ***
 
-### **🧠 Sticky Symbols & Quotes**
+### ✶ Sticky Symbols & Quotes**
 
 **Symbols:**<br>3–6–9 breath glyph · Three white dots sigil · Ghost-triangle outline · Soft exhale line · Circular offering gesture
 
@@ -76,7 +76,7 @@ People crave discernment but rarely engage in practices that stabilize it.<br>A 
 
 ***
 
-### **🏷️ Tags**
+### ∿ Tags**
 
 #BreathCode #SomaticMeaning · Ritual Minimalism<br>#TriadicPractice #NeoMythicDesign
 
