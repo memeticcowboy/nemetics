@@ -23,6 +23,8 @@ The immediate phenomenal given before subject-object split. Raw qualia before ca
 | **Compression** | Perceptual binding into coherent phenomenal objects |
 | **Output** | Phenomenal experience with basic differentiation |
 
+This is the fastest bow-tie cycle in the architecture (τ_χ ~ milliseconds). Compression here is Air-dominant: many possible distinctions collapse into one operative cut. The information lost — alternative framings that didn't survive selection — contributes micro-torsion that either unwinds immediately or, through cross-habitat torsion transfer, biases slower cycles downstream.
+
 ---
 
 ## Pathology: Frozen ᖺ
@@ -33,13 +35,15 @@ When It-Field claims perfect objectivity (ε → 0):
 - "Pure observation" becomes frozen gaze
 - The seer forgets they are seeing
 
+In the simulation architecture, frozen ᖺ corresponds to flex_i → 0 with high claim_i in the I-Tube state bundle — perceptual filters locked, distinctions asserted as permanent. This is where downward capture begins: frozen fast cycles at the perceptual level constrain which threads can enter My-Stream compression, producing affective loops (rising recurr_i) that feed back to further reduce flex_i.
+
 ---
 
 ## Twist Dynamics
 
-Fastest Twist formation and dissolution. Twists here are typically micro-torsions that unwind in milliseconds.
+Fastest twist formation and dissolution. Twists here are typically micro-torsions that unwind in milliseconds.
 
-**Residues at this level:** Perceptual biases—the earliest substrate modifications.
+**Residues at this level:** Perceptual biases — the earliest substrate modifications. These are torsion traces in the sense formalized by the Bow-Tie Process Layer: force without structure, directional pressure that hasn't yet become a pattern. Most micro-torsions discharge locally. Some transfer across the habitat boundary into My-Stream, where they bias affective processing at a slower timescale — the mechanism by which a subliminal perception shapes a mood.
 
 ---
 
@@ -61,5 +65,6 @@ Fastest Twist formation and dissolution. Twists here are typically micro-torsion
 
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2, Nested Dynamics v0.2)*
