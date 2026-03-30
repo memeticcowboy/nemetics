@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"Political & Ideological/images\" \"AI & Technology/images\" \"Digital Culture & Platform/images\" \"Consciousness & Spirituality/images\" \"Identity & Psychology/images\" \"Narrative & Information Warfare/images\" \"Ecology & Collapse/images\" \"Systems & Leadership/images\" \"Cultural Archetypes & Aesthetics/images\" \"Embodiment & Wellness/images\")",
+      "Bash(ls -d */)",
+      "Bash(bash categorize.sh)",
+      "Bash(bash download_images.sh)",
+      "Bash(bash embed_images.sh)",
+      "Bash(ls -la \"/c/Users/dayze/OneDrive/Documents/Obsidian Vault/GitHub/nemetics/Mini-Memetic Reports/Cultural Archetypes & Aesthetics/images/Craving Myths - Narrative.png\")"
+    ]
+  }
+}
