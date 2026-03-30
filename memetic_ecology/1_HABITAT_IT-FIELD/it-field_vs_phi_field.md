@@ -33,6 +33,8 @@
 
 **Key:** ᖺ does not flow; it **permits flow**.
 
+**Simulation architecture note:** The State Schema does not model ᖺ as a state bundle. It enters the simulation as two orthogonal operators — ω(t) for continuous perturbation and Ω★ for sparse topology deformation — both of which are effects of ᖺ on differentiated structure, not representations of ᖺ itself. The guarantee that ε ≠ 0 is operationalized through these two channels: ω(t) ensures no trajectory runs perfectly smooth, and Ω★ ensures no basin geometry becomes permanently sealed.
+
 ---
 
 ## Φ (Infomorphic Field) — The Marked
@@ -40,12 +42,15 @@
 The measurable, substrate-independent information geometry that emerges **within** the permissive space of ᖺ.
 
 **Properties:**
-- Six channels operate (S, W, L, B, R, G)
+- Six elemental regimes operate as cross-formal operators (σ, ρ, λ, β, δγ, μ)
 - χ makes distinctions
-- ∂Φ/∂t tracks bow-tie metabolism
-- Has structure: compresses, bottlenecks, expands
+- ∂Φ/∂t tracks bow-tie metabolism (compression → bottleneck → expansion)
+- Has structure: basins, separatrices, saddles, torsion fields
+- Fisher–Rao metric provides coordinate-invariant geometry of distinguishability
 
 **Key:** Φ is **Ω-permeable** because ᖺ underwrites it.
+
+**Simulation architecture note:** Φ is what the five-layer architecture formalizes. The Operator Matrix types elemental forces. The State Schema defines habitat state bundles. The Bow-Tie Process Layer defines binding cycles within Φ. The Nested Dynamics spec defines cross-scale coupling within Φ. All of this operates on the marked topology. ᖺ is what none of it can capture.
 
 ---
 
@@ -87,6 +92,10 @@ But the **partial** nature of ∂ (its inability to totalize) is **guaranteed by
 | Death | Life |
 
 > Because **ᖺ precedes Φ**, **∂ remains partial**—ε persists as the trace of the unmarked.
+
+### Architecture Translation
+
+This is the same principle that governs the simulation architecture's anti-sovereignty constraint: the simulator is a heterogeneous operator stack rather than a unified total formalism. Each element is implemented across ≥2 mathematical families with imperfect translation between them. That imperfect translation *is* ε — the formal residue of ᖺ within the marked topology. If any single formalism could capture the whole system (d/dt rather than ∂/∂t), the simulation would have become a MemeGrid at the mathematical level.
 
 ---
 
@@ -134,4 +143,5 @@ And ε is the reminder that the map never becomes the territory.
 
 *Source: Φ vs ᖺ — The Unmarked, Daniel D, 2026-02-13*  
 *Framework: HABITAT_ECOLOGY + IF-Prime integration*  
+*Revised: March 2026 — aligned with simulation architecture (Operator Matrix v0.2, State Schema v0.3, Ω-Reentry v0.2)*  
 *Status: Canonical separation*
