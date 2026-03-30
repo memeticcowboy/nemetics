@@ -6,7 +6,8 @@
       "Bash(bash categorize.sh)",
       "Bash(bash download_images.sh)",
       "Bash(bash embed_images.sh)",
-      "Bash(ls -la \"/c/Users/dayze/OneDrive/Documents/Obsidian Vault/GitHub/nemetics/Mini-Memetic Reports/Cultural Archetypes & Aesthetics/images/Craving Myths - Narrative.png\")"
+      "Bash(ls -la \"/c/Users/dayze/OneDrive/Documents/Obsidian Vault/GitHub/nemetics/Mini-Memetic Reports/Cultural Archetypes & Aesthetics/images/Craving Myths - Narrative.png\")",
+      "Bash(grep -rh \"Core Idea Unit\\\\|Identity Play\\\\|Emotional Trigger\\\\|Spread Mechanic\\\\|Defense Reflex\\\\|Memeplex\\\\|Sticky Symbol\\\\|Tags:\\\\|Mini-Memetic Profile\" \"AI & Technology\"/*.md)"
     ]
   }
 }
