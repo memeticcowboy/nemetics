@@ -2,13 +2,13 @@
 
 Created at 2025/07/29 4:03 PM
 
-### ◈ Mini-Memetic Profile: **“Zero-Sum Everything”**
+### ◈ Mini-Memetic Profile
 
-**Title:**<br>*The World as a Constant Contest*
+**Title:***The World as a Constant Contest*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Life and society are framed as inherently competitive, where any gain for one party is a direct loss for another.
 - Cooperation, mutual benefit, and abundance mindsets are dismissed as illusions.
@@ -16,7 +16,7 @@ Created at 2025/07/29 4:03 PM
 
 ***
 
-▲ Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - Positions the user as:
     - **Cynical realist** — “I see the game for what it really is.”
@@ -25,7 +25,7 @@ Created at 2025/07/29 4:03 PM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Fear** — Scarcity and threat of loss.
 - **Resentment** — Others’ success feels like theft.
@@ -34,7 +34,7 @@ Created at 2025/07/29 4:03 PM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution vectors:** Twitter/X, TikTok hot takes, image macros, anti-capitalist or hyper-capitalist discourse, gamer and crypto forums.
 - **Propagation style:**
@@ -44,7 +44,7 @@ Created at 2025/07/29 4:03 PM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Irony shield:** Dismisses critics as naïve or “cope-brained.”
 - **Pre-dismissal:** Anyone arguing for abundance is framed as delusional or propagandized.
@@ -52,14 +52,14 @@ Created at 2025/07/29 4:03 PM
 
 ***
 
-☷ Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - Scarcity economics, Malthusian logic, hyper-competitive capitalism, “blackpill” philosophy, zero-sum geopolitics, gamer win/lose culture.
 - Resonates with online subcultures like #Doomer, #E/Acc (effective accelerationism), and parts of manosphere and crypto discourse.
 
 ***
 
-**🔑 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - “If you’re not winning, you’re losing.”
 - “Somebody eats, somebody starves.”
@@ -68,5 +68,6 @@ Created at 2025/07/29 4:03 PM
 
 ***
 
-∿ Tags:**<br>#Doomer #ScarcityMindset #Blackpill #GameTheory #HyperCompetition #ClownWorld #SurvivalMode #NoFreeLunch
+### ∿ Tags
 
+#Doomer #ScarcityMindset #Blackpill #GameTheory #HyperCompetition #ClownWorld #SurvivalMode #NoFreeLunch

@@ -74,21 +74,3 @@ Art cannot exist in isolation; whether intentional or not, it reflects, reinforc
 Noticed via Adam Æ 
 
 https://x.com/revenant_MMXX/status/1972769358893240808
-
-## Resources
-- https://object.me.bot/front-img/users/send/img/1759209152814_c4zhf/1db2fd19-7302-481e-a4ea-f14d29e68724.png
-
-## Insight
-
-
-* The image emphasizes the idea that all art inherently carries a political dimension, reinforcing the core message that neutrality is a political stance itself. This ties into the concept that even seemingly apolitical or neutral art acts within a cultural and power context, either challenging or supporting existing structures.
-
-* The silhouette of an artist painting a raised fist symbolizes resistance and activism. Historically, the raised fist is a powerful icon associated with movements advocating for social justice, racial equality, and defiance against oppression—most notably linked to labor movements, civil rights, and anti-colonial struggles. This visual reinforces the idea that art and activism are deeply intertwined and that artistic expression can serve as a form of political resistance or support.
-
-* The accompanying text articulates how art cannot be divorced from the socio-political realities it exists within. Whether overt or subtle, art reflects the power dynamics, cultural forces, and ideologies of its time. This aligns with critical theories from scholars like Walter Benjamin or the Frankfurt School, who argue that all cultural productions are embedded in their historical contexts and serve to either challenge or uphold dominant ideologies.
-
-* The hashtags (#ArtIsPolitical, #CultureWars, #NeutralityIsComplicity) point to the contemporary discourse surrounding cultural polarization. In today's hyper-connected world, art is often weaponized or scrutinized within cultural wars, where its political implications are debated, sometimes reductively. This highlights how the framing of art as either political or apolitical is central to ongoing societal conflicts over values, history, and power.
-
-* The quotation “Even saying art is neutral proves the point” reflects a reflexive critique—highlighting that the very claim of neutrality may serve to obscure underlying power relations and tend to reinforce the status quo. Thinkers like John Dewey emphasized that art is always embedded in social conditions, and claims to neutrality often mask complicity with systemic inequities.
-
-* Overall, this image and its message serve as a reminder that recognizing the political dimensions of art can empower viewers and creators to view artistic expression as a site of agency—either in resistance or reinforcement—cementing art as a vital arena of cultural and political struggle.

@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 9:56 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Energy Budget” — The Rationalized Boundaries Ledger*
+**🧠 Title:***“Energy Budget” — The Rationalized Boundaries Ledger*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “Energy budget” reframes emotional and mental effort as **allocatable, trackable, and finite**, akin to **financial planning**.
 - Elevates self-care, boundaries, and disengagement into the realm of **practical life management**, detaching them from moral, emotional, or social obligations.
@@ -19,7 +19,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Energetic Accountant:** Keeps tabs on input/output, evaluates emotional costs vs. returns.
 - **Self-Regulation Strategist:** Frames well-being as a function of planning, not indulgence.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment through order:** Relief from emotional chaos via calculative structure.
 - **Scarcity-induced stress:** Triggers anxiety over overcommitment or depletion.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Life coaching, neurodivergent wellness content, therapist social posts, burnout prevention infographics, YouTube “self-management” channels.
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Pragmatic Framing:** Shields from accusations of coldness or withdrawal — “This is capacity, not cruelty.”
 - **Math-logic Shield:** Evokes objectivity; reduces pushback to misalignment of “resources,” not values.
@@ -58,7 +58,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#SelfHelpInfrastructure**, **#BurnoutCulture**, **#NeurodivergentPlanning**
 - Shares DNA with: #DigitalMinimalism, #BoundarySpeak, #TherapyTools
@@ -67,7 +67,7 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“You can’t pour from an empty account.”*
 - *“Your energy is not infinite—budget it like your finances.”*
@@ -76,5 +76,6 @@ Created at 2025/07/28 9:56 AM
 
 ***
 
-∿ **Tags:**<br>#EnergyBudgeting #WellnessAccounting #BoundaryMath #EmotionalEfficiency #BurnoutPrevention #SelfHelpInfrastructure #NeurodivergentTools #ADHDBudgeting #CostBenefitBoundaries #PracticalTherapy
+### ∿ Tags
 
+#EnergyBudgeting #WellnessAccounting #BoundaryMath #EmotionalEfficiency #BurnoutPrevention #SelfHelpInfrastructure #NeurodivergentTools #ADHDBudgeting #CostBenefitBoundaries #PracticalTherapy

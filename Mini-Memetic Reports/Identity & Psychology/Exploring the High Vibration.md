@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:08 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“High Vibration Only” — The Frequency Gatekeeping Meme*
+**🧠 Title:***“High Vibration Only” — The Frequency Gatekeeping Meme*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - Frames personal boundaries as a matter of **energetic frequency**, where only “high vibration” people, emotions, or environments are permitted access.
 - Casts emotional, spiritual, or interpersonal dissonance as **low-frequency contamination**—not just discomfort but existential misalignment.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Frequency Curator:** Filters experience based on energetic resonance, not logic or ethics.
 - **Ascended Insider:** Speaks from a position of spiritual evolution; low-vibration others are “not on the same level.”
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Validation of Withdrawal:** Offers justification for cutting off “negative energy” without confrontation.
 - **Empowerment Through Selectivity:** Affirms the right to curate one's life by invisible, felt criteria.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - New Age spirituality accounts, law of attraction pages, feminine-coded wellness content, TikTok astrology communities, manifestation coaches.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Spiritual Absolutism Shield:** Dissenters seen as low-vibration and thus self-invalidating.
 - **Non-engagement Armor:** Conflict reframed as “not my frequency”—prevents dialogue.
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#VibrationCulture**, **#NewAgeGatekeeping**, **#EnergeticBoundaries**
 - Closely tied to: #LawOfAttraction, #DivineFeminine, #EmpathTalk, #AscensionContent
@@ -67,7 +67,7 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“High vibes only.”*
 - *“If it lowers your frequency, it’s not for you.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 10:08 AM
 
 ***
 
-∿ **Tags:**<br>#HighVibrationOnly #VibeCuration #EnergeticGatekeeping #SpiritualMinimalism #ManifestationHygiene #AscensionBoundaries #QuantumWellness #FrequencyFiltering #NewAgeSelectivism #VibeEconomy
+### ∿ Tags
 
+#HighVibrationOnly #VibeCuration #EnergeticGatekeeping #SpiritualMinimalism #ManifestationHygiene #AscensionBoundaries #QuantumWellness #FrequencyFiltering #NewAgeSelectivism #VibeEconomy

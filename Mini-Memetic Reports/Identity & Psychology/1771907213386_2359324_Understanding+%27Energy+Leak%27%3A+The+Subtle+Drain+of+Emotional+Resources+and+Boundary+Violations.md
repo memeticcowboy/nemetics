@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 9:54 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Energy Leak” — The Invisible Drain as Violation Frame*
+**🧠 Title:***“Energy Leak” — The Invisible Drain as Violation Frame*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “Energy leak” metaphor casts **unwanted emotional expenditure** as a **subtle but dangerous loss**, usually caused by others or unresolved internal dynamics.
 - Frames **boundary violations** not as overt aggression, but as **passive, often unconscious siphoning** of personal energy.
@@ -19,7 +19,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Energetic Guardian:** Tasked with monitoring and patching leaks in the psychic/emotional field.
 - **Subtle Intuitive:** Sensitive to dynamics others don’t notice; implicitly elevated through perceptiveness.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Vulnerability:** Feeling of being “taken from” without consent or reciprocity.
 - **Violation without confrontation:** Anxiety, resentment without visible cause.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Spiritual wellness communities, energy healing circles, trauma-informed coaching, TikTok therapy and astrology accounts.
@@ -50,7 +50,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Non-confrontational Framing:** Leak talk avoids blaming but still assigns consequence.
 - **Subtle Gaslighting Defense:** “You may not mean to, but you’re draining me”—disables intent-based rebuttal.
@@ -59,7 +59,7 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#EmpathCulture**, **#EnergeticBoundaries**, **#SomaticHealing**
 - Connected to: #SpiritualHygiene, #TraumaDiscourse, #AttachmentWounds
@@ -68,10 +68,9 @@ Created at 2025/07/28 9:54 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Energy leak = soul tax.”*
 - *“If it costs you peace, it’s a leak.”*
 - *“You’re leaking energy through overthinking, people-pleasing, and open loops.”*
 - Visuals: cracked auras, water dripping from hearts, ethereal containment fields, broken energetic circuits, flowing cords cut by scissors
-

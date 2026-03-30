@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:34 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Body as Pharmacy” — The Self-Sourced Medicine Meme*
+**🧠 Title:***“Body as Pharmacy” — The Self-Sourced Medicine Meme*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “The body as pharmacy” presents the human body as a **self-healing biochemical temple**, capable of producing all the emotional, hormonal, and energetic resources it needs.
 - Shifts healing from external solutions (doctors, medications, validation) to **internal biochemical agency**.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Biochemical Sovereign:** Generates their own neurotransmitters through intentional practices.
 - **Somatic Alchemist:** Unlocks internal chemistry through breathwork, movement, mindfulness, or visualization.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment:** You already contain what you need.
 - **Hopefulness:** Healing is not distant or external—it’s always available, inside.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Wellness influencers, somatic therapy content, trauma recovery accounts, functional medicine, breathwork coaches, and manifestation rhetoric.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Biological Supremacy Shield:** Implies the body “knows better” than medical systems.
 - **Spiritual-Scientific Fusion Armor:** Uses biochemical facts wrapped in sacred language to deflect critique.
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#SomaticHealing**, **#BioSpiritualSovereignty**, **#FunctionalMedicine**, **#TraumaInformedCare**
 - Intersects with: #Breathwork, #NervousSystemRegulation, #PlantMedicineCulture, #SelfHealing
@@ -66,7 +66,7 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“You are the medicine.”*
 - *“Breathe and dose yourself.”*
@@ -76,5 +76,6 @@ Created at 2025/07/28 10:34 AM
 
 ***
 
-∿ **Tags:**<br>#BodyAsPharmacy #SelfHealingCode #SomaticAlchemy #BioSpirituality #InnerMedicine #BreathworkHealing #NeuroSovereignty #FunctionalWellness #PharmaMinimalism #HealingFromWithin
+### ∿ Tags
 
+#BodyAsPharmacy #SelfHealingCode #SomaticAlchemy #BioSpirituality #InnerMedicine #BreathworkHealing #NeuroSovereignty #FunctionalWellness #PharmaMinimalism #HealingFromWithin

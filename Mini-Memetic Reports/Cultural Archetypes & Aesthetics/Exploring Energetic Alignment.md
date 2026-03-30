@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:25 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Energetic Alignment” — The Intuitive Filter for Relational Fit*
+**🧠 Title:***“Energetic Alignment” — The Intuitive Filter for Relational Fit*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “Energetic alignment” presents interpersonal connection as a matter of **vibrational compatibility**, not shared values, communication, or effort.
 - Frames relationships (romantic, platonic, professional) as either **in alignment** or **out of resonance**—with no need for justification beyond felt energetic mismatch.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Intuitive Relationalist:** Trusts gut, aura, or “frequency” to determine who belongs.
 - **Sovereign Selector:** Reserves relational access only for those who feel energetically congruent.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment through Intuition:** Validates deep personal knowing over social obligation or logic.
 - **Fear of Misattunement:** Suggests that misalignment leads to stagnation, drain, or emotional compromise.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Spiritual influencer content, dating advice reels, empath and manifestation pages, therapy-inflected content about “safe people” or “soul contracts.”
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Unassailable Subjectivity:** Misalignment is felt, not argued—invalidates counterpoints.
 - **Non-confrontation Logic:** Disengagement framed not as rejection but misresonance.
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#EnergeticBoundaries**, **#DivineTiming**, **#SoulAlignment**
 - Closely tied to: #IntuitiveDating, #VibrationCulture, #HealingJourney, #EmpathContent
@@ -67,7 +67,7 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“If it’s aligned, it won’t feel forced.”*
 - *“Your energy introduces you before you speak.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 10:25 AM
 
 ***
 
-∿ **Tags:**<br>#EnergeticAlignment #SoulResonance #VibeFiltering #RelationalIntuition #CosmicCompatibility #AlignmentOverAttachment #FrequencyFit #AuraMatch #IntuitiveExit #SoftDisconnection
+### ∿ Tags
 
+#EnergeticAlignment #SoulResonance #VibeFiltering #RelationalIntuition #CosmicCompatibility #AlignmentOverAttachment #FrequencyFit #AuraMatch #IntuitiveExit #SoftDisconnection

@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 9:58 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Energetic ROI” — The Cost-Benefit Logic of Emotional Exchange*
+**🧠 Title:***“Energetic ROI” — The Cost-Benefit Logic of Emotional Exchange*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “Energetic ROI” (Return on Investment) reframes **human interaction, effort, and attention** as measurable investments demanding **commensurate payoff**.
 - Uses financial logic to **justify withdrawal, exclusion, or optimization** in relationships, routines, and commitments.
@@ -19,7 +19,7 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Emotional Investor:** Chooses selectively, assesses outcomes, pulls out of low-yield dynamics.
 - **Energetic Analyst:** Monitors output vs input across work, relationships, habits.
@@ -28,7 +28,7 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment:** Encourages smart choices in the name of self-respect and sustainability.
 - **Fear of Exploitation:** Appeals to those tired of overgiving or being undervalued.
@@ -37,7 +37,7 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Found in boundary-setting reels, energy coaching content, TikTok wellness influencers, trauma-recovery lingo, and entrepreneurial self-help media.
@@ -49,7 +49,7 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Economic Rationality Shield:** Decisions justified as “smart investing,” not personal rejection.
 - **Anti-Guilt Framing:** Avoids responsibility for withdrawal—“it’s not personal, it’s ROI.”
@@ -58,7 +58,7 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#SelfOptimization**, **#SpiritualCapitalism**, **#BoundaryCulture**
 - Closely tied to: #EmotionalAccounting, #BurnoutRecovery, #MinimalistWellness
@@ -67,7 +67,7 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Audit your energetic ROI regularly.”*
 - *“Good vibes only = high ROI only.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 9:58 AM
 
 ***
 
-∿ **Tags:**<br>#EnergeticROI #EmotionalInvesting #BoundaryEconomics #SelfHelpCapitalism #VibeValuation #ToxicityCost #AuditYourCircle #ReturnOnEnergy #HealingAsInvestment #SpiritualEfficiency
+### ∿ Tags
 
+#EnergeticROI #EmotionalInvesting #BoundaryEconomics #SelfHelpCapitalism #VibeValuation #ToxicityCost #AuditYourCircle #ReturnOnEnergy #HealingAsInvestment #SpiritualEfficiency

@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:31 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Somatic Boundary” — The Felt-Sense Shield of Embodied Autonomy*
+**🧠 Title:***“Somatic Boundary” — The Felt-Sense Shield of Embodied Autonomy*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “Somatic boundary” reframes personal limits not as abstract decisions or verbal assertions, but as **physical, internal, body-based signals**.
 - Emphasizes **felt experience over cognitive reasoning**, grounding boundaries in visceral intuition.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Embodied Intuitive:** Reads the body’s reactions as real-time guidance on safety and permission.
 - **Somatic Sovereign:** Defends bodily space and energetic autonomy as sacred and non-negotiable.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment Through Sensation:** Validates instinctive discomfort—especially for trauma survivors.
 - **Safety-Seeking:** Appeals to those disillusioned with abstract or ignored verbal boundaries.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Somatic therapy influencers, trauma-informed wellness circles, nervous system education posts, embodiment coaches, yoga therapy reels.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Felt Authority Shield:** Somatic truth supersedes debate—“My body said no.”
 - **Anti-Gaslighting Frame:** Provides defense against relational invalidation or overexposure.
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#SomaticHealing**, **#TraumaInformedCare**, **#NervousSystemRegulation**
 - Closely linked to: #PolyvagalTheory, #EmbodimentPractice, #FeltSafety, #TherapySpeak
@@ -67,7 +67,7 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Your body knows before your mind does.”*
 - *“A boundary is a felt sense, not a negotiation.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 10:31 AM
 
 ***
 
-∿ **Tags:**<br>#SomaticBoundary #EmbodiedConsent #TraumaWiseBoundaries #FeltSense #BodyKnowsBest #NervousSystemWisdom #EmbodimentEthics #SensorialSovereignty #PolyvagalPractices #HealingInTheBody
+### ∿ Tags
 
+#SomaticBoundary #EmbodiedConsent #TraumaWiseBoundaries #FeltSense #BodyKnowsBest #NervousSystemWisdom #EmbodimentEthics #SensorialSovereignty #PolyvagalPractices #HealingInTheBody

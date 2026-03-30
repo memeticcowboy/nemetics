@@ -2,15 +2,15 @@
 
 Created at 2025/07/31 11:11 AM
 
-◈ **Mini-Memetic Profile: “Memetic Immunization”**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**Title:**<br>*Training the Mind to Resist Infectious Ideas*
+**Title:***Training the Mind to Resist Infectious Ideas*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 > “Just as biological immunity protects the body from disease, exposure to weakened or controlled forms of memes builds resistance to manipulative or harmful narratives.”
 
@@ -22,7 +22,9 @@ The **thought-virus** encoded is:
 
 ***
 
-▲ Identity Play & Roles:**<br>Positions the user as:
+### ▲ Identity Play & Roles
+
+Positions the user as:
 
 - **Guardian of the Mind** — Protecting oneself from disinformation and propaganda.
 - **Memetic Strategist** — Actively studying ideas to prevent infiltration.
@@ -30,7 +32,7 @@ The **thought-virus** encoded is:
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment** — Confidence in resisting manipulative narratives.
 - **Fear / Vigilance** — Awareness of ever-present memetic hazards.
@@ -39,7 +41,7 @@ The **thought-virus** encoded is:
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Media literacy courses, rationalist and sensemaking communities.
@@ -51,7 +53,7 @@ The **thought-virus** encoded is:
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Preemptive Skepticism:** All new narratives are filtered as potential infections.
 - **Critic Immunity Shield:** Skeptics are framed as “infected” or “compromised.”
@@ -59,7 +61,7 @@ The **thought-virus** encoded is:
 
 ***
 
-☷ Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **Health & Biosecurity Frames** — Immune systems, vaccines, antibodies.
 - **Memetic Warfare** — Aligns with concepts like cognitive firewalls and narrative inoculation.
@@ -68,7 +70,7 @@ The **thought-virus** encoded is:
 
 ***
 
-**🔑 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - **Phrases:** “Mental vaccines,” “Cognitive antibodies,” “Inoculate before infection,” “Herd immunity of the mind.”
 - **Visuals:**
@@ -78,5 +80,6 @@ The **thought-virus** encoded is:
 
 ***
 
-∿ Tags:**<br>#MemeticImmunity #InfoDefense #CognitiveSecurity #CriticalThinking #AntiPropaganda #MentalHealthOfSociety #Sensemaking
+### ∿ Tags
 
+#MemeticImmunity #InfoDefense #CognitiveSecurity #CriticalThinking #AntiPropaganda #MentalHealthOfSociety #Sensemaking

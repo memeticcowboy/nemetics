@@ -2,15 +2,15 @@
 
 Created at 2025/07/28 10:45 AM
 
-◈ **Mini-Memetic Profile**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**🧠 Title:**<br>*“Untouchable Energy” — The Aura of Ascended Immunity*
+**🧠 Title:***“Untouchable Energy” — The Aura of Ascended Immunity*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 - “Untouchable energy” frames the ideal boundary outcome as a **radiant, unshakable energetic state** that is immune to negativity, manipulation, or disruption.
 - Suggests that **inner sovereignty**, once fully cultivated, manifests as a **field of invulnerability**—a form of spiritual armor or frequency force field.
@@ -19,7 +19,7 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-**🧍 Identity Play & Roles:**
+### ▲ Identity Play & Roles
 
 - **Ascended Frequency Being:** Moved beyond reaction, impervious to low-vibe influence.
 - **Energetic Fortress:** Maintains strong, radiant boundaries through internal discipline.
@@ -28,7 +28,7 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Empowerment through Distance:** Being “untouchable” symbolizes ultimate emotional control.
 - **Aspiration:** Offers a future self who can’t be shaken, manipulated, or drained.
@@ -37,7 +37,7 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - TikTok reels, Instagram affirmations, healing community content, coaching taglines, and wellness merch.
@@ -49,7 +49,7 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Unreactivity-as-Superiority:** Emotionally triggered responses framed as “low vibe” or unhealed.
 - **Shielding through Radiance:** Criticism is reframed as projection or proof of misalignment.
@@ -58,7 +58,7 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-**🔗 Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **#GlowUpCulture**, **#EnergeticSovereignty**, **#SpiritualBoundaries**, **#HealingAsStatus**
 - Connected to: #PostTraumaGlow, #WitchTok, #EmpathDefense, #ShadowWorkComplete
@@ -67,7 +67,7 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-**🧲 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - *“Your energy is too sacred to be touched.”*
 - *“Vibrate higher until they can’t reach you.”*
@@ -77,5 +77,6 @@ Created at 2025/07/28 10:45 AM
 
 ***
 
-∿ **Tags:**<br>#UntouchableEnergy #AuraImmunity #GlowUpBoundaries #FrequencyArmor #PostTraumaPower #SpiritualGlow #SacredDistance #EnergeticRadiance #AscensionMerit #HealingAsStatus
+### ∿ Tags
 
+#UntouchableEnergy #AuraImmunity #GlowUpBoundaries #FrequencyArmor #PostTraumaPower #SpiritualGlow #SacredDistance #EnergeticRadiance #AscensionMerit #HealingAsStatus

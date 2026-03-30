@@ -2,15 +2,15 @@
 
 Created at 2025/07/31 11:13 AM
 
-◈ **Mini-Memetic Profile: “Strategic Communications (StratCom)”**
+### ◈ Mini-Memetic Profile
 
 ***
 
-**Title:**<br>*Engineering Influence Through Planned Messaging*
+**Title:***Engineering Influence Through Planned Messaging*
 
 ***
 
-∴ Core Idea Unit:**
+### ∴ Core Idea Unit
 
 > “Information can be weaponized or optimized to achieve specific psychological, social, or political outcomes.”
 
@@ -22,7 +22,9 @@ The **thought-virus** encoded is:
 
 ***
 
-▲ Identity Play & Roles:**<br>Positions the user as:
+### ▲ Identity Play & Roles
+
+Positions the user as:
 
 - **Master Strategist / Operator** — Deliberately shaping minds and narratives.
 - **Insider / Elite Communicator** — Privy to the mechanics of perception control.
@@ -30,7 +32,7 @@ The **thought-virus** encoded is:
 
 ***
 
-≈ Emotional Triggers:**
+### ≈ Emotional Triggers
 
 - **Power & Control** — Excitement in steering public opinion and behavior.
 - **Cynical Awareness** — Recognition that all messaging is engineered.
@@ -39,7 +41,7 @@ The **thought-virus** encoded is:
 
 ***
 
-𐂷 Spread Mechanics:**
+### 𐂷 Spread Mechanics
 
 - **Distribution Vectors:**
     - Military & government communications, corporate PR, think tanks, political campaigns.
@@ -51,7 +53,7 @@ The **thought-virus** encoded is:
 
 ***
 
-⛨ Defense Reflexes:**
+### ⛨ Defense Reflexes
 
 - **Plausible Deniability:** Casts itself as “informing” rather than “manipulating.”
 - **Professional Legitimacy Shield:** Uses technical jargon and institutional framing to deflect criticism.
@@ -59,7 +61,7 @@ The **thought-virus** encoded is:
 
 ***
 
-☷ Memeplex Anchor Points:**
+### ☷ Memeplex Anchor Points
 
 - **Information Warfare & Psychological Operations (PsyOps)** — Strategic comms as soft-power weapons.
 - **Corporate Marketing & Brand Management** — Civilian counterpart in consumer persuasion.
@@ -68,7 +70,7 @@ The **thought-virus** encoded is:
 
 ***
 
-**🔑 Sticky Symbols or Quotes:**
+### ✶ Sticky Symbols or Quotes
 
 - **Phrases:** “Winning hearts and minds,” “Shaping the narrative,” “Message discipline,” “Information dominance.”
 - **Visuals:**
@@ -78,5 +80,6 @@ The **thought-virus** encoded is:
 
 ***
 
-∿ Tags:**<br>#StratCom #InfoWarfare #NarrativeShaping #PerceptionOps #HeartsAndMinds #InfluenceEngineering #SoftPower
+### ∿ Tags
 
+#StratCom #InfoWarfare #NarrativeShaping #PerceptionOps #HeartsAndMinds #InfluenceEngineering #SoftPower

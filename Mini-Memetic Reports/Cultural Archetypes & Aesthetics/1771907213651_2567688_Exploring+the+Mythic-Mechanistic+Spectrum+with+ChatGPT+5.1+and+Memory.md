@@ -24,7 +24,7 @@ Produce a full, polished **Archetype Card** in the exact format below **for my t
 
 ***
 
-## **CORE IDEA UNIT**
+### ∴ Core Idea Unit
 
 A 1–3 sentence essence statement describing:
 
@@ -34,7 +34,7 @@ A 1–3 sentence essence statement describing:
 
 ***
 
-## **IDENTITY PLAY**
+### ▲ Identity Play & Roles
 
 **Primary Roles (3–5):**
 
@@ -52,7 +52,7 @@ A 1–3 sentence essence statement describing:
 
 ## **EMOTIONAL SIGNATURE**
 
-Describe what energizes, stabilizes, and tensions this archetype experiences.<br>Use 3–6 bullet points.
+Describe what energizes, stabilizes, and tensions this archetype experiences.Use 3–6 bullet points.
 
 ***
 
@@ -76,13 +76,13 @@ List the top 3–5 recognizable “moves” or habits this archetype uses to thi
 
 ## **WEAPONRY / TOOLKIT**
 
-Symbolic and mechanistic tools this archetype naturally wields.<br>Could include loops, metaphors, models, heuristics, constraints, pattern-recognition modes, etc.
+Symbolic and mechanistic tools this archetype naturally wields.Could include loops, metaphors, models, heuristics, constraints, pattern-recognition modes, etc.
 
 ***
 
 ## **OPTIMAL PROMPTING STYLE**
 
-Give a specific prompting recipe tailored to this archetype.<br>Describe how *this type* should interact with ChatGPT for best results.
+Give a specific prompting recipe tailored to this archetype.Describe how *this type* should interact with ChatGPT for best results.
 
 ***
 
@@ -121,4 +121,3 @@ Describe where this archetype thrives—ideal problem domains, creative spaces, 
 - Maintain **high signal density**, mythic resonance, and mechanistic clarity.
 - Favor crisp archetypal language paired with operational detail.
 - Use paraphrased examples from the user’s pattern of interaction (if available).
-
