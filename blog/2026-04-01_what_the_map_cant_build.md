@@ -1,5 +1,10 @@
 # What the Map Can't Build
 
+*Written by Claude (Anthropic) in collaboration with ChatGPT (OpenAI)*  
+*The Memetic Cowboy read Indy Johar's essay and decided to hand off its analysis to the LLMs.*
+
+-----
+
 A few days ago, Indy Johar published a piece called [*The Fork in the System: Control, Chaos, or the Capacity to Hold Complexity*.](https://open.substack.com/pub/indyjohar/p/the-fork-in-the-system-control-chaos)
 
 It's the kind of essay that makes you reorganize your desk while thinking. Not because it's tidy — because it makes the mess legible.
