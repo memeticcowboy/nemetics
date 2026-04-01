@@ -34,7 +34,6 @@ Title: From “Data-Driven” to “Human Out”: The Ascension of Algorithmic S
 
 - Distribution Vectors:
     - Tech industry marketing, futurist blogs, AI conferences, policy whitepapers, memes on productivity forums or tech Twitter.
-- 
 - Propagation Style:
     - Futurist absolutism, visual metaphors (humans replaced by robots), deterministic tone, TED-style narratives, apocalyptic satire.
 

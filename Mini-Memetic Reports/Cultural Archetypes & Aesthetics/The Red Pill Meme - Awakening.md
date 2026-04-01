@@ -32,7 +32,6 @@ Created at 2025/06/03 8:31 PM
     - High-contrast memes contrasting “Bluepill lies” vs. “Redpill truth”
     - Matrix imagery: Morpheus offering the pill, digital rain, unplugging
     - Simplified truth-claims often backed by charts, data, or “hidden history”
-- 
 
 ### ⛨ Defense Reflexes
 

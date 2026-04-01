@@ -37,7 +37,6 @@ Title: Reply Guy — The Low-Status Seeker of Digital Proximity
     - Meme remixes (e.g. Wojak or Soyjack as Reply Guy avatars)
     - Lists or typologies (“Types of Reply Guys”)
     - Satirical Reply Guy accounts imitating the tone
-- 
 
 
 ### ⛨ Defense Reflexes
@@ -56,7 +55,6 @@ Title: Reply Guy — The Low-Status Seeker of Digital Proximity
     - Digital Courtship Anxiety
     - Microclout Dynamics
     - Inverse of “Main Character” or “Poster Power” memes
-- 
 
 
 ### ✶ Sticky Symbols or Quotes

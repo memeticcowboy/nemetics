@@ -37,7 +37,6 @@ Title: Clown World — The Absurdity Signal of a Collapsing Reality
     - Screenshots of “ridiculous” news headlines,
     - Collage memes of cultural incoherence.
     - “This is fine” and “we live in a society” echoes.
-- 
 
 
 ### ⛨ Defense Reflexes

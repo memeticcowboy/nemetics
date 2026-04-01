@@ -37,12 +37,10 @@ This image depicts a surreal symbolic construction: a central all-seeing eye wit
 
 - Distribution Vectors:
     - Esoteric art circles, digital spirituality forums, NFT communities, tattoo culture, aesthetic accounts.
-- 
 - Propagation Style:
     - Sigilic transmission — visual imprint that operates through aesthetic resonance rather than argument.
     - Symbolic ambiguity — invites personal interpretation, enhancing shareability.
     - Memetic mysticism — passed like a ritual object, not a statement.
-- 
 
 
 ### ⛨ Defense Reflexes
@@ -67,13 +65,11 @@ This image depicts a surreal symbolic construction: a central all-seeing eye wit
     - Winged eye
     - Inverted golden tetrahedron
     - Central axis/antenna (cosmic connection)
-- 
 - Phrases (associated meme echoes):
     - “The Eye Sees All”
     - “Know Thyself, Be Observed”
     - “As Above, So Below”
     - “You are the watcher and the watched”
-- 
 
 
 ### ∿ Tags

@@ -31,7 +31,6 @@ Created at 2025/07/19 7:03 PM
 - Distribution Vectors:
     - Control: Corporate, military, political, and bureaucratic media.
     - Coherence: Academic systems theory, spiritual subcultures, open-source communities, art and narrative media.
-- 
 - Propagation Style:
     - Control: Authoritative, declarative, rule-based, often literal.
     - Coherence: Poetic, illustrative, integrative, often metaphorical.
@@ -47,7 +46,6 @@ Created at 2025/07/19 7:03 PM
 
 - Control:
     - Authoritarianism, dogmatic religion, militarism, surveillance capitalism.
-- 
 - Coherence:
     - Systems thinking, regenerative culture, complexity science, mystical traditions.
 

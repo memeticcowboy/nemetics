@@ -37,7 +37,6 @@ Created at 2025/07/17 10:06 PM
     - Art and speculative fiction
     - Social media aesthetics (visionary art, poetic captions)
     - Design and futurism (e.g. metaverse discourse, solarpunk)
-- 
 - Propagation Style:
     - Reflective invocation, symbolic poetics
     - Indirect resonance—memes through metaphors, mythos, archetypes

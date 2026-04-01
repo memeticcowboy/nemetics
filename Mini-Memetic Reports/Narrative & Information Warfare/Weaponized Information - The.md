@@ -39,7 +39,6 @@ It provokes a mental shift: from seeing social media as expression → to seeing
     - Policy-speak cloaked in military metaphor
     - Analytic dread layered with civilian moral shock
     - Strategic irony (e.g. “meme militias,” “weaponized grandma”)
-- 
 
 
 ### ⛨ Defense Reflexes

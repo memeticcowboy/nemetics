@@ -36,7 +36,6 @@ Title: Compost Aesthetics — Decay as Meaning, Rot as Rebirth
     - Quotes from Donna Haraway, Anna Tsing, or folk animism
     - Graphic design mixing plant death, bones, waste, and soft text
     - Juxtaposing compost bins with mystical or sacred imagery
-- 
 
 
 ### ⛨ Defense Reflexes

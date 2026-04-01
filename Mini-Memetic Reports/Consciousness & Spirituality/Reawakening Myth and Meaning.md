@@ -36,7 +36,6 @@ Title: Post-Digital Mythos — Sacred Meaning After the Machine
     - Collaged ruins, scrolls, fungi, runes, and decaying UX icons
     - Texts invoking “lore,” “ritual,” “signal decay,” or “post-code prayers”
     - Hand-written fonts, ancient-feeling design mimicking sacred manuscripts
-- 
 
 
 ### ⛨ Defense Reflexes

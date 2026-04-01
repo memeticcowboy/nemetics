@@ -37,7 +37,6 @@ Title: Feed Slowness — Sabotaging the Scroll Machine
     - Screenshots of feed-less UI or “day offline” logs
     - Parodied algorithmic prompts (“You’ve been scrolling for 3 days”)
     - Tutorials on disabling autoplay, algorithm jamming, and slowposting rituals
-- 
 
 
 ### ⛨ Defense Reflexes

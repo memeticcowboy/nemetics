@@ -37,7 +37,6 @@ Title:
 
 - Distribution Vectors:
     - Alt-media platforms, X/Twitter threads, Substack essays, dissident podcasts
-- 
 - Propagation Style:
     - Framing style: Systems-level diagnosis
     - Tone: Cool rationality with undercurrents of suppressed rage or sarcasm
@@ -57,10 +56,8 @@ Title:
 - Ideological Systems:
     - Post-left critique, elite theory (e.g., Pareto, Burnham), class-based analysis
     - Anti-institutional populism, anarcho-pragmatism
-- 
 - Community Attachments:
     - Alt-intellectual spaces, dissident left/right crossover, media theory circles
-- 
 - Narrative Ties:
     - Collapse of trust in institutions, realpolitik, simulation/hyperreality discourse (Baudrillard, Curtis)
 

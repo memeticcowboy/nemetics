@@ -35,7 +35,6 @@ Title: CollapseCore — Aestheticizing the End of the World
     - Aesthetic moodboards of urban decay, brutalist ruins, dead malls
     - Quotes over ruins: T.S. Eliot, Spengler, “we are the ruins of a future that never came”
     - Threads of overlapping crises (climate, economic, technological runaway)
-- 
 
 
 ### ⛨ Defense Reflexes

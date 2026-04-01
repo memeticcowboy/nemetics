@@ -47,13 +47,11 @@ Life is a story, and anything can flip the script.
     - Twitter/X reactions
     - Meme captions on image macros
     - Live-commentary during plot-heavy content (reality TV, political drama)
-- 
 - Propagation Style:
     - Irony-first framing: humorous and self-aware
     - Narrative reframing: retroactively assigns drama to mundane situations
     - Call-and-response: invites users to share their own “plot twist” moments
     - Hybridized tropes: merges with other meme formats (“villain era,” “main character”)
-- 
 
 
 ### ⛨ Defense Reflexes

@@ -19,7 +19,6 @@ Created at 2025/07/05 7:27 AM
     - Attuned Seeker (one who listens to subtle signals)
     - Recovering Overachiever (a victim of past overexertion)
     - Gentle Steward (caretaker of internal ecology)
-- 
 
 
 ### ≈ Emotional Triggers
@@ -37,12 +36,10 @@ Created at 2025/07/05 7:27 AM
     - Self-help podcasts
     - Journaling prompts
     - Slow-living newsletters
-- 
 - Propagation style:
     - Reflective first-person narrative
     - Gentle call-to-action (“listen to your seasons”)
     - Poetic imagery
-- 
 
 
 ### ⛨ Defense Reflexes

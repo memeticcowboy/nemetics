@@ -36,7 +36,6 @@ Title: Black Pill — Fatalism as Forbidden Knowledge
     - Overlapping with Doomer/Wojak variants
     - Threads deconstructing societal myths (e.g., meritocracy, dating, democracy)
     - “Reality-core” charts, IQ graphs, and pseudo-scientific fatalism
-- 
 
 
 ### ⛨ Defense Reflexes
