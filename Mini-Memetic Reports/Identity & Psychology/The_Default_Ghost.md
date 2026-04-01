@@ -8,7 +8,7 @@ Created at 2026/04/01 8:57 PM
 
 **🔶 The Default Ghost — Functional, Unseen, Without Performance**
 
-
+[Noticed: Trent - substack](https://substack.com/@narcissusguard/note/c-236546233)
 ### ∴ Core Idea Unit
 
 - The "default ghost" describes men who are functional, stable, and self-reliant but socially invisible because they lack performative flair, exceptional status, or visible brokenness.
