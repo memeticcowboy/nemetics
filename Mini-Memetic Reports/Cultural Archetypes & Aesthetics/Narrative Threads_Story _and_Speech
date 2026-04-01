@@ -1,11 +1,4 @@
-# 
-
-Created at 2025/08/12 6:14 AM
-
-Title:
-
-Narrative Threads: Weaving Meaning in Story and Speech
-
+# Narrative Threads: Weaving Meaning in Story and Speech
 
 ### ∴ Core Idea Unit
 
