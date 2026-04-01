@@ -36,7 +36,6 @@ Title: Woke Capital — Virtue-Signaling Corporatism
     - Satirical infographics,
     - Screenshot memes juxtaposing inclusive slogans with exploitative practices.
     - Hashtag activism sabotage (e.g. hijacking #PrideMonth with anti-corporate critique).
-- 
 
 
 ### ⛨ Defense Reflexes

@@ -41,7 +41,6 @@ Collective Resonance: The Meme of Harmonic Synchrony
     - Inspirational aphorism (“we rise in resonance”)
     - Symbolic imagery (vibrations, waves, concentric circles).
     - Satirical/ironic echo in meta-meme contexts.
-- 
 
 
 ### ⛨ Defense Reflexes

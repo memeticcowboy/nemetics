@@ -36,7 +36,6 @@ Title: Identity Economy — Monetizing the Self in the Age of Infinite Selves
     - Vibe-based identity tags (e.g. “That girl,” “BookTok,” “CryptoDad”)
     - Visual branding kits, tone guides, aesthetic grids
     - Hashtag tribalism (#VanLife, #CleanGirl, #StoicInvestor)
-- 
 
 
 ### ⛨ Defense Reflexes
@@ -54,7 +53,6 @@ Title: Identity Economy — Monetizing the Self in the Age of Infinite Selves
     - Digital Spirituality (“Abundance identity”)
     - Crypto/Web3 Ideologies (self as sovereign asset)
     - Neurodivergent Identity Framing as niche capital
-- 
 
 
 ### ✶ Sticky Symbols or Quotes

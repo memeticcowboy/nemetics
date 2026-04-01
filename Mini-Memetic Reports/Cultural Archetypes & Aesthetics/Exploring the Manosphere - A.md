@@ -36,7 +36,6 @@ Title: Manosphere — Fractured Brotherhood in a Post-Patriarchal Age
     - Success story/testimonials (“I went monk mode and leveled up”)
     - Contrasts of “high-value man” vs. “beta male”
     - Videos of dating apps, public rejections, or female influencers contrasted with manosphere interpretations
-- 
 
 
 ### ⛨ Defense Reflexes
@@ -55,7 +54,6 @@ Title: Manosphere — Fractured Brotherhood in a Post-Patriarchal Age
     - PUA/Game – seduction as power
     - Incel – fatalistic exclusion from the dating market
     - Trad Men / Patriarchal Revivalists – restoration of hierarchy
-- 
 - Can converge with Alt-Right, fitness culture, entrepreneurship memes, or religious fundamentalism
 
 

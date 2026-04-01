@@ -21,7 +21,6 @@ Title:
     - Casts the user as someone who dares to defy cultural demands for visibility and emotional performance.
     - Not a victim, but a sovereign carrier of depth.
     - Aligns with the archetype of the contemplative outsider or gentle dissident.
-- 
 
 
 ### ≈ Emotional Triggers
@@ -29,7 +28,6 @@ Title:
 - Awe, longing, relief, melancholy, quiet defiance
     - Invokes sacred resistance to a noisy, overstimulated world.
     - Speaks to the pain of invisibility and transforms it into a source of dignity.
-- 
 
 
 ### 𐂷 Spread Mechanics
@@ -39,7 +37,6 @@ Title:
     - Poetic aphorism (short, profound, shareable)
     - Call to introspection rather than action
     - Aesthetic minimalism supports its anti-performative tone
-- 
 
 
 ### ⛨ Defense Reflexes

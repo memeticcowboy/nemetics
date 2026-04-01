@@ -38,7 +38,6 @@ Reject the militarization metaphor of “information war” by reframing social 
     - Calm rebuttals to militaristic rhetoric
     - Viral aphorisms like “Platforms are parks, not FOBs”
     - Graphic cards with “clean air” vs “toxic smog” metaphors
-- 
 
 
 ### ⛨ Defense Reflexes

@@ -36,7 +36,6 @@ Title: Dark Ecology — Entangled Doom and Non-Human Solidarity
     - Quotes from Timothy Morton, Donna Haraway, and speculative fiction
     - Art and memes featuring mycelial networks, rot, oil spills, and ruined wetlands
     - Juxtaposition of natural and synthetic decay
-- 
 
 
 ### ⛨ Defense Reflexes

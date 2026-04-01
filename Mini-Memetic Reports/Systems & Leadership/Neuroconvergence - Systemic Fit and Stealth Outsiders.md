@@ -34,7 +34,6 @@ Created at 2025/07/17 5:27 PM
 - Distribution vectors:
     - Neurodiversity Instagram, DEI slide decks, academic Twitter, therapy blogs
     - Peer-to-peer sharing in neurodivergent or educator communities
-- 
 - Propagation style:
     - Conceptual reframe with soft educational tone
     - Uses a “You might be…” structure familiar from identity-mapping memes

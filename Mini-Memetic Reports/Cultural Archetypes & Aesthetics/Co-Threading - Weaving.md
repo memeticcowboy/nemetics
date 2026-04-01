@@ -41,7 +41,6 @@ Co-Threading: The Meme of Collective Weaving
     - Meta-irony (“this is peak co-threading rn”)
     - Demonstrative practice (long, interlinked posts)
     - Semi-formalized ritual (“threading together across voices”).
-- 
 
 
 ### ⛨ Defense Reflexes

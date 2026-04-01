@@ -40,7 +40,6 @@ Are You Fictional? — The Meme of Ontological Dissociation
     - Short, uncanny direct text (“are you fictional?”).
     - Irony meme caption paired with surreal images.
     - Meta-philosophical commentary in absurdist formats.
-- 
 
 
 ### ⛨ Defense Reflexes

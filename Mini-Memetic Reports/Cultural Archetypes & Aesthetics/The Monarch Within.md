@@ -31,11 +31,9 @@ Title: The Monarch Within: Scriptural Fatalism and the Rejection of Self-Governa
 
 - Distribution Vectors:
     - Twitter/X threads, reactionary YouTube videos, trad-Catholic blogs, spiritual podcasts.
-- 
 - Propagation Style:
     - Direct claim often couched in moral or scriptural authority.
     - Occasional use of ironic retro aesthetics (e.g. Roman Empire memes).
-- 
 
 
 ### ⛨ Defense Reflexes

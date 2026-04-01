@@ -36,7 +36,6 @@ Title: Hypergamy — The Sexual Marketplace Theory of Female Choice
     - Side-by-side comparisons of “Chad vs. nice guy”
     - Catchphrases, pseudo-evolutionary diagrams, and TikToks dissecting female choices in viral videos
     - Use of dating app statistics as “proof”
-- 
 
 
 ### ⛨ Defense Reflexes

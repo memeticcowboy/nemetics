@@ -47,12 +47,10 @@ Emotionally constructed to soothe anxiety while stimulating agency—a high-comp
     - TikTok energy work clips
     - Coaching PDFs and affirmation apps
     - Embodied spiritual communities
-- 
 - Propagation Style:
     - Direct claim: “You are unfuckwithable.”
     - Ritual-infused instruction: Mantra + breath + visualization.
     - Mystic branding: Earth tones, flowy fonts, sacred geometry.
-- 
 
 
 ### ⛨ Defense Reflexes
