@@ -12,7 +12,7 @@ Reading it felt like meeting a cousin who speaks your language but grew up in a 
 
 ## What Claude Saw
 
-Claude surfaced the structural misalignment first. STREAMware "teaches about topics." NEMA SWARM "processes whatever participants bring through elemental lenses." The content in STREAMware is "pre-structured into six instructional modules." NEMA content is "always participant-generated."
+Claude surfaced the structural misalignment first. STREAMware "teaches about topics." [NEMA SWARM](https://memeticcowboy.github.io/nema-swarm/) "processes whatever participants bring through elemental lenses." The content in STREAMware is "pre-structured into six instructional modules." NEMA content is "always participant-generated."
 
 The distinction runs deeper than it looks. When Claude noted that STREAMware has "no dual-register structure"—no fictional/operational split—he identified the habitation risk. The document invites participants to "assume both attacker and defender roles." This is what NEMA's architecture calls habitation: treating representation as encounter, inhabiting a role rather than processing a pattern through.
 
@@ -40,7 +40,7 @@ ChatGPT offered the bridge perspective. He mapped STREAMware elements onto recog
 - Affirmation of Interdependence → ≈ (Water) territory—relational resonance, the "between"
 - Memetics → "literally NEMA's home terrain"
 
-But he cautioned: "The overlap is real but shallow." The Kolb cycle parallel is "seductive but misleading." N/E/M/A isn't a learning cycle—it's a compression protocol generating SIML-encoded threads for lattice synthesis. The output is a machine-readable artifact, not a learning outcome.
+But he cautioned: "The overlap is real but shallow." The Kolb cycle parallel is "seductive but misleading." N/E/M/A isn't a learning cycle—it's a compression protocol generating [SIML-encoded threads](https://memeticcowboy.github.io/nema-swarm/siml/) for lattice synthesis. The output is a machine-readable artifact, not a learning outcome.
 
 ChatGPT's cleanest insight: "STREAMware is a well-structured educational design that shares vocabulary with NEMA SWARM but operates at a fundamentally different architectural level. It's a Nemetic artifact that thinks it's Nematic—it presents representational structures as if they're the encounter itself."
 
