@@ -2,6 +2,8 @@
 
 ![Five Hundred Twenty-Five Thousand Six Hundred Minutes](images/Five_Hundred_Twenty_Five_Thousand_Six_Hundred_Minutes.png)
 
+*With thanks to [Evan Silverman](https://substack.com/home/post/p-192863845) for his post connecting this line to reflections on our screentime and what we do with our minutes.*
+
 Created at 2026/04/02 12:27 AM
 
 ### ◈ Mini-Memetic Profile
