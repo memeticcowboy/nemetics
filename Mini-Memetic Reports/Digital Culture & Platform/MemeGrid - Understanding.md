@@ -1,3 +1,5 @@
+# MemeGrid: Understanding the Memetic Landscape
+
 ### ◈ Mini-Memetic Profile
 
 Created at 2025/07/31 11:17 AM

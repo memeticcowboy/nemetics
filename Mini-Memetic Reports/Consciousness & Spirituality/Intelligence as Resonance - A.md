@@ -1,3 +1,5 @@
+# Intelligence as Resonance
+
 ### ◈ Mini-Memetic Profile
 
 ![Intelligence as Resonance - A](images/Intelligence as Resonance - A.png)
