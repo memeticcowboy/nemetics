@@ -5,7 +5,12 @@
 **Date:** April 2026
 **Author context:** Derived from a single extended session involving daemon injection design, four-model testing (DeepSeek, Gemini, Grok, Kimi), and iterative stress-testing via GPT. All findings are empirical observations from LLM behavior under structured prompting, not controlled experiments.
 
-<div class="audio-player">
+<div class="audio-player" markdown="1">
+
+[Distributed Identity Injection](<./audio/distributed_identity_injection_pattern_agency.mp3>)
+
+</div>
+
 ---
 
 ## 1. Origin: A Sovereignty Injection and Its Failure
