@@ -47,6 +47,7 @@ MARKDOWN_EXT_CONFIGS = {
 }
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico", ".bmp"}
+AUDIO_EXTENSIONS = {".mp3", ".ogg", ".wav", ".m4a"}
 
 # Sections to build, in order: (source_dir, output_subdir, section_key, title, description)
 ECOLOGY_SUBDIRS = [
@@ -227,6 +228,53 @@ def transform_slideshows(html: str) -> str:
     return re.sub(pattern, _replace, html, flags=re.DOTALL)
 
 
+def transform_audio_players(html: str) -> str:
+    """Transform <div class="audio-player"> blocks into styled audio player markup."""
+    pattern = r'<div class="audio-player"[^>]*>\s*(.*?)\s*</div>'
+
+    def _replace(match):
+        block = match.group(1)
+        # Match links: <a href="path">title</a>
+        links = re.findall(r'<a\s[^>]*?href="([^"]*)"[^>]*>(.*?)</a>', block)
+        if not links:
+            return match.group(0)
+
+        players_html = []
+        for src, title in links:
+            title = title.strip() or src.rsplit("/", 1)[-1]
+            players_html.append(
+                f'<div class="audio-track" data-src="{src}">\n'
+                f'  <button class="audio-play-btn" aria-label="Play">\n'
+                f'    <span class="audio-icon-play">&#9654;</span>\n'
+                f'    <span class="audio-icon-pause" style="display:none">&#9646;&#9646;</span>\n'
+                f'  </button>\n'
+                f'  <div class="audio-info">\n'
+                f'    <div class="audio-title">{title}</div>\n'
+                f'    <div class="audio-progress-bar">\n'
+                f'      <div class="audio-progress-fill"></div>\n'
+                f'    </div>\n'
+                f'    <div class="audio-time">\n'
+                f'      <span class="audio-current">0:00</span>\n'
+                f'      <span class="audio-duration">0:00</span>\n'
+                f'    </div>\n'
+                f'  </div>\n'
+                f'  <div class="audio-volume">\n'
+                f'    <button class="audio-volume-btn" aria-label="Mute">&#128264;</button>\n'
+                f'    <input type="range" class="audio-volume-slider" min="0" max="1" step="0.05" value="0.8">\n'
+                f'  </div>\n'
+                f'</div>'
+            )
+
+        count = len(links)
+        return (
+            f'<div class="audio-player" data-track-count="{count}">\n'
+            f'  {"".join(players_html)}\n'
+            f'</div>'
+        )
+
+    return re.sub(pattern, _replace, html, flags=re.DOTALL)
+
+
 def _protect_math(md_content: str):
     """Extract LaTeX math blocks before markdown processing to prevent mangling.
 
@@ -267,7 +315,8 @@ def md_to_html(md_content: str, strip_title: bool = True) -> str:
     )
     html = md.convert(md_content)
     html = _restore_math(html, math_placeholders)
-    return transform_slideshows(html)
+    html = transform_slideshows(html)
+    return transform_audio_players(html)
 
 
 def docx_to_markdown(filepath: Path) -> str:
@@ -388,20 +437,24 @@ class SiteBuilder:
         if js_src.exists():
             js_dst = self.output_dir / "slideshow.js"
             shutil.copy2(js_src, js_dst)
+        audio_js_src = TEMPLATES_DIR / "audio-player.js"
+        if audio_js_src.exists():
+            audio_js_dst = self.output_dir / "audio-player.js"
+            shutil.copy2(audio_js_src, audio_js_dst)
 
     def copy_images(self, src_dir: Path, output_subdir: str):
-        """Copy image files from a source directory (recursively) to the output."""
+        """Copy image and audio files from a source directory (recursively) to the output."""
         if not src_dir.exists():
             return
         for img in src_dir.rglob("*"):
-            if img.is_file() and img.suffix.lower() in IMAGE_EXTENSIONS:
+            if img.is_file() and img.suffix.lower() in IMAGE_EXTENSIONS | AUDIO_EXTENSIONS:
                 rel = img.relative_to(src_dir)
                 dest = self.output_dir / output_subdir / rel
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(img, dest)
 
     def copy_report_images(self):
-        """Copy images from Mini-Memetic Reports subdirs to slugified output paths."""
+        """Copy images and audio from Mini-Memetic Reports subdirs to slugified output paths."""
         reports_dir = ROOT / "Mini-Memetic Reports"
         if not reports_dir.exists():
             return
@@ -410,7 +463,7 @@ class SiteBuilder:
                 continue
             cat_slug = slugify(cat_dir.name)
             for img in cat_dir.rglob("*"):
-                if img.is_file() and img.suffix.lower() in IMAGE_EXTENSIONS:
+                if img.is_file() and img.suffix.lower() in IMAGE_EXTENSIONS | AUDIO_EXTENSIONS:
                     rel = img.relative_to(cat_dir)
                     dest = self.output_dir / "reports" / cat_slug / rel
                     dest.parent.mkdir(parents=True, exist_ok=True)
