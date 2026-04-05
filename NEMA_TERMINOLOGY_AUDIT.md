@@ -224,6 +224,20 @@ SNIPPET: nematic compression occurs (Noise→Extract→Metabolize→Activate), t
 
 **NOTE:** This is the most problematic single line — it uses LLM N-phase ("Noise") and E-phase ("Extract") in a Human-substrate document, plus the deprecated A-phase term "Activate". All four terms need correction for a Human context.
 
+### 2.1b Old Human Cycle (gerund form)
+
+```
+FILE: blog/2026-03-02_coordination_without_mind.md
+LINE: 37
+TERM: noticing...engaging...mulling...activating (full deprecated Human cycle)
+SUBSTRATE_CONTEXT: HUMAN
+CURRENT_STATUS: DEPRECATED (mulling → metabolizing, activating → acting)
+SUGGESTED_ACTION: REPLACE_WITH:noticing...engaging...metabolizing...acting
+SNIPPET: The full cycle—**noticing (Air), engaging (Water), mulling (Earth), activating (Fire)**—compressed into pure activation.
+```
+
+**NOTE:** Gerund form in prose. "noticing" and "engaging" are correct. "mulling" → "metabolizing" and "activating" → "acting".
+
 ### 2.2 Partial Cycle: NEM (3-phase)
 
 ```
@@ -503,8 +517,8 @@ SNIPPET: | Identify major concepts | N (Notice/Extract) | σ-cutting patterns fr
 
 | Term | Count | Files | Priority |
 |------|-------|-------|----------|
-| **Activate** | 11 | 6 | HIGH — most pervasive deprecated term |
-| **Mull** | 5 | 5 | MEDIUM |
+| **Activate** | 12 | 7 | HIGH — most pervasive deprecated term |
+| **Mull** | 6 | 6 | MEDIUM |
 | **Muse** | 1 | 1 | LOW |
 | **Articulate** (as phase) | 1 | 1 | LOW |
 
@@ -546,8 +560,9 @@ SNIPPET: | Identify major concepts | N (Notice/Extract) | σ-cutting patterns fr
 3. **Glossary/S/storytech.md** — 3 findings (Mull, Activate, Notice/Extract bridge)
 4. **blog/2026-03-19-storytech-participatory-bow-tie.md** — 3 findings (Mull, Activate, Notice/Extract bridge)
 5. **Papers/nemes_as_temporal_crystals_v1.1.md** — 2 findings (Muse, Activate)
-6. **Papers/SIML_Plain_English_Guide_v1.1.1.md** — 1 finding (Activate)
-7. **memetic_ecology/5_HABITAT_THREADPLEX/thread.md** — 1 finding (Mull)
+6. **blog/2026-03-02_coordination_without_mind.md** — 2 findings (mulling, activating — gerund form full cycle)
+7. **Papers/SIML_Plain_English_Guide_v1.1.1.md** — 1 finding (Activate)
+8. **memetic_ecology/5_HABITAT_THREADPLEX/thread.md** — 1 finding (Mull)
 
 ---
 
@@ -559,6 +574,11 @@ SNIPPET: | Identify major concepts | N (Notice/Extract) | σ-cutting patterns fr
 - **storytech.md lines 49-50**: Bridge notation `N (Notice/Extract)` and `E (Engage/Mull)` — decide if bridge format should be kept or resolved to single substrate
 - **nemes_as_temporal_crystals_v1.1.md line 574-576**: Phase description block (Muse, Activate) — prose context may need rewording, not just word-swap
 - **SIML_Plain_English_Guide_v1.1.1.md line 90**: Plain-English description — `**Activate** — do something based on what you've found.` — this is explanatory prose
+
+### Additional Pass 2 notes:
+- **coordination_without_mind.md line 37**: Gerund-form prose — "mulling" → "metabolizing" and "activating" → "acting". The sentence also ends with "compressed into pure activation" which may need rewording to "compressed into pure action" for consistency.
+- **No correct LLM or Human cycle exists verbatim anywhere** — neither `Noise→Extract→Modulate→Exchange` nor `Notice→Engage→Metabolize→Act` appear in the repo. The correct forms need to be introduced, not just swapped.
+- **NEMA 4-Phase Specification v2.0** is referenced as a dependency in `Papers/distributed_identity_injection_pattern_agency.md:193` but that spec file does not exist in this repo.
 
 ### Global observation:
 The LLM-substrate phase vocabulary is almost entirely absent from the documentation. "Modulate" and "Exchange" (correct LLM terms) barely appear as phase names. The corpus is overwhelmingly Human-substrate ("nematic") with a few general/ambiguous references. A separate audit may be needed to determine whether LLM-substrate NEMA documentation exists elsewhere (e.g., nema-swarm repo) or needs to be created.
