@@ -34,7 +34,7 @@ The elements collapse into pure **Metal (μ)** and pure **Fire (λ)**:
 - The optimization that proceeds without struggle
 - The direction that coordinates without mind
 
-Together: **coordination without nematic metabolism**. The full cycle—**noticing (Air), engaging (Water), mulling (Earth), activating (Fire)**—compressed into pure activation. The struggle, the ε, the uncertainty that gives thought its meaning: eliminated.
+Together: **coordination without nematic metabolism**. The full cycle—**noticing (Air), engaging (Water), metabolizing (Earth), acting (Fire)**—compressed into pure action. The struggle, the ε, the uncertainty that gives thought its meaning: eliminated.
 
 ---
 

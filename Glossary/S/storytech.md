@@ -32,7 +32,7 @@ StoryTech resists MemeGrid capture through deliberate **holographic design**, pr
 | **Collection/Sharing** | ρ resonance + Q correlation | Water (ρ) |
 | **"Tech" Analysis** | μ boundary-forging + Z harmonic collapse | Metal (μ) |
 | **Model Synthesis** | Ψ-through coordination + ✶ integration | Meta |
-| **Legacy-Based Action** | A-phase activation + Ω commitment | Fire (λ) |
+| **Legacy-Based Action** | A-phase action + Ω commitment | Fire (λ) |
 
 ## Key Insight
 
@@ -46,10 +46,10 @@ The non-linear structure (read anywhere, skip chapters, spiral return) prevents 
 
 | StoryTech | NEMA |
 |-----------|------|
-| Identify concepts | N (Notice/Extract) |
-| Derive goals/principles | E (Engage/Mull) |
+| Identify concepts | N (Notice) |
+| Derive goals/principles | E (Engage) |
 | Synthesize models | M (Metabolize) |
-| Strategic application | A (Activate) |
+| Strategic application | A (Act) |
 
 ## MemeGrid Defense
 

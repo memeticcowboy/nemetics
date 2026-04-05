@@ -28,7 +28,7 @@ StoryTech operationalizes the full compression-expansion cycle across the [We-Sp
 | **Collection/Sharing** | ρ (Water) resonance + Q-inward relational correlation | Pre-bottleneck mixing |
 | **"Tech" Analysis** | μ (Metal) boundary-forging + Z harmonic collapse | **Bottleneck** (critical ε-preservation) |
 | **Model Synthesis** | Ψ-through pattern coordination, ✶ integration | Right funnel expansion |
-| **Legacy-Based Action** | A-phase activation with Ω-adjacent commitment | Output to World-State |
+| **Legacy-Based Action** | A-phase action with Ω-adjacent commitment | Output to World-State |
 
 The methodology's insistence on **personal futuring before collective analysis** ensures the left funnel remains populated with idiosyncratic noise—each participant's story carries unique ε that prevents the "Tech" phase from collapsing into sterile optimization (resisting [Goodhart dynamics](https://memeticcowboy.github.io/nemetics/glossary/dodo-x.html)).
 
@@ -72,10 +72,10 @@ The "Tech" analysis maps precisely to ◈ NEMA coordination:
 
 | StoryTech "Tech" Step | NEMA Phase | Function |
 |-----------------------|------------|----------|
-| Identify major concepts | N (Notice/Extract) | σ-cutting patterns from noise |
-| Derive goals/principles | E (Engage/Mull) | ρ-correlation + λ-aim assessment |
+| Identify major concepts | N (Notice) | σ-cutting patterns from noise |
+| Derive goals/principles | E (Engage) | ρ-correlation + λ-aim assessment |
 | Synthesize models | M (Metabolize) | μ-forging coherent boundaries |
-| Strategic application | A (Activate) | ✶ harmonic integration with World-State |
+| Strategic application | A (Act) | ✶ harmonic integration with World-State |
 
 However, StoryTech adds the crucial **participatory substrate requirement**: the N-phase occurs across many participants simultaneously, ensuring the extraction is **distributed rather than centralized** (preventing the "elegant prison" of single-subject μ).
 

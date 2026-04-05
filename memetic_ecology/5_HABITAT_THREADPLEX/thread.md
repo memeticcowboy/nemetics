@@ -181,7 +181,7 @@ A Thread attracts interest and preliminary identification.
 ### m∿ — Metabolized Phase
 
 **Bias:** Q  
-**Mnemonic:** Mull / Metabolize
+**Mnemonic:** Metabolize
 
 A Thread enters the My-Stream and acquires temporal and affective weight.
 

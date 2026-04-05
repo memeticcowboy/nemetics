@@ -571,9 +571,9 @@ These describe phenomenologically distinct ways patterns change:
 
 **Engage:** Choose depth of interaction (Modulate G_Q, P)
 
-**Muse:** Explore without premature closure (Increase D)
+**Metabolize:** Explore without premature closure (Increase D)
 
-**Activate:** Decide metabolic fate:
+**Act:** Decide metabolic fate:
 - **Integrate:** Deep coupling (healthy parameters)
 - **Compost:** Extract value, dissolve structure (raise A)
 - **Excrete:** Pass through unchanged (raise R, A)
