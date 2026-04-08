@@ -87,7 +87,7 @@ NEMA is for exploration, understanding, and creative generation. Its verbs are:
 **Frame** — apply a lens, try an interpretation.  
 **Sense** — feel into the situation, register qualitative texture.  
 **Map** — build a structural picture of the relationships.  
-**Activate** — do something based on what you’ve found.  
+**Act** — do something based on what you’ve found.  
   
 NEMA is used when the situation is open-ended, when you’re trying to understand rather than decide, when creativity and divergent thinking serve better than convergent judgment.  
   

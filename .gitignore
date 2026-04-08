@@ -6,3 +6,10 @@ _site/
 __pycache__/
 *.pyc
 Glossary/M/memegrid.md
+
+# NEMA meta-harness (private — lives in separate repo)
+meta-harness/
+CLAUDE.md
+.claude/skills/nema-harness/
+meta-harness/
+CLAUDE.md

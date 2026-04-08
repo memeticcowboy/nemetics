@@ -133,7 +133,7 @@ The [6DOF](https://memeticcowboy.github.io/nemetics/glossary/6dof.html) constitu
 | **N** (Notice) | Yaw scan + Pitch adjust | σ-heading + λ↔️δγ balance |
 | **E** (Engage) | Y-resonance + Roll softening | ρ-permeability + μ-stance |
 | **M** (Metabolize) | Z-cycling + X-gating | δγ-velocity + λ-threshold |
-| **A** (Activate) | Full 6DOF pose commit | Integrated Ψ-pose enactment |
+| **A** (Act) | Full 6DOF pose commit | Integrated Ψ-pose enactment |
 
 ---
 
@@ -181,9 +181,9 @@ SelfMesh maneuvers are **macro-operators composed of elemental weightings**:
 | **SCAN** | Air–Wood | N (Notice) | σ-sweep across We/Other boundary; detects Twist residues |
 | **ENGAGE** | Fire–Metal | E→M | λ-vectored projection with μ-integrity |
 | **RESONATE** | Water–Metal | E (Engage) | ρ-coupling with boundary preservation |
-| **COMPOST** | Earth–Water | M (Mull) | δγ-cycling with ρ-permeability; releases Knot tension |
+| **COMPOST** | Earth–Water | M (Metabolize) | δγ-cycling with ρ-permeability; releases Knot tension |
 | **REFRAME** | Wood–Air | N→E | β-branching + σ-redistinction; changes Yaw heading |
-| **COORDINATE** | Aether (✶) | A (Activate) | Z-harmonic; holds all tensions without resolution |
+| **COORDINATE** | Aether (✶) | A (Act) | Z-harmonic; holds all tensions without resolution |
 
 ---
 

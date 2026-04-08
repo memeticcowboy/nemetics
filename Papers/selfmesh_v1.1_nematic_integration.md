@@ -108,7 +108,7 @@ Left Funnel        Bottleneck         Right Funnel
 | **N (Notice)** | Yaw scan + Pitch adjust | σ-heading + λ↔️δγ balance |
 | **E (Engage)** | Y-resonance tuning + Roll softening | ρ-permeability + μ-stance |
 | **M (Metabolize)** | Z-axis cycling + X-gating | δγ-velocity + λ-threshold |
-| **A (Activate)** | Full 6DOF pose commit | Integrated Ψ-pose enactment |
+| **A (Act)** | Full 6DOF pose commit | Integrated Ψ-pose enactment |
 
 ---
 
@@ -151,11 +151,11 @@ SelfMesh maneuvers are **macro-operators composed of elemental weightings**:
 | Maneuver | Elemental Composition | Nematic Phase | Tactical Function |
 |----------|---------------------|---------------|-------------------|
 | **SCAN** | Air–Wood | N (Notice) | σ-sweep across We/Other boundary; detects Twist residues before Knot formation |
-| **ENGAGE** | Fire–Metal | E→M (Extract→Metabolize) | λ-vectored projection with μ-integrity; commits to Thread without flooding |
+| **ENGAGE** | Fire–Metal | E→M (Engage→Metabolize) | λ-vectored projection with μ-integrity; commits to Thread without flooding |
 | **RESONATE** | Water–Metal | E (Engage) | ρ-coupling with boundary preservation; tests "Is this We-Sphere or MemeGrid?" |
-| **COMPOST** | Earth–Water | M (Mull/Metabolize) | δγ-cycling with ρ-permeability; releases Knot tension via Z-descent |
+| **COMPOST** | Earth–Water | M (Metabolize) | δγ-cycling with ρ-permeability; releases Knot tension via Z-descent |
 | **REFRAME** | Wood–Air | N→E transition | β-branching + σ-redistinction; changes Yaw heading when frame fails |
-| **COORDINATE** | Aether (✶) | A (Activate/Articulate) | Z-harmonic; holds all elemental tensions without resolution |
+| **COORDINATE** | Aether (✶) | A (Act) | Z-harmonic; holds all elemental tensions without resolution |
 
 ### Cross-Habitat Migration Protocol
 
@@ -210,7 +210,7 @@ Encode pose as SIML-compatible string:
 
 ### Integration with NEMA Compression
 
-When nematic compression occurs (Noise→Extract→Metabolize→Activate), the SelfMesh records **pose trace**—the sequence of 6DOF configurations during field descent.
+When nematic compression occurs (Notice→Engage→Metabolize→Act), the SelfMesh records **pose trace**—the sequence of 6DOF configurations during field descent.
 
 This becomes the **biomarker for installation vectors**: trauma leaves specific kinematic signatures (e.g., Roll locked at Metal during A-phase).
 
