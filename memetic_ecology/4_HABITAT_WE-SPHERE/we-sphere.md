@@ -42,6 +42,8 @@ The We-Sphere performs three bounded ecological roles:
 
 > The We-Sphere sustains meaning. It does not decide it.
 
+**Architecture note:** The State Schema v0.3 instantiates We-Sphere state relationally — not as a single collective object but as the coupling between agents. The bundle S_W(i, j, t) carries κ_ij (coupling strength, modulated by Fisher distance between agents' Φ-configurations), Δφ_ij (phase difference between agents), sync_ij (synchronization index), dissent_ij (phase variance tolerance — how much disagreement the coupling can sustain), and exit_ij (exit cost for agent i to leave coupling with j). The three bounded roles above map to these variables: shared orientation is phase alignment (Δφ_ij dynamics), Knot reinforcement is how sync_ij patterns stabilize around shared attractors, and local Threadplex maintenance is the coupling network's ability to sustain coordination without centralizing authority.
+
 ---
 
 ## Scale and Multiplicity
@@ -83,6 +85,8 @@ The We-Sphere operates in **Q**, not χ and not Z.
 | Reinforcement | Through timing and repetition, not argument |
 
 > What circulates first is **tone**, not content.
+
+**Architecture note:** The Operator Matrix types Water (≈) as operating primarily in coupled dynamical systems — oscillatory resonance, partial synchronization, phase-lock tendencies, metastable entrainment. The critical constraint is that Water must not achieve total synchronization. Full phase-lock is not coordination; it is MemeGrid at the relational layer. Healthy coupling preserves chimera states (mixed sync/desync, heterogeneous frequencies) where synchronization is partial and phase diversity is maintained. "Tone circulating before content" is the dynamical expression of this: agents entrain on amplitude and rhythm without necessarily converging on distinctions or directions. That is why arguments rarely change We-Spheres and why shared rhythm does.
 
 ---
 
@@ -160,6 +164,8 @@ A We-Sphere becomes pathological when:
 - Ψ hardens into obligation
 - The We-Sphere begins sliding toward MemeGrid conditions
 
+**Architecture note:** The State Schema formalizes these four pathologies through specific variables. "Participation becomes compulsory" = exit_ij escalating toward infinite (finite survivable exit cost is a Co-SPHERE indicator; escalating cost is a MemeGrid indicator). "Dissent threatens belonging" = dissent_ij dropping toward zero (the coupling can no longer sustain Δφ_ij ≠ 0 without destabilizing). "Exit costs exceed tolerability" = the specific moment exit_ij crosses survivability threshold. "Norms harden into identity tests" = sync_ij approaching 1 with dissent_ij approaching 0, the pathological combination distinguishing enforced coherence from partial synchronization. The diagnostic "Can one remain while disagreeing, or leave without punishment?" is measured through both dissent_ij (internal tolerance) and exit_ij (departure cost) — both must remain healthy for Co-SPHERE.
+
 ---
 
 ## Relation to Adjacent Layers
@@ -191,4 +197,5 @@ A We-Sphere remains alive only while:
 
 *Source: We-Sphere definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Operator-to-Formalism Matrix v0.2, Nested Bow-Tie Dynamics v0.2)*  
 *Philosophical anchors: Arendt (plurality), Mead (emergence), Luhmann (communication), Bateson (pattern)*
