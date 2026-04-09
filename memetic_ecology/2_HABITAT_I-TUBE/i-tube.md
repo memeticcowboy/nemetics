@@ -42,6 +42,8 @@ The I-Tube performs three tightly bounded operations:
 
 **The I-Tube registers. It does not decide.**
 
+**Simulation architecture note:** The State Schema v0.3 splits these operations into two distinct variables: `flex_i` (perceptual revisability — can the cut be re-made?) and `claim_i` (claim pressure — how strongly is the cut asserted as "mine"?). This split was added precisely to honor the canonical distinction between localization/articulation (always present) and optional reflexive claim (which is independent and can vary). A system can have high flex_i AND high claim_i — that is healthy commitment. The pathological combination is low flex_i + high claim_i: frozen claim. Splitting these variables prevents the simulator from collapsing distinction into ownership.
+
 ---
 
 ## Pre-Conscious Passage (Critical)
@@ -55,6 +57,8 @@ A Thread may:
 - **Never be articulated at all**
 
 > Conscious awareness is **one articulation mode among others**, not the gatekeeper of experience.
+
+**Architecture note:** This is consistent with the simulation's torsion mechanics. A thread can carry torsion (twist_k) through a habitat without binding into a knot. The Bow-Tie Process Layer formalizes this as the difference between absorbed threads (which contribute to knot formation) and extinguished threads (which dissipate without contributing). A thread that "passes through the I-Tube without notice" is closer to torsion transfer than to articulated experience — the cross-habitat torsion mechanism in the Nested Bow-Tie Dynamics spec describes how such pre-articulate signals can still shape downstream cycles.
 
 ---
 
@@ -103,6 +107,8 @@ Curvature biases future passage
 - Persistence without essence
 
 **Nothing is added. Nothing is owned.**
+
+**Architecture note:** Lamination is the I-Tube version of what the Lattice does at the threadplex scale — memory as curvature, not archive. The same principle operates at both scales: structural bias accumulated through repeated passage, biasing future descent without commanding it. The I-Tube laminates fast (per-thread, per-cycle); the Lattice laminates slow (across many cycles). Both are revisable. Both can become pathological if they harden from scaffold into command.
 
 ---
 
@@ -155,6 +161,8 @@ When permeability collapses, the I-Tube becomes a private tunnel that mistakes l
 
 > This is the **earliest psychological seed of MemeGrid formation**.
 
+**Architecture note:** In the simulation architecture, this collapse is the start of **downward capture** — frozen fast cycles at the perceptual level constrain which threads can enter slower-scale compression. The Operator Matrix types the I-Tube as projective orientation space, where Air's χ operates with revisability (flex_i) and where Fire selects directional descent within the oriented perspective. The pathology is not "too much distinction-making" but distinction-making without revisability: cuts that cannot be re-cut. The simulation's diagnostic priority places this as one of the earliest detectable signs of cascade failure.
+
 ---
 
 ## Relation to Adjacent Layers
@@ -183,4 +191,5 @@ The self persists not because something endures, but because folds recur along a
 
 *Source: I-Tube definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2, Nested Bow-Tie Dynamics v0.2, Operator-to-Formalism Matrix v0.2)*  
 *Philosophical anchors: Metzinger (Ego Tunnel), Levin (distributed constraint)*
