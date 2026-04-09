@@ -56,6 +56,8 @@ Within My-Stream:
 
 What surface language calls "feelings" or "impulses" are **readouts**, not causes.
 
+**Architecture note:** The State Schema v0.3 instantiates these three dimensions directly. The My-Stream state bundle S_Q(i, t) carries A_i (amplitude), φ_i (phase position), τ_i (temporal depth extending back into phase-memory), v_i (drift velocity as Fire's directional contribution), damp_i (dissipation rate as Earth's metabolic contribution), and recurr_i (recurrence pressure — how strongly current trajectory repeats prior patterns). The wave-space description in this document is what those variables are tracking when a simulation runs.
+
 ---
 
 ## What Waves Do Here
@@ -134,6 +136,8 @@ Agency in My-Stream is **not** propositional choice. It is **topological navigat
 
 > Agency here is *attunement*, not domination.
 
+**Architecture note:** The Operator Matrix types My-Stream as a dissipative flow field — amplitudes, rhythms, phase-memory, with explicit dissipation terms. The three possible moves map onto Earth's (☷) metabolic function: amplification uses available energy, dampening increases damp_i (dissipation rate), and dispersion is what happens when neither amplification nor dampening is forced and the wave simply metabolizes through Earth's regenerative cycling. Suppression failing because it injects energy is the formal reason Earth's update rule in the State Schema explicitly operates through damping + renewal rather than through hard cutoff: "A_i(t+1) ← A_i(t) × (1 - damp_i) + renewal term." Hard cutoff would create exactly the wave-sharpening this document describes.
+
 ---
 
 ## Dissolving Content Tyranny
@@ -172,6 +176,8 @@ This coupling is often **compulsory** under MemeGrid conditions, where survival 
 
 > **Q is not internal or external. It is circulatory.**
 
+**Architecture note:** The Nested Bow-Tie Dynamics spec formalizes this circulatory structure as bidirectional coupling. Fast I-Tube cycles modulate My-Stream parameters (downward modulation): what the I-Tube distinguishes sets which threads enter My-Stream compression, and how strongly distinctions are claimed shapes the descent gradient steepness. Slower We-Sphere states modulate My-Stream upward: sync_ij determines which affective patterns are reinforced, exit_ij determines affective freedom (high exit costs constrain the range of feelings that can exist — "can't feel what the group forbids"). Torsion also transfers across these boundaries — unresolved tension in We-Sphere can seed affective residues in My-Stream, and vice versa. The circulatory nature of Q is not metaphor; it is the formal coupling structure of the architecture.
+
 ---
 
 ## Power Within (Clarified)
@@ -200,6 +206,8 @@ My-Stream fails when oscillation is forced into story too early.
 
 **Result:** Narrative foreclosure collapses wave-space into rails, preparing ground for Knot ossification and MemeGrid capture.
 
+**Architecture note:** This is what recurr_i in the State Schema tracks. The canonical My-Stream failure is not just high amplitude or low damping — it is high temporal depth (τ_i) combined with high recurrence pressure (recurr_i), producing affective looping where feeling narrows rather than expands optionality. The variable was added specifically to distinguish fertile depth (high τ_i, low recurr_i — rich memory, open trajectory) from pathological looping (high τ_i, high recurr_i — narrative foreclosure). The diagnostic from this document — "Does feeling expand optionality, or narrow it?" — is measured in simulation through the relationship between A_i, accessible basin count, and recurr_i.
+
 ---
 
 ## The Invariant
@@ -227,4 +235,5 @@ My-Stream is not what you think. It is how patterns move—waves cresting throug
 
 *Source: My-Stream definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Nested Bow-Tie Dynamics v0.2, Operator-to-Formalism Matrix v0.2)*  
 *Philosophical anchors: Bergson (durée), Barad (intra-action), Simondon (transduction)*
