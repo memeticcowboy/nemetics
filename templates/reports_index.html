@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Mini-Memetic Reports — Nemetics{% endblock %}
+
+{% block content %}
+<div class="page-header">
+  <h1><span class="glyph" style="margin-right: 0.3em;">※</span>Mini-Memetic Reports</h1>
+  <p class="tagline" style="color: var(--text-secondary); margin-top: 0.5em;">{{ report_total }} diagnostic profiles across {{ categories|length }} categories — constraint topology of living memes.</p>
+</div>
+
+<div class="card-grid">
+  {% for cat in categories %}
+  <div class="card">
+    <h3><a href="{{ cat.url }}">{{ cat.name }}</a></h3>
+    <p>{{ cat.count }} reports</p>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
