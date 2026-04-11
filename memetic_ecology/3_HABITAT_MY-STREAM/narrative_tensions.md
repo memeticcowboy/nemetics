@@ -25,6 +25,8 @@ Stories don't just describe—they *bind*. The causal arc ("because X, therefore
 
 **When narrative Knots:** "This is who I am because of what happened."
 
+**Architecture note:** In simulation terms, a narrative is a bow-tie cycle operating on temporally extended threads. The causal arc is the compression phase — multiple moments are gathered into a single explanatory structure through the bottleneck. The crucial question is bottleneck ε: a narrative formed with ε > 0 remains provisional (revisable_m > 0), open to re-narration as context changes. A narrative formed with ε → 0 becomes a permanent knot — the trace of alternative narratives is destroyed, not just suppressed, and the story cannot be re-told because the materials for re-telling have been metabolically eliminated.
+
 ---
 
 ## Pathology: Frozen Narrative
@@ -33,6 +35,8 @@ Stories don't just describe—they *bind*. The causal arc ("because X, therefore
 - Character becomes destiny
 - "I can't because..." (hauntological effect)
 - Story becomes law, not memory
+
+**Architecture note:** The hauntological effect is the case where torsion from past compression cycles has not been metabolized by Earth's regenerative cycling. Per the State Schema's Earth update logic: "if twist_k > threshold AND metabolism blocked → torsion persists as hauntological residue (frozen recurrence pattern)." The past doesn't "determine" the present in the sense of causation — it biases the torsion field such that new compression cycles are pre-loaded with unresolved force, producing knots that look like the old ones regardless of current input.
 
 ---
 
@@ -55,5 +59,6 @@ Stories don't just describe—they *bind*. The causal arc ("because X, therefore
 
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2)*

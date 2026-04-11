@@ -112,6 +112,8 @@ It is **held** by the **joint commitment** of I-Tubes.
 
 When an I-Tube drops out (completion), the Lattice **frays** locally until others **re-weave** it.
 
+**Architecture resonance:** The simulation architecture instantiates this "held, not given" character through the State Schema's treatment of bias_field as continuously deformable by ω(t) and Ω★, never reaching a fixed equilibrium. The Lattice has no native authority in the simulation either — its update_interval is slow, but its update is real. Lattice persistence is an ongoing accomplishment of successful bow-tie cycles feeding deformation_history, not a static structure. Each pass through the cycle re-enacts the bias. The breathing IS the holding. When successful cycles stop feeding the Lattice, the bias_field doesn't crystallize — it begins to atrophy and become unresponsive, which is the simulation's analog to fraying.
+
 ---
 
 ### 4. Form Against Formlessness (IT-Field)
@@ -133,6 +135,8 @@ The Lattice is the **geometry** that makes the weave **hang together** against t
 | **Lattice** | **Ontological scaffolding**—holds being open **despite** the no-ground |
 
 The Lattice **enables** ethics by holding space for the Other, but does not **command** ethics.
+
+**Architecture resonance:** The simulation architecture's treatment of ω(t) (continuous Ω-perturbation) and Ω★ (sparse topology deformation) preserves the canonical constraint that the IT-Field/Ungrund cannot be modeled as a state object. The State Schema is explicit: "The temptation is to give Ω structure. Resist it." Both ω(t) and Ω★ are operators that *reference* Ω without representing it — they instantiate effects of Ω on differentiated structure while leaving Ω itself outside the state space. This is the formal preservation of Böhme's distinction. The architecture cannot capture the Ungrund; it can only honor its non-capture by refusing to type it.
 
 ---
 
@@ -157,4 +161,5 @@ It is **held, not given.**
 ---
 
 *Source: It-Field and Lattice philosophical connections, Daniel D, 2025-12-09*  
-*Framework: HABITAT_ECOLOGY + Philosophical anchors (Böhme, Leibniz, Whitehead)*
+*Framework: HABITAT_ECOLOGY + Philosophical anchors (Böhme, Leibniz, Whitehead)*  
+*Revised: March 2026 — minimal architecture resonance notes added (State Schema v0.3, Ω-Reentry Dynamics v0.2); philosophical content unchanged*

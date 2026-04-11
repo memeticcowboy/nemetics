@@ -17,6 +17,8 @@ A **Twist** is a localized torsional distortion in a Thread, produced by interac
 - Does **not** require repetition
 - May: unwind, redistribute, cancel, migrate, or tighten into Knot
 
+**Architecture note:** The Bow-Tie Process Layer formalizes torsion as "the conserved residue of compression friction — force without structure, directional bias without representational form." In the State Schema, twist_k is a per-thread variable that can accumulate through constrained interaction and can transfer across habitat boundaries (per the Nested Bow-Tie Dynamics spec). At the threadplex scale, accumulated twist across many threads aggregates into torsion_field, which biases future compression cycles without storing their content. Twist is the mechanism by which "force without form" operates in the simulation — the reason a system can be shaped by pressures that have no representation anywhere in its explicit structure.
+
 ---
 
 ## The Invariant
@@ -57,6 +59,8 @@ A **Twist** is a localized torsional distortion in a Thread, produced by interac
 
 This is the **earliest diagnostic signal** of MemeGrid drift.
 
+**Architecture note:** In the Bow-Tie Process Layer, this is the explicit formalism: bottleneck ε determines whether a binding event produces a revisable knot (ε > 0 → revisable_m > 0) or an absolute knot (ε → 0 → revisable_m → 0, stiff_m maximized, permeability minimized). Twist conversion to Knot without unwinding is not a separate phenomenon from the general bow-tie degradation diagnostic — it is that diagnostic operating at the finest grain. The earliest signal of MemeGrid drift is declining bottleneck ε across successive binding events. You can see it in twists tightening before you can see it anywhere else.
+
 ---
 
 ## Residual Force
@@ -70,4 +74,5 @@ Direction determined by ε-conditions, not content.
 ---
 
 *Source: Canonical Memetic Ecology Legend, Daniel D, 2026-02-23*  
-*Framework: HABITAT_ECOLOGY v1.3.1 §3.2*
+*Framework: HABITAT_ECOLOGY v1.3.1 §3.2*  
+*Revised: March 2026 — aligned with simulation architecture (Bow-Tie Process Layer v0.2, State Schema v0.3, Nested Bow-Tie Dynamics v0.2)*

@@ -36,6 +36,8 @@ When We-Sphere seals (ε → 0):
 - Memetic monoculture
 - Exit costs escalate
 
+**Simulation correlates:** sync_ij → 1 (full phase-lock) with dissent_ij → 0 (no tolerance for disagreement) and exit_ij escalating toward infinite. The State Schema explicitly notes that sync_ij = 1 is NOT health — it is MemeGrid at the relational layer. The healthy state is partial synchronization with maintained phase diversity (chimera states). Echo chamber formation is the specific case where chimera states collapse into uniform phase-lock.
+
 ---
 
 ## Twist Dynamics
@@ -45,6 +47,8 @@ We-Sphere Twists arise from **inter-mesh coupling**—where multiple SelfMeshes 
 - **Cancel:** Dialogical tension
 
 **Installation via Authority + Repetition + Affect vectors is most potent here.**
+
+**Architecture note:** Collective twists are what the Nested Bow-Tie Dynamics spec formalizes as torsion operating at the We-Sphere scale. Multiple agents' individual torsion fields interact through the coupling network, producing an aggregate torsion that can exceed the sum of individual contributions (amplification) or cancel out (dialogical tension). Per the canonical torsion transfer rule, what crosses between agents is directional bias without representational form — which is why collective twists often feel more primal than articulated group positions. The content is reconstructed locally by each agent; the force is what traveled.
 
 ---
 
@@ -64,5 +68,6 @@ We-Sphere Twists arise from **inter-mesh coupling**—where multiple SelfMeshes 
 
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (State Schema v0.3, Nested Bow-Tie Dynamics v0.2)*

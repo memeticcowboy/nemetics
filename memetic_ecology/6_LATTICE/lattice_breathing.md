@@ -42,6 +42,8 @@ From §5.6:
 
 A breathing Lattice preserves this capacity. A frozen Lattice destroys it.
 
+**Architecture note:** "Capacity for Twists to unwind" maps onto two distinct simulation properties operating at different scales. At the cycle scale, it is bottleneck ε > 0 across successive bow-tie cycles, allowing newly-forming knots to be revisable. At the Lattice scale, it is bias_field that responds to ω(t) input — the structural memory still updates from new perturbation. A breathing Lattice has both: cycles produce revisable knots AND structural memory deforms in response to those cycles. A frozen Lattice can lose either independently. Cycles producing rigid knots without Lattice updating is procedural rigidity. Lattice updating without cycle revisability is performative reform — surface change without structural shift. Both fail. The breathing distinction requires both to remain alive.
+
 ---
 
 ## Breathing Log
@@ -54,5 +56,6 @@ A breathing Lattice preserves this capacity. A frozen Lattice destroys it.
 
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2)*

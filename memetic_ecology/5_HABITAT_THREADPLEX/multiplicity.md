@@ -32,6 +32,8 @@ Multiplicity refers to the **capacity of a Habitat to accommodate multiple Threa
 | **Polyphonic** | Multiple Threads coexist harmoniously | ε preserved (diversity of twist-cancellation opportunities) |
 | **Fragmented** | Many Threads coexist without coherent interaction | ε too high (excess noise, no stable pattern formation) |
 
+**Architecture note:** The State Schema's Threadplex bundle tracks multiplicity through two variables that must be read together: diversity_idx (distribution entropy across basins) and connectivity (proportion of basin pairs connected by traversable saddles). The canonical three states map to their joint configuration: monophonic is low diversity_idx (regardless of connectivity); polyphonic is high diversity_idx paired with high connectivity (many basins, traversable paths between them); fragmented is high diversity_idx paired with low connectivity (the "incoherent scatter" case). Reading diversity_idx alone cannot distinguish polyphonic from fragmented — the pairing with connectivity is what makes the distinction legible.
+
 ---
 
 ## Critical Distinctions
@@ -58,6 +60,8 @@ Multiplicity refers to the **capacity of a Habitat to accommodate multiple Threa
 Monophonic collapse indicates Wood suppression, often compensated by:
 - Metal (⛨) rigidity, or
 - Fire (▲) dominance
+
+**Architecture note:** The Operator Matrix types Wood as topology + bifurcation theory + category theory (coproducts). Wood's primary simulation role is saddle_density maintenance — ensuring re-threading sites exist where descent can pivot. Monophonic collapse shows up in the simulation as declining saddle_density; the compensation patterns described above are specific elemental capture modes: Metal compensation hardens separatrices even as saddles disappear (procedural MemeGrid), Fire compensation funnels all descent into a single basin (totalitarian attractor). Both are detectable in the state bundle before ideology becomes visible.
 
 ---
 
@@ -110,4 +114,5 @@ Fragmented: Too many voices, no conversation.
 ---
 
 *Source: Multiplicity definition, Daniel D, 2026-01-17*  
-*Framework: HABITAT_ECOLOGY v1.3.1 §2.3*
+*Framework: HABITAT_ECOLOGY v1.3.1 §2.3*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Operator-to-Formalism Matrix v0.2)*

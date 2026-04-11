@@ -75,6 +75,8 @@ Knots are not good or bad in themselves. What matters is **tightness**.
 | **Too loose** | Incoherence, drift, loss of continuity | Meaning dissipates |
 | **Too tight** | Ossification, identity capture, coercion | MemeGrid dynamics |
 
+**Architecture note:** The State Schema v0.3 makes a critical distinction the word "tightness" has to carry carefully: depth ≠ stiffness. The Knot state bundle S_K(m, t) tracks depth_m (energetic attractiveness — how strongly threads are drawn into the basin), stiff_m (resistance to deformation — how hard the basin is to reshape), width_m (volume of attraction), perm_m (separatrix permeability), and revisable_m (function of stiff_m and perm_m). A deep basin may be metabolically useful and revisable — depth alone does not determine pathology. A shallow basin may be pathological if its separatrices are sharp and its stiffness is high. "Tightness" in the colloquial sense tracks stiff_m and perm_m more than depth_m. A useful, important knot can be deep without being rigid. An unimportant knot can be shallow while still being cage-like.
+
 ### Pathological Knot
 
 A knot becomes pathological when it **blocks re-entry of the It-Field**—when compression is mistaken for ground.
@@ -89,6 +91,8 @@ This is the transition toward **MemeGrid** dynamics.
 ### Healthy Knot
 
 Healthy knots remain **revisable**. They hold without possessing.
+
+**Architecture note:** In simulation terms, pathological knots have stiff_m high AND perm_m low AND revisable_m approaching zero — the separatrix has hardened and the basin geometry has become resistant to deformation. Per Metal's update logic in the State Schema, "Metal alone cannot loosen its own boundaries" — pathological knots require Wood's bifurcation pressure, Earth's metabolic erosion, or Ω★ topology deformation to reopen. They cannot dissolve themselves.
 
 ---
 
@@ -152,6 +156,8 @@ They only become dangerous when mistaken for essence rather than compression.
 
 > **If a pattern cannot be loosened without collapse, it is no longer a knot—it is a cage.**
 
+**Architecture note:** This is the operational definition of revisable_m approaching zero. The diagnostic test is not whether the pattern feels important or persistent — both can be true of healthy knots. The test is whether loosening requires existential crisis. In simulation terms: can Wood's bifurcation pressure open escape routes near this knot, or does any perturbation threaten total collapse? Cages require Ω★ contact to open; knots can be loosened through ordinary ecological dynamics.
+
 ---
 
 ## The Invariant
@@ -172,4 +178,5 @@ That next step is the **Threadplex (∿╬∿)**.
 
 *Source: Knots definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2, Ω-Reentry Dynamics v0.2)*  
 *Philosophical anchors: Barad (agential cuts), DeLanda (assemblage theory)*

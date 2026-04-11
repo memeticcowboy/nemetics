@@ -82,6 +82,8 @@ A Thread is a **directional gradient path through experiential space**, formed w
 
 This gradient describes how high-dimensional lived experience relaxes into available phonetic-semantic-visceral eigenvectors, descending toward local minima of experiential plausibility.
 
+**Architecture note:** The State Schema v0.3 instantiates Threads as binding entities (not habitats) with their own state bundle S_T(k, t) carrying pos_k (position on the Fisher–Rao manifold), vel_k (velocity vector), basin_k (current attractor basin or "saddle" if between basins), twist_k (accumulated torsion), and habitat_k (current primary habitat context). Descent toward local minima is formalized through Fire's natural gradient descent (λ modulated by ρ so trajectories respect manifold geometry), while Wood provides the saddle structure that keeps descent from becoming committed. Thread movement is curvature descent on an evolving landscape, not spatial convergence.
+
 ### Formal Properties
 
 | Property | Description |
@@ -224,6 +226,8 @@ A Thread is expressed into a We-Habitat.
 - Legitimate Threads may never be exchanged
 - **Premature phase forcing increases distortion risk**
 
+**Architecture note:** The Nested Bow-Tie Dynamics spec formalizes why phase forcing is harmful. Threads operate at habitat-specific timescales (I-Tube fast, My-Stream medium, We-Sphere slow), and parameter modulation between scales conditions without commanding. Forcing a thread from n∿ to x∿ is forcing fast-cycle material into slow-cycle compression before it has metabolized. Result: extinction instead of absorption — the information is lost without even leaving torsion as residue. The thread passes through the bottleneck without binding because the bottleneck's ε cannot hold material that has not yet settled at its native timescale.
+
 ---
 
 ## Failure Tendencies
@@ -268,8 +272,11 @@ They remain ethical **only while rethreading remains possible**.
 
 That binding is the **Knot (╬)**.
 
+**Architecture note:** The Bow-Tie Process Layer formalizes binding as the bottleneck phase of a bow-tie cycle. Multiple threads descend curvature gradients toward a shared basin candidate; competitive binding begins; some threads are absorbed (contributing torsion memory to the forming knot), some are extinguished (dissipating without trace). The critical variable is bottleneck ε: ε > 0 produces a revisable knot (revisable_m ∝ ε_bottleneck, stiff_m ∝ 1/ε_bottleneck); ε → 0 produces an absolute knot whose trace of what was lost has been destroyed. The transition from Thread to Knot is not automatic and not permanent — it is a specific moment in the compression cycle whose quality determines everything downstream.
+
 ---
 
 *Source: Thread definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2, Nested Bow-Tie Dynamics v0.2)*  
 *Philosophical anchors: Simondon (transduction), Barad (intra-action)*

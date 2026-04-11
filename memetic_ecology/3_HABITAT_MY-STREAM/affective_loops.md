@@ -31,6 +31,8 @@ Key distinction:
 - Frozen temporal structure
 - Blocks re-threading
 
+**Architecture note:** Pathological affect corresponds to rising recurr_i in the My-Stream state bundle — recurrence pressure, the measure of how strongly current trajectory repeats prior patterns. The distinction between healthy and pathological is not about amplitude (high A_i can be healthy intensity) but about the relationship between τ_i (temporal depth) and recurr_i. Fertile depth: high τ_i, low recurr_i (rich memory, open trajectory). Pathological looping: high τ_i, high recurr_i (narrative foreclosure).
+
 ---
 
 ## Diagnostic Questions
@@ -51,5 +53,6 @@ From §4.4:
 
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (State Schema v0.3)*

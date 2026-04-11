@@ -49,6 +49,8 @@ You don't "follow" a Thread. You *slide along it* unless something resists.
 
 **Example:** A background unease that keeps orienting attention. A recurring bodily pull toward or away from something. A mood that biases what feels possible today.
 
+**Architecture note:** The Q-gradient lives in the My-Stream state bundle — it is the combined effect of A_i (amplitude), τ_i (temporal depth), v_i (drift velocity), and recurr_i (recurrence pressure) producing a felt slope that biases future descent. A Q-gradient can carry torsion (twist_k) without the thread ever binding into a knot. Per the Nested Bow-Tie Dynamics spec, such pre-articulate torsion can transfer across habitat boundaries, biasing compression elsewhere without ever becoming a distinguished thread at its origin. This is how a background unease becomes a relational pattern without passing through articulation.
+
 ---
 
 ### 2. Thread (Ψ-Gradient Path)
@@ -70,6 +72,8 @@ Q reinforces it across time
 
 **Key property:** Can form Knots. Can be shared. Can be revised.
 
+**Architecture note:** The formation pathway above is a specific sequence of operators in the simulation stack. Q-gradient is the felt slope carried by My-Stream state variables. χ catching a distinction is Air's operation: detecting where the field fails to close smoothly and forcing a cut. Q reinforcing across time is repeated bow-tie compression cycles biased by the same gradient. Ψ stabilization is knot formation at the bottleneck — and critically, the resulting knot's revisability (revisable_m) is set by the bottleneck ε at that moment. If the gradient is strong and ε collapses at binding, the thread stabilizes into a stiff knot. If ε is preserved, the thread remains loosenable.
+
 ---
 
 ## Why This Distinction Matters
@@ -79,6 +83,8 @@ Q reinforces it across time
 | Over-intellectualizing meaning | Most memetic force enters through **affective gradients**, not arguments |
 | Misreading fixation | Someone may be sliding along a Q-gradient they didn't author, not "choosing" a Thread |
 | Missing early MemeGrid hooks | Usurpenes often attach at **Q-gradient level**—looping affect, unresolved somatic charge, pre-verbal dread |
+
+**Architecture note:** The third row has specific operational meaning in the simulation. Usurpene attachment at the Q-gradient level corresponds to torsion_field accumulation in My-Stream without discharge through Earth's metabolic cycling. The torsion biases future compression cycles (per the Bow-Tie Process Layer), producing knots shaped by the usurpenic pressure before any articulated thread is aware of it. This is why reframing content without changing the waveform does nothing: the torsion is below the χ-cut and cannot be reached by arguments that operate above it. The diagnostic correlate is rising recurr_i with stable or declining accessible basin count — affective trajectories that keep returning to the same configuration regardless of cognitive reframing attempts.
 
 ---
 
@@ -107,4 +113,5 @@ At the Thread level: speakable, shareable, revisable paths that can stabilize or
 ---
 
 *Source: Gradient Path elaboration, Daniel D, 2026-01-17*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2, Nested Bow-Tie Dynamics v0.2)*

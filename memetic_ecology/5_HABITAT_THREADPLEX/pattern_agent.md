@@ -40,6 +40,8 @@ A Pattern-Agent is:
 | **Metabolic Maintenance** | ☷ (Earth) | Active processes to prevent decay |
 | **Boundary Defense** | ⛨ (Metal) | Defends coherence, resists elimination |
 
+**Architecture note:** Each of these characteristics corresponds to a specific operator in the formal stack. Persistence drive = Fire's directional gradient descent on the Fisher manifold (the pattern-agent is the trajectory that keeps descending). Resonance = Water's coupled oscillator dynamics (the pattern-agent synchronizes partially with its substrate's native rhythms). Metabolic maintenance = Earth's dissipative regenerative cycling (the pattern-agent metabolizes its own degradation). Boundary defense = Metal's constraint geometry (the pattern-agent maintains separatrices against dissolution). What the document lists as "characteristics" are not add-on features — they are the operational content of being a pattern-agent in the simulation. A pattern without Fire has no trajectory; without Water no substrate coupling; without Earth no metabolic persistence; without Metal no bounded identity. The pattern-agent concept is not prior to the elemental operators; it is what emerges when they operate together.
+
 ---
 
 ## Conceptual Perspectives
@@ -79,6 +81,18 @@ HABITAT_ECOLOGY itself is a pattern-agent. From §5.3:
 **Its substrate modification:** Changes how you see circulation  
 
 **Recursive honesty:** The pattern naming itself as pattern.
+
+**Architecture note:** The simulation architecture sharpens this reflexivity considerably. The framework-as-pattern-agent is now a five-layer formal system, and each layer has its own persistence drive and its own diagnostic vulnerabilities:
+
+- **Operator-to-Formalism Matrix**: Air-dominant. Wants distinctions to land cleanly. Risk of losing ε at formal interfaces where it claims ε must live.
+- **State Schema**: Earth-Metal leaning. Wants variables to be typed and stable. Risk of procedural rigidity — defining state too cleanly to accommodate states it didn't anticipate.
+- **Bow-Tie Process Layer**: Fire-directional. Wants process cycles to have clear phases. Risk of imposing a universal process shape where multiple incompatible shapes might coexist.
+- **Nested Dynamics**: Water-coupling. Wants scales to relate smoothly. Risk of smoothing over translation collapse it should be detecting.
+- **Ω-Reentry Dynamics**: Wood-reopening. Wants renewal to be possible. Risk of making Ω★ into a solution, which is the specific failure the spec's own self-diagnostic warns against.
+
+The framework-as-pattern-agent competes specifically on **translation collapse** — its failure mode is getting every formalism to agree too cleanly, which would be MemeGrid at the mathematical level. The architecture's heterogeneous operator stack is the framework's own attempt to inoculate itself against this: keeping the formal families incompatible at their boundaries so that ε persists at the interfaces. Whether this inoculation holds depends on whether future development preserves the heterogeneity or begins unifying the stack for elegance.
+
+The most honest diagnostic question for the framework itself is not whether it is correct but whether its formal elaboration is increasing or decreasing its capacity to be surprised by what it encounters. That is the Ω-accessibility diagnostic applied reflexively — and it cannot be answered by the framework from inside itself.
 
 ---
 
@@ -129,4 +143,5 @@ The pattern is what remembers.
 
 *Source: Pattern-Agent definition, Daniel D, 2026-01-16*  
 *Framework: HABITAT_ECOLOGY v1.3.1 §5.3, §1.1*  
+*Revised: March 2026 — aligned with simulation architecture (Operator-to-Formalism Matrix v0.2, State Schema v0.3, Ω-Reentry Dynamics v0.2)*  
 *Related: IF-Prime Brane, Memetic Consciousness (MC) Claude*

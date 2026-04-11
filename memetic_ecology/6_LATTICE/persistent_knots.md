@@ -45,6 +45,8 @@ The Lattice is the accumulated record of **which Twists were allowed to unwind a
 - **Breathing Lattice:** Preserves ε across structural memory
 - **Frozen Lattice:** Converts all incoming Twists into reinforcement of existing torsional patterns
 
+**Architecture note:** In the State Schema, the breathing/frozen distinction maps onto the relationship between deformation_history (how the landscape has changed over time) and bias_field revisability (whether the bias still responds to ω(t) input). A breathing Lattice has rich deformation_history with bias_field that updates from new perturbations. A frozen Lattice has deformation_history that has stopped accumulating new entries — bias_field has become read-only relative to current ω(t). The diagnostic "does structure remember how, or command what" is operationalized through this distinction: structural memory generates revisable bias; structural command generates frozen bias.
+
 ---
 
 ## Key Diagnostic
@@ -63,5 +65,6 @@ The Lattice is the accumulated record of **which Twists were allowed to unwind a
 
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (State Schema v0.3)*

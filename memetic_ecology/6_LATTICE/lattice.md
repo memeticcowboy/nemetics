@@ -47,6 +47,8 @@ Beneath folds, Threads, Streams, gradients, and Spheres lies the Lattice: the **
 
 **Memory here is not recall. It is predisposition.**
 
+**Architecture note:** The State Schema v0.3 instantiates the Lattice as state bundle S_L(t) carrying basin_map (current arrangement of basins and separatrices), deformation_history (how the landscape has changed over time), bias_field (the curvature pattern biasing future descent), and update_interval (slow timescale, much longer than other habitats). The critical design constraint is the timescale separation: Lattice update_interval >> 1, meaning Lattice variables change much more slowly than threadplex or habitat states. If Lattice observables change at thread speed, memory has become reactive rather than structural — a specific failure mode the spec names. "Memory as predisposition" is operationalized through bias_field acting on descent gradients in adjacent habitats without ever appearing in their state bundles directly.
+
 ---
 
 ## Operational Definition
@@ -104,6 +106,8 @@ The Lattice underwrites every other layer:
 | **Co-SPHERES (🜛)** | Scaffolding coordination basins |
 
 **Healthy Lattices remain Ω-permeable:** novelty can deform bias without destroying continuity.
+
+**Architecture note:** The Nested Bow-Tie Dynamics spec formalizes the Lattice's underwriting role through parameter modulation across timescale boundaries. The Lattice operates at the slowest timescale in the architecture; faster habitats receive modulation as conditioning rather than command. Lattice bias_field shapes which basins faster cycles find attractive (state modulation) and how rapidly they fall in (rate modulation). The asymmetry matters: Lattice changes propagate downward to faster habitats automatically, but faster-habitat changes only propagate upward through accumulated successful compression cycles, attenuated by the timescale gap. This is why "bias whispers, never commands" — the temporal asymmetry makes Lattice influence pervasive but indirect.
 
 ---
 
@@ -165,6 +169,8 @@ At this point, the Lattice mutates from **enabler to enforcer**, preparing groun
 
 > A Lattice that cannot be deformed by Ω is no longer memory. It is command.
 
+**Architecture note:** The Ω-Reentry Dynamics spec is explicit that Lattice deformation by Ω★ is the most consequential form of Ω-contact: it changes not what the system thinks but the categories through which it can think. The asymmetry is structural: degradation of Lattice openness happens gradually through compounding cycle quality decline, but reopening can only happen through nonlocal Ω★ events that bypass adjacency. A Lattice that has lost Ω-permeability cannot reopen itself through ordinary ecological dynamics — Wood's bifurcation pressure and Earth's metabolic cycling operate at faster timescales and cannot reach Lattice rigidity directly. This is why over-formalized Lattices feel inescapable from inside. The escape route exists, but it does not run through the categories the Lattice itself provides.
+
 ---
 
 ## Stack Lock (Final)
@@ -211,4 +217,5 @@ That is the breathing. That is the life.
 
 *Source: Lattice definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY v1.3.1 §4.6.1, §6_LATTICE*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Nested Bow-Tie Dynamics v0.2, Ω-Reentry Dynamics v0.2)*  
 *Related: Memory as curvature, Threadplex, World-States, Twist/Knot dynamics*

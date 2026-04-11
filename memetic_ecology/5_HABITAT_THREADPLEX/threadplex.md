@@ -53,6 +53,8 @@ Flow is guided by **low-frequency topology**, not explicit rules.
 
 **Crucially:** The Threadplex remains **Ω-coupled**. Novelty deforms the field without dictating outcomes, preventing equilibrium from becoming entrapment.
 
+**Architecture note:** The Operator Matrix types the Threadplex as Fisher–Rao manifold + gradient ecology — the habitat where all three Ψ modes (exploratory, regenerative, structural) operate most intensively. The State Schema's S_TP(t) bundle tracks n_threads, n_knots, n_saddles, saddle_density (Wood's primary health metric), mean_curvature, diversity_idx, connectivity, and torsion_field. The last is critical: the Threadplex carries accumulated Ψ-torsion as structural memory that biases future compression cycles. This is how the Threadplex "remembers how descent works" without storing content — the torsion field is the mechanism.
+
 ---
 
 ## Operational Characterization
@@ -205,6 +207,8 @@ Connective structure dissolves. Threads fail to interact or stabilize.
 ### Global Minimum Collapse (MemeGrid Precursor)
 The field flattens toward a single enforced basin, eliminating alternative gradients. A Threadplex without Ω-permeability loses re-threading capacity and hardens into a MemeGrid.
 
+**Architecture note:** The State Schema distinguishes these three failure modes through specific variables. Ossification: high stiff_m, low perm_m, revisable_m → 0, saddle_density declining. Fragmentation: high diversity_idx with low connectivity (the "incoherent scatter" case — many basins but no traversable paths between them). Global minimum collapse: saddle_density → 0, single attractor dominating, curvature concentrated in one region, separatrix hardening everywhere. The canonical distinction that "diversity is not always better" matters here: diversity_idx must be paired with connectivity to distinguish healthy pluralism from fragmentation.
+
 ---
 
 ## Relation to Higher Layers
@@ -217,6 +221,8 @@ The field flattens toward a single enforced basin, eliminating alternative gradi
 
 - **Healthy Threadplex** → feeds a **Co-SPHERE**
 - **Sealed Threadplex** → hardens into a **MemeGrid**
+
+**Architecture note:** The Nested Bow-Tie Dynamics spec formalizes the Threadplex-Lattice relationship as bidirectional coupling across a timescale boundary. The Threadplex operates on medium timescales; the Lattice on the slowest (update_interval >> 1). Downward modulation: Lattice bias_field shapes which basins Threadplex descent finds attractive. Upward modulation: successful Threadplex compression cycles eventually deform the Lattice through deformation_history updates. Torsion also transfers across this boundary — accumulated threadplex torsion_field can seed lattice-level structural bias over long horizons. Translation collapse at this boundary is particularly dangerous: when ε → 0 between Threadplex and Lattice, cultural memory becomes indistinguishable from current ecology, and the system loses the ability to know it is changing.
 
 ---
 
@@ -252,4 +258,5 @@ That layer is the **Co-SPHERE**.
 
 *Source: Threadplex definition, Daniel D, 2026-01-01*  
 *Framework: HABITAT_ECOLOGY*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Operator-to-Formalism Matrix v0.2, Nested Bow-Tie Dynamics v0.2, Bow-Tie Process Layer v0.2)*  
 *Status: Canonical*
