@@ -1,0 +1,20 @@
+# Exploring Societal Boredom and the Illusion of Freedom in Modern Life
+
+Created at 2025/03/20 9:18 AM
+
+## Boredom as a tool for control and the suppression of dissent.
+- Speaker 1 (3/20/25 9:11 AM): Yes, we are bored. We're all bored now. But has it ever occurred to you while that the process that creates this boredom that we see in the world now may very well be a self-perpetuating unconscious form of brainwashing created by a world totalitarian government based on money, and that all of this is much more dangerous than one thinks, and it's not just a question of individual survival.
+- Speaker 1 (3/20/25 9:12 AM): But that somebody who's bored is asleep, and somebody who's asleep will not say no.
+## Examples of individuals who have disconnected from mainstream media and societal expectations.
+- Speaker 1 (3/20/25 9:12 AM): See, I keep meeting these people. I mean, uh, just a few days ago, I met this man who I greatly admire, a Swedish physicist, Gustav Bjornstrand, and he told me that he no longer watches television, he doesn't read newspapers, and he doesn't read magazines. He's completely cut them out of his life because he really does feel that we're living in some kind of Orwellian nightmare now, and that everything that you hear now contributes to turning you into a robot.
+## An encounter with an elderly activist and his perspective on New York City as a self-made prison.
+- Speaker 1 (3/20/25 9:12 AM): When I was in Finland, I met this extraordinary industry expert who had devoted his life to saving trees. He just got back from Washington lobbying to save the redwoods. He's 84 years old and he always travels with a backpack and he never knows where he's going to be tomorrow.
+- Speaker 1 (3/20/25 9:12 AM): And when I met him in Finland, what he said to me, where are you from? And I said, New York. He said, oh, New York, he said, that's a very interesting place. Do you know a lot of New Yorkers who keep talking about the things that they want to do and they never do? And I said, oh, yes. He said, why do you think they don't leave? What do you think they're different than out there? He said, oh, I don't think it's that way at all.
+- Speaker 1 (3/20/25 9:13 AM): He said, I think that New York is the new model for the new concentration camp, where the camp has been built by the inmates themselves, and the inmates are the guards, and they have this pride in this thing they built. They've built their own prison, and so they exist in a state of schizophrenia where they are both guards and prisoners, and as a result, they no longer have, having been lobotomized, the capacity to leave the prison they've made or to even see it as a prison.
+- Speaker 1 (3/20/25 9:13 AM): And then he went into his pocket and he took out a seed from a tree and he said, this is a pine tree. He put it in my hand and he said, escape before it's too late.
+## A shared feeling of unease and the desire to escape, but uncertainty about where to go.
+- Speaker 1 (3/20/25 9:13 AM): See, actually for two, three years now, Shakira and I have had this very unpleasant feeling that we really should get out. And we really should feel like Jews in Germany in the late 30s, get out of here. Across the problem is where to go because it seems by now this that the whole world is going in the same direction.
+- Speaker 1 (3/20/25 9:14 AM): See, I think it's quite possible that the 1960s represented the last burst of the human being before he was extinguished. And that this is the beginning of the rest of the future now, that from now on there'll simply be all these robots walking around, feeling nothing, thinking nothing.
+- Speaker 1 (3/20/25 9:14 AM): And there'll be nobody left almost to remind them that there once was a species called a human being with feelings and thoughts, and that history and memory are right now being erased and soon nobody will really remember that life existed on the planet.
+https://substack.com/@karmageddon53/note/c-100816333?r=5a5yhr&utm_medium=ios&utm_source=notes-share-action
+

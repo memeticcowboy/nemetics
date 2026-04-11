@@ -1,0 +1,6 @@
+# 
+
+Created at 2025/09/21 7:04 PM
+
+Charles Darwin, in his final book *The Formation of Vegetable Mould, Through the Action of Worms, with Observations on Their Habits* (1881), portrayed earthworms as significant "geological agents" due to their profound influence on soil formation, landscape shaping, and erosion processes through gradual, cumulative actions. He observed that earthworms ingest soil and organic matter, then excrete it as nutrient-rich castings on the surface, effectively aerating the soil, mixing horizons, and burying stones or artifacts over time—processes akin to slow geological forces like weathering and pedogenesis. Darwin calculated that in a single acre, earthworms could move up to 8-20 tons of soil annually through their burrowing and casting, leading to the gradual subsidence of land features and the creation of fertile topsoil (what he called "vegetable mould"). This view tied into his broader evolutionary philosophy, emphasizing how small, persistent changes by humble organisms could reshape the Earth's surface over millennia, much like natural selection operates incrementally. His work marked a return to geological themes from his early career, highlighting earthworms' role in enhancing soil quality and fertility for plant growth.
+

@@ -1,0 +1,13 @@
+# Pre-Approved Decision-Making Protocols Across Various Domains
+
+Created at 2025/08/24 10:15 PM
+
+Decision rule: “I decide under conditions I have pre-approved.”<br>(all examples keep the *Chalcopyrite Crucible* logic: the “ore” does not resist change, but only if the **exact protocol it once etched into the crucible wall** is followed)
+
+1. Medical Consent Card<br>A patient signs an advance-care plan that lists permitted interventions, drug ceilings, and cooling-off periods.  Any surgeon who deviates from the printed protocol—no matter how well-intentioned—triggers an automatic veto from the card’s embedded NFC chip, which locks the operating-theatre supply cabinet.
+2. Smart-Contract DAO<br>A worker-owned cooperative runs on code that freezes treasury funds unless every disbursement obeys the “temperature curve” encoded at genesis: multi-sig thresholds escalate with amount, duration of debate is fixed at 72 h, and a 10 % “quench levy” is returned to the reserve.  External investors can inject capital (“heat”), but cannot alter the contract’s hard-written rules.
+3. Indigenous Land-Use Accord<br>A First Nation agrees to pipeline construction only if the company follows a pre-approved seasonal work window, vibration limits (temperature), mandatory wildlife-rest pauses (duration), and a post-construction restoration schedule (quench).  The accord is physically etched on a copper plate buried at the site; any deviation automatically halts work via satellite kill-switch.
+4. EdTech LMS “Pedagogical Crucible”<br>A student opts into an AI-driven course platform that promises adaptive pacing.  Before data collection begins, the learner sets strict parameters: max daily screen time (temperature window), minimum rest intervals (duration), and a cooling-off day after every assessment (quench).  The platform’s engine can supply difficulty “heat,” but it is sandboxed by the learner’s original charter.
+5. Environmental Offset Protocol<br>A wetlands restoration project accepts industrial effluent only if the inflow matches a pre-coded schedule of pH, temperature, and nutrient load.  Sensors embedded in the sediment layer compare real-time data to the crucible’s ledger; any mismatch shuts the intake valve and reroutes the effluent to holding ponds.
+6. Personal Data Pod<br>A user stores all personal data in a self-hosted “pod” whose access rules are etched at creation: any third-party app must send a request that matches the exact schema of permitted fields, query frequency, and deletion timetable.  The pod’s firmware refuses any request that does not mirror the original charter, turning external “heat” into usable insight only under the owner’s pre-approved conditions.
+
