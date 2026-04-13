@@ -10,6 +10,8 @@ But he was hunting for timeless patterns. The "quality without a name." Eternal 
 
 Sound familiar? That's how every framework starts its slow turn toward its own trap.
 
+![The cathedral of dissolution—where organic and geometric meet, where structure breathes and returns to void](pattern-language-dissolution-cathedral.jpg)
+
 ---
 
 ## The Fork
