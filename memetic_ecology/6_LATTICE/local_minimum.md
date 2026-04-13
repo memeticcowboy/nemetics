@@ -35,6 +35,8 @@ A **local** minimum means:
 
 > A Knot is not where meaning is *true*. It is where meaning becomes **easy enough to reuse**.
 
+**Architecture note:** The Operator Matrix types this descent dynamic as Fire's natural gradient descent on the Fisher–Rao manifold. The "groove" the document describes later is curvature reshaping the manifold itself — repeated descent along a path increases its attractor depth (depth_m) while potentially also increasing its stiffness (stiff_m) and reducing its permeability (perm_m). The State Schema is explicit: these three properties vary independently. A deeply attractive minimum can remain revisable; a shallow minimum can be cage-like. "Easy enough to reuse" specifically tracks depth_m and width_m. Whether the minimum becomes pathological tracks stiff_m, perm_m, and revisable_m — properties the colloquial word "minimum" doesn't distinguish.
+
 ---
 
 ## What Descends Along a Thread?
@@ -110,6 +112,8 @@ This is **over-binding** and **recursive sealing**:
 - Z collapses without Ω
 - The ecology slides toward **▩ MemeGrid**
 
+**Architecture note:** A local minimum that is no longer local has revisable_m → 0 plus expanding width_m at the expense of nearby basins. Saddle_density in the surrounding region declines (Wood silenced), separatrices toward alternative basins harden (Metal compensating for Wood absence), and curvature concentrates into the dominant attractor. The shift from "local" to "global" is not metaphorical — it is the basin absorbing or annihilating its neighbors through the bow-tie compression dynamics, eliminating the gradient terrain that "leaving" would require. This is why escape feels impossible: the alternative basins that escape would require have been metabolically eliminated, not just made costly.
+
 ---
 
 ## NEMA Diagnostic Perspective
@@ -143,4 +147,5 @@ Everything in Memetic Ecology is designed to keep that difference visible.
 ---
 
 *Source: Local Minimum elaboration, Daniel D, 2026-01-17*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Operator-to-Formalism Matrix v0.2, Bow-Tie Process Layer v0.2)*

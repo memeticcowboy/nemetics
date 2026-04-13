@@ -15,6 +15,8 @@ A **hauntological effect** is produced when:
 
 **Hauntology = force without story.**
 
+**Architecture note:** The Bow-Tie Process Layer's canonical formulation of torsion is precisely this: "force without structure, directional bias without representational form." A hauntological effect is torsion that has been preserved across cycles in which its originating context (the threads it absorbed during compression) has been forgotten — the torsion_field carries the directional bias forward into future bow-tie cycles, biasing what gets absorbed and what gets extinguished, while the explicit content of the original compression has decayed. This is why the force persists "without narrative justification": the simulation has formal mechanisms for force-persistence (torsion_field accumulation) and content-persistence (knot state bundles), and these mechanisms can decouple. Force can outlive content. That decoupling is the structural definition of hauntology.
+
 ---
 
 ## The Phenomenology
@@ -67,7 +69,10 @@ From §4.11: **Other-Sphere contact** can refresh any Habitat directly.
 
 Ω-contact provides the ε-space that hauntological Knots were denied.
 
+**Architecture note:** The Ω-Reentry Dynamics spec is explicit that Ω★ does not "explain" hauntological residue — it deforms the topology within which the residue was operating. The hauntological force is not interpreted, justified, or narrated; it is geometrically dispersed when the basin shape it was biasing changes. This matches the document's earlier observation that hauntological effects are structurally, not psychologically, produced: the remediation must be structural (topology deformation) rather than narrative (explaining the ghost). Trying to interpret hauntological force usually strengthens it because interpretation operates above the χ-cut while torsion operates below it. Ω★ reaches below.
+
 ---
 
-*Last updated: 2026-02-24*  
-*Framework: HABITAT_ECOLOGY v1.3.1*
+*Last updated: 2026-03-29*  
+*Framework: HABITAT_ECOLOGY v1.3.1*  
+*Revised: Aligned with simulation architecture (Bow-Tie Process Layer v0.2, Ω-Reentry Dynamics v0.2)*

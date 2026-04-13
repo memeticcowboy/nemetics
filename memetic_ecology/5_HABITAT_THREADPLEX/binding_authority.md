@@ -27,6 +27,8 @@ Specifically:
 
 **Critical:** This is **not about rank or role**. A janitor, a protocol, an algorithm, or a ritual can hold Binding Authority—if they determine when stabilization happens.
 
+**Architecture note:** In simulation terms, Binding Authority governs who controls bottleneck ε at the moment of knot formation. The Bow-Tie Process Layer is explicit that bottleneck ε is not a single number but a distributed quantity across elemental interfaces. Binding Authority distribution maps onto which agents, protocols, or structural constraints can influence bottleneck ε at each interface. Centralized authority means one node has dominant control of bottleneck ε for a habitat's characteristic bow-tie cycles. Distributed authority means multiple nodes can each influence bottleneck ε through different elemental channels. Diffuse authority means no node can reliably control bottleneck ε, producing inconsistent knot formation regardless of gradient pressure.
+
 ---
 
 ## The Continuum
@@ -111,6 +113,8 @@ These axes are **orthogonal**. Often confused. Distinct.
 | **Adaptive Temporal Flexibility + Distributed Binding Authority** | **Living Co-SPHERE** | Knots can loosen. Many can initiate. Lattice remains scaffold. Threadplex remains alive. |
 
 **Binding Authority determines who can activate temporal flexibility.**
+
+**Architecture note:** In the State Schema, this interaction is detectable through the relationship between revisable_m (knot-level temporal flexibility) and the We-Sphere state variables sync_ij, dissent_ij, and exit_ij (coupling-level authority distribution). The "horizontal MemeGrid" case is particularly diagnostic: high sync_ij with low dissent_ij and escalating exit_ij, where every agent enforces the same frozen knots against every other agent, producing peer-enforced lock without any identifiable central authority. The architecture warns that this is often harder to detect and dissolve than centralized capture because there is no single point to loosen — the authority is genuinely distributed and genuinely rigid.
 
 ---
 
@@ -202,4 +206,5 @@ That answer reveals the real structure.
 
 *Source: Binding Authority elaboration, Daniel D, 2026-01-17*  
 *Framework: HABITAT_ECOLOGY v1.3.1 §2.4*  
+*Revised: March 2026 — aligned with simulation architecture (State Schema v0.3, Bow-Tie Process Layer v0.2)*  
 *Related: Temporal Flexibility, Knots, Threadplex, Lattice, Co-SPHERE*

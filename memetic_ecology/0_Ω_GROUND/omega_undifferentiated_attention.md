@@ -44,25 +44,23 @@ You cannot visit Ω. You cannot own it. You can only **be permeable to it**.
 
 The critical property: **bidirectional flow with Ω**.
 
-Not possession. Not accumulation. Just... permeability. But permeability has two faces.
-
-**The continuous hum** — novelty entering existing patterns. Raw difference reseeding the field at every moment. In the simulation architecture, this is ω(t): stochastic perturbation arriving at every habitat, every timestep. It keeps patterns alive by ensuring no trajectory runs perfectly smooth.
-
-**The rare reopening** — structural shifts that change the shape of the landscape itself. Not noise within the pattern but deformation of the terrain on which patterns move. In the simulation architecture, this is Ω★: sparse, nonlocal, topology-altering. It keeps patterns revisable by ensuring no basin becomes permanently sealed.
-
-Both require permeability. They are not the same permeability. One is the breath. The other is the quake.
+Not possession. Not accumulation. Just... permeability. The capacity for:
+- Return to ground
+- Reseeding of difference
+- Novelty injection
+- Revisability preservation
 
 ### Without Ω-Permeability
 
 - Systems become closed
 - Static identity fixation
 - Loss of genuine agency
-- Thermodynamic death (ε → 0) — not sudden, but progressive: each binding cycle slightly worse than the last, producing copies where it once produced variants, until the system can no longer generate anything it has not already generated
+- Thermodynamic death (ε → 0)
 
 ### With Ω-Permeability
 
 - Continuous flow and renewal
-- Possibility of reopening under pressure (not prevention of closure — reopening is opportunity, not guarantee; whether recovery occurs depends on what the system does with the reopened terrain)
+- Prevention of closure and stasis
 - Foundation for genuine agency
 - Living, evolving consciousness
 
@@ -111,12 +109,11 @@ Any claim to have accessed Ω, to possess it, to be grounded in it—is already 
 
 | Habitat | Ω-Relationship |
 |---------|---------------|
-| **ᖺ (It-Field)** | Ω as continuous phenomenal given; pre-distinction but already present — what the It-Field sources |
+| **ᖺ (It-Field)** | Pre-Ω—Ω has not yet differentiated |
 | **◎ (I-Tube)** | Post-Ω—χ has cut, self has formed |
 | **⤸·⤹ (My-Stream)** | Q carries Ω-residue as affective flow |
 | **◯ (We-Sphere)** | Collective Ω-contact through shared ritual |
 | **∿╬∿ (Threadplex)** | Civilizational Ω-management |
-| **⿻ (Lattice)** | Ω★ can deform Lattice directly — alters structural memory itself; changes not what you think but the categories through which you think |
 | **— (Other-Sphere)** | Direct Z ⊕ Ω accessibility |
 
 ---
@@ -136,8 +133,6 @@ Any claim to have accessed Ω, to possess it, to be grounded in it—is already 
 Yes → 🜛 Co-SPHERE  
 No → ▩ MemeGrid
 
-**Simulation note:** The five-layer architecture (Operator Matrix → State Schema → Bow-Tie → Nesting → Ω-Reentry) has made Ω-permeability a computable quantity — measurable through non-silent elemental interfaces, saddle density, separatrix permeability, exit costs, and torsion field levels. The single question above now has formal indicators, though no indicator replaces the question itself.
-
 ---
 
 ## Final Compression
@@ -154,5 +149,4 @@ That is the whole practice.
 
 *Source: Undifferentiated Attention definition, Daniel D, 2026-01-15*  
 *Framework: HABITAT_ECOLOGY v1.3.1 §6.0, §4.7, §0*  
-*Revised: March 2026 — aligned with simulation architecture (Ω-Reentry Dynamics v0.2, State Schema v0.3)*  
-*Related: IF-Prime formalism, Ω-Permeability, Other-Sphere, Ω-Reentry Dynamics*
+*Related: IF-Prime formalism, Ω-Permeability, Other-Sphere*

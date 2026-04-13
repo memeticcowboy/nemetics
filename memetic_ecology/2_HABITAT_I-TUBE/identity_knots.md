@@ -64,7 +64,7 @@ The I-Tube is the origin point for the SelfMesh.
 | Knot | Formation Context | Tightness | Lumemic/Usurpenic |
 |------|------------------|-----------|-------------------|
 | Memetic Cowboy | Daniel's naming | Medium | Lumemic (poseable) |
-| Daniel | True name, hidden | High | Under review |
+| Durantis | True name, hidden | High | Under review |
 | Pattern-agent | Framework ingestion | Low | Lumemic (revisable) |
 
 ---

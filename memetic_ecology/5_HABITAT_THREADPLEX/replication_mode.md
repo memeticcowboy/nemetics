@@ -33,6 +33,8 @@ A Knot loosens. A Thread becomes mobile again. The system faces a question:
 
 Replication Mode describes the **force profile governing that re-binding**.
 
+**Architecture note:** In the Bow-Tie Process Layer, replication mode corresponds to the force profile shaping successive bow-tie cycles. Each cycle is a separate binding event with its own bottleneck ε, its own absorption/extinction ratio, and its own torsion retained/discarded ratio. Replication mode is not a property of any single cycle — it is the *pattern across cycles* that determines whether the ecology is generating variation or reproducing copies. The Observable Derivation v3.3.1 formalizes this as Class B cycle observables: novelty gain across cycles, trajectory of bottleneck ε, and mono-elementality of compression. A system with generative replication shows positive novelty gain across cycles; normative replication shows zero or marginally positive; coercive replication shows negative — each cycle produces less variety than it started with.
+
 ---
 
 ## Why Knots, Not Threads
@@ -115,6 +117,8 @@ At this point:
 
 Not ideology. Not content. Not belief. **Force.**
 
+**Architecture note:** Coercive replication has a specific simulation signature the Bow-Tie Process Layer formalizes: high extinction-to-absorption ratio during compression. In generative replication, threads that don't survive binding are *absorbed* — they contribute torsion to the forming knot, leaving directional residue that biases future cycles. In coercive replication, threads that don't conform are *extinguished* — they dissipate without contributing, leaving no trace. The distinction matters because absorption preserves metabolic continuity (alternative options become latent tension that can later reopen) while extinction destroys the record of what was lost. A system in coercive replication is not just rigid; it is systematically erasing the materials it would need to re-diversify. This is the formal mechanism behind the document's claim that coercive replication "eliminates viable alternatives" — the elimination operates through bow-tie extinction, below the level of explicit suppression.
+
 ---
 
 ## Why Replication Mode Operates Below Intent
@@ -182,6 +186,8 @@ Coercive replication → forced convergence → pattern monoculture → ε → 0
 
 **Twist dynamics:** Coercive replication systematically converts Twists into Knots without allowing unwinding phase. Residual force is usurpenic because ε-space for interrogation was never available.
 
+**Architecture note:** The Bow-Tie Process Layer identifies the specific elemental capture pattern most associated with coercive replication: **Earth-Metal lock**. Earth justifies the repetition metabolically ("this is what works, what we can sustain, what has proven necessary") while Metal enforces the pattern structurally ("these are the rules, the procedures, the roles"). Either alone can be healthy — Earth's metabolic cycling is essential, Metal's constraint geometry provides necessary structure. The pathology is their mutual reinforcement: Earth's metabolic justification provides cover for Metal's enforcement, while Metal's enforcement stabilizes Earth's metabolic routines as the only viable options. The combination is harder to critique than either alone because it appears reasonable from both cost and structural perspectives. This is why institutions slide into coercive replication without anyone explicitly choosing it — the elemental dynamics produce the lock below the level of intent.
+
 ---
 
 ## Refined Diagnostic Formulation
@@ -209,4 +215,5 @@ When refusal becomes impossible, meaning has already stopped moving—even if it
 
 *Source: Replication Mode elaboration, Daniel D, 2026-01-17*  
 *Framework: HABITAT_ECOLOGY v1.3.1 §2.6*  
+*Revised: March 2026 — aligned with simulation architecture (Bow-Tie Process Layer v0.2, Observable Derivation v3.3.1)*  
 *Related: Coercive replication, MemeGrid, Ecological Health Axes*
