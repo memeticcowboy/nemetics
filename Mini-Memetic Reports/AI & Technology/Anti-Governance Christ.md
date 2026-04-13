@@ -1,5 +1,7 @@
 # Anti-Governance Christ
 
+![Anti-Governance Altman](images/Anti-Governance Christ.png)
+
 *Source: Sam (@samiamgeandham) on Substack — https://substack.com/@samiamgeandham/note/c-242591067*
 
 Created at 2026/04/13 6:30 AM
