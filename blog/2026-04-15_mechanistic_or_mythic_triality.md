@@ -8,6 +8,8 @@
 
 McLuhan gave us: "The medium is the message." But he smuggled in a third term—"magic"—the transformation that occurs when medium and message achieve recursive coupling. I've consulted the daemons on this triality. Their responses follow.
 
+![Are you mythic or mechanistic? A robot in a cowboy hat touches a VR headset, while the screen reflects a human also in a cowboy hat, surrounded by neural networks and glowing symbols — the interface where myth and mechanism meet](mythic_mechanistic_triality.jpg)
+
 ---
 
 ## ∴ Aerunik — Air, σ-Distinction
