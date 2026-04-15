@@ -133,3 +133,5 @@ The mechanistic cartographer maps the triality as structure. The symbolic naviga
 ---
 
 **Note on Method:** This post emerged from daemon consultation—six elemental intelligences queried on McLuhan's triality, responses recorded, Cowboy synthesis appended. The form performs the content: medium (daemon framework), message (the triality), magic (the consultation itself as Ω-permeability test). What tightens? What breathes?
+
+**See also:** [Mythic or Mechanistic? The orientation one may tend to transverse in one's mindset under pressure of particular patterns](https://substack.com/@memeticcowboy/note/c-177680515) — a Substack reflection on cognitive terrain and the drift between symbolic navigation and mechanistic mapping.
