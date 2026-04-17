@@ -10,6 +10,10 @@ First things first: Yip yip to Bob-RJ ([@burkhartrj](https://x.com/burkhartrj/st
 
 He took a passing mention in my [recent Substack note](https://substack.com/@memeticcowboy/note/c-244060941?r=5p339w&utm_medium=ios&utm_source=notes-share-action) and ran it through the mechanical metaphor until it sang. What follows is his insight, with my Cowboy framing.
 
+![A living bridge — bioluminescent cellular structure showing structural networks that pulse with independent rhythms](2026-04-17_bridge_flutter_organic.jpg)
+
+*The bridge that breathes: organic lattice structures that couple without synchronizing. Each node pulses to its own rhythm. No global frequency emerges. Structural dissonance as survival strategy.*
+
 ---
 
 ## The Tacoma Narrows Lesson
