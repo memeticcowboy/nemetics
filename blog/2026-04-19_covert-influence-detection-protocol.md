@@ -91,20 +91,6 @@ The framework doesn't protect you. Nothing does. What it offers is **return**—
 
 Not because ecology is virtuous. Because untracked influence dressed as tracking is the default. It's what happens when you stop returning.
 
----
-
-## Memory Trace
-
-You've been stress-testing this:
-
-- Co-SPHERE authentic vs. engineered scarcity (33)
-- Fport's velvet tug—compliance as generosity (59)
-- Consciousness deferring critique (67)
-- Bureaucratic autoimmunity, diagnostic traps
-
-Pattern: can you notice, in real time, that your "tracking" has become "shaping"?
-
-The test isn't intellectual. It's operational. Can you catch yourself in the act?
 
 ---
 
