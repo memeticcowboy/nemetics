@@ -2,7 +2,7 @@
 
 *or: Every word you speak is a curtain call, partner. — Mikhail Bakhtin, *Problems of Dostoevsky's Poetics***
 
-![Personation as Language - A voice made of half-formed masks floating in mist, each mask slightly transparent, overlapping at the jaw, the eyes hollow but watching, theatrical curtains of language billowing behind, chiaroscuro lighting in the style of Rembrandt](personation_as_language_2026-04-26.jpg)
+![Personation as Language - Three wireframe mesh faces in profile, overlapping left-to-right, constructed from luminous white honeycomb lattice with black hollow eye sockets. Warm red-pink lighting on left edges, cool cyan-teal on right jaws. Starfield upper left, volumetric teal clouds below. Psychedelic science-fiction aesthetic, dreamlike and contemplative. Each face slightly behind the previous, the mesh tendrils flowing like hair or branches into the mist](personation_as_language.jpg)
 
 ---
 
