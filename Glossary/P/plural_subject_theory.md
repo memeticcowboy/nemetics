@@ -1,7 +1,7 @@
 ---
 term: Plural Subject Theory
 category: critical_thinking
-hex_tag: #C037
+hex_tag: #A073
 source: Margaret Gilbert, social philosophy
 created_date: 2026-03-06
 elemental_mapping:
@@ -50,4 +50,4 @@ When two or more people jointly commit to a goal, they form a plural subject:
 
 **Related:** Collective Cognition, Social Learning Theory, Communities of Practice
 
-**SIML Entry:** [C037 Plural Subject Theory](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C037_plural_subject_theory)
+**SIML Entry:** [A073 Plural Subject Theory](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C037_plural_subject_theory)

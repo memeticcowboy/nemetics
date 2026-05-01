@@ -1,7 +1,7 @@
 # Orientation and Affective Economy: Nematic Patterning at the Scale of Habit
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** W006 (Orientation), W007 (Affective Economy), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** W006 (Orientation), W007 (Affective Economy), Z001 (Nemetic Pattern)  
 **Source:** Sara Ahmed, *Queer Phenomenology* [1] and "Affective Economies" [2]
 
 ---

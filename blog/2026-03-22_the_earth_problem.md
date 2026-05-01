@@ -54,7 +54,7 @@ The SIML encoding for Gaia carries the shadow in plain sight: `γ_regen < 1`—r
 
 Pure transformation. The compost that becomes soil. The grief that becomes wisdom. The institutional memory that becomes learning. The cycling assumes completion—breakdown, absorption, renewal.
 
-**Gaia (E001):** `δγ(primordial) ∘ β(autochthonous-birth) ∘ μ(maternal-container) ∘ λ(retaliatory-power)`
+**Gaia (F012):** `δγ(primordial) ∘ β(autochthonous-birth) ∘ μ(maternal-container) ∘ λ(retaliatory-power)`
 
 Earth as creative exhaustion. She generates Titans, then breeds monsters. She contains until she can't. The λ doesn't aim at renewal; it aims at destruction. The sickle castrates; the monster rises; the new order is born from the wound. But what if the wound doesn't close? The sickle that castrates Uranus doesn't plant new crops—it ends the cycle.
 

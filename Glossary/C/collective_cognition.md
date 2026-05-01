@@ -1,7 +1,7 @@
 ---
 term: Collective Cognition
 category: critical_thinking
-hex_tag: #C070
+hex_tag: #W012
 source: Distributed cognition, group intelligence research
 created_date: 2026-03-06
 elemental_mapping:
@@ -53,4 +53,4 @@ siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C07
 
 **Related:** Communities of Practice, Social Learning Theory, Situated Learning
 
-**SIML Entry:** [C070 Collective Cognition](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C070_collective_cognition)
+**SIML Entry:** [W012 Collective Cognition](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C070_collective_cognition)

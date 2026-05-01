@@ -37,7 +37,7 @@ Water's daemonic essence: **cyclical resonance**—connection through renewal, f
 
 ---
 
-### 2. Water_as_Destroyer (W003) — The Apocalyptic Daemon
+### 2. Water_as_Destroyer (A10C) — The Apocalyptic Daemon
 
 **Operator Pattern:** λ-δγ-σ-ρ
 
@@ -55,7 +55,7 @@ Water's daemonic essence: **cyclical resonance**—connection through renewal, f
 
 ---
 
-### 3. Living_Water (W005) — The Kinship Daemon
+### 3. Living_Water (A10D) — The Kinship Daemon
 
 **Operator Pattern:** ρ-δγ-μ-σ
 

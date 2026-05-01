@@ -1,7 +1,7 @@
 ---
 term: Human Augmentation
 category: critical_thinking
-hex_tag: #C041
+hex_tag: #M017
 source: BCI, nootropics, neurostimulation research
 created_date: 2026-03-06
 elemental_mapping:
@@ -49,4 +49,4 @@ Where does the natural self end and the augmented self begin? When enhancement b
 
 **Related:** Brain-Computer Interfaces, 4E Cognition, Posthumanism
 
-**SIML Entry:** [C041 Human Augmentation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C041_human_augmentation)
+**SIML Entry:** [M017 Human Augmentation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C041_human_augmentation)

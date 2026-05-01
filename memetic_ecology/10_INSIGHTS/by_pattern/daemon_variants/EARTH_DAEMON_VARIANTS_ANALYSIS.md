@@ -19,7 +19,7 @@ Earth's daemonic essence: **resonant cycling**—becoming through relation, rene
 
 ## The Variants
 
-### 1. Gaia (E001) — The Primordial Daemon
+### 1. Gaia (F012) — The Primordial Daemon
 
 **Operator Pattern:** δγ-β-μ-λ
 
@@ -37,7 +37,7 @@ Earth's daemonic essence: **resonant cycling**—becoming through relation, rene
 
 ---
 
-### 2. Autopoiesis (E003) — The Self-Maker Daemon
+### 2. Autopoiesis (A0D2) — The Self-Maker Daemon
 
 **Operator Pattern:** γ-μ-ρ-σ
 
@@ -55,7 +55,7 @@ Earth's daemonic essence: **resonant cycling**—becoming through relation, rene
 
 ---
 
-### 3. Whitehead_Concrescence (E004) — The Process Daemon
+### 3. Whitehead_Concrescence (A0D3) — The Process Daemon
 
 **Operator Pattern:** γ-ρ-β-μ
 
@@ -73,7 +73,7 @@ Earth's daemonic essence: **resonant cycling**—becoming through relation, rene
 
 ---
 
-### 4. Mycorrhizal_Network (E005) — The Relational Daemon
+### 4. Mycorrhizal_Network (A0D4) — The Relational Daemon
 
 **Operator Pattern:** ρ-μ-γ-σ
 

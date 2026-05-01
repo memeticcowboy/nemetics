@@ -1,7 +1,7 @@
 # Hoffman's Conscious Realism: The Interface Theory of Perception
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A011 (Conscious Realism), A012 (Interface Theory), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** A011 (Conscious Realism), A012 (Interface Theory), Z001 (Nemetic Pattern)  
 **Source:** Donald Hoffman, *The Case Against Reality* [1][2][3]
 
 ---

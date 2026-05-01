@@ -1,7 +1,7 @@
 ---
 term: Essence of Dualities
 category: philosophy
-hex_tag: #C042
+hex_tag: #A074
 source: Dialectical reasoning, yin-yang philosophy
 created_date: 2026-03-06
 elemental_mapping:
@@ -53,4 +53,4 @@ Dualities are not mutually exclusive choices but **interdependent poles**:
 
 **Related:** Double Bind, Triality, Wu Xing, Yin-Yang
 
-**SIML Entry:** [C042 Essence of Dualities](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C042_essence_of_dualities)
+**SIML Entry:** [A074 Essence of Dualities](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C042_essence_of_dualities)

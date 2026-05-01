@@ -1,7 +1,7 @@
 ---
 term: Scientist Mindset
 category: critical_thinking
-hex_tag: #C021
+hex_tag: #A071
 source: Scientific methodology, epistemic virtues
 created_date: 2026-03-06
 elemental_mapping:
@@ -54,4 +54,4 @@ The scientist mindset counters:
 
 **Related:** Confirmation Bias, Heuristics and Biases, Double-Loop Learning
 
-**SIML Entry:** [C021 Scientist Mindset](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C021_scientist_mindset)
+**SIML Entry:** [A071 Scientist Mindset](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C021_scientist_mindset)

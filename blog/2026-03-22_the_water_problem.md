@@ -54,11 +54,11 @@ Let's look at all four Water concepts in the framework and see what they reveal 
 
 Pure resonance. The river that flows where it will. She feels without binding, attends without obligating, holds space without the noose. The drowning risk is abstracted away—she can feel forever without the structure that makes feeling sustainable.
 
-**Thales' Arche (W001):** `δγ(primordial) ∘ μ(foundation) ∘ β(potentiality) ∘ σ(distinction)`
+**Thales' Arche (A10B):** `δγ(primordial) ∘ μ(foundation) ∘ β(potentiality) ∘ σ(distinction)`
 
 Water as neutral substrate. The Milesian first principle—"all is water"—but water as explanatory move, not ethical force. No binding, no dissolution, just the stuff that becomes other stuff. The μ here is foundation, not noose.
 
-**Living Water (W005):** `ρ(divine-resonance) ∘ δγ(transformative) ∘ λ(purifying-direction)`
+**Living Water (A10D):** `ρ(divine-resonance) ∘ δγ(transformative) ∘ λ(purifying-direction)`
 
 Water as salvific vector. The Christian move—water with λ (direction) and implied teleology. It flows toward salvation, not just away from drowning. But the μ is still missing; the binding is permeability (baptism), not obligation.
 

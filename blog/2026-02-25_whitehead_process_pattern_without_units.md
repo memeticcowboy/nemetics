@@ -1,7 +1,7 @@
 # Whitehead's Process: Pattern Without Reified Units
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A003 (Actual Occasion), A004 (Prehension), A005 (Processive Genetic), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** A003 (Actual Occasion), W008 (Prehension), W009 (Processive Genetic), Z001 (Nemetic Pattern)  
 **Source:** Alfred North Whitehead, *Process and Reality* [1][2]
 
 ---
@@ -93,7 +93,7 @@ The temptation is to turn "actual occasions" into a **new sort of unit**; Whiteh
 
 **σ (distinction)** as momentary boundary: the event has its own integrity, then perishes.
 
-### Prehension (A004)
+### Prehension (W008)
 ```
 Φ(Prehension) = ρ(asymmetrical-resonance) ∘ γ(transformative-cycling) 
                 ∘ β(patterned-grasp) ∘ σ(selective-distinction) + ε | :cycling
@@ -103,7 +103,7 @@ The temptation is to turn "actual occasions" into a **new sort of unit**; Whiteh
 
 **γ (cycling)** as transformative: both prehending and prehended are changed.
 
-### Processive Genetic (A005)
+### Processive Genetic (W009)
 ```
 Φ(Processive_Genetic) = γ(ongoing-cycling) ∘ ρ(web-resonance) 
                         ∘ β(depth-exploration) ∘ μ(society-structure) + ε | :open
@@ -145,4 +145,4 @@ The question is: **"What patterns are being prehended? How are they being transf
 
 ---
 
-*SIML Encoding: A003, A004, A005 | Element: Air (☁/β) | Z-States: :cycling, :cycling, :open*
+*SIML Encoding: A003, W008, W009 | Element: Air (☁/β) | Z-States: :cycling, :cycling, :open*

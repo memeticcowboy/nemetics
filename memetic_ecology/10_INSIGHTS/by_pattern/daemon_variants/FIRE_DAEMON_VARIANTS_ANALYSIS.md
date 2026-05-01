@@ -19,7 +19,7 @@ Fire's daemonic essence: **directed transformation**—change that aims, breakth
 
 ## The Variants
 
-### 1. Prometheus_Fire (F001) — The Civilizer Daemon
+### 1. Prometheus_Fire (A0D5) — The Civilizer Daemon
 
 **Operator Pattern:** λ-β-μ-σ
 
@@ -37,7 +37,7 @@ Fire's daemonic essence: **directed transformation**—change that aims, breakth
 
 ---
 
-### 2. Agni (F002) — The Messenger Daemon
+### 2. Agni (W024) — The Messenger Daemon
 
 **Operator Pattern:** ρ-δγ-μ-λ
 
@@ -73,7 +73,7 @@ Fire's daemonic essence: **directed transformation**—change that aims, breakth
 
 ---
 
-### 4. Water_as_Destroyer (W003) — The Apocalyptic Daemon
+### 4. Water_as_Destroyer (A10C) — The Apocalyptic Daemon
 
 **Operator Pattern:** λ-δγ-σ-ρ
 

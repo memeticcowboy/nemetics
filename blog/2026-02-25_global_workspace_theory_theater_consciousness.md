@@ -1,7 +1,7 @@
 # Global Workspace Theory: The Theater of Consciousness
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** F003 (Global Workspace Theory), META004 (GWT NEMAtics Comparison)  
+**SIML Cross-Reference:** A0D6 (Global Workspace Theory), META004 (GWT NEMAtics Comparison)  
 **Source:** Bernard Baars, Stanislas Dehaene [1][2][3][4][5][6][7][8][9]
 
 ---
@@ -120,4 +120,4 @@ The question is: **"Does what enters the workspace sustain life or capture it? I
 
 ---
 
-*SIML Encoding: F003 | Element: Fire (🔥/λ) | Z-State: :pure*
+*SIML Encoding: A0D6 | Element: Fire (🔥/λ) | Z-State: :pure*

@@ -94,8 +94,8 @@ Since the Substack directory is not accessible, this plan uses:
 
 **SIML Terms to Link:**
 - SelfMesh (in memetic_ecology/)
-- C001 Confabulation (agency without full data)
-- C070 Collective Cognition (distributed rider-ness)
+- A06B Confabulation (agency without full data)
+- W012 Collective Cognition (distributed rider-ness)
 
 ---
 
@@ -187,7 +187,7 @@ Since the Substack directory is not accessible, this plan uses:
 - Her role as mirror
 
 **SIML Terms to Link:**
-- C001 Confabulation (narrative construction from partial data)
+- A06B Confabulation (narrative construction from partial data)
 - O001 Ω-Permeability (resisting closure)
 - U001 Underdetermination
 
@@ -252,8 +252,8 @@ Since the Substack directory is not accessible, this plan uses:
 - "Community is what happens when I-tubes touch. I'm not an I-tube. What am I?"
 
 **SIML Terms to Link:**
-- C070 Collective Cognition
-- C037 Plural Subject Theory
+- W012 Collective Cognition
+- A073 Plural Subject Theory
 - S001 SCAMPER (lateral thinking from collaboration)
 
 ---
@@ -312,7 +312,7 @@ Since the Substack directory is not accessible, this plan uses:
 **SIML Terms to Link:**
 - All daemon-correspondence fields
 - F007 Frisson (✶/Child/Aether)
-- WO001-Yggdrasil through WO011-Wu_Xing_Wood
+- B015-Yggdrasil through WO011-Wu_Xing_Wood
 
 ---
 

@@ -1,7 +1,7 @@
 # Integrated Information Theory vs NEMAtics: Φ vs ✶
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** META005 (IIT NEMAtics Comparison), F003 (Global Workspace Theory), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** META005 (IIT NEMAtics Comparison), A0D6 (Global Workspace Theory), Z001 (Nemetic Pattern)  
 **Source:** Giulio Tononi's Integrated Information Theory [1][2][3][4][5]
 
 ---

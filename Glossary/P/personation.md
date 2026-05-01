@@ -1,7 +1,7 @@
 ---
 term: Personation
 category: linguistic_phenomenology
-hex_tag: #A06A
+hex_tag: #W00A
 source: Bert (Memetic Cowboy), "Personation as Language", 2026-04-26
 created_date: 2026-04-26
 elemental_mapping:
@@ -76,5 +76,5 @@ The koan. The apophatic move. The deconstructive gesture. These are attempts to 
 - [MemeGrid](https://memeticcowboy.github.io/nemetics/glossary/memegrid.html) — the metastasis of personation into capture infrastructure
 - [Double-Loop Learning](https://memeticcowboy.github.io/nemetics/glossary/double-loop-learning.html) — stepping back to examine the assumptions that generate the "I"
 
-**SIML Entry:** [A06A Personation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A06A_Personation)  
+**SIML Entry:** [W00A Personation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/A06A_Personation)  
 **Blog Post:** [Personation as Language](https://memeticcowboy.substack.com/p/personation-as-language)

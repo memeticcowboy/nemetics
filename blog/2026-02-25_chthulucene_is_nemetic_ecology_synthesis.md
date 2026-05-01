@@ -1,7 +1,7 @@
 # The Cthulucene IS Nemetic Ecology: A Synthesis
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** META003 (Cthulucene Nemetic Ecology), WO009 (Chthulucene), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** Z002 (Cthulucene Nemetic Ecology), B016 (Chthulucene), Z001 (Nemetic Pattern)  
 **Source:** Haraway synthesis—pattern coordination across incommensurable substrates [1][2][3]
 
 ---
@@ -89,7 +89,7 @@ Taken together, Haraway gives you a **methodological template for NEMAtic work**
 
 | Level | Concept | Thinker | Core Operation |
 |-------|---------|---------|----------------|
-| **Ecology** | **Cthulucene Nemetic Ecology (META003)** | **Haraway** | **Pattern coordination without commensuration** |
+| **Ecology** | **Cthulucene Nemetic Ecology (Z002)** | **Haraway** | **Pattern coordination without commensuration** |
 | Method | Tentacular Thinking (WO007) | Haraway | Following lines, refusing overview |
 | Practice | Sympoiesis (WO008) | Haraway | Making-with, response-ability |
 | Patterns | Orientation (W006) | Ahmed | Bodily line-following |
@@ -116,4 +116,4 @@ The question is: **"What lines can you follow? What frictions can you work with?
 
 ---
 
-*SIML Encoding: META003 | Pattern: Cthulucene Nemetic Ecology | Z-State: :turbid*
+*SIML Encoding: Z002 | Pattern: Cthulucene Nemetic Ecology | Z-State: :turbid*

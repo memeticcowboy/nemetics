@@ -1,7 +1,7 @@
 # Whitehead-Nemetics: Supplementary Citations
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A003-A005 (Whitehead terms)  
+**SIML Cross-Reference:** A003-W009 (Whitehead terms)  
 **Sources:** Whitehead Encyclopedia [1], Larval Subjects [2], IEP [3], Religion Online [4]
 
 ---

@@ -1,7 +1,7 @@
 ---
 term: Authority Influence
 category: social_psychology
-hex_tag: #C010
+hex_tag: #A070
 source: Milgram, Asch, obedience research
 created_date: 2026-03-06
 elemental_mapping:
@@ -49,4 +49,4 @@ siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C01
 
 **Related:** Conformity, Social Identity Bias, Motivated Reasoning
 
-**SIML Entry:** [C010 Authority Influence](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C010_authority_influence)
+**SIML Entry:** [A070 Authority Influence](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C010_authority_influence)

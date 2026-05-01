@@ -1,7 +1,7 @@
 ---
 term: Heuristics and Biases
 category: cognitive_psychology
-hex_tag: #C052
+hex_tag: #A075
 source: Kahneman & Tversky, 1974
 created_date: 2026-03-06
 elemental_mapping:
@@ -50,4 +50,4 @@ Most thinking is System 1—efficient but error-prone.
 
 **Related:** Confirmation Bias, WYSIATI, Cognitive Dissonance
 
-**SIML Entry:** [C052 Heuristics and Biases](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C052_heuristics_and_biases)
+**SIML Entry:** [A075 Heuristics and Biases](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C052_heuristics_and_biases)

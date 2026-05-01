@@ -1,7 +1,7 @@
 # Bateson: The Pattern Which Connects, Not the Meme
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A006-A008 (Bateson terms), META002 (Oriented Landscape), META003 (Cthulucene Nemetic Ecology)  
+**SIML Cross-Reference:** A006-A008 (Bateson terms), META002 (Oriented Landscape), Z002 (Cthulucene Nemetic Ecology)  
 **Source:** Bateson synthesis—pattern which connects, three ecologies, study of weave [1][2][3]
 
 ---

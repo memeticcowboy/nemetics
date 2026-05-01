@@ -11,7 +11,7 @@ Created at 2025/09/04 7:33 AM
 - **Edico** (E) — declaring, manifesting, proclaiming
 
 ## Resources
-- https://object.me.bot/front-img/note/attachments/img/1756996415960/1E65614B-C104-4F87-A358-1EE9F92F2ABE.png
+- https://object.me.bot/front-img/note/attachments/img/1756996415960/1E65614B-F00C-4F87-A358-1EE9F92F2ABE.png
 
 ## Insight
 

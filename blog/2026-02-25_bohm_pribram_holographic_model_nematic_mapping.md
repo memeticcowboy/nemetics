@@ -1,7 +1,7 @@
 # Bohm-Pribram Holographic Model ↔ NEMAtic Mapping
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** W008 (Holographic Model), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** W008 (Holographic Model), Z001 (Nemetic Pattern)  
 **Source:** David Bohm (implicate order), Karl Pribram (holographic brain) [1][2][3]
 
 ---
