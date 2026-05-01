@@ -31,4 +31,4 @@ Not malfunction but **structural feature**. The σ-cut discards detail necessari
 
 **Related:** Ω-Permeability, Error Preservation, Epistemic Innocence, Underdetermination, Narrative Construction
 
-**SIML Entry:** [C001 Confabulation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C001_Confabulation) — Full elemental analysis, nemetic string, daemon correspondence
+**SIML Entry:** [A06B Confabulation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C001_Confabulation) — Full elemental analysis, nemetic string, daemon correspondence

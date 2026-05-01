@@ -1,7 +1,7 @@
 # Haraway's Tentacular Method: NEMAtic Operation as Methodology
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** WO007 (Tentacular Thinking), WO008 (Sympoiesis), WO009 (Chthulucene), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** WO007 (Tentacular Thinking), WO008 (Sympoiesis), B016 (Chthulucene), Z001 (Nemetic Pattern)  
 **Source:** Donna Haraway, *Staying with the Trouble* [1][2][3]
 
 ---
@@ -99,7 +99,7 @@ It is **not a chronological era** so much as a call to recognize that **we alrea
 
 **μ (structure)** as mesh: the web that enables relation.
 
-### Chthulucene (WO009)
+### Chthulucene (B016)
 ```
 Φ(Chthulucene) = γ(earthly-cycling) ∘ ρ(multispecies-resonance) 
                  ∘ β(tentacular-exploration) ∘ μ(mesh-structure) + ε | :cycling
@@ -141,4 +141,4 @@ The question is: **"What threads can you grasp? What tensions can you tune? What
 
 ---
 
-*SIML Encoding: WO007, WO008, WO009 | Element: Wood (⛨/γ) | Z-States: :open, :cycling, :cycling*
+*SIML Encoding: WO007, WO008, B016 | Element: Wood (⛨/γ) | Z-States: :open, :cycling, :cycling*

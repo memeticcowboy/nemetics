@@ -53,4 +53,4 @@ Dualities are not mutually exclusive choices but **interdependent poles**:
 
 **Related:** Double Bind, Triality, Wu Xing, Yin-Yang
 
-**SIML Entry:** [C042 Essence of Dualities](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C042_essence_of_dualities)
+**SIML Entry:** [A074 Essence of Dualities](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C042_essence_of_dualities)

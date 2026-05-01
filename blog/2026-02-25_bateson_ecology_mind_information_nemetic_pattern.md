@@ -1,7 +1,7 @@
 # Bateson's Ecology of Mind: Information as Nemetic Pattern
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A006 (Ecology of Mind), A007 (Information), A008 (Double Bind), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** A006 (Ecology of Mind), A007 (Information), A008 (Double Bind), Z001 (Nemetic Pattern)  
 **Source:** Gregory Bateson, *Steps to an Ecology of Mind* [1][2][3]
 
 ---
@@ -117,7 +117,7 @@ The double bind is **nemetic capture**—a pathological pattern that **traps a s
 | Mind | Ecology of Mind (A006) | Bateson | Distributed, relational, patterned |
 | Pathology | Double Bind (A008) | Bateson | Nemetic capture, pattern trap |
 | Cognition | Enactive Cognition (E011) | Thompson | Costly sense-making |
-| Ontology | Prehension (A004) | Whitehead | Pattern coordination as basic |
+| Ontology | Prehension (W008) | Whitehead | Pattern coordination as basic |
 
 ## The Core Insight
 

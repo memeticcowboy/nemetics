@@ -1,7 +1,7 @@
 # Thompson's Enaction: Cognition as Costly Sense-Making
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** E011 (Enactive Cognition), E012 (Structural Coupling), E013 (Sense-Making), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** E011 (Enactive Cognition), E012 (Structural Coupling), E013 (Sense-Making), Z001 (Nemetic Pattern)  
 **Source:** Evan Thompson, *Mind in Life* [1][2][3]
 
 ---

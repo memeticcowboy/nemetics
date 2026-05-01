@@ -1,7 +1,7 @@
 # The Cost of Cognition: Thompson's Precariousness
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** E011-E013 (Thompson terms), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** E011-E013 (Thompson terms), Z001 (Nemetic Pattern)  
 **Source:** Evan Thompson, *Mind in Life* [1][2]
 
 ---

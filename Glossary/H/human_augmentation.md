@@ -49,4 +49,4 @@ Where does the natural self end and the augmented self begin? When enhancement b
 
 **Related:** Brain-Computer Interfaces, 4E Cognition, Posthumanism
 
-**SIML Entry:** [C041 Human Augmentation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C041_human_augmentation)
+**SIML Entry:** [M017 Human Augmentation](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C041_human_augmentation)

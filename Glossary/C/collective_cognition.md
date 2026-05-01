@@ -53,4 +53,4 @@ siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C07
 
 **Related:** Communities of Practice, Social Learning Theory, Situated Learning
 
-**SIML Entry:** [C070 Collective Cognition](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C070_collective_cognition)
+**SIML Entry:** [W012 Collective Cognition](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C070_collective_cognition)

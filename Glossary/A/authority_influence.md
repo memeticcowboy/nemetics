@@ -49,4 +49,4 @@ siml_entry: https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C01
 
 **Related:** Conformity, Social Identity Bias, Motivated Reasoning
 
-**SIML Entry:** [C010 Authority Influence](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C010_authority_influence)
+**SIML Entry:** [A070 Authority Influence](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C010_authority_influence)

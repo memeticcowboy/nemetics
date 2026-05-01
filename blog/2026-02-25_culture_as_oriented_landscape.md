@@ -1,7 +1,7 @@
 # Culture as Oriented Landscape: Beyond the Meme Library
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** META002 (Oriented Landscape), W006 (Orientation), W007 (Affective Economy), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** META002 (Oriented Landscape), W006 (Orientation), W007 (Affective Economy), Z001 (Nemetic Pattern)  
 **Source:** Sara Ahmed synthesis—culture as nematic field, not discrete replicators [1][2][3]
 
 ---

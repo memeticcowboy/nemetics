@@ -26,7 +26,7 @@ These are foundational concepts that appear across multiple habitats:
 | M011 | Technics | NEEDS GLOSSARY |
 | M012 | Pharmakon | NEEDS GLOSSARY |
 | M099 | MemeGrid | NEEDS GLOSSARY |
-| C001 | Confabulation | ✓ Already in Glossary |
+| A06B | Confabulation | ✓ Already in Glossary |
 | O001 | Omega_Permeability | ✓ Already in Glossary |
 | E017 | Error_Preservation | ✓ Already in Glossary |
 | E018 | Epistemic_Innocence | ✓ Already in Glossary |
@@ -51,9 +51,9 @@ Well-formed SIML entries with clear conceptual value:
 | A030 | Deja_Vu | δγ-Earth (memory) |
 | A059 | Hyperobject | μ-Metal (scale) |
 | B001 | Borrowed_Mind | ✓ Already in Glossary |
-| C021 | Scientist_Mindset | λ-Fire (method) |
-| C053 | Brain_Computer_Interfaces | μ-Metal (tech) |
-| C070 | Collective_Cognition | ρ-Water (group) |
+| A071 | Scientist_Mindset | λ-Fire (method) |
+| A076 | Brain_Computer_Interfaces | μ-Metal (tech) |
+| W012 | Collective_Cognition | ρ-Water (group) |
 | E011 | Enactive_Cognition | δγ-Earth (embodiment) |
 | E012 | Ethnomethodology | ρ-Water (practice) |
 | E013 | Contexture | ρ-Water (context) |
@@ -72,20 +72,20 @@ Terms that map strongly to specific daemons:
 | A001 | Pneuma | Aerunik | Air |
 | A002 | Prana | Aerunik | Air |
 | A003 | Qi | Aerunik | Air |
-| A004 | Shu | Humavita | Earth |
-| A005 | Ehecatl | Aerunik | Air |
-| E001 | Gaia | Humavita | Earth |
-| E002 | Prithvi | Humavita | Earth |
-| F001 | Prometheus_Fire | Jvalion | Fire |
-| F002 | Agni | Jvalion | Fire |
-| F003 | Wu_Xing_Fire | Jvalion | Fire |
-| W001 | Thales_Arche | Sentaria | Water |
+| W008 | Shu | Humavita | Earth |
+| W009 | Ehecatl | Aerunik | Air |
+| F012 | Gaia | Humavita | Earth |
+| W023 | Prithvi | Humavita | Earth |
+| A0D5 | Prometheus_Fire | Jvalion | Fire |
+| W024 | Agni | Jvalion | Fire |
+| A0D6 | Wu_Xing_Fire | Jvalion | Fire |
+| A10B | Thales_Arche | Sentaria | Water |
 | W002 | Water_as_Purifier | Sentaria | Water |
-| W003 | Water_as_Destroyer | Sentaria | Water |
+| A10C | Water_as_Destroyer | Sentaria | Water |
 | W004 | Wu_Wei | Sentaria | Water |
-| MET001 | Gold | Ferrosid | Metal |
-| MET002 | Silver | Ferrosid | Metal |
-| MET003 | Iron | Ferrosid | Metal |
+| A0DD | Gold | Ferrosid | Metal |
+| A0DE | Silver | Ferrosid | Metal |
+| A0DF | Iron | Ferrosid | Metal |
 
 ### TIER 4: Learning Theory Terms (L-Series)
 Already well-curated, good for education-focused Glossary section:
@@ -119,7 +119,7 @@ Large volume, selective curation needed:
 - C075_Clausewitz_Wondrous_Trinity
 
 **Skip (too narrow/specific):**
-- Most C100+ entries (very specific research papers)
+- Most F00B+ entries (very specific research papers)
 - Duplicate concepts (already covered in A-series)
 
 ## Recommendations
@@ -140,7 +140,7 @@ Large volume, selective curation needed:
 - **Batch 1:** Complete M-series (M010, M011, M012, M099)
 - **Batch 2:** A-series cognitive foundations (A008-A012)
 - **Batch 3:** E-series enactive/embodied (E011-E014)
-- **Batch 4:** Elemental daemon exemplars (A001-A006, E001-E002)
+- **Batch 4:** Elemental daemon exemplars (A001-A006, F012-W023)
 - **Batch 5:** Select L-series for education focus
 
 ### Glossary Entry Format:

@@ -1,7 +1,7 @@
 # GWT vs NEMAtics: Broadcast vs Metabolism
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** META004 (GWT NEMAtics Comparison), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** META004 (GWT NEMAtics Comparison), Z001 (Nemetic Pattern)  
 **Source:** Global Workspace Theory vs NEMAtic framework synthesis
 
 ---

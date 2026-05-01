@@ -50,4 +50,4 @@ When two or more people jointly commit to a goal, they form a plural subject:
 
 **Related:** Collective Cognition, Social Learning Theory, Communities of Practice
 
-**SIML Entry:** [C037 Plural Subject Theory](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C037_plural_subject_theory)
+**SIML Entry:** [A073 Plural Subject Theory](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C037_plural_subject_theory)

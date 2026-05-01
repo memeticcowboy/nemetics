@@ -1,7 +1,7 @@
 # Stiegler's Technics: The Nemetic Infrastructure of Cognition
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** M010 (Tertiary Retention), M011 (Technics), M012 (Pharmakon), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** M010 (Tertiary Retention), M011 (Technics), M012 (Pharmakon), Z001 (Nemetic Pattern)  
 **Source:** Bernard Stiegler, *Technics and Time* [1][2][3]
 
 ---

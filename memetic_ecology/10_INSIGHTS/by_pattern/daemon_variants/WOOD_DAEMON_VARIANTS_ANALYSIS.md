@@ -19,7 +19,7 @@ Wood's daemonic essence: **structured becoming**—form that grows, structure th
 
 ## The Six Variants
 
-### 1. Yggdrasil (WO001) — The Cosmic Axis Daemon
+### 1. Yggdrasil (B015) — The Cosmic Axis Daemon
 
 **Operator Pattern:** μ-ρ-γ-β
 
@@ -37,7 +37,7 @@ Wood's daemonic essence: **structured becoming**—form that grows, structure th
 
 ---
 
-### 2. Hylē (WO002) — The Potential Daemon
+### 2. Hylē (W04E) — The Potential Daemon
 
 **Operator Pattern:** μ-σ-γ-ρ
 
@@ -55,7 +55,7 @@ Wood's daemonic essence: **structured becoming**—form that grows, structure th
 
 ---
 
-### 3. Wu_Xing_Wood (WO003) — The Generative Daemon
+### 3. Wu_Xing_Wood (A10E) — The Generative Daemon
 
 **Operator Pattern:** γ-λ-ρ-μ
 
@@ -73,7 +73,7 @@ Wood's daemonic essence: **structured becoming**—form that grows, structure th
 
 ---
 
-### 4. Cedar_Tree_of_Life (WO004) — The Protector Daemon
+### 4. Cedar_Tree_of_Life (W04F) — The Protector Daemon
 
 **Operator Pattern:** ρ-μ-γ-β
 
@@ -91,7 +91,7 @@ Wood's daemonic essence: **structured becoming**—form that grows, structure th
 
 ---
 
-### 5. Bodhi_Tree (WO005) — The Witness Daemon
+### 5. Bodhi_Tree (W050) — The Witness Daemon
 
 **Operator Pattern:** μ-β-ρ-γ
 

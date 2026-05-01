@@ -99,7 +99,7 @@ Changing belief isn't argument alone. It's:
 ## Related Concepts
 
 - **[Alief](https://memeticcowboy.github.io/nemetics/glossary/alief.html)** (A067) — The automatic, associative state that operates beneath pragmatic belief
-- **[Illusion of Self](https://memeticcowboy.github.io/nemetics/glossary/illusion_of_self.html)** (C16C) — Dennett's Multiple Drafts Theory and the fragmented self
+- **[Illusion of Self](https://memeticcowboy.github.io/nemetics/glossary/illusion_of_self.html)** (A0BE) — Dennett's Multiple Drafts Theory and the fragmented self
 - **[Multiplicity](https://memeticcowboy.github.io/nemetics/glossary/multiplicity.html)** (M001) — The fundamental pluralism of the NEMEtic framework
 - **[Enactive Cognition](https://memeticcowboy.github.io/nemetics/glossary/enactive_cognition.html)** (E011) — Action-based alternative to representational mind
 

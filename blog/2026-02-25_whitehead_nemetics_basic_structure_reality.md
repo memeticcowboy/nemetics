@@ -1,7 +1,7 @@
 # Whitehead and Nemetics: The Basic Structure of Reality
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A003-A005 (Whitehead terms), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** A003-W009 (Whitehead terms), Z001 (Nemetic Pattern)  
 **Sources:** IEP Whitehead entry [1], Whitehead Encyclopedia [2], Religion Online [3]
 
 ---
@@ -107,4 +107,4 @@ The question is: **"What coordinations are occurring? What patterns are being me
 
 ---
 
-*SIML Cross-Reference: A003 (Actual Occasion), A004 (Prehension), A005 (Processive Genetic)*
+*SIML Cross-Reference: A003 (Actual Occasion), W008 (Prehension), W009 (Processive Genetic)*

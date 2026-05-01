@@ -54,4 +54,4 @@ The scientist mindset counters:
 
 **Related:** Confirmation Bias, Heuristics and Biases, Double-Loop Learning
 
-**SIML Entry:** [C021 Scientist Mindset](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C021_scientist_mindset)
+**SIML Entry:** [A071 Scientist Mindset](https://github.com/memeticcowboy/nema-swarm/tree/main/SIML/terms/C021_scientist_mindset)

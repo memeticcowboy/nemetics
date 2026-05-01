@@ -1,7 +1,7 @@
 # Nemetic Patterns: Beyond Memetics
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** META001 (Meta-term), A002 (Hyperobject)  
+**SIML Cross-Reference:** Z001 (Meta-term), A002 (Hyperobject)  
 **Sources:** Jack Balkin on memetic evolution [1], Timothy Morton on hyperobjects [2], memetics theory [3]
 
 ---
@@ -117,4 +117,4 @@ This is the **nemetic turn**: from discrete replicators to fields we inhabit and
 
 ---
 
-*SIML Encoding: META001 | Pattern: Nemetic | Z-State: :turbid*
+*SIML Encoding: Z001 | Pattern: Nemetic | Z-State: :turbid*

@@ -1,7 +1,7 @@
 # Barenholtz & Hahn: The Linguistic Organism
 
 **Date:** 2026-02-25  
-**SIML Cross-Reference:** A009 (Linguistic Organism), A010 (Virtual Machine Consciousness), META001 (Nemetic Pattern)  
+**SIML Cross-Reference:** A009 (Linguistic Organism), A010 (Virtual Machine Consciousness), Z001 (Nemetic Pattern)  
 **Source:** Elan Barenholtz & William Hahn, Theories of Everything podcast [1]
 
 ---
