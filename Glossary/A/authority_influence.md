@@ -1,7 +1,7 @@
 ---
 term: Authority Influence
 category: social_psychology
-hex_tag: #C010
+hex_tag: #A070
 source: Milgram, Asch, obedience research
 created_date: 2026-03-06
 elemental_mapping:

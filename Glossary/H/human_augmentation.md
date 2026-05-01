@@ -1,7 +1,7 @@
 ---
 term: Human Augmentation
 category: critical_thinking
-hex_tag: #C041
+hex_tag: #M017
 source: BCI, nootropics, neurostimulation research
 created_date: 2026-03-06
 elemental_mapping:

@@ -1,7 +1,7 @@
 ---
 term: Personation
 category: linguistic_phenomenology
-hex_tag: #A06A
+hex_tag: #W00A
 source: Bert (Memetic Cowboy), "Personation as Language", 2026-04-26
 created_date: 2026-04-26
 elemental_mapping:

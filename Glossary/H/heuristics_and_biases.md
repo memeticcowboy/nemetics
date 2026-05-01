@@ -1,7 +1,7 @@
 ---
 term: Heuristics and Biases
 category: cognitive_psychology
-hex_tag: #C052
+hex_tag: #A075
 source: Kahneman & Tversky, 1974
 created_date: 2026-03-06
 elemental_mapping:

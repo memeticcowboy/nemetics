@@ -1,7 +1,7 @@
 ---
 term: Essence of Dualities
 category: philosophy
-hex_tag: #C042
+hex_tag: #A074
 source: Dialectical reasoning, yin-yang philosophy
 created_date: 2026-03-06
 elemental_mapping:

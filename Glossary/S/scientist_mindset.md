@@ -1,7 +1,7 @@
 ---
 term: Scientist Mindset
 category: critical_thinking
-hex_tag: #C021
+hex_tag: #A071
 source: Scientific methodology, epistemic virtues
 created_date: 2026-03-06
 elemental_mapping:

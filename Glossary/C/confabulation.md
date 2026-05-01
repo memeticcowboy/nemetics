@@ -1,7 +1,7 @@
 ---
 term: Confabulation
 category: cognitive_process
-hex_tag: #C001
+hex_tag: #A06B
 source: NEMAtic Framework, memetic ecology
 status: canonical
 elemental_mapping:

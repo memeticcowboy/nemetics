@@ -1,7 +1,7 @@
 ---
 term: Plural Subject Theory
 category: critical_thinking
-hex_tag: #C037
+hex_tag: #A073
 source: Margaret Gilbert, social philosophy
 created_date: 2026-03-06
 elemental_mapping:

@@ -1,7 +1,7 @@
 ---
 term: Brain-Computer Interfaces
 category: critical_thinking
-hex_tag: #C053
+hex_tag: #A076
 source: Neural engineering, BCI research
 created_date: 2026-03-06
 elemental_mapping:

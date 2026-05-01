@@ -1,7 +1,7 @@
 ---
 term: Collective Cognition
 category: critical_thinking
-hex_tag: #C070
+hex_tag: #W012
 source: Distributed cognition, group intelligence research
 created_date: 2026-03-06
 elemental_mapping:
