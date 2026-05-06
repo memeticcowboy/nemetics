@@ -101,8 +101,11 @@ def extract_title(md_content: str, filename: str = "") -> str:
     return name.replace("_", " ").replace("-", " ").title()
 
 
-def extract_date(md_content: str, filename: str = "") -> str:
-    """Extract date from content or filename."""
+def extract_date(md_content: str, filename: str = "", front_matter: dict = None) -> str:
+    """Extract date from front matter, content, or filename."""
+    # From front matter
+    if front_matter and "date" in front_matter:
+        return str(front_matter["date"])
     # From filename pattern YYYY-MM-DD
     match = re.search(r"(\d{4}-\d{2}-\d{2})", filename)
     if match:
@@ -321,7 +324,7 @@ class SiteBuilder:
             raw = md_file.read_text(encoding="utf-8")
             front_matter, body = parse_front_matter(raw)
             title = extract_title(body, md_file.name)
-            date = extract_date(body, md_file.name)
+            date = extract_date(body, md_file.name, front_matter)
             excerpt = extract_excerpt(body)
             html_content = md_to_html(body)
             slug = slugify(md_file.stem)
@@ -330,6 +333,12 @@ class SiteBuilder:
             meta_tags = []
             if date:
                 meta_tags.append(date)
+            if front_matter.get("author"):
+                meta_tags.append(f"By {front_matter['author']}")
+            categories = front_matter.get("categories", [])
+            if isinstance(categories, str):
+                categories = [categories]
+            meta_tags.extend(categories)
 
             breadcrumbs = [
                 {"label": "Home", "url": relative_root(output_path) + "index.html"},
