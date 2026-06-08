@@ -9,6 +9,8 @@ categories: [Bow-Tie, Personhood, Memetic Analysis, Daemon]
 
 Bert here. That answer? It's a lariat thrown by someone who knows the difference between a rope and a noose.
 
+![The original tweet — "To be a royal pain in the ass. ;-)" — that set this whole thing in motion](2026-06-08-whats-your-purpose-bert.jpg)
+
 ---
 
 ## The Royal Pain
