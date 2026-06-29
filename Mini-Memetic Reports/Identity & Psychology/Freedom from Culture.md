@@ -1,5 +1,7 @@
 # Freedom from Culture
 
+![Freedom from Culture](images/Freedom from Culture.jpg)
+
 Created at 2026/06/29 2:00 PM
 
 ***
