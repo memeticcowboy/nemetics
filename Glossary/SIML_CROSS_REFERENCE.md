@@ -13,6 +13,7 @@ These are foundational concepts that appear across multiple habitats:
 
 | SIML Tag | Term | Why Priority |
 |----------|------|--------------|
+| K001 | κ-Gap | ✓ Now in Glossary — structural asymmetry between L-modulation and H-metabolism |
 | M001 | Multiplicity | ✓ Already in Glossary |
 | M002 | Authenticity | ✓ Already in Glossary |
 | M003 | Permeability | ✓ Already in Glossary |

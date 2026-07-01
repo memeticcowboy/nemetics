@@ -72,6 +72,9 @@ The Glossary contains two categories of entries:
 - [Heuristics and Biases](H/heuristics_and_biases.md)
 - [Human Augmentation](H/human_augmentation.md)
 
+## K
+- [κ-Gap](K/k_gap.md) — ★ Core: Structural asymmetry between L-modulation and H-metabolism at the M-phase saddle point
+
 ## L
 - [Lumemic / Usurpenic](L/lumemic_usurpenic.md) — ★ Core: Residual force directionality from ε-conditions
 
@@ -142,6 +145,6 @@ The Glossary contains two categories of entries:
 
 ---
 
-*Status: 82 entries (19 core ★ + 63 cross-reference)*
+*Status: 83 entries (20 core ★ + 63 cross-reference)*
 *Framework: HABITAT_ECOLOGY v1.3.1 + IF-Prime*
 *Last updated: 2026-03-10*
